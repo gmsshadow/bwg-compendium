@@ -19,6 +19,7 @@ The packs appear under a **Burning Wheel Gold Revised** compendium folder. The c
 | BWG Possessions and Property (98) | The Human, Dwarven, Elven and Orc Resources lists (including Servant gear), with rp costs. Toolkit and workshop flags are set. |
 | BWG Spells (77) | Sorcery spells (pp. 207–223) and the Orc Rituals of Night (pp. 247–249). Each has its obstacle, ^, actions, facets and rp cost. The damaging spells have their Will-based damage, VA, weapon length and range filled in. |
 | BWG Lifepaths (456) | Every Dwarf, Elf, Human and Orc lifepath, in folders by stock and setting. Time, resources, stat, leads, skill/general/trait points, skill and trait lists, requirements and restrictions are filled in. |
+| BWG Verdorben Pregens (6) | The six pregenerated characters from *Twilight in the Duchy Verdorben* (Gunther, Brin, Cerebirn, Daniel Wigel, Fureard, Theoden), built from their character sheets: stats, attributes, beliefs, instincts, traits, skills, relationships, reputations, affiliations, gear, armour and spells, using the items from these packs. |
 | BWG Lifepath Settings (24) | One Setting actor per setting or subsetting, with its lifepaths in book order, ready for the character burner. |
 
 ## Notes and judgement calls
@@ -33,3 +34,5 @@ The packs appear under a **Burning Wheel Gold Revised** compendium folder. The c
 - **Helmets** are priced at half of the suit with matching dice. The book's own example prices a sallet at 25 rps, and this is noted on the item.
 - **Half-sleeves and half-leggings** have no separate price in the book. They are priced like arms and leggings (a third of the suit).
 - Die and call-on traits have no automated modifiers set. The rules are in each trait's text.
+- **Magical (§) skills and spell songs are set to roll open-ended** (`open: true`), which is the flag the system uses when it rolls them (v1.1.0).
+- **Verdorben pregens:** Cerebirn's sheet records no Grief exponent, so his Grief is set to 0 and needs filling in. Gunther's armour clumsy weight uses the sheet's values (Stealthy +3, Perception +3). Fureard's "Dwarven plated leather" uses the Dwarven-made light mail stats. Theoden's miracles and Brin's spell list are in each sheet's notes.

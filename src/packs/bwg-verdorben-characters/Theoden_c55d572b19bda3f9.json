@@ -1,0 +1,1200 @@
+{
+ "_id": "c55d572b19bda3f9",
+ "_key": "!actors!c55d572b19bda3f9",
+ "name": "Theoden",
+ "type": "character",
+ "img": "icons/svg/mystery-man.svg",
+ "system": {
+  "will": {
+   "exp": 5,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "power": {
+   "exp": 4,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "agility": {
+   "exp": 4,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "perception": {
+   "exp": 4,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "forte": {
+   "exp": 4,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "speed": {
+   "exp": 4,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "health": {
+   "exp": 4,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0
+  },
+  "steel": {
+   "exp": 6,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": true,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0
+  },
+  "circles": {
+   "exp": 2,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0
+  },
+  "resources": {
+   "exp": 0,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0
+  },
+  "custom1": {
+   "exp": 5,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0,
+   "name": "Faith"
+  },
+  "custom2": {
+   "exp": 1,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0,
+   "name": ""
+  },
+  "stride": 7,
+  "mountedStride": 0,
+  "cash": 0,
+  "funds": 0,
+  "property": "",
+  "loans": "",
+  "debt": "",
+  "resourcesTax": 0,
+  "willTax": 0,
+  "forteTax": 0,
+  "fate": 2,
+  "persona": 1,
+  "deeds": 0,
+  "collapseBeliefs": false,
+  "collapseInstincts": false,
+  "collapseTraits": false,
+  "collapseStats": false,
+  "collapseAttributes": false,
+  "collapseRelationships": false,
+  "collapseGear": false,
+  "collapseSkills": false,
+  "collapseLearning": false,
+  "collapsePtgs": false,
+  "collapseCombat": false,
+  "collapseMisc": false,
+  "collapseSpells": false,
+  "ptgs": {
+   "wound1": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound2": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound3": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound4": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound5": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound6": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound7": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound8": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound9": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound10": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound11": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound12": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound13": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound14": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound15": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound16": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "woundNotes1": "",
+   "woundNotes2": "",
+   "woundNotes3": "",
+   "woundRecovery1": 0,
+   "woundRecovery2": 0,
+   "woundRecovery3": 0,
+   "shrugging": false,
+   "gritting": false
+  },
+  "settings": {
+   "showSettings": false,
+   "roundUpMortalWound": false,
+   "roundUpReflexes": false,
+   "onlySuccessesCount": "Faith, Resources, Perception",
+   "armorTrained": false,
+   "ignoreSuperficialWounds": false,
+   "showBurner": true
+  },
+  "sustainedSpell1": "",
+  "sustainedSpell1Ob": 0,
+  "sustainedSpell2": "",
+  "sustainedSpell2Ob": 0,
+  "sustainedSpell3": "",
+  "sustainedSpell3Ob": 0,
+  "sustainedSpell4": "",
+  "sustainedSpell4Ob": 0,
+  "stock": "Man",
+  "age": 20,
+  "lifepathString": "Born Noble, Temple Acolyte, Priest (lead to Religious)",
+  "alias": "Idealistic Young Priest",
+  "homeland": "Verdorben",
+  "features": "",
+  "practiceLog": "",
+  "miscNotes1": "Faith miracles:\nBoon—Ob 2. Make any ability open-ended until end of scene.\nBlessing—Ob 3. Add 1D to any ability for one test or series.\nAid—Ob 4. Add margin of success to any ability except Reflexes, Circles, Mortal Wound or Resources.\nHindrance—Ob 4. Cause creature to hesitate for two actions.\nGuidance—Ob 5. Ask Tudom to guide your way!\nMinor Miracle—Ob 5. Bring light, break spells, heal the wounded, mend the blade.\nPurification—Ob 5. Drive out spirits and demons of Strength or Will of B5 or less.",
+  "miscNotes2": "",
+  "miscNotes3": ""
+ },
+ "items": [
+  {
+   "name": "Belief 1",
+   "type": "belief",
+   "img": "icons/sundries/flags/banner-green.webp",
+   "system": {
+    "fate": false,
+    "persona": false,
+    "deeds": false,
+    "fateSpent": 0,
+    "personaSpent": 0,
+    "deedsSpent": 0,
+    "text": "Tudom is the light; Tudom is justice. I am an instrument of His Will and shall serve Him until my dying breath."
+   },
+   "_id": "6e1a3a2f35b6a018",
+   "_key": "!actors.items!c55d572b19bda3f9.6e1a3a2f35b6a018",
+   "folder": null,
+   "sort": 0,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Instinct 1",
+   "type": "instinct",
+   "img": "icons/sundries/flags/banner-yellow.webp",
+   "system": {
+    "fate": false,
+    "persona": false,
+    "deeds": false,
+    "fateSpent": 0,
+    "personaSpent": 0,
+    "deedsSpent": 0,
+    "text": "Always punish the wicked in kind for their evil deeds."
+   },
+   "_id": "730f49cd2c825769",
+   "_key": "!actors.items!c55d572b19bda3f9.730f49cd2c825769",
+   "folder": null,
+   "sort": 100,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Instinct 2",
+   "type": "instinct",
+   "img": "icons/sundries/flags/banner-yellow.webp",
+   "system": {
+    "fate": false,
+    "persona": false,
+    "deeds": false,
+    "fateSpent": 0,
+    "personaSpent": 0,
+    "deedsSpent": 0,
+    "text": "Never take up arms."
+   },
+   "_id": "daaa09df87c61a84",
+   "_key": "!actors.items!c55d572b19bda3f9.daaa09df87c61a84",
+   "folder": null,
+   "sort": 200,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Instinct 3",
+   "type": "instinct",
+   "img": "icons/sundries/flags/banner-yellow.webp",
+   "system": {
+    "fate": false,
+    "persona": false,
+    "deeds": false,
+    "fateSpent": 0,
+    "personaSpent": 0,
+    "deedsSpent": 0,
+    "text": "Always pray for the souls of the dead when at service."
+   },
+   "_id": "e91c616768afaccd",
+   "_key": "!actors.items!c55d572b19bda3f9.e91c616768afaccd",
+   "folder": null,
+   "sort": 300,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Mark of Privilege",
+   "type": "trait",
+   "img": "icons/sundries/gaming/dice-runed-brown.webp",
+   "system": {
+    "pointCost": 1,
+    "name": "",
+    "traittype": "die",
+    "text": "Those born into nobility bear certain features—telltale signs of their lineage. Their nose, their bearing, their skin or even their speech mark them as one of the privileged. This confers a 1D affiliation with nobility but also adds +1 Ob to all Inconspicuous or Falsehood tests when masquerading as someone lower than your station.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Human lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 335",
+    "collapsed": true,
+    "hasAptitudeModifier": false,
+    "aptitudeModifier": 0,
+    "aptitudeTarget": "",
+    "hasDieModifier": false,
+    "dieModifier": 0,
+    "dieModifierTarget": "",
+    "hasObModifier": false,
+    "obModifierTarget": "",
+    "obModifier": 0,
+    "addsReputation": false,
+    "reputationName": "",
+    "reputationDice": 0,
+    "reputationInfamous": false,
+    "addsAffiliation": false,
+    "affiliationName": "",
+    "affiliationDice": 0,
+    "callonTarget": "",
+    "restrictions": "Human lifepath trait"
+   },
+   "sort": 400,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "a8fc28f5705f9f0a",
+   "_key": "!actors.items!c55d572b19bda3f9.a8fc28f5705f9f0a",
+   "folder": null
+  },
+  {
+   "name": "Tonsured",
+   "type": "trait",
+   "img": "icons/sundries/gaming/dice-runed-brown.webp",
+   "system": {
+    "pointCost": 1,
+    "name": "",
+    "traittype": "die",
+    "text": "This character has symbolically shaved his head as part of the ritual of initiation into his religious order. The Tonsured trait grants a 1D affiliation with a monastic or religious order. Also, the character is authorized to officiate the rituals of his order, whatever the players and GM decide they are. This compounds with other reputations and affiliations in the church.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Human lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 350",
+    "collapsed": true,
+    "hasAptitudeModifier": false,
+    "aptitudeModifier": 0,
+    "aptitudeTarget": "",
+    "hasDieModifier": false,
+    "dieModifier": 0,
+    "dieModifierTarget": "",
+    "hasObModifier": false,
+    "obModifierTarget": "",
+    "obModifier": 0,
+    "addsReputation": false,
+    "reputationName": "",
+    "reputationDice": 0,
+    "reputationInfamous": false,
+    "addsAffiliation": false,
+    "affiliationName": "",
+    "affiliationDice": 0,
+    "callonTarget": "",
+    "restrictions": "Human lifepath trait"
+   },
+   "sort": 500,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "6dba5d93c69d6697",
+   "_key": "!actors.items!c55d572b19bda3f9.6dba5d93c69d6697",
+   "folder": null
+  },
+  {
+   "name": "Vested",
+   "type": "trait",
+   "img": "icons/sundries/gaming/dice-runed-brown.webp",
+   "system": {
+    "pointCost": 1,
+    "name": "",
+    "traittype": "die",
+    "text": "Priests become vested in their Order. In Western/Christian canon, the vestment is called a surplice. It is the choir dress, the vestment for processions, the official priestly dress of the lower clergy, the vestment worn by the priest in administering sacraments and when giving blessings. The right to wear a surplice shows that the character is at the very least a member of the lower clergy. This trait grants a 1D affiliation with the church and its faithful parishioners. This compounds with other reputations and affiliations in the church.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Human lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 352",
+    "collapsed": true,
+    "hasAptitudeModifier": false,
+    "aptitudeModifier": 0,
+    "aptitudeTarget": "",
+    "hasDieModifier": false,
+    "dieModifier": 0,
+    "dieModifierTarget": "",
+    "hasObModifier": false,
+    "obModifierTarget": "",
+    "obModifier": 0,
+    "addsReputation": false,
+    "reputationName": "",
+    "reputationDice": 0,
+    "reputationInfamous": false,
+    "addsAffiliation": false,
+    "affiliationName": "",
+    "affiliationDice": 0,
+    "callonTarget": "",
+    "restrictions": "Human lifepath trait"
+   },
+   "sort": 600,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "e493dfb5da21abe8",
+   "_key": "!actors.items!c55d572b19bda3f9.e493dfb5da21abe8",
+   "folder": null
+  },
+  {
+   "name": "Faithful",
+   "type": "trait",
+   "img": "icons/sundries/gaming/dice-runed-brown.webp",
+   "system": {
+    "pointCost": 5,
+    "name": "",
+    "traittype": "die",
+    "text": "This trait is required in order to open the Faith attribute. With Faith, the character is able to perform miracles. The Faith section in the Human lifepaths describes how to start the attribute. The Emotional Magic chapter describes its mechanics.\n\nType: Dt (die trait). Cost: 5 pts.\n\nRestrictions: Humans and Roden only, special trait\n\nSource: Burning Wheel Gold Revised, p. 325",
+    "collapsed": true,
+    "hasAptitudeModifier": false,
+    "aptitudeModifier": 0,
+    "aptitudeTarget": "",
+    "hasDieModifier": false,
+    "dieModifier": 0,
+    "dieModifierTarget": "",
+    "hasObModifier": false,
+    "obModifierTarget": "",
+    "obModifier": 0,
+    "addsReputation": false,
+    "reputationName": "",
+    "reputationDice": 0,
+    "reputationInfamous": false,
+    "addsAffiliation": false,
+    "affiliationName": "",
+    "affiliationDice": 0,
+    "callonTarget": "",
+    "restrictions": "Humans and Roden only, special trait"
+   },
+   "sort": 700,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "05c66b150af95d3b",
+   "_key": "!actors.items!c55d572b19bda3f9.05c66b150af95d3b",
+   "folder": null
+  },
+  {
+   "name": "Oratory",
+   "type": "skill",
+   "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "will",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "social",
+    "training": false,
+    "magical": false,
+    "description": "Oratory is the ability to rouse the masses with a stirring speech. It teaches how to project the voice and speaking techniques used to get a point across.\n\nObstacles: The obstacle of Oratory is the most common Will exponent in the crowd. This skill is also used in Duel of Wits.\n\nFoRKs: Command, Persuasion, Rhetoric\n\nSkill Type: Social. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 286",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 800,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "3eb55dd5b4e652bf",
+   "_key": "!actors.items!c55d572b19bda3f9.3eb55dd5b4e652bf",
+   "folder": null
+  },
+  {
+   "name": "Suasion",
+   "type": "skill",
+   "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 5,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "will",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "social",
+    "training": false,
+    "magical": false,
+    "description": "Suasion is the verbal art of the priest. It is used to enlighten the benighted. This skill allows a Priest to convince others to act on his behalf (because it is in the best interest of their immortal souls). It is a Persuasion skill for the clergy.\n\nObstacles: Obstacle: Will of the victim. This skill may also be used in the Duel of Wits.\n\nFoRKs: Soothing Platitudes, Falsehood\n\nSkill Type: Social. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 302",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 900,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "339faa28dddc18f2",
+   "_key": "!actors.items!c55d572b19bda3f9.339faa28dddc18f2",
+   "folder": null
+  },
+  {
+   "name": "Doctrine",
+   "type": "skill",
+   "img": "icons/sundries/books/book-worn-blue.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 4,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "perception",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "schoolofthought",
+    "training": false,
+    "magical": false,
+    "description": "Doctrine describes the tenets and beliefs of a particular religious faith.\n\nA character may only take the following variations if they were available on his lifepaths or through general skill points:\n\nCult Doctrine is the application of a belief system to a non-standard, unapproved or independent school of thought.\n\nForeign Doctrine is the knowledge or study of an accepted popular religion from another land or culture.\n\nHeretical Doctrine is the understanding and knowledge of a set of beliefs and tenets that are an offshoot of the popular religion but are not commonly accepted by the religious power structure.\n\nObstacles: Common, popular beliefs, Ob 1. Citing relevant passages from common religious texts, Ob 2. Naming an obscure saint, Ob 3.\n\nFoRKs: Philosophy\n\nSkill Type: School of Thought. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 268",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 1000,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "5a6541ef1200fd70",
+   "_key": "!actors.items!c55d572b19bda3f9.5a6541ef1200fd70",
+   "folder": null
+  },
+  {
+   "name": "Read",
+   "type": "skill",
+   "img": "icons/sundries/documents/document-official-capital.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "perception",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "academic",
+    "training": false,
+    "magical": false,
+    "description": "In the middle ages, reading and writing were two separate and distinct skills. It’s difficult for the modern mind to comprehend this, but it is a fact. Therefore, a character may be able to read but not know how to transcribe his thoughts onto paper.\n\nObstacles: A note or sign Ob 1. Letter, Ob 2. Essay or article, Ob 3. Book, Ob 4. Contract, Ob 5. Reading silently, +1 Ob.\n\nFoRKs: Research\n\nSkill Type: Academic. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 290",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 1100,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "253f01c5ef5e2f95",
+   "_key": "!actors.items!c55d572b19bda3f9.253f01c5ef5e2f95",
+   "folder": null
+  },
+  {
+   "name": "Write",
+   "type": "skill",
+   "img": "icons/sundries/documents/document-official-capital.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 4,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "perception",
+    "root2": "agility",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "academic",
+    "training": false,
+    "magical": false,
+    "description": "Write is the companion skill to Read. As I mentioned in the Read listing, it is possible to have this as a separate skill. Without the benefit of the ability to read, Write is a copyist’s skill. The character knows the shapes of letters and how to reproduce them, but he does not know what they mean. A character with Write may transcribe his thoughts onto paper in reasonably coherent chunks.\n\nObstacles: Your name, Ob 1. Copying letters, Ob 2. Composing a letter, Ob 3.\n\nFoRKs: Composition, Calligraphy\n\nSkill Type: Academic. Tools: Yes. Expendable.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 309",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": true,
+    "restrictions": ""
+   },
+   "sort": 1200,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "40ae68d7823771ea",
+   "_key": "!actors.items!c55d572b19bda3f9.40ae68d7823771ea",
+   "folder": null
+  },
+  {
+   "name": "Etiquette",
+   "type": "skill",
+   "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 4,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "will",
+    "root2": "perception",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "social",
+    "training": false,
+    "magical": false,
+    "description": "Etiquette is proper courtly behavior. One cannot make requests of the court without knowing the appropriate social rituals.\n\nObstacles: Proper etiquette for a minor lord, Ob 1. Proper etiquette for a baronial lord, Ob 2. For a ducal lord, Ob 3. For the king, Ob 4. For the queen, Ob 5. For the queen-mother, Ob 6.\n\nFoRKs: Soothing Platitudes, Falsehood\n\nSkill Type: Social. Tools: No.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 271",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 1300,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "4f88b4922b1fec80",
+   "_key": "!actors.items!c55d572b19bda3f9.4f88b4922b1fec80",
+   "folder": null
+  },
+  {
+   "name": "Religious History",
+   "type": "skill",
+   "img": "icons/sundries/documents/document-official-capital.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 2,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "perception",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "academic",
+    "training": false,
+    "magical": false,
+    "description": "A specific history skill, described under the History entry.\n\nHistory is the knowledge of the records of past events pertaining to one culture or society. The character is assumed to have studied the popular history of his culture/people unless the player or lifepath decides otherwise. Specific histories are often listed in the lifepaths. They are fairly self-explanatory: Ancient History, (Military) Campaign History, Foreign History, Religious History, Local History, Obscure History and Religious History. Each of these is a separate skill that must be purchased and opened.\n\nObstacles: Common historical fact, Ob 1. Classical history, Ob 2. Recent history, Ob 3. Obscure figure in history, Ob 4. History of counter cultural movements, Ob 5. History of the ones who lost the war, Ob 6.\n\nFoRKs: Research, Philosophy, Doctrine, other history skills\n\nSkill Type: Academic. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 277",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 1400,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "f7e389afc198fc8a",
+   "_key": "!actors.items!c55d572b19bda3f9.f7e389afc198fc8a",
+   "folder": null
+  },
+  {
+   "name": "Cousin, an abbot",
+   "type": "relationship",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "description": "",
+    "forbidden": false,
+    "immediateFamily": false,
+    "otherFamily": true,
+    "romantic": false,
+    "hateful": false,
+    "influence": "significant",
+    "enmity": false,
+    "building": false,
+    "buildingProgress": 0
+   },
+   "_id": "c26934a1a2d884be",
+   "_key": "!actors.items!c55d572b19bda3f9.c26934a1a2d884be",
+   "folder": null,
+   "sort": 1500,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "An idealistic young priest",
+   "type": "reputation",
+   "img": "icons/commodities/treasure/medal-ribbon-gold-red.webp",
+   "system": {
+    "description": "",
+    "dice": 1,
+    "infamous": false
+   },
+   "_id": "5226f5ee3af4154b",
+   "_key": "!actors.items!c55d572b19bda3f9.5226f5ee3af4154b",
+   "folder": null,
+   "sort": 1600,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "The temple",
+   "type": "affiliation",
+   "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+   "system": {
+    "description": "",
+    "dice": 2
+   },
+   "_id": "c5c339fa51a5af10",
+   "_key": "!actors.items!c55d572b19bda3f9.c5c339fa51a5af10",
+   "folder": null,
+   "sort": 1700,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Finery",
+   "type": "possession",
+   "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+   "system": {
+    "pointCost": 5,
+    "isToolkit": false,
+    "isExpended": false,
+    "description": "Vestments and courtly attire.\n\nSpecialty clothing and expensive items for special occasions or making a point: courtly regalia, vestments, shining robes. Improper dress imposes obstacle penalties to Inconspicuous, Etiquette and other tests.\n\nSource: Burning Wheel Gold Revised, p. 204"
+   },
+   "sort": 1800,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "32501e7a4923ee40",
+   "_key": "!actors.items!c55d572b19bda3f9.32501e7a4923ee40",
+   "folder": null
+  },
+  {
+   "name": "Riding Horse",
+   "type": "possession",
+   "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+   "system": {
+    "pointCost": 5,
+    "isToolkit": false,
+    "isExpended": false,
+    "description": "A horse, pony, camel and so forth. Basic riding horse: Pe B3(4), Wi B2, Ag B2, Sp B6, Po B6, Fo B6. He B4, St B3, Re B4, MW B12. Hesitation 8. Skills: Rider Training, Foraging B2. Traits: Gelded, Docile, Obedient, Proud, plus Long-Limbed, Keen Hearing, Hooved, Ungulate. Stride 12.\n\nSource: Burning Wheel Gold Revised, p. 203"
+   },
+   "sort": 1900,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "620536964a3b035a",
+   "_key": "!actors.items!c55d572b19bda3f9.620536964a3b035a",
+   "folder": null
+  },
+  {
+   "name": "Writing Kit",
+   "type": "possession",
+   "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+   "system": {
+    "pointCost": 8,
+    "isToolkit": true,
+    "isExpended": false,
+    "description": "Skill toolkit for Write."
+   },
+   "_id": "ad3d8a483da4eb5c",
+   "_key": "!actors.items!c55d572b19bda3f9.ad3d8a483da4eb5c",
+   "folder": null,
+   "sort": 2000,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Shoes",
+   "type": "possession",
+   "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+   "system": {
+    "pointCost": 1,
+    "isToolkit": false,
+    "isExpended": false,
+    "description": "Shoes.\n\nSource: Burning Wheel Gold Revised, p. 203"
+   },
+   "sort": 2100,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "8804c94ca1da37f7",
+   "_key": "!actors.items!c55d572b19bda3f9.8804c94ca1da37f7",
+   "folder": null
+  }
+ ],
+ "effects": [],
+ "folder": "0bae117d8202b011",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "prototypeToken": {
+  "name": "Theoden",
+  "actorLink": true,
+  "disposition": 1
+ },
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

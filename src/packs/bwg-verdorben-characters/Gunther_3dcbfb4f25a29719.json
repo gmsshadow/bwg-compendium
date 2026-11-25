@@ -1,0 +1,1882 @@
+{
+ "_id": "3dcbfb4f25a29719",
+ "_key": "!actors!3dcbfb4f25a29719",
+ "name": "Gunther",
+ "type": "character",
+ "img": "icons/svg/mystery-man.svg",
+ "system": {
+  "will": {
+   "exp": 4,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "power": {
+   "exp": 5,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "agility": {
+   "exp": 4,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "perception": {
+   "exp": 4,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "forte": {
+   "exp": 5,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "speed": {
+   "exp": 5,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0
+  },
+  "health": {
+   "exp": 5,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0
+  },
+  "steel": {
+   "exp": 6,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": true,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0
+  },
+  "circles": {
+   "exp": 2,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0
+  },
+  "resources": {
+   "exp": 0,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0
+  },
+  "custom1": {
+   "exp": 1,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0,
+   "name": ""
+  },
+  "custom2": {
+   "exp": 1,
+   "difficult": 0,
+   "challenging": 0,
+   "shade": "B",
+   "open": false,
+   "collapsed": true,
+   "persona": 0,
+   "fate": 0,
+   "deeds": 0,
+   "routine": 0,
+   "name": ""
+  },
+  "stride": 7,
+  "mountedStride": 0,
+  "cash": 0,
+  "funds": 0,
+  "property": "",
+  "loans": "",
+  "debt": "",
+  "resourcesTax": 0,
+  "willTax": 0,
+  "forteTax": 0,
+  "fate": 2,
+  "persona": 1,
+  "deeds": 0,
+  "collapseBeliefs": false,
+  "collapseInstincts": false,
+  "collapseTraits": false,
+  "collapseStats": false,
+  "collapseAttributes": false,
+  "collapseRelationships": false,
+  "collapseGear": false,
+  "collapseSkills": false,
+  "collapseLearning": false,
+  "collapsePtgs": false,
+  "collapseCombat": false,
+  "collapseMisc": false,
+  "collapseSpells": false,
+  "ptgs": {
+   "wound1": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound2": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound3": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound4": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound5": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound6": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound7": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound8": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound9": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound10": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound11": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound12": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound13": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound14": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound15": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "wound16": {
+    "amount": 0,
+    "threshold": "bruise"
+   },
+   "woundNotes1": "",
+   "woundNotes2": "",
+   "woundNotes3": "",
+   "woundRecovery1": 0,
+   "woundRecovery2": 0,
+   "woundRecovery3": 0,
+   "shrugging": false,
+   "gritting": false
+  },
+  "settings": {
+   "showSettings": false,
+   "roundUpMortalWound": false,
+   "roundUpReflexes": false,
+   "onlySuccessesCount": "Faith, Resources, Perception",
+   "armorTrained": true,
+   "ignoreSuperficialWounds": false,
+   "showBurner": true
+  },
+  "sustainedSpell1": "",
+  "sustainedSpell1Ob": 0,
+  "sustainedSpell2": "",
+  "sustainedSpell2Ob": 0,
+  "sustainedSpell3": "",
+  "sustainedSpell3Ob": 0,
+  "sustainedSpell4": "",
+  "sustainedSpell4Ob": 0,
+  "stock": "Man",
+  "age": 25,
+  "lifepathString": "Born Noble, Page, Squire, Knight",
+  "alias": "Poor, Low-Born Knight",
+  "homeland": "",
+  "features": "",
+  "practiceLog": "",
+  "miscNotes1": "Speed B5 (B4 in armor).",
+  "miscNotes2": "",
+  "miscNotes3": ""
+ },
+ "items": [
+  {
+   "name": "Belief 1",
+   "type": "belief",
+   "img": "icons/sundries/flags/banner-green.webp",
+   "system": {
+    "fate": false,
+    "persona": false,
+    "deeds": false,
+    "fateSpent": 0,
+    "personaSpent": 0,
+    "deedsSpent": 0,
+    "text": "I have sworn to my duke and my baron to serve as a loyal and honorable vassal. I shall uphold their word and law in this land."
+   },
+   "_id": "fd9a342eef0fb499",
+   "_key": "!actors.items!3dcbfb4f25a29719.fd9a342eef0fb499",
+   "folder": null,
+   "sort": 0,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Instinct 1",
+   "type": "instinct",
+   "img": "icons/sundries/flags/banner-yellow.webp",
+   "system": {
+    "fate": false,
+    "persona": false,
+    "deeds": false,
+    "fateSpent": 0,
+    "personaSpent": 0,
+    "deedsSpent": 0,
+    "text": "Always bow properly to my superiors (as is their right)."
+   },
+   "_id": "23f36c2feb685bf7",
+   "_key": "!actors.items!3dcbfb4f25a29719.23f36c2feb685bf7",
+   "folder": null,
+   "sort": 100,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Instinct 2",
+   "type": "instinct",
+   "img": "icons/sundries/flags/banner-yellow.webp",
+   "system": {
+    "fate": false,
+    "persona": false,
+    "deeds": false,
+    "fateSpent": 0,
+    "personaSpent": 0,
+    "deedsSpent": 0,
+    "text": "Always make sure I am in full harness for battle!"
+   },
+   "_id": "530cc7e53360db8c",
+   "_key": "!actors.items!3dcbfb4f25a29719.530cc7e53360db8c",
+   "folder": null,
+   "sort": 200,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Instinct 3",
+   "type": "instinct",
+   "img": "icons/sundries/flags/banner-yellow.webp",
+   "system": {
+    "fate": false,
+    "persona": false,
+    "deeds": false,
+    "fateSpent": 0,
+    "personaSpent": 0,
+    "deedsSpent": 0,
+    "text": "Always look out for a good candidate to be my page or squire."
+   },
+   "_id": "12e9a6a31468ebfe",
+   "_key": "!actors.items!3dcbfb4f25a29719.12e9a6a31468ebfe",
+   "folder": null,
+   "sort": 300,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Mark of Privilege",
+   "type": "trait",
+   "img": "icons/sundries/gaming/dice-runed-brown.webp",
+   "system": {
+    "pointCost": 1,
+    "name": "",
+    "traittype": "die",
+    "text": "Those born into nobility bear certain features—telltale signs of their lineage. Their nose, their bearing, their skin or even their speech mark them as one of the privileged. This confers a 1D affiliation with nobility but also adds +1 Ob to all Inconspicuous or Falsehood tests when masquerading as someone lower than your station.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Human lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 335",
+    "collapsed": true,
+    "hasAptitudeModifier": false,
+    "aptitudeModifier": 0,
+    "aptitudeTarget": "",
+    "hasDieModifier": false,
+    "dieModifier": 0,
+    "dieModifierTarget": "",
+    "hasObModifier": false,
+    "obModifierTarget": "",
+    "obModifier": 0,
+    "addsReputation": false,
+    "reputationName": "",
+    "reputationDice": 0,
+    "reputationInfamous": false,
+    "addsAffiliation": false,
+    "affiliationName": "",
+    "affiliationDice": 0,
+    "callonTarget": "",
+    "restrictions": "Human lifepath trait"
+   },
+   "sort": 400,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "643a5008aa0ecebc",
+   "_key": "!actors.items!3dcbfb4f25a29719.643a5008aa0ecebc",
+   "folder": null
+  },
+  {
+   "name": "Sworn Homage",
+   "type": "trait",
+   "img": "icons/sundries/gaming/dice-runed-brown.webp",
+   "system": {
+    "pointCost": 1,
+    "name": "",
+    "traittype": "die",
+    "text": "The knight must swear homage to his lord, the king. He promises fealty to his lord; to guard his land and fight in wars with armor, horse and sword; to manage his land in good stead, to collect and pay taxes; and generally to obey the law and uphold the peace. The player doesn’t have to write in a Belief for this, though it is encouraged. The Sworn Homage trait indicates the belief is internalized. This trait grants a 1D affiliation in the nobility. Should the character fail to perform his duties, then he may be stripped of rank. This compounds with other noble affiliations like Mark of Privilege.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Human lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 348",
+    "collapsed": true,
+    "hasAptitudeModifier": false,
+    "aptitudeModifier": 0,
+    "aptitudeTarget": "",
+    "hasDieModifier": false,
+    "dieModifier": 0,
+    "dieModifierTarget": "",
+    "hasObModifier": false,
+    "obModifierTarget": "",
+    "obModifier": 0,
+    "addsReputation": false,
+    "reputationName": "",
+    "reputationDice": 0,
+    "reputationInfamous": false,
+    "addsAffiliation": false,
+    "affiliationName": "",
+    "affiliationDice": 0,
+    "callonTarget": "",
+    "restrictions": "Human lifepath trait"
+   },
+   "sort": 500,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "03e16eb46b8f57dc",
+   "_key": "!actors.items!3dcbfb4f25a29719.03e16eb46b8f57dc",
+   "folder": null
+  },
+  {
+   "name": "Gloryhound",
+   "type": "trait",
+   "img": "icons/sundries/gaming/dice-runed-brown.webp",
+   "system": {
+    "pointCost": 3,
+    "name": "",
+    "traittype": "die",
+    "text": "A Gloryhound cannot restrain himself when he sees a chance for “glory.” He charges into the fray heedless of safety, tactics or plans. Glory includes: maidens fair, enemy sorcerers commanding undead hordes, large monsters, enemy knights, and enemy kings. Gloryhounds may add an additional Steel reaction: For Glory! While hesitating from a failed Steel test (and choosing this reaction) the Gloryhound must close. In Range and Cover he must use Steel. In Fight he must attempt to Charge. He may not do anything else.\n\nType: Dt (die trait). Cost: 3 pts.\n\nSource: Burning Wheel Gold Revised, p. 327",
+    "collapsed": true,
+    "hasAptitudeModifier": false,
+    "aptitudeModifier": 0,
+    "aptitudeTarget": "",
+    "hasDieModifier": false,
+    "dieModifier": 0,
+    "dieModifierTarget": "",
+    "hasObModifier": false,
+    "obModifierTarget": "",
+    "obModifier": 0,
+    "addsReputation": false,
+    "reputationName": "",
+    "reputationDice": 0,
+    "reputationInfamous": false,
+    "addsAffiliation": false,
+    "affiliationName": "",
+    "affiliationDice": 0,
+    "callonTarget": "",
+    "restrictions": ""
+   },
+   "sort": 600,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "09836e3566e13beb",
+   "_key": "!actors.items!3dcbfb4f25a29719.09836e3566e13beb",
+   "folder": null
+  },
+  {
+   "name": "Ancient History",
+   "type": "skill",
+   "img": "icons/sundries/documents/document-official-capital.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "perception",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "academic",
+    "training": false,
+    "magical": false,
+    "description": "A specific history skill, described under the History entry.\n\nHistory is the knowledge of the records of past events pertaining to one culture or society. The character is assumed to have studied the popular history of his culture/people unless the player or lifepath decides otherwise. Specific histories are often listed in the lifepaths. They are fairly self-explanatory: Ancient History, (Military) Campaign History, Foreign History, Religious History, Local History, Obscure History and Religious History. Each of these is a separate skill that must be purchased and opened.\n\nObstacles: Common historical fact, Ob 1. Classical history, Ob 2. Recent history, Ob 3. Obscure figure in history, Ob 4. History of counter cultural movements, Ob 5. History of the ones who lost the war, Ob 6.\n\nFoRKs: Research, Philosophy, Doctrine, other history skills\n\nSkill Type: Academic. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 277",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 700,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "eea92e0e05576708",
+   "_key": "!actors.items!3dcbfb4f25a29719.eea92e0e05576708",
+   "folder": null
+  },
+  {
+   "name": "Axe",
+   "type": "skill",
+   "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 4,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "power",
+    "root2": "agility",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "martial",
+    "training": false,
+    "magical": false,
+    "description": "This skill teaches the character how to use one- and two-handed axes to chop off arms, legs and heads in battle. The Axe skill can be used to make blade strikes with the weapon, as well as strikes with the haft.\n\nFoRKs: Brawling, Martial Arts or appropriate melee weapon skills\n\nSkill Type: Martial. Tools: An axe.\n\nRoot: Power/Agility\n\nSource: Burning Wheel Gold Revised, p. 258",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": true,
+    "restrictions": ""
+   },
+   "sort": 800,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "eede56d820e2d923",
+   "_key": "!actors.items!3dcbfb4f25a29719.eede56d820e2d923",
+   "folder": null
+  },
+  {
+   "name": "Brawling",
+   "type": "skill",
+   "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "power",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "martial",
+    "training": false,
+    "magical": false,
+    "description": "Brawling is the undisciplined side of bare-fisted combat. Brawling grants access to attack, defense and basic actions, but not special actions. You may use the Brawling skill in place of Power for the Lock and Push actions. Brawlers may also use “found weapons:” clubs, brooms, lamps, rocks, sharp pieces of glass, towels and pencils. These count as melee weapons but rely on the Brawling skill.\n\nObstacles: The obstacles for Brawling are described in the Fight and Weapons chapters.\n\nFoRKs: Boxing, or melee weapon skill\n\nSkill Type: Martial. Tools: No.\n\nRoot: Power\n\nSource: Burning Wheel Gold Revised, p. 261",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 900,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "f94fc48aa2bc949b",
+   "_key": "!actors.items!3dcbfb4f25a29719.f94fc48aa2bc949b",
+   "folder": null
+  },
+  {
+   "name": "Conspicuous",
+   "type": "skill",
+   "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "will",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "social",
+    "training": false,
+    "magical": false,
+    "description": "Characters with the Conspicuous skill can make themselves noticed above all in a crowd or scene.\n\nObstacles: Attracting attention to oneself in a crowded room, Ob 1. In a busy shop, Ob 2. On a busy street, Ob 3. In a massive, gathered crowd, Ob 4. In a pitched battle, Ob 5.\n\nFoRKs: Command, Oratory\n\nSkill Type: Social. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 266",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 1000,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "c6c6729bf81fa79a",
+   "_key": "!actors.items!3dcbfb4f25a29719.c6c6729bf81fa79a",
+   "folder": null
+  },
+  {
+   "name": "Crossbow",
+   "type": "skill",
+   "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "agility",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "martial",
+    "training": false,
+    "magical": false,
+    "description": "The crossbow is a mechanical, tension-drawn missile weapon. The most basic crossbow uses a hook system to hold the drawn bow string so the weapon can be loaded. More complex examples use a stirrup, lever or winch to draw the bow. They are very powerful weapons; however, they are slow to load and difficult to manufacture. The Crossbow skill allows the character to this weapon in battle situations. Consult the Range and Cover and Fight chapters.\n\nSkill Type: Martial. Tools: Yes, a crossbow.\n\nRoot: Agility\n\nSource: Burning Wheel Gold Revised, p. 266",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": true,
+    "restrictions": ""
+   },
+   "sort": 1100,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "07a4e927269fd7bc",
+   "_key": "!actors.items!3dcbfb4f25a29719.07a4e927269fd7bc",
+   "folder": null
+  },
+  {
+   "name": "Etiquette",
+   "type": "skill",
+   "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "will",
+    "root2": "perception",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "social",
+    "training": false,
+    "magical": false,
+    "description": "Etiquette is proper courtly behavior. One cannot make requests of the court without knowing the appropriate social rituals.\n\nObstacles: Proper etiquette for a minor lord, Ob 1. Proper etiquette for a baronial lord, Ob 2. For a ducal lord, Ob 3. For the king, Ob 4. For the queen, Ob 5. For the queen-mother, Ob 6.\n\nFoRKs: Soothing Platitudes, Falsehood\n\nSkill Type: Social. Tools: No.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 271",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 1200,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "d0faee3c28d309ec",
+   "_key": "!actors.items!3dcbfb4f25a29719.d0faee3c28d309ec",
+   "folder": null
+  },
+  {
+   "name": "Knives",
+   "type": "skill",
+   "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "agility",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "martial",
+    "training": false,
+    "magical": false,
+    "description": "The Knives skill teaches hand-to-hand knife fighting techniques. This is not a throwing skill.\n\nObstacles: Use the obstacles in Fight.\n\nFoRKs: Brawling, Boxing or an appropriate weapon skill.\n\nSkill Type: Martial. Tools: Something knife-like.\n\nRoot: Agility\n\nSource: Burning Wheel Gold Revised, p. 279",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": true,
+    "restrictions": ""
+   },
+   "sort": 1300,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "6a9b15e523f52d07",
+   "_key": "!actors.items!3dcbfb4f25a29719.6a9b15e523f52d07",
+   "folder": null
+  },
+  {
+   "name": "Lance",
+   "type": "skill",
+   "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "agility",
+    "root2": "power",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "martial",
+    "training": false,
+    "magical": false,
+    "description": "This skill trains the fighter to use a couched lance from horseback\n\nObstacles: See the Fight and Riding and Mounted Combat chapters in the Burning Wheel.\n\nFoRKs: Spear\n\nSkill Type: Martial. Tools: A really big, pointy stick.\n\nRoot: Agility/Power\n\nSource: Burning Wheel Gold Revised, p. 280",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": true,
+    "restrictions": ""
+   },
+   "sort": 1400,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "6a9922545a565687",
+   "_key": "!actors.items!3dcbfb4f25a29719.6a9922545a565687",
+   "folder": null
+  },
+  {
+   "name": "Oratory",
+   "type": "skill",
+   "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "will",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "social",
+    "training": false,
+    "magical": false,
+    "description": "Oratory is the ability to rouse the masses with a stirring speech. It teaches how to project the voice and speaking techniques used to get a point across.\n\nObstacles: The obstacle of Oratory is the most common Will exponent in the crowd. This skill is also used in Duel of Wits.\n\nFoRKs: Command, Persuasion, Rhetoric\n\nSkill Type: Social. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 286",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 1500,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "6822045e0cdd8f39",
+   "_key": "!actors.items!3dcbfb4f25a29719.6822045e0cdd8f39",
+   "folder": null
+  },
+  {
+   "name": "Poetry",
+   "type": "skill",
+   "img": "icons/skills/trades/music-notes-sound-blue.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 2,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "will",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "musical",
+    "training": false,
+    "magical": false,
+    "description": "Poetry allows the expression of ideas and emotions through metered verse.\n\nObstacles: Doggerel or crass verse, Ob 1. Atmospheric verse, Ob 2. Expressing sadness or tragedy, Ob 3. Expressing love, Ob 4. Expressing a truth or mystery about life, Ob 5. Mimicking another’s style, +1 Ob.\n\nFoRKs: Sing\n\nSkill Type: Musical. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 288",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 1600,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "fd0fa61448849054",
+   "_key": "!actors.items!3dcbfb4f25a29719.fd0fa61448849054",
+   "folder": null
+  },
+  {
+   "name": "Riding",
+   "type": "skill",
+   "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 4,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "will",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "physical",
+    "training": false,
+    "magical": false,
+    "description": "This skill teaches the character to effectively maneuver a mount.\n\nObstacles: See the Riding and Mounted Combat chapter for obstacles.\n\nSkill Type: Physical. Tools: A horse or some such thing.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 291",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": true,
+    "restrictions": ""
+   },
+   "sort": 1700,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "84db1f339a478871",
+   "_key": "!actors.items!3dcbfb4f25a29719.84db1f339a478871",
+   "folder": null
+  },
+  {
+   "name": "Sword",
+   "type": "skill",
+   "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 3,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "agility",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "martial",
+    "training": false,
+    "magical": false,
+    "description": "This skill covers the use of any long-bladed, one- or two-handed weapons. Bastard swords, broad swords, short swords, katana, falchions, machetes, rapiers, gladii or yataghans.\n\nObstacles: See the Fight chapter in the Burning Wheel.\n\nFoRKs: Boxing, Brawling or any appropriate melee weapon skill\n\nSkill Type: Martial. Tools: A sword.\n\nRoot: Agility\n\nSource: Burning Wheel Gold Revised, p. 303",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": true,
+    "restrictions": ""
+   },
+   "sort": 1800,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "2397f103d91f9380",
+   "_key": "!actors.items!3dcbfb4f25a29719.2397f103d91f9380",
+   "folder": null
+  },
+  {
+   "name": "Armor Training",
+   "type": "skill",
+   "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 0,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "power",
+    "root2": "speed",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "martial",
+    "training": true,
+    "magical": false,
+    "description": "To the unaccustomed, armor is heavy, hot and uncomfortable. Characters without Armor Training who wear light mail suffer +1 Ob penalty to all tests. Wearing heavy mail or heavier without Armor Training incurs a +2 Ob penalty. Armor Training mitigates these penalties completely. It also mitigates fatigue penalties for wearing all types of armor. Clumsy Weight penalties still apply.\n\n*Training Root is for Aptitude only.\n\nSkill Type: Martial Training. Tools: No.\n\nRoot: Power/Speed*\n\nSource: Burning Wheel Gold Revised, p. 256",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 1900,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "f43ff29acdea8d10",
+   "_key": "!actors.items!3dcbfb4f25a29719.f43ff29acdea8d10",
+   "folder": null
+  },
+  {
+   "name": "Shield Training",
+   "type": "skill",
+   "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 0,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "agility",
+    "root2": "",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "martial",
+    "training": true,
+    "magical": false,
+    "description": "Shield Training allows a character to incorporate a shield into his defense. Characters without Shield Training must actively block with a shield in order to gain its benefits. See Armor and Shields in the Burning Wheel for rules. When performing a Strike with a shield use Brawling, an appropriate Boxing skill or Agility.\n\n*Training Root is for Aptitude only.\n\nObstacles: See Armor and Shields.\n\nSkill Type: Martial Training. Tools: No.\n\nRoot: Agility*\n\nSource: Burning Wheel Gold Revised, p. 295",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 2000,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "2b25cbcc3535620f",
+   "_key": "!actors.items!3dcbfb4f25a29719.2b25cbcc3535620f",
+   "folder": null
+  },
+  {
+   "name": "Mounted Combat Training",
+   "type": "skill",
+   "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+   "system": {
+    "name": "",
+    "shade": "B",
+    "exp": 0,
+    "routine": 0,
+    "difficult": 0,
+    "challenging": 0,
+    "root1": "will",
+    "root2": "power",
+    "learning": false,
+    "learningProgress": 0,
+    "skilltype": "martial",
+    "training": true,
+    "magical": false,
+    "description": "Mounted Combat Training gives the character the ability to fight effectively from horseback. If appropriate to the character and the game setting, players may choose Mounted Combat: Bowman instead of the traditional lancer archetype. See the Riding and Mounted Combat chapter.\n\n*Training Root is for Aptitude only.\n\nSkill Type: Martial Training. Tools: No.\n\nRoot: Will/Power*\n\nSource: Burning Wheel Gold Revised, p. 284",
+    "collapsed": false,
+    "persona": 0,
+    "fate": 0,
+    "deeds": 0,
+    "open": false,
+    "wildFork": false,
+    "tools": false,
+    "restrictions": ""
+   },
+   "sort": 2100,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "6d025576a0b13f88",
+   "_key": "!actors.items!3dcbfb4f25a29719.6d025576a0b13f88",
+   "folder": null
+  },
+  {
+   "name": "Father",
+   "type": "relationship",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "description": "",
+    "forbidden": false,
+    "immediateFamily": true,
+    "otherFamily": false,
+    "romantic": false,
+    "hateful": false,
+    "influence": "minor",
+    "enmity": false,
+    "building": false,
+    "buildingProgress": 0
+   },
+   "_id": "73da4ef36bf8c285",
+   "_key": "!actors.items!3dcbfb4f25a29719.73da4ef36bf8c285",
+   "folder": null,
+   "sort": 2200,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "A poor knight of no means but great promise",
+   "type": "reputation",
+   "img": "icons/commodities/treasure/medal-ribbon-gold-red.webp",
+   "system": {
+    "description": "",
+    "dice": 1,
+    "infamous": false
+   },
+   "_id": "283a86d0a9c5030f",
+   "_key": "!actors.items!3dcbfb4f25a29719.283a86d0a9c5030f",
+   "folder": null,
+   "sort": 2300,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "His lord’s household",
+   "type": "affiliation",
+   "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+   "system": {
+    "description": "",
+    "dice": 2
+   },
+   "_id": "3962925c87854407",
+   "_key": "!actors.items!3dcbfb4f25a29719.3962925c87854407",
+   "folder": null,
+   "sort": 2400,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "effects": [],
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   }
+  },
+  {
+   "name": "Light Axe",
+   "type": "melee weapon",
+   "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+   "system": {
+    "pointCost": 5,
+    "quality": "run of the mill",
+    "handedness": "one",
+    "description": "Run of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 554",
+    "skillId": "",
+    "shade": "B",
+    "baseOb": 1,
+    "attacks": [
+     {
+      "attackName": "",
+      "power": 3,
+      "add": 2,
+      "vsArmor": 1,
+      "weaponSpeed": "2",
+      "weaponLength": "long"
+     }
+    ]
+   },
+   "sort": 2500,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "eae62fa70c1cff1f",
+   "_key": "!actors.items!3dcbfb4f25a29719.eae62fa70c1cff1f",
+   "folder": null
+  },
+  {
+   "name": "Long Sword",
+   "type": "melee weapon",
+   "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+   "system": {
+    "pointCost": 5,
+    "quality": "run of the mill",
+    "handedness": "one",
+    "description": "Run of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 554",
+    "skillId": "",
+    "shade": "B",
+    "baseOb": 1,
+    "attacks": [
+     {
+      "attackName": "",
+      "power": 3,
+      "add": 2,
+      "vsArmor": 0,
+      "weaponSpeed": "3",
+      "weaponLength": "long"
+     }
+    ]
+   },
+   "sort": 2600,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "1e056a1eb4e45178",
+   "_key": "!actors.items!3dcbfb4f25a29719.1e056a1eb4e45178",
+   "folder": null
+  },
+  {
+   "name": "Knife",
+   "type": "melee weapon",
+   "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+   "system": {
+    "pointCost": 5,
+    "quality": "run of the mill",
+    "handedness": "one",
+    "description": "Run of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight). WS X: can Strike consecutively any number of times.\n\nSource: Burning Wheel Gold Revised, p. 554",
+    "skillId": "",
+    "shade": "B",
+    "baseOb": 1,
+    "attacks": [
+     {
+      "attackName": "",
+      "power": 1,
+      "add": 1,
+      "vsArmor": 0,
+      "weaponSpeed": "x",
+      "weaponLength": "shortest"
+     }
+    ]
+   },
+   "sort": 2700,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "2b9a25bb517ea044",
+   "_key": "!actors.items!3dcbfb4f25a29719.2b9a25bb517ea044",
+   "folder": null
+  },
+  {
+   "name": "Lance",
+   "type": "melee weapon",
+   "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+   "system": {
+    "pointCost": 5,
+    "quality": "run of the mill",
+    "handedness": "one",
+    "description": "One handed, but the wielder must be mounted and have Mounted Combat Training.\n\nRun of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 554",
+    "skillId": "",
+    "shade": "B",
+    "baseOb": 1,
+    "attacks": [
+     {
+      "attackName": "",
+      "power": 4,
+      "add": 2,
+      "vsArmor": 2,
+      "weaponSpeed": "1",
+      "weaponLength": "longest"
+     }
+    ]
+   },
+   "sort": 2800,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "b3d21d3b7ddfc345",
+   "_key": "!actors.items!3dcbfb4f25a29719.b3d21d3b7ddfc345",
+   "folder": null
+  },
+  {
+   "name": "Crossbow",
+   "type": "ranged weapon",
+   "img": "icons/weapons/bows/longbow-recurve-brown.webp",
+   "system": {
+    "pointCost": 7,
+    "quality": "run of the mill",
+    "hasGunpowder": false,
+    "usePower": false,
+    "powerBonus": 0,
+    "incidental": 4,
+    "incidentalRoll": 2,
+    "mark": 8,
+    "markRoll": 4,
+    "superb": 11,
+    "vsArmor": 2,
+    "optimalRange": 1,
+    "extremeRange": 3,
+    "maxRange": "125 paces",
+    "handedness": "two",
+    "description": "6 quarrels.\n\nFight action: Fire Crossbow: 2. Missiles: costs include enough missiles to outfit the character. Special arrowheads/bolt heads cost 1 rp per head type. Poor quality missiles cost half (rounded up) and are +1 Ob to hit; superior quality missiles cost 3x and grant a +1D balance die.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 557",
+    "skillId": "",
+    "shade": "B"
+   },
+   "sort": 2900,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "644ca1d9fe2c6516",
+   "_key": "!actors.items!3dcbfb4f25a29719.644ca1d9fe2c6516",
+   "folder": null
+  },
+  {
+   "name": "Plated Mail Suit",
+   "type": "armor",
+   "img": "icons/equipment/chest/breastplate-collared-steel-grey.webp",
+   "system": {
+    "pointCost": 20,
+    "quality": "run of the mill",
+    "dice": 5,
+    "hasHelm": true,
+    "damageHelm": 0,
+    "hasTorso": true,
+    "damageTorso": 0,
+    "hasLeftArm": true,
+    "damageLeftArm": 0,
+    "hasRightArm": true,
+    "damageRightArm": 0,
+    "hasLeftLeg": true,
+    "damageLeftLeg": 0,
+    "hasRightLeg": true,
+    "damageRightLeg": 0,
+    "hasShield": false,
+    "damageShield": 0,
+    "description": "Sheet lists clumsy weight as Stealthy +3 Ob, Perception +3 Ob (great helm), Agility +2 Ob, Speed -1D; these values are used.\n\nA full suit of plated mail: 5D armor on every location (+1D on the torso), including a matching helmet (Sallet or Closed Bascinet). Clumsy weight: Agility +2 Ob, Climbing +1 Ob, Health/Forte for fatigue +2 Ob, Throwing and Shooting +2 Ob, Stealthy +2 Ob, Swimming +2 Ob, Speed -1D, Perception/Observation +2 Ob (helmet). Without Armor Training: +2 Ob to all tests.\n\nRun of the mill: only one 1 counts per roll (you can only lose one die at a time).\n\nArmor test: roll the location’s armor dice vs Ob 1 + the weapon’s VA; meet the obstacle and the blow is warded off. The torso (breastplate) always gets +1D. Shields may be included in an armor kit at no extra cost. Pieces may be bought separately: a helmet or breastplate costs half the full suit; arms (greaves) or leggings a third (round up).\n\nSource: Burning Wheel Gold Revised, p. 474",
+    "equipped": true,
+    "untrainedPenalty": "plate",
+    "agilityPenalty": 2,
+    "speedObPenalty": 0,
+    "speedDiePenalty": 1,
+    "climbingPenalty": 1,
+    "healthFortePenalty": 2,
+    "throwingShootingPenalty": 2,
+    "stealthyPenalty": 3,
+    "swimmingPenalty": 2,
+    "perceptionObservationPenalty": 3,
+    "shade": "B"
+   },
+   "sort": 3000,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "963cb0224d5ff80d",
+   "_key": "!actors.items!3dcbfb4f25a29719.963cb0224d5ff80d",
+   "folder": null
+  },
+  {
+   "name": "Riding Horse",
+   "type": "possession",
+   "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+   "system": {
+    "pointCost": 5,
+    "isToolkit": false,
+    "isExpended": false,
+    "description": "A horse, pony, camel and so forth. Basic riding horse: Pe B3(4), Wi B2, Ag B2, Sp B6, Po B6, Fo B6. He B4, St B3, Re B4, MW B12. Hesitation 8. Skills: Rider Training, Foraging B2. Traits: Gelded, Docile, Obedient, Proud, plus Long-Limbed, Keen Hearing, Hooved, Ungulate. Stride 12.\n\nSource: Burning Wheel Gold Revised, p. 203"
+   },
+   "sort": 3100,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "0f705f5267c1960a",
+   "_key": "!actors.items!3dcbfb4f25a29719.0f705f5267c1960a",
+   "folder": null
+  },
+  {
+   "name": "Warhorse (Courser)",
+   "type": "possession",
+   "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+   "system": {
+    "pointCost": 12,
+    "isToolkit": false,
+    "isExpended": false,
+    "description": "Trained to carry its master into battle. Pe B3(4), Wi B2, Ag B4, Sp B6, Po B7, Fo B7. He B5, St B7, Re B4, MW B13. Hesitation 5 (Fearless and Determined). Skills: Rider Training, Mounted Combat Training, Armor Training, Formation Fighting Training, Intimidation B2, Brawling B3, Foraging B2. Traits: Level-Headed, Loyal, Determined, Fearless, Aggressive plus Long-Limbed, Keen Hearing, Hooved, Ungulate. Stride 12.\n\nSource: Burning Wheel Gold Revised, p. 203"
+   },
+   "sort": 3200,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "0981e58694cdc15b",
+   "_key": "!actors.items!3dcbfb4f25a29719.0981e58694cdc15b",
+   "folder": null
+  },
+  {
+   "name": "Clothes",
+   "type": "possession",
+   "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+   "system": {
+    "pointCost": 1,
+    "isToolkit": false,
+    "isExpended": false,
+    "description": "All of the clothing a character needs for everyday life in his station—not just one outfit.\n\nSource: Burning Wheel Gold Revised, p. 203"
+   },
+   "sort": 3300,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "34ad7925643669e4",
+   "_key": "!actors.items!3dcbfb4f25a29719.34ad7925643669e4",
+   "folder": null
+  },
+  {
+   "name": "Shoes",
+   "type": "possession",
+   "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+   "system": {
+    "pointCost": 1,
+    "isToolkit": false,
+    "isExpended": false,
+    "description": "Shoes.\n\nSource: Burning Wheel Gold Revised, p. 203"
+   },
+   "sort": 3400,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "458b9714b733f92d",
+   "_key": "!actors.items!3dcbfb4f25a29719.458b9714b733f92d",
+   "folder": null
+  },
+  {
+   "name": "Traveling Gear",
+   "type": "possession",
+   "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+   "system": {
+    "pointCost": 1,
+    "isToolkit": false,
+    "isExpended": false,
+    "description": "The bits, odds and ends needed for survival on the road—candles, flint and steel, a pocket knife, rain cloak and hat, a sturdy rucksack, belt, purse, warm coat, and a good length of rope.\n\nSource: Burning Wheel Gold Revised, p. 203"
+   },
+   "sort": 3500,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "c8466b785804a6f9",
+   "_key": "!actors.items!3dcbfb4f25a29719.c8466b785804a6f9",
+   "folder": null
+  },
+  {
+   "name": "Dog",
+   "type": "possession",
+   "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+   "system": {
+    "pointCost": 3,
+    "isToolkit": false,
+    "isExpended": false,
+    "description": "A dog, cat or falcon as an accoutrement to the character.\n\nSource: Burning Wheel Gold Revised, p. 204"
+   },
+   "sort": 3600,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "_id": "f09ff30acfbea330",
+   "_key": "!actors.items!3dcbfb4f25a29719.f09ff30acfbea330",
+   "folder": null
+  }
+ ],
+ "effects": [],
+ "folder": "0bae117d8202b011",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "prototypeToken": {
+  "name": "Gunther",
+  "actorLink": true,
+  "disposition": 1
+ },
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

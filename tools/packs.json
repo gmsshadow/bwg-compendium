@@ -54,5 +54,12 @@
   "type": "Actor",
   "count": 24,
   "folders": 4
+ },
+ {
+  "name": "bwg-verdorben-characters",
+  "label": "BWG Verdorben Pregens",
+  "type": "Actor",
+  "count": 6,
+  "folders": 1
  }
 ]
