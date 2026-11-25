@@ -1,0 +1,41 @@
+{
+ "name": "Crazy Witch",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 6,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Peasant, Servitude, Village",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Folklore, Herbalism, Poisons, Summoning, Profanity-wise",
+  "traitList": "A Little Crazy, Gifted, Mark of the Beast",
+  "note": "Source: Burning Wheel Gold Revised, p. 196",
+  "requirements": "Weather Witch, Young Lady, Augur or Midwife",
+  "restrictions": "",
+  "order": 30
+ },
+ "sort": 3000,
+ "_id": "05cb479b827dcffd",
+ "_key": "!items!05cb479b827dcffd",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

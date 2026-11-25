@@ -1,0 +1,49 @@
+{
+ "name": "Torture",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "This is the unsavory skill of inducing pain in a victim in order to have the victim acquiesce to demands or reveal information. To use the skill, the torturer must state—exactly—what he wishes the victim to submit to or reveal. He does not ask a question of his victim. Note that Orces root Torture in Hatred and count the skill as open-ended.\n\nObstacles: Obstacle is equal to the victim’s Will or Forte, whichever is higher. If successful, the victim submits or reveals exactly what the torturer stated in his intent. The victim also acquires a debilitating trait equal in value to the obstacle of the Torture test—Maimed, Missing Eye, etc. Yes, the more willful you are, the worse the trait. If the test is failed, the GM can cause the victim injury or death, or grant him a beneficial trait to resist privation, torture or interrogation.\n\nFoRKs: Anatomy, Surgery, Interrogation\n\nSkill Type: Special. Tools: Yes.\n\nRoot: Will/Per/Hatred\n\nBook root includes Hatred, which the system cannot use as a root; the remaining stat is used instead.\n\nSource: Burning Wheel Gold Revised, p. 304",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "ac724e1799772f9c",
+ "_key": "!items!ac724e1799772f9c",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

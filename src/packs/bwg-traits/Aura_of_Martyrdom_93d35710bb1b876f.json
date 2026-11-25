@@ -1,0 +1,50 @@
+{
+ "name": "Aura of Martyrdom",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "name": "",
+  "traittype": "die",
+  "text": "He will die for our sins. We all know it. We all want it (not that we would do anything to speed the process along…). In him we shall be redeemed. The player whose character possesses this trait earns persona artha for personal goals when taking steps in the game to martyr his character. The character must die for a lost cause—preferably religious. Should this glorious death transpire, the character’s remains instantly become holy relics. The first person to gather up those remains is granted all of the martyr’s remaining artha. If he had no artha left at the time of his death, the relic grants a deeds point to its new owner. Lastly, after the artha/deeds point is spent from the remains, they become a suitable matrix for Enchanting. See the Enchanting rules in the Codex.\n\nType: Dt (die trait). Cost: 3 pts.\n\nSource: Burning Wheel Gold Revised, p. 313",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "93d35710bb1b876f",
+ "_key": "!items!93d35710bb1b876f",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

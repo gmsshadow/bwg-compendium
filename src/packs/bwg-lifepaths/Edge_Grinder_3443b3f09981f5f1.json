@@ -1,0 +1,41 @@
+{
+ "name": "Edge Grinder",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 15,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Black Legion",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Mending, Weaponsmith, Armorer, Tanner",
+  "traitList": "Suspicious",
+  "note": "Source: Burning Wheel Gold Revised, p. 229",
+  "requirements": "He Who Grinds the Edges of Our Axes to Glinting Sharpness requires Forger",
+  "restrictions": "",
+  "order": 12
+ },
+ "sort": 1200,
+ "_id": "3443b3f09981f5f1",
+ "_key": "!items!3443b3f09981f5f1",
+ "folder": "c895093c1fafb10e",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

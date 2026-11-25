@@ -1,0 +1,49 @@
+{
+ "name": "Doom Sayer",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "Doom Sayer bestows the arrogant power to judge the fate of another. It isn’t quite a song; It’s a powerful pronouncement, spoken in meter and rhyme, that evokes a forceful and binding magic.\n\nIf a doom is successfully uttered, the Etharch may change one of the target character’s Beliefs so that it reflects the destiny. However, the Etharch must also change one of his Beliefs to that very same doom. Playing the Belief earns artha as per normal. Dooms involve exile, punishment, a vow of vengeance, an oath of enmity, etc. Fulfilling the doom earns a deeds point for the doomed character. If the Doom involves the character’s death, the artha is transferred to the player’s next character.\n\nObstacle: 1 + the Will of the Doomed\n\nActions: Variable. The time it takes to speak the doom.\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 146",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "c7810b1e10d723c2",
+ "_key": "!items!c7810b1e10d723c2",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

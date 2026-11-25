@@ -1,0 +1,41 @@
+{
+ "name": "Lieutenant",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 65,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Paean of Deeds, Command, Sword, Shield Training, Formation Fighting",
+  "traitList": "Ear to the Ground",
+  "note": "Source: Burning Wheel Gold Revised, p. 137",
+  "requirements": "Sword Singer, Lancer, Sea Captain or two Bowyer/Spearbearer lifepaths",
+  "restrictions": "",
+  "order": 9
+ },
+ "sort": 900,
+ "_id": "a397e6485a27e368",
+ "_key": "!items!a397e6485a27e368",
+ "folder": "34ca3eb13c86f59f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

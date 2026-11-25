@@ -1,0 +1,444 @@
+{
+ "_id": "a5c36f07e2bd6184",
+ "name": "Dwarven Clansman Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Clansman Setting lifepaths for Dwarven characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Clansman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 10,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Guilder",
+    "skillPoints": 0,
+    "generalPoints": 3,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 110",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "2e309ee89c60420b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!a5c36f07e2bd6184.2e309ee89c60420b"
+  },
+  {
+   "name": "Tender",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 7,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Guilder, Host",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Farming, Crop-wise, Hills-wise",
+    "traitList": "Cursing",
+    "note": "Source: Burning Wheel Gold Revised, p. 110",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "82841fed0f2dbca5",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!a5c36f07e2bd6184.82841fed0f2dbca5"
+  },
+  {
+   "name": "Herder",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 9,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Guilder, Host",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Animal Husbandry, Flock-wise, Fence Building, Climbing",
+    "traitList": "Booming Voice, Affinity for Sheep and Goats",
+    "note": "Source: Burning Wheel Gold Revised, p. 110",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "15fae0cff24ed7d6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!a5c36f07e2bd6184.15fae0cff24ed7d6"
+  },
+  {
+   "name": "Tinkerer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 35,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Guilder, Outcast",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Stuff-wise, Mending, Scavenging",
+    "traitList": "Curious, Tinkerer",
+    "note": "Source: Burning Wheel Gold Revised, p. 110",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "d56fb4667457e308",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!a5c36f07e2bd6184.d56fb4667457e308"
+  },
+  {
+   "name": "Delver",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Guilder, Host",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Tunnel-wise, Gas Pocket-wise, Excavation",
+    "traitList": "Deep Sense",
+    "note": "Source: Burning Wheel Gold Revised, p. 110",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "8ada8803fae73894",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!a5c36f07e2bd6184.8ada8803fae73894"
+  },
+  {
+   "name": "Miller",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 30,
+    "resources": 30,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Guilder, Host",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Grain Appraisal, Miller, Mending, Brewer, Grain-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 110",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "870fd35d2044fce6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!a5c36f07e2bd6184.870fd35d2044fce6"
+  },
+  {
+   "name": "Brewer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 40,
+    "resources": 40,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Guilder, Host, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Beer Appraisal, Nogger, Miller, Beer-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 110",
+    "requirements": "Miller, Longbeard, Seneschal, Captain or Drunk",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "3e0e81ca6e90155b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!a5c36f07e2bd6184.3e0e81ca6e90155b"
+  },
+  {
+   "name": "Foreman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 35,
+    "resources": 25,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Guilder, Host, Artificer",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Ore-wise, Vein-wise, Engineering",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 110",
+    "requirements": "Delver, Artificer’s Ardent or Engineer",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "b0e222883aa177a8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!a5c36f07e2bd6184.b0e222883aa177a8"
+  },
+  {
+   "name": "Husband/Wife",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 70,
+    "resources": 18,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Guilder, Host, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Clan-wise, Family-wise, Haggling, Soothing Platitudes",
+    "traitList": "Dispute-Settler, Pragmatic Outlook",
+    "note": "Source: Burning Wheel Gold Revised, p. 110",
+    "requirements": "",
+    "restrictions": "Husband/Wife cannot be the character’s second lifepath",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "ebf1eb3b08f32934",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!a5c36f07e2bd6184.ebf1eb3b08f32934"
+  },
+  {
+   "name": "Longbeard",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 77,
+    "resources": 30,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Host, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Coarse Persuasion, Ugly Truth, Guilder-wise, Host-wise",
+    "traitList": "Folksy Wisdom, Oathswearer",
+    "note": "Source: Burning Wheel Gold Revised, p. 111",
+    "requirements": "Foreman, Graybeard, Artificer, Trader, Seneschal, Adventurer or Husband/Wife",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "cf2652c20caab329",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!a5c36f07e2bd6184.cf2652c20caab329"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Clansman Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!a5c36f07e2bd6184",
+ "folder": "02a8bf34a0b4974f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

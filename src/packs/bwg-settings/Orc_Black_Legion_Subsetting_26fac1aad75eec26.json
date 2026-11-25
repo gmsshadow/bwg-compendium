@@ -1,0 +1,526 @@
+{
+ "_id": "26fac1aad75eec26",
+ "name": "Orc Black Legion Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Black Legion Subsetting lifepaths for Orc characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Goblin",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 2,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Foraging, Brawling",
+    "traitList": "Tasting the Lash, Exhaustion, Running (Away), Charging Blindly, Marching",
+    "note": "Source: Burning Wheel Gold Revised, p. 231",
+    "requirements": "",
+    "restrictions": "Born Great Orcs may not take this path",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "e9e7eb59a5032c77",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.e9e7eb59a5032c77"
+  },
+  {
+   "name": "Sun Blotter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 3,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Bow, Mending, Fletcher",
+    "traitList": "Hiding, Running (Away)",
+    "note": "Source: Burning Wheel Gold Revised, p. 231",
+    "requirements": "",
+    "restrictions": "Born Great Orcs may not take this path",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "aae9a9756c564a43",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.aae9a9756c564a43"
+  },
+  {
+   "name": "Nightseeker",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 4,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Orienteering, Tracking, Trapper, Stealthy, Climbing, Garrote",
+    "traitList": "Tasting the Lash",
+    "note": "Source: Burning Wheel Gold Revised, p. 231",
+    "requirements": "He Who Lurks in the Twilight and Seeks Our Enemies requires Legioner, Sun Blotter, Scavenger or Ravager",
+    "restrictions": "Born Great Orcs may not take this path",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "2e9ef40957af4ba0",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.2e9ef40957af4ba0"
+  },
+  {
+   "name": "Legioner",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Spear, Shield Training, Brawling, Foraging",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 231",
+    "requirements": "Ravager, Whipmaster or Goblin",
+    "restrictions": "Born Great Orcs may not take this path",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "6ae3f87d094e84f5",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.6ae3f87d094e84f5"
+  },
+  {
+   "name": "Hatred Bearer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 15,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Conspicuous, Black Legion-wise",
+    "traitList": "Psychotic, Paranoid, Booming Voice",
+    "note": "Source: Burning Wheel Gold Revised, p. 231",
+    "requirements": "The Rites, Legioner or Whipmaster",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "074db9e94b686cef",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.074db9e94b686cef"
+  },
+  {
+   "name": "Despair Shouter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Brazen Horn of Despair, Intimidation, Brawling",
+    "traitList": "Reviled",
+    "note": "Source: Burning Wheel Gold Revised, p. 231",
+    "requirements": "The Rites, Legioner or Whipmaster",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "09739c3afdce62c8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.09739c3afdce62c8"
+  },
+  {
+   "name": "Black Hunter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Bow, Hunting, Field Dressing, Stealthy",
+    "traitList": "Black Bile Poison",
+    "note": "Source: Burning Wheel Gold Revised, p. 231",
+    "requirements": "He Who Is Fell and Stalks the Night requires Follower, Ravager or Nightseeker",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "3a4b277d57650c0a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.3a4b277d57650c0a"
+  },
+  {
+   "name": "Astride the Beast",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 6,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Chattel, Great and Black",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Mounted Combat Training, Riding, Great Wolf Husbandry, Intimidation, Spear, Armor Training",
+    "traitList": "Brash, Cry of Doom",
+    "note": "Source: Burning Wheel Gold Revised, p. 232",
+    "requirements": "He Who Sits Astride the Howling Black Beast requires Black Hunter or Follower",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "dcc4fa2232c8c59a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.dcc4fa2232c8c59a"
+  },
+  {
+   "name": "Bears the Lash",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 9,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Chattel, Great and Black",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Whip-Wise, Intimidation, Torture, Command, Sword, Brawling",
+    "traitList": "Where There’s a Whip‚ There’s a Way",
+    "note": "Source: Burning Wheel Gold Revised, p. 232",
+    "requirements": "He Who Bears the Lash and Drives Us Ever On requires Whipmaster, Black Hunter, Astride the Beast or The Rites",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "adc459417d9b250d",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.adc459417d9b250d"
+  },
+  {
+   "name": "Packmaster",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 10,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Chattel, Great and Black",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Great Wolf Husbandry, Great Wolf-wise, Pack-wise, Mending",
+    "traitList": "Flea-Bitten, Where There’s a Whip‚ There’s a Way, Show No Fear",
+    "note": "Source: Burning Wheel Gold Revised, p. 232",
+    "requirements": "He Who Rules the Black Wolf Pack requires Bears the Lash, Follower, Whipmaster, Master of Eight or Knower of Secrets",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "45945af7a6a343d1",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.45945af7a6a343d1"
+  },
+  {
+   "name": "Head Taker",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 15,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Chattel, Great and Black",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Command, Brutal Intimidation, Axe, Brawling",
+    "traitList": "Unrelenting Savagery, Fondness for Elven Blood, Taste for Man-Flesh",
+    "note": "Source: Burning Wheel Gold Revised, p. 232",
+    "requirements": "He Who Cleaves the Heads of His Enemies From Their Shoulders and Sets Them Upon Stakes for All to See requires Bears the Lash, Black Destroyer or Named",
+    "restrictions": "",
+    "order": 10
+   },
+   "sort": 1000,
+   "_id": "e589a46a825b42ca",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.e589a46a825b42ca"
+  },
+  {
+   "name": "Troll Lord",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 20,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Great and Black, Servant",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Troll-wise, Troll Etiquette, Hammer, Shield Training",
+    "traitList": "Arrogant, Troll Speak",
+    "note": "Source: Burning Wheel Gold Revised, p. 232",
+    "requirements": "Bears the Lash, Pack Master or Named",
+    "restrictions": "",
+    "order": 11
+   },
+   "sort": 1100,
+   "_id": "4532e1a8aeb542cd",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!26fac1aad75eec26.4532e1a8aeb542cd"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Black Legion Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!26fac1aad75eec26",
+ "folder": "5ece4b6701524c4b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

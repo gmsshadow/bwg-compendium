@@ -1,0 +1,49 @@
+{
+ "name": "Insect Husbandry",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "Insect Husbandry is the art of raising and caring for our six-legged friends.\n\nObstacles: Ants, Ob 1. Bees, Ob 2. Silkworms, Ob 3. Exotic bugs, Ob 4. Tending to wounds and illness, use the Apothecary skill obstacles.\n\nSkill Type: Forester. Tools: Yes.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 278",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "e468cb12e6f0c61e",
+ "_key": "!items!e468cb12e6f0c61e",
+ "folder": "1b5eb4a289f022d3",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

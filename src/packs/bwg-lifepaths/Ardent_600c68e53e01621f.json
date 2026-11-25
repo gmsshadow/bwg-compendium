@@ -1,0 +1,41 @@
+{
+ "name": "Ardent",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 21,
+  "resources": 15,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Clansman, Noble, Host, Guilder",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Firebuilding, Soothing Platitudes, Soot-wise",
+  "traitList": "Humility, Hard Work",
+  "note": "Source: Burning Wheel Gold Revised, p. 112",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1
+ },
+ "sort": 100,
+ "_id": "600c68e53e01621f",
+ "_key": "!items!600c68e53e01621f",
+ "folder": "5e3044c64f85d4dc",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

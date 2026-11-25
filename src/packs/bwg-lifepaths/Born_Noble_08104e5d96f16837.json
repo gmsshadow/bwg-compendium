@@ -1,0 +1,41 @@
+{
+ "name": "Born Noble",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 21,
+  "resources": 10,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Guilder, Artificer",
+  "skillPoints": 2,
+  "generalPoints": 4,
+  "traitPoints": 2,
+  "skillList": "Dwarven Rune Script",
+  "traitList": "Dvergar",
+  "note": "Source: Burning Wheel Gold Revised, p. 113",
+  "requirements": "",
+  "restrictions": "",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "08104e5d96f16837",
+ "_key": "!items!08104e5d96f16837",
+ "folder": "6e837e6031f2b2dd",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

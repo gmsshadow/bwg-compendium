@@ -1,0 +1,49 @@
+{
+ "name": "Dance",
+ "type": "skill",
+ "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "speed",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "physical",
+  "training": false,
+  "magical": false,
+  "description": "The art of moving the body in time with rhythm in an expressive manner.\n\nObstacles: Simple folk dance, Ob 1. Proper, polite dance, Ob 2. Formal or seductive dance, Ob 3. Complex or ritualistic dance, Ob 4. Arcane or cabalistic dance, Ob 5.\n\nFoRKs: Acting, Seduction\n\nSkill Type: Physical. Tools: No.\n\nRoot: Speed\n\nSource: Burning Wheel Gold Revised, p. 267",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "1bc255aca9eb756c",
+ "_key": "!items!1bc255aca9eb756c",
+ "folder": "e8af22e8c7d53138",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

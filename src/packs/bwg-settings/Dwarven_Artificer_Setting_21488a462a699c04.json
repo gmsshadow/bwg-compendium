@@ -1,0 +1,362 @@
+{
+ "_id": "21488a462a699c04",
+ "name": "Dwarven Artificer Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Artificer Setting lifepaths for Dwarven characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Artificer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 15,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Clansman",
+    "skillPoints": 2,
+    "generalPoints": 3,
+    "traitPoints": 1,
+    "skillList": "Dwarven Rune Script",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 112",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "f0f7d7831ad9ce01",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!21488a462a699c04.f0f7d7831ad9ce01"
+  },
+  {
+   "name": "Ardent",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 21,
+    "resources": 15,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Clansman, Noble, Host, Guilder",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Firebuilding, Soothing Platitudes, Soot-wise",
+    "traitList": "Humility, Hard Work",
+    "note": "Source: Burning Wheel Gold Revised, p. 112",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "7974a951192a6e88",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!21488a462a699c04.7974a951192a6e88"
+  },
+  {
+   "name": "Tyro Artificer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 21,
+    "resources": 20,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Guilder, Host, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Black Metal Artifice, Mending, Dwarven Art-wise",
+    "traitList": "Determined",
+    "note": "Source: Burning Wheel Gold Revised, p. 112",
+    "requirements": "Artificer’s Ardent or Journeyman",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "4dc5d3abd76584ec",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!21488a462a699c04.4dc5d3abd76584ec"
+  },
+  {
+   "name": "Artificer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 30,
+    "resources": 35,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Outcast, Host",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Stone Artifice, Etching, White Metal Artifice, Gem Artifice",
+    "traitList": "Stolid",
+    "note": "Source: Burning Wheel Gold Revised, p. 112",
+    "requirements": "Tyro or Craftsman",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "7ac4c7bd8d638cdd",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!21488a462a699c04.7ac4c7bd8d638cdd"
+  },
+  {
+   "name": "Mask Bearer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 55,
+    "resources": 50,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Outcast, Host, Noble",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Jargon, Fire and Steel-wise, War Art",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 112",
+    "requirements": "Artificer",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "060135cc0eab4e37",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!21488a462a699c04.060135cc0eab4e37"
+  },
+  {
+   "name": "Master of Arches",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 75,
+    "resources": 75,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Outcast, Host",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Lithography, Sculpture, Hallmaster, Symbology, Etiquette",
+    "traitList": "Confident, Patient",
+    "note": "Source: Burning Wheel Gold Revised, p. 112",
+    "requirements": "Artificer",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "04e04e9f4b79aef9",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!21488a462a699c04.04e04e9f4b79aef9"
+  },
+  {
+   "name": "Master of Forges",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 75,
+    "resources": 75,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Outcast, Host",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Forge Artifice, Appraisal, Engineering, Command, Maker’s Mark-wise",
+    "traitList": "Meticulous, Estimation",
+    "note": "Source: Burning Wheel Gold Revised, p. 112",
+    "requirements": "Mask Bearer",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "06479a75d45f83ec",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!21488a462a699c04.06479a75d45f83ec"
+  },
+  {
+   "name": "Master Engraver",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 100,
+    "resources": 60,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Outcast, Host",
+    "skillPoints": 4,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "Reason of Old Stone, Stone-wise, Mountain-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 112",
+    "requirements": "Master of Arches",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "cd76ab8194df6311",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!21488a462a699c04.cd76ab8194df6311"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Artificer Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!21488a462a699c04",
+ "folder": "02a8bf34a0b4974f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

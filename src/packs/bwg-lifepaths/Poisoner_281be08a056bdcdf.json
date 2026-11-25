@@ -1,0 +1,41 @@
+{
+ "name": "Poisoner",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 8,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Villager, Court",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Poisons, Cooking, Inconspicuous, Disguise",
+  "traitList": "Off-Kilter",
+  "note": "Source: Burning Wheel Gold Revised, p. 195",
+  "requirements": "",
+  "restrictions": "",
+  "order": 20
+ },
+ "sort": 2000,
+ "_id": "281be08a056bdcdf",
+ "_key": "!items!281be08a056bdcdf",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

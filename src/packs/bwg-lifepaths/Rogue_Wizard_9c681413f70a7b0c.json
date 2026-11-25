@@ -1,0 +1,41 @@
+{
+ "name": "Rogue Wizard",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 24,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Servitude, Seafarer, Religious",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Sorcery, Inconspicuous, Graveyard-wise, Astrology, Bloodletting, Ugly Truth, Apocalypse-wise, Enchanting, Alchemy",
+  "traitList": "Spooky, Aura of Fear, Obscure Aura",
+  "note": "Source: Burning Wheel Gold Revised, p. 196",
+  "requirements": "Cultist, Augur, Neophyte Sorcerer or Arcane Devotee",
+  "restrictions": "",
+  "order": 29
+ },
+ "sort": 2900,
+ "_id": "9c681413f70a7b0c",
+ "_key": "!items!9c681413f70a7b0c",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

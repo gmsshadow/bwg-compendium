@@ -1,0 +1,49 @@
+{
+ "name": "Meditation",
+ "type": "skill",
+ "img": "icons/sundries/books/book-worn-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "schoolofthought",
+  "training": false,
+  "magical": false,
+  "description": "First and foremost, Meditation is a way for a character to calm and center himself. It is both rest and a method for divining solutions to problems via deep thought.\n\nWhile meditating, a character is vaguely aware of his surroundings—cognizant of changes in the environment like noise or the presence of someone near him. He may make Perception/Observation tests to detect Stealthy characters.\n\nA Sorcerer can maintain any spells he is currently sustaining while meditating. He must retest Tax as per The Power Still Flows Through Him rules in the Burning Wheel.\n\nObstacles: Meditation can be used in place of sleep for rest. Each hour of meditation counts as an hour of rest for the purposes of recovering from wounds and tax. This is an Ob 1 test plus 1 per additional hour meditated. For example, meditating for 4 hours is an Ob 4 test. Failing the test indicates that the character falls asleep at some point. Using Meditation, a character may “center” before taking a test for another skill. This is a linked skill test. When centering for a versus test or detailed conflict, make a versus test between the Meditation skill and the opponent’s skill. If Meditation wins, the character earns a +1D advantage.\n\nSkill Type: School of Thought. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 283",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "3c513fb5771c3cba",
+ "_key": "!items!3c513fb5771c3cba",
+ "folder": "56d9f04d80593b17",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

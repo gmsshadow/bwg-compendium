@@ -1,0 +1,23 @@
+{
+ "_id": "f5ef0d169108ef27",
+ "_key": "!folders!f5ef0d169108ef27",
+ "name": "Dwarven",
+ "type": "Item",
+ "folder": "e1f85fbc45578e69",
+ "sorting": "a",
+ "sort": 0,
+ "color": null,
+ "description": "",
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

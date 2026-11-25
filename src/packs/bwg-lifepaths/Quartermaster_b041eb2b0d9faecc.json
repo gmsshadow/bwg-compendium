@@ -1,0 +1,41 @@
+{
+ "name": "Quartermaster",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 17,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Villager, City Dweller, Court",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Administration, Accounting, Haggling, Logistics",
+  "traitList": "Light Sleeper",
+  "note": "Source: Burning Wheel Gold Revised, p. 189",
+  "requirements": "Sergeant, Veteran, Steward, Ship’s Captain, Captain of the Guard, Merchant, Man-at-Arms, Smuggler, Constable or Lord",
+  "restrictions": "",
+  "order": 19
+ },
+ "sort": 1900,
+ "_id": "b041eb2b0d9faecc",
+ "_key": "!items!b041eb2b0d9faecc",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

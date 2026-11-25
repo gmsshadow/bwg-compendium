@@ -1,0 +1,23 @@
+{
+ "_id": "67e8f959cf38c646",
+ "_key": "!folders!67e8f959cf38c646",
+ "name": "Lifepath Wises",
+ "type": "Item",
+ "folder": "1070d662da139e5b",
+ "sorting": "a",
+ "sort": 0,
+ "color": null,
+ "description": "",
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

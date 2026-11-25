@@ -1,0 +1,52 @@
+{
+ "name": "Force of Will",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 22,
+  "variableObstacle": true,
+  "variableObstacleDescription": "6+Will",
+  "obstacle": 0,
+  "upSpell": false,
+  "actions": 133,
+  "description": "The most foul sorcerous power is that of twisting man’s will. This spell allows the mage to implant forceful commands into the victim’s mind. The words of the mage become thoughts—as if the victim had formulated them himself. This is a very powerful spell. The words of the sorcerer are permanently embedded into the mind of the victim. They resonate against the character’s personality for the rest of his days. The sorcerer may rewrite one Belief. That Belief may not be changed without use of another Force of Will spell.\n\nObstacle: 6+Will. Actions: 133.\n\nOrigin: Presence | Area of Effect: Single Target | Element: Anima | Impetus: Control | Duration: Permanent | Resource Points: 22\n\nSource: Burning Wheel Gold Revised, p. 213",
+  "origin": "Presence",
+  "areaOfEffect": "Single Target",
+  "element": "Anima",
+  "impetus": "Control",
+  "duration": "Permanent",
+  "rpCost": 22,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "c322df98c08345a6",
+ "_key": "!items!c322df98c08345a6",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

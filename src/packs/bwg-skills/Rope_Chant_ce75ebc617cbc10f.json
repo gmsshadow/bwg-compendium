@@ -1,0 +1,49 @@
+{
+ "name": "Rope Chant",
+ "type": "skill",
+ "img": "icons/tools/nautical/anchor-blue-orange.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "agility",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "seafaring",
+  "training": false,
+  "magical": true,
+  "description": "This curious song teaches the art of weaving ropes and tying knots. It also grants the Elf a chance at unravelling any knot or tangle, no matter how complex. The skill acts as Knots, with additional abilities as described by the obstacles below.\n\nFabled Elven rope may be created by combining this song with Antiphon Union, Rhyme of Rules and the Song of Merriment.\n\nObstacles: Repairing rope, Ob 1. Weaving regular ol’ rope, Ob 2. Weaving Elven rope, Ob 5. Untangling a twist, Ob 1. Undoing a snarl, Ob 2. Unbinding a deliberate and forceful knot, Ob 3. Deciphering a mind-bending tangle, Ob 4. Gordian Knot, Ob 5.\n\nFoRKs: Threading Chant, Rhyme of Rules, Rhyme of the Mariner\n\nSkill Type: Seafarer. Tools: Traveling Gear or Elven Rope.\n\nRestrictions: Elves only\n\nRoot: Agility (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 292",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "ce75ebc617cbc10f",
+ "_key": "!items!ce75ebc617cbc10f",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

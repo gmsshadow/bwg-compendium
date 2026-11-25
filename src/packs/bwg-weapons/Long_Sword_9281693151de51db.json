@@ -1,0 +1,44 @@
+{
+ "name": "Long Sword",
+ "type": "melee weapon",
+ "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+ "system": {
+  "pointCost": 5,
+  "quality": "run of the mill",
+  "handedness": "one",
+  "description": "Run of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 554",
+  "skillId": "",
+  "shade": "B",
+  "baseOb": 1,
+  "attacks": [
+   {
+    "attackName": "",
+    "power": 3,
+    "add": 2,
+    "vsArmor": 0,
+    "weaponSpeed": "3",
+    "weaponLength": "long"
+   }
+  ]
+ },
+ "_id": "9281693151de51db",
+ "_key": "!items!9281693151de51db",
+ "folder": "3daf6ab2e88a0bd3",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

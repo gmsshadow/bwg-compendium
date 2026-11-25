@@ -1,0 +1,49 @@
+{
+ "name": "Poetry",
+ "type": "skill",
+ "img": "icons/skills/trades/music-notes-sound-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "musical",
+  "training": false,
+  "magical": false,
+  "description": "Poetry allows the expression of ideas and emotions through metered verse.\n\nObstacles: Doggerel or crass verse, Ob 1. Atmospheric verse, Ob 2. Expressing sadness or tragedy, Ob 3. Expressing love, Ob 4. Expressing a truth or mystery about life, Ob 5. Mimicking another’s style, +1 Ob.\n\nFoRKs: Sing\n\nSkill Type: Musical. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 288",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "daca1cccbb2c3215",
+ "_key": "!items!daca1cccbb2c3215",
+ "folder": "e6960b31d5a13b1f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

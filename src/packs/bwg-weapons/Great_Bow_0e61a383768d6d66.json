@@ -1,0 +1,45 @@
+{
+ "name": "Great Bow",
+ "type": "ranged weapon",
+ "img": "icons/weapons/bows/longbow-recurve-brown.webp",
+ "system": {
+  "pointCost": 10,
+  "quality": "run of the mill",
+  "hasGunpowder": false,
+  "usePower": false,
+  "powerBonus": 0,
+  "incidental": 4,
+  "incidentalRoll": 2,
+  "mark": 8,
+  "markRoll": 4,
+  "superb": 12,
+  "vsArmor": 2,
+  "optimalRange": 2,
+  "extremeRange": 4,
+  "maxRange": "300 paces",
+  "handedness": "two",
+  "description": "Fight action: Nock and Draw: 7. Missiles: costs include enough missiles to outfit the character. Special arrowheads/bolt heads cost 1 rp per head type. Poor quality missiles cost half (rounded up) and are +1 Ob to hit; superior quality missiles cost 3x and grant a +1D balance die.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 557",
+  "skillId": "",
+  "shade": "B"
+ },
+ "_id": "0e61a383768d6d66",
+ "_key": "!items!0e61a383768d6d66",
+ "folder": "548b0082adaa401b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

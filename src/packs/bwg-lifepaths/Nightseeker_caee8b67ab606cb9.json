@@ -1,0 +1,41 @@
+{
+ "name": "Nightseeker",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 4,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Chattel",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Orienteering, Tracking, Trapper, Stealthy, Climbing, Garrote",
+  "traitList": "Tasting the Lash",
+  "note": "Source: Burning Wheel Gold Revised, p. 231",
+  "requirements": "He Who Lurks in the Twilight and Seeks Our Enemies requires Legioner, Sun Blotter, Scavenger or Ravager",
+  "restrictions": "Born Great Orcs may not take this path",
+  "order": 2
+ },
+ "sort": 200,
+ "_id": "caee8b67ab606cb9",
+ "_key": "!items!caee8b67ab606cb9",
+ "folder": "cbebdc53fd4cf69b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

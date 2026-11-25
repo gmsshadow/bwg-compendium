@@ -1,0 +1,49 @@
+{
+ "name": "Servant-wise",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "The prime mystery of the Servants is the nature of their own cult. They are part of an internecine hierarchy governed by laws and customs apart from the clan.\n\nFoRKs: Great and Black-wise\n\nSkill Type: Wise. Tools: No.\n\nRestrictions: Orcs only in character burning\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 295",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Orcs only in character burning"
+ },
+ "_id": "a700a3261c9d7891",
+ "_key": "!items!a700a3261c9d7891",
+ "folder": "1070d662da139e5b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Grudgekeeper",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "This character contains within him the capacity to maintain terrible enmity for perceived slights. He swears grudges like others swear oaths. The Grudgekeeper trait allows the player to replace his Oathsworn Belief with a Grudge. Rather than a promise or an oath, he swears revenge. Grudges follow the same mechanic as oaths. If the character has the Oathswearer trait, it combines with Grudgekeeper. He may only pronounce grudges—rather than oaths—between two characters. They must write them into their Beliefs as if they were oaths.\n\nType: Dt (die trait). Cost: 1 pt.\n\nRestrictions: Dwarves only, special trait\n\nSource: Burning Wheel Gold Revised, p. 328",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Dwarves only, special trait"
+ },
+ "_id": "ad2529ea7f6fae6f",
+ "_key": "!items!ad2529ea7f6fae6f",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

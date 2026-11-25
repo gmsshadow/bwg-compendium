@@ -1,0 +1,31 @@
+{
+ "name": "Dwarven Tools",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 10,
+  "isToolkit": true,
+  "isExpended": false,
+  "description": "Per set. Every Master Artificer builds and maintains his own tools. Dwarven Tools (of any type) provide +1D of equipment dice when used with the appropriate skill.\n\nSource: Burning Wheel Gold Revised, p. 127"
+ },
+ "_id": "d3e1790b92a7597b",
+ "_key": "!items!d3e1790b92a7597b",
+ "folder": "f5ef0d169108ef27",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

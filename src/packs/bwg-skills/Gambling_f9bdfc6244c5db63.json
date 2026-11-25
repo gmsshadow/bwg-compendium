@@ -1,0 +1,49 @@
+{
+ "name": "Gambling",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "This skill represents the character’s skill, knowledge and luck with gambling. To use this skill, first make a wager or set a prize: an item, animal, piece of property or cash generated from a Resources test. Then make a versus test against another gambler. The winner walks away with the prize.\n\nFoRKs: Strategy Games\n\nSkill Type: Special. Tools: Traveling Gear.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 275",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "f9bdfc6244c5db63",
+ "_key": "!items!f9bdfc6244c5db63",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

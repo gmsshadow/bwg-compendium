@@ -1,0 +1,41 @@
+{
+ "name": "Groom",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 7,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Peasant, City Dweller, Soldier",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Animal Husbandry, Riding, Mending, Horse-wise, Road-wise",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 166",
+  "requirements": "",
+  "restrictions": "",
+  "order": 5
+ },
+ "sort": 500,
+ "_id": "104230bd9de36dab",
+ "_key": "!items!104230bd9de36dab",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

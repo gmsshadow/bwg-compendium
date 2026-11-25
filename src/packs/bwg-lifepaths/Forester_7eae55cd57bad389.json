@@ -1,0 +1,41 @@
+{
+ "name": "Forester",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 9,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Peasant, Soldier, Villager, Outcast",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Observation, Orienteering, Foraging, Survival, Tracking, Trapper, Cudgel, Staff, Bow, Poacher-wise, Park-wise",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 180",
+  "requirements": "",
+  "restrictions": "",
+  "order": 8
+ },
+ "sort": 800,
+ "_id": "7eae55cd57bad389",
+ "_key": "!items!7eae55cd57bad389",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

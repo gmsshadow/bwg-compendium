@@ -1,0 +1,49 @@
+{
+ "name": "Foreign Languages",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "A character with this skill has learned foreign languages over the course of his life. Test this skill when attempting to communicate with another character in a language that is not your native tongue.\n\nThere are constraints based on which level of speech you aim for. You can cover basic ground with survival/conversational language, but there are whole swaths of meaning that are simply beyond your grasp if you can’t express ideas in metaphor or other abstract concepts. Good luck expressing the meaning behind your actions.\n\nHere are some suggested failure results: The character is able to communicate, but screws up the words for numbers, ordinal directions, etc. Or the character can understand what is said, but can’t make his speech understood. Or you can only use single words and gestures to get across your meaning.\n\nObstacles: Close dialect to your native tongue, Ob 1. Obscure or thick dialect of your native tongue, Ob 2. Simple or related language, Ob 2. Difficult language, Ob 3. Complex language, Ob 4. Mystical/esoteric language, Ob 5.\n\nConditional modifiers: Using gestures, pointing, visual references, +1D. Survival language/conversational language, No penalty. Philosophical/abstract concepts, +2 Ob. Formal/ritualistic concepts: +1 Ob. Dead language: +1 Ob.\n\nSkill Type: Social. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 273",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "f3bffd399a92143f",
+ "_key": "!items!f3bffd399a92143f",
+ "folder": "5a85450a27640cfe",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

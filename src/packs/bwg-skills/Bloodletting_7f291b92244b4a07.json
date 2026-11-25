@@ -1,0 +1,49 @@
+{
+ "name": "Bloodletting",
+ "type": "skill",
+ "img": "icons/magic/life/cross-yellow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "medicinal",
+  "training": false,
+  "magical": false,
+  "description": "Bloodletters believe that when a person is ill, his blood is contaminated with disease and impurities. By draining blood from the system, the bloodletter seeks to purify him. Perhaps surprisingly, bloodletters are adept at stopping bleeding.\n\nObstacles: See the Anatomy of Injury chapter.\n\nFoRKs: Apothecary, Surgery\n\nSkill Type: Medicinal. Tools: Yes.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 260",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "7f291b92244b4a07",
+ "_key": "!items!7f291b92244b4a07",
+ "folder": "cd5e691070d2d04b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

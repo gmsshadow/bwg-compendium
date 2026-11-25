@@ -1,0 +1,813 @@
+{
+ "_id": "043d061d4e54db1b",
+ "name": "Human Peasant Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Peasant Setting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Peasant",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Serv., Soldier, Sea, Religious",
+    "skillPoints": 0,
+    "generalPoints": 3,
+    "traitPoints": 2,
+    "skillList": "",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 163",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "ce9d7e4432b8b9c4",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.ce9d7e4432b8b9c4"
+  },
+  {
+   "name": "Farmer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Villager, Soldier, Serv.",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Farming, Mending, Animal Husbandry, Weaving, Cooking, Sewing, Firebuilding, Sing",
+    "traitList": "Hoarding",
+    "note": "Source: Burning Wheel Gold Revised, p. 163",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "fad13508c1307dd2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.fad13508c1307dd2"
+  },
+  {
+   "name": "Head of Household",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 20,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Villager, Soldier",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Carpentry, Hunting, Haggling, Almanac",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 163",
+    "requirements": "",
+    "restrictions": "may not be the character’s second lifepath",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "070f16ac40c0a1a8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.070f16ac40c0a1a8"
+  },
+  {
+   "name": "Midwife",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Villager, Outcast",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Animal Husbandry, Herbalism, Midwifery, Omen-wise",
+    "traitList": "Bedside Manner",
+    "note": "Source: Burning Wheel Gold Revised, p. 163",
+    "requirements": "any female gender-specific lifepath (Lady, for example), Farmer or Itinerant Priest",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "d40df613f143622b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.d40df613f143622b"
+  },
+  {
+   "name": "Lazy Stayabout",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Servitude, Soldier",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Lazy-wise, Peasant-wise, Wife-wise, Work-wise",
+    "traitList": "A Little Fat",
+    "note": "Source: Burning Wheel Gold Revised, p. 163",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "47d9919c6dc9c790",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.47d9919c6dc9c790"
+  },
+  {
+   "name": "Conscript",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Servitude, Soldier, Outcast",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Foraging, Battle-wise, Rumor-wise",
+    "traitList": "Flee from Battle",
+    "note": "Source: Burning Wheel Gold Revised, p. 163",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "a3b02131779d1fe3",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.a3b02131779d1fe3"
+  },
+  {
+   "name": "Peasant Pilgrim",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Servitude, Villager",
+    "skillPoints": 3,
+    "generalPoints": 1,
+    "traitPoints": 2,
+    "skillList": "Doctrine, Pilgrimage-wise, Saint-wise",
+    "traitList": "Road Weary, Alms-Taker",
+    "note": "Source: Burning Wheel Gold Revised, p. 163",
+    "requirements": "",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "d9de91b1b7186444",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.d9de91b1b7186444"
+  },
+  {
+   "name": "Miller",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 15,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Villager",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Miller, Brewer, Mending, Carpentry",
+    "traitList": "Lord’s Favorite",
+    "note": "Source: Burning Wheel Gold Revised, p. 163",
+    "requirements": "",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "4911e581ec07f6f5",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.4911e581ec07f6f5"
+  },
+  {
+   "name": "Fisherman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Villager, Outcast, Seafaring",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Fishing, Rigging, Knots, Mending, Cooking, Boatwright",
+    "traitList": "Superstitious",
+    "note": "Source: Burning Wheel Gold Revised, p. 163",
+    "requirements": "",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "418c510e1d25748d",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.418c510e1d25748d"
+  },
+  {
+   "name": "Shepherd",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 4,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Villager, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Animal Husbandry, Sing, Climbing, Flute, Throwing",
+    "traitList": "Cry Wolf",
+    "note": "Source: Burning Wheel Gold Revised, p. 163",
+    "requirements": "",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "302518e7ac2bd067",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.302518e7ac2bd067"
+  },
+  {
+   "name": "Woodcutter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Villager, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Firebuilding, Mending, Foraging, Orienteering, Tree-wise, Tree Cutting",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 164",
+    "requirements": "",
+    "restrictions": "",
+    "order": 10
+   },
+   "sort": 1000,
+   "_id": "c38ab939c26e425a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.c38ab939c26e425a"
+  },
+  {
+   "name": "Hunter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 6,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Villager, Outcast, Soldier",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Hunting, Tracking, Stealthy, Cooking, Orienteering, Javelin, Bow",
+    "traitList": "",
+    "note": "Skills as printed: 7 pts: Hunting, Tracking, Stealthy, Cooking, Orienteering; Javelin or Bow\n\nSource: Burning Wheel Gold Revised, p. 164",
+    "requirements": "",
+    "restrictions": "",
+    "order": 11
+   },
+   "sort": 1100,
+   "_id": "4891875c78fc09b2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.4891875c78fc09b2"
+  },
+  {
+   "name": "Trapper",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 8,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Villager, Outcast, Soldier",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Trapper, Stealthy, Tracking, Cooking, Haggling, Taxidermy",
+    "traitList": "Foul Smelling",
+    "note": "Source: Burning Wheel Gold Revised, p. 164",
+    "requirements": "",
+    "restrictions": "",
+    "order": 12
+   },
+   "sort": 1200,
+   "_id": "ca8b89dc39a1c4a9",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.ca8b89dc39a1c4a9"
+  },
+  {
+   "name": "Peddler",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Villager, Serv., City, Outcast",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Mending, Sing, Haggling, Chandler, Persuasion, Inconspicuous, Falsehood",
+    "traitList": "Blank Stare, Glib, Eidetic Memory",
+    "note": "Source: Burning Wheel Gold Revised, p. 164",
+    "requirements": "",
+    "restrictions": "",
+    "order": 13
+   },
+   "sort": 1300,
+   "_id": "cee338281310d7bf",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.cee338281310d7bf"
+  },
+  {
+   "name": "Elder",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 5,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Villager, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Observation, Persuasion, Ugly Truth, Peasant-wise, Local History",
+    "traitList": "Crotchety",
+    "note": "Source: Burning Wheel Gold Revised, p. 164",
+    "requirements": "The character must start the game over 50 years old",
+    "restrictions": "",
+    "order": 14
+   },
+   "sort": 1400,
+   "_id": "549005e18bd097b6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.549005e18bd097b6"
+  },
+  {
+   "name": "Augur",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Servitude, Outcast",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Astrology, Sorcery, Falsehood, Ugly Truth, Omen-wise",
+    "traitList": "Disturbed, Dreamer, Cassandra, Touch of Ages",
+    "note": "Source: Burning Wheel Gold Revised, p. 164",
+    "requirements": "Midwife, Country Wife or must be female and character has no more than three lifepaths total",
+    "restrictions": "",
+    "order": 15
+   },
+   "sort": 1500,
+   "_id": "37f9d90bd5a7323a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.37f9d90bd5a7323a"
+  },
+  {
+   "name": "Itinerant Priest",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 8,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Villager, Outcast, City, Religious",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Oratory, Suasion, Chandler, Riding, Write, Read, Doctrine",
+    "traitList": "Dusty, Faithful",
+    "note": "Source: Burning Wheel Gold Revised, p. 164",
+    "requirements": "any Acolyte LP from any setting",
+    "restrictions": "",
+    "order": 16
+   },
+   "sort": 1600,
+   "_id": "03153663b9829481",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.03153663b9829481"
+  },
+  {
+   "name": "Recluse Wizard",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 28,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Outcast, Villager, City, Court",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Astrology, Alchemy, Enchanting, Illuminations, Ancient History, Obscure History",
+    "traitList": "Batshit, Gifted",
+    "note": "Source: Burning Wheel Gold Revised, p. 164",
+    "requirements": "a previous lifepath that contains the Sorcery skill",
+    "restrictions": "",
+    "order": 17
+   },
+   "sort": 1700,
+   "_id": "87fd7ffc33f7e8f5",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.87fd7ffc33f7e8f5"
+  },
+  {
+   "name": "Country Wife",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 5,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Religious",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Child-Rearing, Cooking",
+    "traitList": "",
+    "note": "Aplayer who takes the Country Wife lifepath may also choose her husband’s lifepath from the Peasant setting and may choose from his skills: She gets half of his skill points, rounded down. She also receives half of her husband’s resource points. Resources: 5+ as listed in the book.\n\nSource: Burning Wheel Gold Revised, p. 164",
+    "requirements": "",
+    "restrictions": "",
+    "order": 18
+   },
+   "sort": 1800,
+   "_id": "729fc9db984dca73",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.729fc9db984dca73"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Peasant Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!043d061d4e54db1b",
+ "folder": "f28c4fd7c6c9b063",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

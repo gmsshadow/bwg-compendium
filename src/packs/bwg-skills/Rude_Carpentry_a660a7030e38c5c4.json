@@ -1,0 +1,49 @@
+{
+ "name": "Rude Carpentry",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": false,
+  "description": "This skill is similar to carpentry, except that Orcs never bother to finish, smooth, polish or plane their work. Their products are always rough, warped and quickly done.\n\nObstacles: Wooden spikes, Ob 1. Frame pack for goblin, Ob 2. Barricades or cart, Ob 3. Mining supports, Ob 4. Shelter, Ob 5.\n\nFoRKs: Mending\n\nSkill Type: Craftsman. Tools: Yes.\n\nRestrictions: Orcs only in character burning\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 293",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Orcs only in character burning"
+ },
+ "_id": "a660a7030e38c5c4",
+ "_key": "!items!a660a7030e38c5c4",
+ "folder": "3bcde3f2b3069254",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

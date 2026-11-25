@@ -1,0 +1,31 @@
+{
+ "name": "Cash",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 6,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "A pocketful of cash: grants 1D of cash usable as per the Resources rules. Once used, the cash is expended.\n\nSource: Burning Wheel Gold Revised, p. 204"
+ },
+ "_id": "3b2a0ddb4657dfc0",
+ "_key": "!items!3b2a0ddb4657dfc0",
+ "folder": "e2d9989687336b5d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Smithcraft",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": true,
+  "description": "Such is the experience of a life of centuries that an Elven smith learns the techniques for working many types of metals. This skill counts as Blacksmith, Whitesmith or Coppersmith. With Smithcraft, a forge and the proper tools, the Elf may fabricate nearly any type of metal item—pots, pins, chains, tools, cups and horseshoes. Combined with Antiphon Union, Smithcraft becomes immeasurably potent. Add the Gift of Speed to horseshoes, add the Lay of the Horse to a whistle, add the Air of Gates to a headband or the Voice of Ages to a clasp. The list goes on and on.\n\nObstacles: Use Blacksmith, Coppersmith and Whitesmith.\n\nFoRKs: Gemcraft, Jewelcraft, Riddle of Steel\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRestrictions: Elves only\n\nRoot: Will/Agility (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 297",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "a2cec66df747793a",
+ "_key": "!items!a2cec66df747793a",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

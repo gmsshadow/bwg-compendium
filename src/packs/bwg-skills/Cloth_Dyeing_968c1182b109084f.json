@@ -1,0 +1,49 @@
+{
+ "name": "Cloth Dyeing",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": false,
+  "description": "The fine art of dyeing cloth and making the color keep.\n\nObstacles: Red, orange, yellow, green, brown, gray, Ob 1. Blue and purple, Ob 2. Crimson and scarlet, Ob 3. Black, Ob 4. Royal purple, Ob 5.\n\nFoRKs: Herbalism, Vintner\n\nSkill Type: Craftsman. Tools: Yes, expendable.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 264",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "968c1182b109084f",
+ "_key": "!items!968c1182b109084f",
+ "folder": "3bcde3f2b3069254",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

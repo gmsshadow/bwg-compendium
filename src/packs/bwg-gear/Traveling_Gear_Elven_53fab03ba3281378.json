@@ -1,0 +1,31 @@
+{
+ "name": "Traveling Gear (Elven)",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 2,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "The necessary bits and odds and ends for survival on the road.\n\nSource: Burning Wheel Gold Revised, p. 156"
+ },
+ "_id": "53fab03ba3281378",
+ "_key": "!items!53fab03ba3281378",
+ "folder": "b5a4e8f60fe6d52f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

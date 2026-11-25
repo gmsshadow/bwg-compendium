@@ -1,0 +1,49 @@
+{
+ "name": "Vile Poisoner",
+ "type": "skill",
+ "img": "icons/magic/life/cross-yellow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "medicinal",
+  "training": false,
+  "magical": true,
+  "description": "This skill teaches the Knower of Secrets how to extract and preserve poisons from venomous and stinging creatures. Using his knowledge, he can create:\n\n• A stinging and nettling contact poison, Ob 2. A dose on the skin causes the victim to break out in boils. +2 Ob to all physical, martial and social tests for one scene.\n\n• A debilitating ingested poison, Ob 4. Victim must test Forte vs Ob 4. Margin of failure is permanently subtracted from Health (and Health maximum).\n\n• A deadly poison, Ob 5. The poison must be slathered on a blade or arrowhead and injected into the victim with a Mark result hit. If so injected, the poison delivers one additional B9 wound in a number of exchanges equal to six plus the victim’s Forte.\n\nFoRKs: Herbalism\n\nSkill Type: Medicinal. Tools: Yes. Expendable.\n\nRestrictions: Orcs only\n\nRoot: Per/Agi (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 306",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Orcs only"
+ },
+ "_id": "a75f13de08e2420f",
+ "_key": "!items!a75f13de08e2420f",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

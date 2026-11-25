@@ -1,0 +1,772 @@
+{
+ "_id": "3d5f8855fd6184c9",
+ "name": "Human Noble Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Noble Setting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Noble",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 15,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Any",
+    "skillPoints": 0,
+    "generalPoints": 5,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Mark of Privilege, Your Lordship, Your Eminence, Your Grace",
+    "note": "Source: Burning Wheel Gold Revised, p. 177",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "4935ee298dac2626",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.4935ee298dac2626"
+  },
+  {
+   "name": "Bastard",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 15,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, City, Religious",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Family Secret-wise, Etiquette, Extortion",
+    "traitList": "Bastard, Bitter, Cynical, Happy-Go-Lucky",
+    "note": "Source: Burning Wheel Gold Revised, p. 177",
+    "requirements": "",
+    "restrictions": "If chosen, this path must be the character’s second lifepath and may only be taken once",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "df8d458d2d76fcc4",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.df8d458d2d76fcc4"
+  },
+  {
+   "name": "Page",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 15,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Soldier, City, Servitude",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Riding, Brawling, Write, Read, Sword, Etiquette",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 177",
+    "requirements": "",
+    "restrictions": "If chosen, this path must be the character’s second lifepath and may only be taken once",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "71866d6eabe78263",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.71866d6eabe78263"
+  },
+  {
+   "name": "Student",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City Dweller, Noble Court, Relig.",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Write, Read, Rule of Law, Oratory, Doctrine, Etiquette",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 177",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "05f2d4d773dec4b7",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.05f2d4d773dec4b7"
+  },
+  {
+   "name": "Squire",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 15,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Soldier, City, Serv., Outcast",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Sword, Mounted Combat Training, Shield Training, Armor Training, Lance, Knives, Crossbow",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 177",
+    "requirements": "Page or any Professional Soldier lifepath",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "c096cc3d182c6cf1",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.c096cc3d182c6cf1"
+  },
+  {
+   "name": "Arcane Devotee",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City Dweller, Court, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Calligraphy, Write, Read, Research, Symbology",
+    "traitList": "Base Humility, Gifted",
+    "note": "Source: Burning Wheel Gold Revised, p. 177",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "7f84f8f32de6d559",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.7f84f8f32de6d559"
+  },
+  {
+   "name": "Religious Acolyte",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City Dweller, Religious, Court",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Doctrine, Bureaucracy, Write, Read, Etiquette",
+    "traitList": "Tonsured, Faithful",
+    "note": "Source: Burning Wheel Gold Revised, p. 177",
+    "requirements": "",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "b73cdb8d624a65b0",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.b73cdb8d624a65b0"
+  },
+  {
+   "name": "Young Lady",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 20,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City Dweller, Court, Religious",
+    "skillPoints": 11,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Write, Read, Etiquette, Dance, Astrology, Musical Instrument, Composition, Field Dressing, Apothecary, Doctrine",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 178",
+    "requirements": "",
+    "restrictions": "Young Lady may only be taken as the second or third LP for the character and it may only be taken once",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "fb4fceb730cc3da2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.fb4fceb730cc3da2"
+  },
+  {
+   "name": "Knight",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 20,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Soldier, City, Outcast, Religious",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Mounted Combat Training, Appropriate Weapons, Intimidation, Hunting, Conspicuous",
+    "traitList": "Sworn Homage",
+    "note": "Source: Burning Wheel Gold Revised, p. 178",
+    "requirements": "Squire or Cavalryman",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "713e4cf3b573ab79",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.713e4cf3b573ab79"
+  },
+  {
+   "name": "Lady",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 25,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City, Outcast, Religious, Court",
+    "skillPoints": 11,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Etiquette, Estate Management, Persuasion, Seduction, Inconspicuous, Doctrine, Husband-wise, Estate-wise, Staff-wise, Court-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 178",
+    "requirements": "Young Lady, Courtier, Knight or City Wife with Magnate or Bishop chosen as the husband’s lifepath",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "76353d42d93e2f8c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.76353d42d93e2f8c"
+  },
+  {
+   "name": "Lord",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 50,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Soldier, Noble Court, City",
+    "skillPoints": 6,
+    "generalPoints": 1,
+    "traitPoints": 1,
+    "skillList": "Hunting, Dance, Sing, Falconry, Estate Management",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 178",
+    "requirements": "Knight or the Your Lordship trait",
+    "restrictions": "",
+    "order": 10
+   },
+   "sort": 1000,
+   "_id": "b46ee3ff6510a6d3",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.b46ee3ff6510a6d3"
+  },
+  {
+   "name": "Dame",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 40,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City, Court, Outcast, Religious",
+    "skillPoints": 3,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "Estate Management, Noble-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 178",
+    "requirements": "Lady, City Wife with Magnate or Bishop as the husband’s LP or the Your Lordship trait",
+    "restrictions": "",
+    "order": 11
+   },
+   "sort": 1100,
+   "_id": "a14a0a685c7ea30c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.a14a0a685c7ea30c"
+  },
+  {
+   "name": "Baron",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 60,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Court, Soldier",
+    "skillPoints": 0,
+    "generalPoints": 1,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Noblesse Oblige, Regal Bearing, Pompous, Sharp Dresser, Callous",
+    "note": "Source: Burning Wheel Gold Revised, p. 178",
+    "requirements": "Baron requires Knight and the Your Lordship trait; or Magnate, Master of Horses, Steward, Lord, Constable or Justiciar",
+    "restrictions": "",
+    "order": 12
+   },
+   "sort": 1200,
+   "_id": "0fcca04e98ac08fa",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.0fcca04e98ac08fa"
+  },
+  {
+   "name": "Viscount",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 65,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Court, Soldier",
+    "skillPoints": 0,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Noblesse Oblige, Regal Bearing, Pompous, Sharp Dresser, Callous",
+    "note": "Source: Burning Wheel Gold Revised, p. 178",
+    "requirements": "Knight and the Your Eminence trait; or Magnate, Baron, Constable or Justiciar",
+    "restrictions": "",
+    "order": 13
+   },
+   "sort": 1300,
+   "_id": "413969557a62a07f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.413969557a62a07f"
+  },
+  {
+   "name": "Count",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 70,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Court, Soldier",
+    "skillPoints": 0,
+    "generalPoints": 3,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Noblesse Oblige, Regal Bearing, Pompous, Sharp Dresser, Callous",
+    "note": "Source: Burning Wheel Gold Revised, p. 179",
+    "requirements": "Knight and the Your Eminence trait, or Magnate, Constable or Justiciar",
+    "restrictions": "",
+    "order": 14
+   },
+   "sort": 1400,
+   "_id": "ccbc80d101a9b7cd",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.ccbc80d101a9b7cd"
+  },
+  {
+   "name": "Duke",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 90,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Court, Soldier",
+    "skillPoints": 0,
+    "generalPoints": 3,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Noblesse Oblige, Regal Bearing, Pompous, Sharp Dresser, Callous",
+    "note": "Source: Burning Wheel Gold Revised, p. 179",
+    "requirements": "Knight and the Your Grace trait",
+    "restrictions": "",
+    "order": 15
+   },
+   "sort": 1500,
+   "_id": "9df9808e4e8a43d4",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.9df9808e4e8a43d4"
+  },
+  {
+   "name": "Noble Prince",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 100,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Court, Soldier",
+    "skillPoints": 0,
+    "generalPoints": 4,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Noblesse Oblige, Regal Bearing, Pompous, Sharp Dresser, Callous",
+    "note": "Source: Burning Wheel Gold Revised, p. 179",
+    "requirements": "Duke or Knight and the Your Grace trait",
+    "restrictions": "",
+    "order": 16
+   },
+   "sort": 1600,
+   "_id": "78b2b52b82b9d28c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.78b2b52b82b9d28c"
+  },
+  {
+   "name": "Prince of the Blood",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 0,
+    "resources": 60,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Court, Soldier, Religious",
+    "skillPoints": 0,
+    "generalPoints": 2,
+    "traitPoints": 2,
+    "skillList": "",
+    "traitList": "Born to Be King, Noblesse Oblige, Regal Bearing, Pompous, Sharp Dresser, Callous",
+    "note": "Players may take the Prince of the Blood lifepath for any appropriate length of time, from 2 years to 20. Subject to GM approval, as above. Time: * (see lifepath description in the book).\n\nSource: Burning Wheel Gold Revised, p. 179",
+    "requirements": "the Your Grace trait and express permission from the GM and all players in the current game",
+    "restrictions": "",
+    "order": 17
+   },
+   "sort": 1700,
+   "_id": "f59153f017b631e5",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3d5f8855fd6184c9.f59153f017b631e5"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Noble Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!3d5f8855fd6184c9",
+ "folder": "f28c4fd7c6c9b063",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

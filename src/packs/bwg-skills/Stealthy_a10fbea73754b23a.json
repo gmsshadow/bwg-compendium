@@ -1,0 +1,49 @@
+{
+ "name": "Stealthy",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "speed",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "Stealthy is the ability to use camouflage, natural surroundings, shadow, light and a quiet step to move undetected.\n\nObstacles: Stealthy vs Observation. Give advantage to Stealthy for light, weather and ground conditions.\n\nSkill Type: Forester. Tools: No.\n\nRoot: Speed\n\nSource: Burning Wheel Gold Revised, p. 301",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "a10fbea73754b23a",
+ "_key": "!items!a10fbea73754b23a",
+ "folder": "1b5eb4a289f022d3",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

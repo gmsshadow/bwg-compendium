@@ -1,0 +1,23 @@
+{
+ "_id": "4294be5ae3205f12",
+ "_key": "!folders!4294be5ae3205f12",
+ "name": "Noble Court Subsetting",
+ "type": "Item",
+ "folder": "766fcde6742e8ba6",
+ "sorting": "a",
+ "sort": 0,
+ "color": null,
+ "description": "",
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Foreign Doctrine",
+ "type": "skill",
+ "img": "icons/sundries/books/book-worn-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "schoolofthought",
+  "training": false,
+  "magical": false,
+  "description": "Foreign Doctrine: a variant Doctrine skill named in the lifepaths. Uses the Doctrine entry.\n\nDoctrine describes the tenets and beliefs of a particular religious faith.\n\nA character may only take the following variations if they were available on his lifepaths or through general skill points:\n\nCult Doctrine is the application of a belief system to a non-standard, unapproved or independent school of thought.\n\nForeign Doctrine is the knowledge or study of an accepted popular religion from another land or culture.\n\nHeretical Doctrine is the understanding and knowledge of a set of beliefs and tenets that are an offshoot of the popular religion but are not commonly accepted by the religious power structure.\n\nObstacles: Common, popular beliefs, Ob 1. Citing relevant passages from common religious texts, Ob 2. Naming an obscure saint, Ob 3.\n\nFoRKs: Philosophy\n\nSkill Type: School of Thought. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 268",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "3e4edfa47eb96988",
+ "_key": "!items!3e4edfa47eb96988",
+ "folder": "56d9f04d80593b17",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

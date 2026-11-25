@@ -1,0 +1,49 @@
+{
+ "name": "Sculpture",
+ "type": "skill",
+ "img": "icons/tools/hand/brush-paint-brown-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artist",
+  "training": false,
+  "magical": false,
+  "description": "Sculptors carve forms and images from obdurate stone.\n\nObstacles: Simple forms in clay, Ob 1. Simple forms in soft stone, Ob 2. Simple forms in hard stone, Ob 3. Complex forms in clay, Ob 4. Complex forms in soft stone, Ob 5. Complex forms in hard stone, Ob 6.\n\nFoRKs: Mason, Engraving\n\nSkill Type: Artist. Tools: Yes.\n\nRoot: Will/Agility\n\nSource: Burning Wheel Gold Revised, p. 294",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "5a29057e57847da1",
+ "_key": "!items!5a29057e57847da1",
+ "folder": "8cfb94d25c4650fa",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

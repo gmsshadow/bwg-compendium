@@ -1,0 +1,50 @@
+{
+ "name": "Noblesse Oblige",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "This character was born into nobility. He has been raised with the idea that not only is he privileged, but he is obligated to perform his duty to society. The player may add a fourth Belief to his character. It must be one of the following: It is my duty to guard society and uphold its interests; I govern from duty, heritage and right; rulership is my natural and ordained task; the opinions of commoners are uneducated, therefore worthless; I am responsible for the people; my reverence is to the crown; rule of the many strips society of its strength and divides it into unfriendly fragments; rulership by minds unaccustomed to privilege is impossible; wealth, birth and intellect mark an individual to undertake governance.*\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Human lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 337",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Human lifepath trait"
+ },
+ "_id": "48227517cba5ea93",
+ "_key": "!items!48227517cba5ea93",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

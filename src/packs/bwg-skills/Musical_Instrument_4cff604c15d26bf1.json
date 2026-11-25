@@ -1,0 +1,49 @@
+{
+ "name": "Musical Instrument",
+ "type": "skill",
+ "img": "icons/skills/trades/music-notes-sound-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "musical",
+  "training": false,
+  "magical": false,
+  "description": "Musical performance is a powerful tool. It can impress an emotion upon the listener—seducing, enraging, pleasing, etc. Choose an instrument: Drum, Flute and Lyre are but a few of the many options.\n\nObstacles: Will of the listener. If the music is suitable to the mood, add advantage. The obstacle can be used for linked tests or to convey an idea.\n\nFoRKs: Sing, Composition, and additional instruments\n\nSkill Type: Musical. Tools: Yes, an instrument.\n\nRoot: Will/Agility\n\nSource: Burning Wheel Gold Revised, p. 285",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "4cff604c15d26bf1",
+ "_key": "!items!4cff604c15d26bf1",
+ "folder": "e6960b31d5a13b1f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

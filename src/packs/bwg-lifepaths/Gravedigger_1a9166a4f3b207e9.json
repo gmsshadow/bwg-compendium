@@ -1,0 +1,41 @@
+{
+ "name": "Gravedigger",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 4,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Soldier, Servitude",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Ditch Digging, Philosophy, Grave-wise, Cemetery-wise, Bone-wise",
+  "traitList": "Bitter",
+  "note": "Source: Burning Wheel Gold Revised, p. 194",
+  "requirements": "",
+  "restrictions": "",
+  "order": 11
+ },
+ "sort": 1100,
+ "_id": "1a9166a4f3b207e9",
+ "_key": "!items!1a9166a4f3b207e9",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

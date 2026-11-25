@@ -1,0 +1,49 @@
+{
+ "name": "Mining",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": false,
+  "description": "Mining is the technique of excavating earth in order to remove valuable ore or minerals like salt. Mining includes prospecting ore, sinking the shafts and setting up a system to remove the ore.\n\nObstacles: Clay pit, Ob 1. Open pit mine (iron, salt), Ob 2. Shallow mine shaft (salt, lead, copper, quartz), Ob 3. Mine shaft (silver, iron), Ob 5. Clearing a rockfall or cave-in, Ob 5. Deep mine shaft (gold, gemstones), Ob 9.\n\nFoRKs: Engineer, Architect\n\nSkill Type: Craftsman. Tools: Yes.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 284",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "7b727d3a0f71b21d",
+ "_key": "!items!7b727d3a0f71b21d",
+ "folder": "3bcde3f2b3069254",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

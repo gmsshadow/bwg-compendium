@@ -1,0 +1,41 @@
+{
+ "name": "Interpreter",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 10,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "City Dweller, Court, Villager",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Read, Ancient Languages, Instruction, Write, Doctrine, Foreign Languages",
+  "traitList": "Ink-Stained Hands, Condescending",
+  "note": "Source: Burning Wheel Gold Revised, p. 185",
+  "requirements": "Student, Young Lady, Temple Acolyte, Exorcist or Theologian",
+  "restrictions": "",
+  "order": 8
+ },
+ "sort": 800,
+ "_id": "f40209671164548b",
+ "_key": "!items!f40209671164548b",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

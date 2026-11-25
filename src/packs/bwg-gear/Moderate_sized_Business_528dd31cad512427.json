@@ -1,0 +1,30 @@
+{
+ "name": "Moderate-sized Business",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 30,
+  "isWorkshop": false,
+  "description": "Comes with appropriate staff, buildings and accoutrements. Counts as property when factoring Resources.\n\nSource: Burning Wheel Gold Revised, p. 205"
+ },
+ "_id": "528dd31cad512427",
+ "_key": "!items!528dd31cad512427",
+ "folder": "af605cb952773f03",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

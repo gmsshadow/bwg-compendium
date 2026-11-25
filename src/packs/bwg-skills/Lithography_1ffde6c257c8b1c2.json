@@ -1,0 +1,49 @@
+{
+ "name": "Lithography",
+ "type": "skill",
+ "img": "icons/tools/hand/chisel-steel-brown.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artisan",
+  "training": false,
+  "magical": true,
+  "description": "Dwarven Artificers learn a special art of inscribing runes into stone. These runes can be carved into walls for decorative or instructional purposes or placed onto blocks, dipped in ink and pressed on paper.\n\nObstacles: Simple characters, Ob 1. Words, Ob 2. Simple image or moon runes, Ob 3. Complex image, Ob 4. Lifelike image, Ob 5.\n\nFoRKs: Dwarven Rune Script, Symbology, Engraving, Dye Manufacture\n\nSkill Type: Artisan. Tools: Workshop.\n\nRestrictions: Dwarves only\n\nRoot: Per/Agi (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 281",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "1ffde6c257c8b1c2",
+ "_key": "!items!1ffde6c257c8b1c2",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

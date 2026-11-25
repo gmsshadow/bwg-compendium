@@ -1,0 +1,49 @@
+{
+ "name": "Riding",
+ "type": "skill",
+ "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "physical",
+  "training": false,
+  "magical": false,
+  "description": "This skill teaches the character to effectively maneuver a mount.\n\nObstacles: See the Riding and Mounted Combat chapter for obstacles.\n\nSkill Type: Physical. Tools: A horse or some such thing.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 291",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "589344b6518bf241",
+ "_key": "!items!589344b6518bf241",
+ "folder": "e8af22e8c7d53138",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

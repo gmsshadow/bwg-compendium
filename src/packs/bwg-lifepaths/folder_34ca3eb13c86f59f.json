@@ -1,0 +1,23 @@
+{
+ "_id": "34ca3eb13c86f59f",
+ "_key": "!folders!34ca3eb13c86f59f",
+ "name": "Protector Subsetting",
+ "type": "Item",
+ "folder": "063c0e50dbc4314a",
+ "sorting": "a",
+ "sort": 0,
+ "color": null,
+ "description": "",
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Wave",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 8,
+  "description": "Smashing his hand against the glassy surface of the water, the incanter sends a powerful wave rippling across the surface. Natural effects of waves: Success, ripples. 1 over, don’t rock the boat, baby. 2 over, small craft sway dangerously, people have difficulty standing. 3 over, people knocked down. 4 over, small boats capsized, people flattened. 5 over, mid-sized craft swamped, small boats shattered. 6 over, mid-sized boats capsized. 7 over, large vessels swamped, mid-sized vessels shattered. 8 over, large vessels capsized. 9 over, large seagoing vessels shattered.\n\nWave must be cast in a suitably sized body of water. Deep pools of water (like a big fountain in a city) can only produce up to “4 over” effects. Ponds and streams can only produce up to “5 over” effects. Weapon Length: as Missile; Range: as Crossbow.\n\nObstacle: 4^. Actions: 8.\n\nOrigin: Personal | Area of Effect: 100s of Paces | Element: Water | Impetus: Control/Destroy | Duration: Instantaneous | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 221",
+  "origin": "Personal",
+  "areaOfEffect": "100s of Paces",
+  "element": "Water",
+  "impetus": "Control/Destroy",
+  "duration": "Instantaneous",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "as missile",
+  "optimalRange": 1,
+  "extremeRange": 3,
+  "maxRange": "125 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "fa404d6988c4d93d",
+ "_key": "!items!fa404d6988c4d93d",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

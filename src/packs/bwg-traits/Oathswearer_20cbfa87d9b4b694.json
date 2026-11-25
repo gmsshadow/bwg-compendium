@@ -1,0 +1,50 @@
+{
+ "name": "Oathswearer",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Long has it been the tradition of the great Dwarven Princes to go before the Longbeards of the clans to receive their blessing and swear an oath to protect them and uphold the traditions of their forefathers. Oathswearer is perhaps the most vital trait in Dwarven culture. Though all Dwarves are Oathsworn, only those with the Oathswearer trait may pronounce a binding pact. Any oath taken while not under the guidance of an Oathswearer is not binding. Any oath pronounced before an Oathswearer must be written into the character’s Beliefs. It usually replaces one of the character’s existing three Beliefs. It can be used to replace the fourth, Oathsworn trait belief only if that oath has been satisfied. If an Oathswearer demands a character’s word, and the character refuses, the Oathswearer can, at his discretion, brand him a coward. It is a stain that all Dwarves recognize, and no oaths or agreements are made with cowards. The character is given the Branded a Coward trait.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Dwarven lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 338",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Dwarven lifepath trait"
+ },
+ "_id": "20cbfa87d9b4b694",
+ "_key": "!items!20cbfa87d9b4b694",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

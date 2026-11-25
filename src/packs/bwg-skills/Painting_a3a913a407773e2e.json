@@ -1,0 +1,49 @@
+{
+ "name": "Painting",
+ "type": "skill",
+ "img": "icons/tools/hand/brush-paint-brown-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artist",
+  "training": false,
+  "magical": false,
+  "description": "Painters use dyes, pigments and brushes to craft images on a variety of surfaces.\n\nObstacles: Simple monochromes, Ob 1. Caricatures, Ob 2. Complex monochrome, simple polychrome, Ob 3. Likenesses, Ob 4. Complex polychromes, Ob 5. +1 Ob for painting on wet plaster.\n\nFoRKs: Illuminations\n\nSkill Type: Artist. Tools: Yes. Expendable.\n\nRoot: Will/Agility\n\nSource: Burning Wheel Gold Revised, p. 287",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "a3a913a407773e2e",
+ "_key": "!items!a3a913a407773e2e",
+ "folder": "8cfb94d25c4650fa",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

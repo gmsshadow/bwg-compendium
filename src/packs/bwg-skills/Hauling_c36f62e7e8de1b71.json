@@ -1,0 +1,49 @@
+{
+ "name": "Hauling",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "power",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": false,
+  "description": "Use this skill in place of Power when hauling improbable loads on your back.\n\nObstacles: 40 lb. pack, Ob 1. 80 lb. pack, Ob 2. Bowl on head, Ob 3. Ridiculously heavy container, Ob 4.\n\nSkill Type: Peasant. Tools: No.\n\nRoot: Will/Power\n\nSource: Burning Wheel Gold Revised, p. 277",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "c36f62e7e8de1b71",
+ "_key": "!items!c36f62e7e8de1b71",
+ "folder": "26f1d2df964749c9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

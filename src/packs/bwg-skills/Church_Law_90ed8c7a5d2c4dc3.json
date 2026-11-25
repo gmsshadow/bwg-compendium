@@ -1,0 +1,49 @@
+{
+ "name": "Church Law",
+ "type": "skill",
+ "img": "icons/sundries/books/book-worn-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "schoolofthought",
+  "training": false,
+  "magical": false,
+  "description": "This is a specialized legal skill dealing only with ecclesiastical law. Church Law is quite different than civil or courtly law. The punishments for crimes are religious in nature, not monetary or corporal.\n\nObstacles: Jurisdiction, Ob 1. Sentencing, Ob 2. Calling a council or issuing edict or bull, Ob 3. System of tithe, Ob 4. Interpreting scripture, Ob 5.\n\nSkill Type: School of Thought. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 264",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "90ed8c7a5d2c4dc3",
+ "_key": "!items!90ed8c7a5d2c4dc3",
+ "folder": "56d9f04d80593b17",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

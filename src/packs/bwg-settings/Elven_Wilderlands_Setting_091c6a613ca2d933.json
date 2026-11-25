@@ -1,0 +1,731 @@
+{
+ "_id": "091c6a613ca2d933",
+ "name": "Elven Wilderlands Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Wilderlands Setting lifepaths for Elven characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Wilder Elf",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Citadel",
+    "skillPoints": 2,
+    "generalPoints": 4,
+    "traitPoints": 1,
+    "skillList": "Sing, Elven Script",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 131",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "cad7a88d646d9cc6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.cad7a88d646d9cc6"
+  },
+  {
+   "name": "Rider",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 8,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Citadel, Protector",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Riding, Gift of Speed, Lay of the Horse",
+    "traitList": "Oikofugic",
+    "note": "Source: Burning Wheel Gold Revised, p. 131",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "b5768dd6189e43c8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.b5768dd6189e43c8"
+  },
+  {
+   "name": "Harvester",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 50,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Protector",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Round of Harvest, Firebuilding, Animal Husbandry, Mending",
+    "traitList": "Seasoned",
+    "note": "Source: Burning Wheel Gold Revised, p. 131",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "0e1e40cd4ae06a2f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.0e1e40cd4ae06a2f"
+  },
+  {
+   "name": "Gatherer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 40,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Rhyme of the Gatherer, Herb-wise, Orienteering",
+    "traitList": "Rough Hands",
+    "note": "Source: Burning Wheel Gold Revised, p. 131",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "618d94a7dbee64c6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.618d94a7dbee64c6"
+  },
+  {
+   "name": "Fisherman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 50,
+    "resources": 8,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Citadel",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Hymn of Scales and Fins, Pilot, Boatwright, Knots, Mending, Cooking, Seamanship, Rigging",
+    "traitList": "Wary",
+    "note": "Source: Burning Wheel Gold Revised, p. 131",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "51d60fc77a9aaf01",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.51d60fc77a9aaf01"
+  },
+  {
+   "name": "Shepherd",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 45,
+    "resources": 6,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Citadel",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Song of Flocks and Herds, Climbing, Wolf-wise",
+    "traitList": "Never Cry Wolf",
+    "note": "Source: Burning Wheel Gold Revised, p. 131",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "5a51f504f58128e9",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.5a51f504f58128e9"
+  },
+  {
+   "name": "Wanderer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 75,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Citadel",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Song of Paths and Ways, Air of Gates, Foraging",
+    "traitList": "",
+    "note": "Skills also include: plus any Wise. Source: Burning Wheel Gold Revised, p. 131",
+    "requirements": "",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "b66c298142a18437",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.b66c298142a18437"
+  },
+  {
+   "name": "Huntsman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 45,
+    "resources": 9,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Citadel, Protector",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Call of the Wild, Javelin, Bow, Tracking, Stealthy, Observation",
+    "traitList": "Watchful",
+    "note": "Source: Burning Wheel Gold Revised, p. 131",
+    "requirements": "",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "ee63b1bc26731623",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.ee63b1bc26731623"
+  },
+  {
+   "name": "Chandler",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 50,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Citadel, Protector",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Chant of Offering, Haggling, Conspicuous, Appraisal",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 131",
+    "requirements": "",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "62d868b3115f2ceb",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.62d868b3115f2ceb"
+  },
+  {
+   "name": "Weaver",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 50,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Citadel",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Weaving Way, Threading Chant, Mending",
+    "traitList": "Fateful",
+    "note": "Source: Burning Wheel Gold Revised, p. 131",
+    "requirements": "",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "8f14e55c357ad448",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.8f14e55c357ad448"
+  },
+  {
+   "name": "Forester",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 90,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Citadel, Protector",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Song of Arbors, Forest-wise, Tree-wise, Song of the Eldar",
+    "traitList": "Stern",
+    "note": "Source: Burning Wheel Gold Revised, p. 132",
+    "requirements": "",
+    "restrictions": "",
+    "order": 10
+   },
+   "sort": 1000,
+   "_id": "8f991524b49baa93",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.8f991524b49baa93"
+  },
+  {
+   "name": "Vintner",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 60,
+    "resources": 20,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Citadel",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Purple Song, Vine-wise, Cooper, Vintage-wise, Terroir-wise",
+    "traitList": "Rarified",
+    "note": "Source: Burning Wheel Gold Revised, p. 132",
+    "requirements": "",
+    "restrictions": "",
+    "order": 11
+   },
+   "sort": 1100,
+   "_id": "2c4629c37f332af6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.2c4629c37f332af6"
+  },
+  {
+   "name": "Miller",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 60,
+    "resources": 18,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Citadel",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Grain Song, Mending, Carpentry, Mill-wise, Grain-wise",
+    "traitList": "Earthen",
+    "note": "Source: Burning Wheel Gold Revised, p. 132",
+    "requirements": "",
+    "restrictions": "",
+    "order": 12
+   },
+   "sort": 1200,
+   "_id": "4af13a5a00330a49",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.4af13a5a00330a49"
+  },
+  {
+   "name": "Song Singer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 45,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Citadel, Protector",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Song of Songs, Song of Soothing, Lament of the Westering Sun, Oratory",
+    "traitList": "Vocal",
+    "note": "Source: Burning Wheel Gold Revised, p. 132",
+    "requirements": "",
+    "restrictions": "",
+    "order": 13
+   },
+   "sort": 1300,
+   "_id": "013f63760676047f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.013f63760676047f"
+  },
+  {
+   "name": "Spouse",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 75,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Citadel, Protector",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Song of Soothing, Rhyme of Rules, Song of Feasting, Fealty-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 132",
+    "requirements": "",
+    "restrictions": "",
+    "order": 14
+   },
+   "sort": 1400,
+   "_id": "b479d3feba8abc3f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.b479d3feba8abc3f"
+  },
+  {
+   "name": "Patriarch/Matriarch",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 100,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Citadel",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Homesong, Lyric of Healing, Dignity of the Wilderlands",
+    "traitList": "Patriarchal/Matriarchal",
+    "note": "Source: Burning Wheel Gold Revised, p. 132",
+    "requirements": "Spouse",
+    "restrictions": "",
+    "order": 15
+   },
+   "sort": 1500,
+   "_id": "df6381c9f8342bdc",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.df6381c9f8342bdc"
+  },
+  {
+   "name": "Elder",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 150,
+    "resources": 30,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Citadel, Etharch",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Verse of Decision, Council Caller",
+    "traitList": "Wise Aphorisms",
+    "note": "Source: Burning Wheel Gold Revised, p. 132",
+    "requirements": "The character must be 750 years old after taking this path or the oldest character in the group by 100 years",
+    "restrictions": "",
+    "order": 16
+   },
+   "sort": 1600,
+   "_id": "999d91f63fed106d",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!091c6a613ca2d933.999d91f63fed106d"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Wilderlands Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!091c6a613ca2d933",
+ "folder": "d215763b17106e0d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

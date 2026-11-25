@@ -1,0 +1,41 @@
+{
+ "name": "Coin Clipper",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Outcast, Noble Court",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Streetwise, Forgery, Falsehood, Intimidation, Counterfeiting, Coin-wise",
+  "traitList": "Light Sleeper",
+  "note": "Source: Burning Wheel Gold Revised, p. 170",
+  "requirements": "",
+  "restrictions": "",
+  "order": 9
+ },
+ "sort": 900,
+ "_id": "153d1b8966aa8f37",
+ "_key": "!items!153d1b8966aa8f37",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

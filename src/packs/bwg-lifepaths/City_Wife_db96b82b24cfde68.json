@@ -1,0 +1,41 @@
+{
+ "name": "City Wife",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 5,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Religious",
+  "skillPoints": 2,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Child-Rearing, Husband-wise",
+  "traitList": "",
+  "note": "Aplayer who takes the City Wife lifepath may also choose her husband’s lifepath from the City Dweller setting. The City Wife may choose from her husband’s skills—she gets half of his skill points, rounded down—and she gets one quarter of her husband’s Resources. Resources: 5+ as listed in the book.\n\nSource: Burning Wheel Gold Revised, p. 177",
+  "requirements": "",
+  "restrictions": "",
+  "order": 69
+ },
+ "sort": 6900,
+ "_id": "db96b82b24cfde68",
+ "_key": "!items!db96b82b24cfde68",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

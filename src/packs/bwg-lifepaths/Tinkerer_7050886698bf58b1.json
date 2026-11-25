@@ -1,0 +1,41 @@
+{
+ "name": "Tinkerer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 35,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Guilder, Outcast",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Stuff-wise, Mending, Scavenging",
+  "traitList": "Curious, Tinkerer",
+  "note": "Source: Burning Wheel Gold Revised, p. 110",
+  "requirements": "",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "7050886698bf58b1",
+ "_key": "!items!7050886698bf58b1",
+ "folder": "8d8303026f7a7503",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

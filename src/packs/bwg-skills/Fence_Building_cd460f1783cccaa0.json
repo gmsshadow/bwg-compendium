@@ -1,0 +1,49 @@
+{
+ "name": "Fence Building",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "Dwarves are very particular about their boundaries. This skill teaches the art of constructing sturdy fences and walls, and the etiquette of deciding where they should lie.\n\nObstacles: Dividing farm fields, Ob 1. Dividing pasturage, Ob 2. Dividing mines and veins, Ob 3. Dividing tax districts, Ob 4.\n\nFoRKs: Chronology of Kings, Mason Accounting, Carpenter\n\nSkill Type: Special. Tools: Yes. Expendable.\n\nRestrictions: Dwarves only in character burning\n\nRoot: Per\n\nSource: Burning Wheel Gold Revised, p. 272",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only in character burning"
+ },
+ "_id": "cd460f1783cccaa0",
+ "_key": "!items!cd460f1783cccaa0",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

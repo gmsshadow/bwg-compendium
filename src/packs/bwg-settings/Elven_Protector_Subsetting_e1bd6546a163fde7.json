@@ -1,0 +1,608 @@
+{
+ "_id": "e1bd6546a163fde7",
+ "name": "Elven Protector Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Protector Subsetting lifepaths for Elven characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Rider",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 8,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Wilderlands, Citadel",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Riding, Animal Husbandry, Gift of Speed, Lay of the Horse",
+    "traitList": "Smells Like a Horse",
+    "note": "Source: Burning Wheel Gold Revised, p. 136",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "b93592f3445bf54b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.b93592f3445bf54b"
+  },
+  {
+   "name": "Herald",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 35,
+    "resources": 10,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Wilderlands, Citadel",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Paean of Deeds, Mornsong, Evensong, Recitation of Ages, Silver Trumpet",
+    "traitList": "Stoic",
+    "note": "Source: Burning Wheel Gold Revised, p. 136",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "5e18e48c577da43d",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.5e18e48c577da43d"
+  },
+  {
+   "name": "Soother",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 30,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Wilderlands, Citadel",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Lyric of Healing, Song of Soothing, Doom of Strength, Foraging",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 136",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "afb5a7097e8c2dfe",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.afb5a7097e8c2dfe"
+  },
+  {
+   "name": "Ranger",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 45,
+    "resources": 10,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Wilderlands",
+    "skillPoints": 10,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Observation, Stealthy, Bow, Foraging, Rhyme of the Pathfinder, Song of Soothing, Threne of the Chameleon, Lyric of Healing",
+    "traitList": "Gray Mantle, Sprinter",
+    "note": "Source: Burning Wheel Gold Revised, p. 136",
+    "requirements": "Forester, Wanderer, Bowyer or Second",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "d6fc9698c4986cb0",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.d6fc9698c4986cb0"
+  },
+  {
+   "name": "Bowyer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 8,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Wilderlands, Citadel",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Bowcraft, Mending, Bow, Bow-wise",
+    "traitList": "Circumspect",
+    "note": "Source: Burning Wheel Gold Revised, p. 136",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "9b1c64cf2fadae25",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.9b1c64cf2fadae25"
+  },
+  {
+   "name": "Spearbearer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 8,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Wilderlands, Citadel",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Spearcraft, Spear, Armor Training, Formation Fighting",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 136",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "42c461db28677248",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.42c461db28677248"
+  },
+  {
+   "name": "Sword Singer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 30,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Any",
+    "skillPoints": 10,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Sword, Armor Training, Shield Training, Knives, Brawling, Song of the Sword",
+    "traitList": "Sword of the White Towers",
+    "note": "Source: Burning Wheel Gold Revised, p. 136",
+    "requirements": "Second, Soldier Protector, Soother, Spouse or Spearbearer",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "532ee974b8c18498",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.532ee974b8c18498"
+  },
+  {
+   "name": "Outrider",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Citadel, Wilderlands",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Bow, Spear, Observation, Trails-wise, Mounted Combat: Bowman Training, Animal Husbandry, Mending, Stealthy",
+    "traitList": "Daring",
+    "note": "Source: Burning Wheel Gold Revised, p. 137",
+    "requirements": "Rider",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "b9da30473ac7ef0b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.b9da30473ac7ef0b"
+  },
+  {
+   "name": "Lancer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 50,
+    "resources": 12,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Any",
+    "skillPoints": 10,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Song of Burning Bright, Lament for the Fallen, Lance, Mounted Combat Training, Shield Training, Armor Training",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 137",
+    "requirements": "Outrider or Second",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "2a6b60e99c431ba3",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.2a6b60e99c431ba3"
+  },
+  {
+   "name": "Lieutenant",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 65,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Any",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Paean of Deeds, Command, Sword, Shield Training, Formation Fighting",
+    "traitList": "Ear to the Ground",
+    "note": "Source: Burning Wheel Gold Revised, p. 137",
+    "requirements": "Sword Singer, Lancer, Sea Captain or two Bowyer/Spearbearer lifepaths",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "594f1eb0f96dd5e1",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.594f1eb0f96dd5e1"
+  },
+  {
+   "name": "Captain",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 85,
+    "resources": 15,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Any",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Oratory, Sword, Command, Tactics, Formation Fighting, Monody of the March, Silent Fury, Hymn of Victory",
+    "traitList": "Sworn to the Lord Protector",
+    "note": "Source: Burning Wheel Gold Revised, p. 137",
+    "requirements": "Lieutenant, Prince, Sea Captain, Steward or two Sword Singer lifepaths",
+    "restrictions": "",
+    "order": 10
+   },
+   "sort": 1000,
+   "_id": "6a99847e0a299e83",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.6a99847e0a299e83"
+  },
+  {
+   "name": "Armorer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 90,
+    "resources": 15,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Wilderlands, Citadel",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Armorer, Etching, Sewing, Tanner, Antiphon Union Training",
+    "traitList": "Patient",
+    "note": "Source: Burning Wheel Gold Revised, p. 137",
+    "requirements": "Shaper or Bladesmith",
+    "restrictions": "",
+    "order": 11
+   },
+   "sort": 1100,
+   "_id": "9d05ce5c3bacf587",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.9d05ce5c3bacf587"
+  },
+  {
+   "name": "Bladesmith",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 80,
+    "resources": 15,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Wilderlands, Citadel",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Riddle of Steel, Etching, Elven Blade-wise",
+    "traitList": "Acute",
+    "note": "Source: Burning Wheel Gold Revised, p. 137",
+    "requirements": "Armorer, Shaper, Bowyer or Spearbearer",
+    "restrictions": "",
+    "order": 12
+   },
+   "sort": 1200,
+   "_id": "e9f24fa3dce959fd",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.e9f24fa3dce959fd"
+  },
+  {
+   "name": "Lord Protector",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 125,
+    "resources": 60,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Any",
+    "skillPoints": 10,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Strain of Far Sight, Anthem of Courage, Ballad of Rage, Command, Formation Fighting, Administration, Logistics, Strategy",
+    "traitList": "Sworn to Protect",
+    "note": "Source: Burning Wheel Gold Revised, p. 137",
+    "requirements": "Captain or Prince",
+    "restrictions": "",
+    "order": 13
+   },
+   "sort": 1300,
+   "_id": "9598a910b533a1bf",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e1bd6546a163fde7.9598a910b533a1bf"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Protector Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!e1bd6546a163fde7",
+ "folder": "d215763b17106e0d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Bladesmith",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 80,
+  "resources": 15,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Wilderlands, Citadel",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Riddle of Steel, Etching, Elven Blade-wise",
+  "traitList": "Acute",
+  "note": "Source: Burning Wheel Gold Revised, p. 137",
+  "requirements": "Armorer, Shaper, Bowyer or Spearbearer",
+  "restrictions": "",
+  "order": 12
+ },
+ "sort": 1200,
+ "_id": "ec54754f95b13f9c",
+ "_key": "!items!ec54754f95b13f9c",
+ "folder": "34ca3eb13c86f59f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

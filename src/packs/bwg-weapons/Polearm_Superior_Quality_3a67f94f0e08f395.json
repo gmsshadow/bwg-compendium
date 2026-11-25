@@ -1,0 +1,52 @@
+{
+ "name": "Polearm (Superior Quality)",
+ "type": "melee weapon",
+ "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+ "system": {
+  "pointCost": 20,
+  "quality": "superior",
+  "handedness": "two",
+  "description": "A polearm can either make an Axe Strike or a Thrust; choose the attack when striking.\n\nSuperior Quality Arms cost 20 rps for the character's whole idiom of hand weapons.\n\nSource: Burning Wheel Gold Revised, p. 554",
+  "skillId": "",
+  "shade": "B",
+  "baseOb": 1,
+  "attacks": [
+   {
+    "attackName": "Axe Strike",
+    "power": 4,
+    "add": 2,
+    "vsArmor": 1,
+    "weaponSpeed": "1",
+    "weaponLength": "long"
+   },
+   {
+    "attackName": "Thrust",
+    "power": 2,
+    "add": 2,
+    "vsArmor": 2,
+    "weaponSpeed": "2",
+    "weaponLength": "longer"
+   }
+  ]
+ },
+ "_id": "3a67f94f0e08f395",
+ "_key": "!items!3a67f94f0e08f395",
+ "folder": "521a9af45a7e4557",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

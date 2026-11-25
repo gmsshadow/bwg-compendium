@@ -1,0 +1,52 @@
+{
+ "name": "Phantasmagoria",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 12,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": true,
+  "actions": 56,
+  "description": "Shadows, dreams and phantasms come at the witch’s beck and call. Using Phantasmagoria, a witch may conjure images and illusions. The size, scope, depth, texture and detail of the vision depend on the success of the spell. Meeting the obstacle allows her to change the shape of one small, palm-sized object—but to all who view it, it seems real enough. Exceeding the obstacle allows her to increase the size and breadth of that illusion: 1 success over for an object or animal the size of a hat; 2 over for a dog or chair; 3 over creates a person, a wall or a bed; 4 over for a horse or cart or a complex image like a painting or tapestry; 5 over to create a small house or a crowd of people; 6 over to create a house, a court or a monstrous creature like a Giant or Ancient Seneschal.\n\nTo penetrate an illusion, a character must pass an Ob 3 Perception test or an Ob 2 Observation test. To make the illusions harder to penetrate, the witch may add her extra successes into complexity instead of scope. Successes allocated to the complexity of the illusion are added to the Perception/Observation obstacle.\n\nObstacle: 3^. Actions: 56.\n\nOrigin: Presence | Area of Effect: Natural Effect | Element: Heaven/Anima | Impetus: Control | Duration: Sustained | Resource Points: 12\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 217",
+  "origin": "Presence",
+  "areaOfEffect": "Natural Effect",
+  "element": "Heaven/Anima",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 12,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "5deb5bfa35e7ac43",
+ "_key": "!items!5deb5bfa35e7ac43",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

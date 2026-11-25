@@ -1,0 +1,41 @@
+{
+ "name": "Magnate",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 12,
+  "resources": 75,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 6,
+  "generalPoints": 1,
+  "traitPoints": 2,
+  "skillList": "Administration, Merchant-wise, Court-wise, Commodities-wise, Pirates-wise, Bandit-wise",
+  "traitList": "Self-Satisfied, Greedy, Affinity for Business",
+  "note": "Source: Burning Wheel Gold Revised, p. 176",
+  "requirements": "Merchant or Master of Horses",
+  "restrictions": "",
+  "order": 68
+ },
+ "sort": 6800,
+ "_id": "532178f1029b2b6d",
+ "_key": "!items!532178f1029b2b6d",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

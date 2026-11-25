@@ -1,0 +1,30 @@
+{
+ "name": "Dwarven Hall",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 30,
+  "isWorkshop": false,
+  "description": "A Dwarven hall is a large apartment in a hold. Counts as property when factoring Resources.\n\nSource: Burning Wheel Gold Revised, p. 127"
+ },
+ "_id": "2dd5d94d665852ab",
+ "_key": "!items!2dd5d94d665852ab",
+ "folder": "cea22185751de56d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

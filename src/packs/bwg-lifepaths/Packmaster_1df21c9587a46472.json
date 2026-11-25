@@ -1,0 +1,41 @@
+{
+ "name": "Packmaster",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 10,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Chattel, Great and Black",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Great Wolf Husbandry, Great Wolf-wise, Pack-wise, Mending",
+  "traitList": "Flea-Bitten, Where There’s a Whip‚ There’s a Way, Show No Fear",
+  "note": "Source: Burning Wheel Gold Revised, p. 232",
+  "requirements": "He Who Rules the Black Wolf Pack requires Bears the Lash, Follower, Whipmaster, Master of Eight or Knower of Secrets",
+  "restrictions": "",
+  "order": 9
+ },
+ "sort": 900,
+ "_id": "1df21c9587a46472",
+ "_key": "!items!1df21c9587a46472",
+ "folder": "cbebdc53fd4cf69b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

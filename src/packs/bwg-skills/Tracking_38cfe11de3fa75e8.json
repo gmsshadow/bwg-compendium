@@ -1,0 +1,49 @@
+{
+ "name": "Tracking",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "Tracking is the ability to follow prints, impressions and traces through wilderness. Trackers refer to their art as “following sign.”\n\nObstacles: Fresh tracks on soft earth, Ob 1. Identifying common animals by tracks, Ob 2. Determining number of creatures from tracks on soft earth, Ob 2. Following fresh tracks on hard earth, Ob 3. Determining weight of creature, Ob 4. Following tracks on soft earth after rain, Ob 5. Identifying a man by his shoes, Ob 6. Following tracks on hard earth after rain, Ob 7.\n\nFoRKs: Hunting\n\nSkill Type: Forester. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 305",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "38cfe11de3fa75e8",
+ "_key": "!items!38cfe11de3fa75e8",
+ "folder": "1b5eb4a289f022d3",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,895 @@
+{
+ "_id": "5e5810c5f80c60c6",
+ "name": "Human Professional Soldier Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Professional Soldier Subsetting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Runner",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Villager, Peasant, Serv., Outcast",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Inconspicuous, Stealthy, Sing",
+    "traitList": "Skinny, Fleet of Foot, Sprinter",
+    "note": "Source: Burning Wheel Gold Revised, p. 187",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "3b68935dc4b4f442",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.3b68935dc4b4f442"
+  },
+  {
+   "name": "Apprentice",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 6,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "City Dweller, Peasant, Villager",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Mending, Write, Read, Hauling, Driving, Ditch Digging",
+    "traitList": "Exhausted, Back-Breaking Labor",
+    "note": "Source: Burning Wheel Gold Revised, p. 187",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "0cb73db127bd5615",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.0cb73db127bd5615"
+  },
+  {
+   "name": "Musician",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 5,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Villager, Peasant, Servitude",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Musical Instrument, Conspicuous, Riding",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 187",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "e93acab133558079",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.e93acab133558079"
+  },
+  {
+   "name": "Foot Soldier",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 6,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Outcast, Villager, Servitude",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Soldiering, Appropriate Weapons, Shield Training, Brawling, Foraging, Firebuilding",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 187",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "1efdd765b1017de3",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.1efdd765b1017de3"
+  },
+  {
+   "name": "Archer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Outcast, Villager, Servitude",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Bow, Fletcher, Brawling, Foraging, Firebuilding",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 187",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "cda27f17c852edba",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.cda27f17c852edba"
+  },
+  {
+   "name": "Crossbowman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 8,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Outcast, Villager, Servitude",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Crossbow, Soldiering, Fletcher, Brawling, Foraging",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 187",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "af2f757995f7c5cc",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.af2f757995f7c5cc"
+  },
+  {
+   "name": "Sailor",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Sea, Outcast, Villager, Servitude",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Seamanship, Rigging, Knots, Mending, Navigation, Knives, Sword",
+    "traitList": "Iron Stomach, Sea Legs, Affinity for Rope",
+    "note": "Source: Burning Wheel Gold Revised, p. 187",
+    "requirements": "",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "bf8892d606e3f4e6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.bf8892d606e3f4e6"
+  },
+  {
+   "name": "Herald",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 7,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Villager, Servitude, Noble Court",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Oratory, Conspicuous, Riding, Heraldry, Bannerman-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 187",
+    "requirements": "",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "5c77049a1a709e95",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.5c77049a1a709e95"
+  },
+  {
+   "name": "Bannerman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 7,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Villager, Servitude, Noble Court",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Conspicuous, Riding, Appropriate Weapons, Armor Training",
+    "traitList": "Honored, Brutal, Aggressive",
+    "note": "Source: Burning Wheel Gold Revised, p. 187",
+    "requirements": "",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "ec944afddf5b1878",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.ec944afddf5b1878"
+  },
+  {
+   "name": "Scout",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 4,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Peasant, Servitude, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Stealthy, Foraging, Orienteering, Appropriate Weapons, Observation",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 187",
+    "requirements": "",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "786fb4bd0034f766",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.786fb4bd0034f766"
+  },
+  {
+   "name": "Sergeant",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 8,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Villager, Servitude, Noble Court",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Intimidation, Command, Field Dressing, Appropriate Weapons",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 188",
+    "requirements": "Squire, Village Tough, City Guard or Foot Soldier",
+    "restrictions": "",
+    "order": 10
+   },
+   "sort": 1000,
+   "_id": "a13173d5b43896c3",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.a13173d5b43896c3"
+  },
+  {
+   "name": "Veteran",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 20,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Court",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Soldier-wise, Soldiering, Campaign History, Tactics",
+    "traitList": "Stubborn, Maimed",
+    "note": "Source: Burning Wheel Gold Revised, p. 188",
+    "requirements": "Sergeant, Sergeant-at-Arms, Knight, Military Order or Freebooter",
+    "restrictions": "",
+    "order": 11
+   },
+   "sort": 1100,
+   "_id": "429b58083a6a1d37",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.429b58083a6a1d37"
+  },
+  {
+   "name": "Cavalryman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 9,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Villager, Servitude, Noble Court",
+    "skillPoints": 10,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Riding, Mounted Combat Training, Armor Training, Shield Training, Appropriate Weapons, Horse-wise, Haggling",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 188",
+    "requirements": "a prior lifepath having to do with horses—Knight, Squire, Groom, Master of Horses, etc",
+    "restrictions": "",
+    "order": 12
+   },
+   "sort": 1200,
+   "_id": "91935de6f01ba5c9",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.91935de6f01ba5c9"
+  },
+  {
+   "name": "Journeyman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 15,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Villager, Peasant, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Blacksmith, Appraisal, Haggling, Ridiculous Request-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 188",
+    "requirements": "Apprentice",
+    "restrictions": "",
+    "order": 13
+   },
+   "sort": 1300,
+   "_id": "aa05a69c1eaae3bc",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.aa05a69c1eaae3bc"
+  },
+  {
+   "name": "Armorer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 20,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City Dweller, Villager, Outcast",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Mending, Blacksmith, Armorer, Weaponsmith, Etching, Tanner",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 188",
+    "requirements": "Journeyman",
+    "restrictions": "",
+    "order": 14
+   },
+   "sort": 1400,
+   "_id": "2239fae749e0213d",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.2239fae749e0213d"
+  },
+  {
+   "name": "Atilliator",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 22,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Court, City Dweller, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Atilliator, Carpentry, Carving, Blacksmith, Tanner",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 188",
+    "requirements": "Journeyman",
+    "restrictions": "",
+    "order": 15
+   },
+   "sort": 1500,
+   "_id": "3c3ad8aa4b40f469",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.3c3ad8aa4b40f469"
+  },
+  {
+   "name": "Chaplain",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 15,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Outcast, City, Sea, Court, Religious",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Oratory, Riding, Armor Training, Mounted Combat Training, Appropriate Weapons",
+    "traitList": "Ideologue, Psychotic",
+    "note": "Source: Burning Wheel Gold Revised, p. 188",
+    "requirements": "any priest lifepath or Military Order",
+    "restrictions": "",
+    "order": 16
+   },
+   "sort": 1600,
+   "_id": "96c789ddf9ffa6f7",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.96c789ddf9ffa6f7"
+  },
+  {
+   "name": "Engineer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 18,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City Dweller, Court, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Artillerist, Engineering, Fortifications",
+    "traitList": "Smart, Sense of Distance",
+    "note": "Source: Burning Wheel Gold Revised, p. 188",
+    "requirements": "Student, Engineer, Mining Engineer or Artillerist’s Hand",
+    "restrictions": "",
+    "order": 17
+   },
+   "sort": 1700,
+   "_id": "0e55f59227bec2e1",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.0e55f59227bec2e1"
+  },
+  {
+   "name": "Wizard of War",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 20,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City Dweller, Court, Outcast",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Sorcery, Strategy Games, Soldier-wise, War-wise, Haggling, Cartography",
+    "traitList": "Arrogant",
+    "note": "Source: Burning Wheel Gold Revised, p. 189",
+    "requirements": "Neophyte Sorcerer, Arcane Devotee, Weather Witch, Rogue Wizard or Mad Summoner",
+    "restrictions": "",
+    "order": 18
+   },
+   "sort": 1800,
+   "_id": "59689a5820b0de20",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.59689a5820b0de20"
+  },
+  {
+   "name": "Quartermaster",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 17,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Villager, City Dweller, Court",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Administration, Accounting, Haggling, Logistics",
+    "traitList": "Light Sleeper",
+    "note": "Source: Burning Wheel Gold Revised, p. 189",
+    "requirements": "Sergeant, Veteran, Steward, Ship’s Captain, Captain of the Guard, Merchant, Man-at-Arms, Smuggler, Constable or Lord",
+    "restrictions": "",
+    "order": 19
+   },
+   "sort": 1900,
+   "_id": "8d2dcc8904fc18d2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.8d2dcc8904fc18d2"
+  },
+  {
+   "name": "Captain",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 35,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Any except Noble",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Command, Contract-wise, Haggling, Oratory, Appropriate Weapons, Field Dressing, Riding, Strategy",
+    "traitList": "Savvy",
+    "note": "Source: Burning Wheel Gold Revised, p. 189",
+    "requirements": "Captain of the Guard, Knight, Lord, Constable or two Freebooter lifepaths",
+    "restrictions": "",
+    "order": 20
+   },
+   "sort": 2000,
+   "_id": "508402b70f5cfc55",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5e5810c5f80c60c6.508402b70f5cfc55"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Professional Soldier Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!5e5810c5f80c60c6",
+ "folder": "f28c4fd7c6c9b063",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

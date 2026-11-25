@@ -1,0 +1,49 @@
+{
+ "name": "Estate Management",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "Ensuring that an estate—its workers, animals, rolling stock and crops—are all well managed and tended to is a demanding and tedious task. The primary use of this skill is to recover taxed Resources.\n\nObstacles: Managing a household, Ob 1; Manor, Ob 2. Fortress, Ob 3. Castle, Ob 4.\n\nSkill Type: Special. Tools: Nothing but an estate.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 271",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "2d7546846a729a0f",
+ "_key": "!items!2d7546846a729a0f",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

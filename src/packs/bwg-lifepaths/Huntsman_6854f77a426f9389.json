@@ -1,0 +1,41 @@
+{
+ "name": "Huntsman",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 45,
+  "resources": 9,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Citadel, Protector",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Call of the Wild, Javelin, Bow, Tracking, Stealthy, Observation",
+  "traitList": "Watchful",
+  "note": "Source: Burning Wheel Gold Revised, p. 131",
+  "requirements": "",
+  "restrictions": "",
+  "order": 7
+ },
+ "sort": 700,
+ "_id": "6854f77a426f9389",
+ "_key": "!items!6854f77a426f9389",
+ "folder": "c6f2016285d19f81",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

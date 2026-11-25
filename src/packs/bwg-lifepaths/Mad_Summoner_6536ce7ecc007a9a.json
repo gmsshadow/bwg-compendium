@@ -1,0 +1,41 @@
+{
+ "name": "Mad Summoner",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 20,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Peasant, City Dweller, Seafaring",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Summoning, Enchanting, Demonology, Empyrealia",
+  "traitList": "Mad, Fear of Cheese, Fear of Wet Noises, Alarming",
+  "note": "Source: Burning Wheel Gold Revised, p. 196",
+  "requirements": "Cultist, Augur, Neophyte Sorcerer or Arcane Devotee",
+  "restrictions": "",
+  "order": 28
+ },
+ "sort": 2800,
+ "_id": "6536ce7ecc007a9a",
+ "_key": "!items!6536ce7ecc007a9a",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

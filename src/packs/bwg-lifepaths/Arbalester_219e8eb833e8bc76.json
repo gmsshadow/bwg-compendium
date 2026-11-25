@@ -1,0 +1,41 @@
+{
+ "name": "Arbalester",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 12,
+  "resources": 12,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Clansman, Outcast, Guilder",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Crossbow, Mending, Fletcher, Artillery Hand, Windage-wise",
+  "traitList": "Squinty",
+  "note": "Source: Burning Wheel Gold Revised, p. 114",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1
+ },
+ "sort": 100,
+ "_id": "219e8eb833e8bc76",
+ "_key": "!items!219e8eb833e8bc76",
+ "folder": "a9ab655cebcfeb1d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

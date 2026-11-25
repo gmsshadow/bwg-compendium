@@ -1,0 +1,41 @@
+{
+ "name": "Trapper",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 8,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Villager, Outcast, Soldier",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Trapper, Stealthy, Tracking, Cooking, Haggling, Taxidermy",
+  "traitList": "Foul Smelling",
+  "note": "Source: Burning Wheel Gold Revised, p. 164",
+  "requirements": "",
+  "restrictions": "",
+  "order": 12
+ },
+ "sort": 1200,
+ "_id": "f5c1beda05baa7b9",
+ "_key": "!items!f5c1beda05baa7b9",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

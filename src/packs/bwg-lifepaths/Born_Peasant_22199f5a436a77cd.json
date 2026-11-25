@@ -1,0 +1,41 @@
+{
+ "name": "Born Peasant",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 3,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Serv., Soldier, Sea, Religious",
+  "skillPoints": 0,
+  "generalPoints": 3,
+  "traitPoints": 2,
+  "skillList": "",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 163",
+  "requirements": "",
+  "restrictions": "",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "22199f5a436a77cd",
+ "_key": "!items!22199f5a436a77cd",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

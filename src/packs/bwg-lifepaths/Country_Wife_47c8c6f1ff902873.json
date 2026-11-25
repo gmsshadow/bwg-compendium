@@ -1,0 +1,41 @@
+{
+ "name": "Country Wife",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 5,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Religious",
+  "skillPoints": 2,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Child-Rearing, Cooking",
+  "traitList": "",
+  "note": "Aplayer who takes the Country Wife lifepath may also choose her husband’s lifepath from the Peasant setting and may choose from his skills: She gets half of his skill points, rounded down. She also receives half of her husband’s resource points. Resources: 5+ as listed in the book.\n\nSource: Burning Wheel Gold Revised, p. 164",
+  "requirements": "",
+  "restrictions": "",
+  "order": 18
+ },
+ "sort": 1800,
+ "_id": "47c8c6f1ff902873",
+ "_key": "!items!47c8c6f1ff902873",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

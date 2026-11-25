@@ -1,0 +1,44 @@
+{
+ "name": "Black Iron Shield (Bash)",
+ "type": "melee weapon",
+ "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+ "system": {
+  "pointCost": 0,
+  "quality": "run of the mill",
+  "handedness": "one",
+  "description": "Orc Black Iron Shield used as a weapon: the sharpened outer edge makes it Power 2, Add 2, VA 1, WS 1, short. See the Black Iron Shield armor item for its 3D shield dice.\n\nRun of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 242",
+  "skillId": "",
+  "shade": "B",
+  "baseOb": 1,
+  "attacks": [
+   {
+    "attackName": "",
+    "power": 2,
+    "add": 2,
+    "vsArmor": 1,
+    "weaponSpeed": "1",
+    "weaponLength": "short"
+   }
+  ]
+ },
+ "_id": "31541098b1ee028c",
+ "_key": "!items!31541098b1ee028c",
+ "folder": "8aefd753f20f3397",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

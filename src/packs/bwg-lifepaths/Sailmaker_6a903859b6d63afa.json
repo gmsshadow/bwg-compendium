@@ -1,0 +1,41 @@
+{
+ "name": "Sailmaker",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 9,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Soldier, City, Villager, Outcast",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sewing, Weaving, Mending, Sail-wise",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 190",
+  "requirements": "Sailor, Pirate, Seamstress, Sewing",
+  "restrictions": "",
+  "order": 13
+ },
+ "sort": 1300,
+ "_id": "6a903859b6d63afa",
+ "_key": "!items!6a903859b6d63afa",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Riddle of Steel",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": true,
+  "description": "The first Elven Bladesmiths learned the Riddle of Steel ages ago from their Dwarven allies. The Riddle teaches Elves how to shape metal so it will quickly and efficiently kill a foe. With this skill song, the Bladesmith may create swords and knives of all types, axes if he wishes and arrowheads for the Bowyers. Spearheads are left to the ancient rites of the Spearbearers. Combining the Riddle of Steel with Antiphon Union and various songs can create some very interesting results.\n\nObstacles: Run of the mill knives or bodkin arrow, Ob 1. Run of the mill sword or axe or hunting arrow, Ob 2. Elven knife or leaf head arrow, Ob 3. Elven (superior quality) sword or axe, Ob 4. Elven polearm, Ob 5.\n\nFoRKs: Smithcraft\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRestrictions: Elves only\n\nRoot: Will/Agility (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 291",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "41ae90c3d9da7047",
+ "_key": "!items!41ae90c3d9da7047",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

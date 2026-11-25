@@ -1,0 +1,49 @@
+{
+ "name": "Waiting Tables",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "Despite what they may say, it takes skill, patience and cunning to serve customers. A great skill for replenishing taxed Resources.\n\nObstacles: Sleepy cafe, Ob 1. Hole in the wall bar, Ob 2. Busy restaurant, Ob 3. Royal table, Ob 4. Imperial table, Ob 5.\n\nSkill Type: Special. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 307",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "9fcb38f6fef21564",
+ "_key": "!items!9fcb38f6fef21564",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

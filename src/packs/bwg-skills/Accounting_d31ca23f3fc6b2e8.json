@@ -1,0 +1,49 @@
+{
+ "name": "Accounting",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "Accountants keep track of expenses, income, stocks and taxes. This skill is primarily used to recover taxed Resources.\n\nObstacles: Calculating taxes for a single income, single residence individual, Ob 1. Maintaining simple personal finances, Ob 2. Maintaining a family’s income, Ob 3. A small business’ books, Ob 4. An estate’s books, Ob 5. A large business’ books, Ob 6. A town’s books, Ob 7. A city’s books, Ob 8. A province’s books, Ob 9. A nation’s books, Ob 10.\n\nFoRKs: Research, Reading, Administration, Estate Management\n\nSkill Type: Academic. Tools: Yes.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 253",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "d31ca23f3fc6b2e8",
+ "_key": "!items!d31ca23f3fc6b2e8",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

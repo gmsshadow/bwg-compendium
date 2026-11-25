@@ -1,0 +1,608 @@
+{
+ "_id": "75aaf4aac7b478e9",
+ "name": "Orc Chattel Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Chattel Setting lifepaths for Orc characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Chattel",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Black Legion, Servant",
+    "skillPoints": 0,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 228",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "fb39426d27d40b25",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.fb39426d27d40b25"
+  },
+  {
+   "name": "Cattle Slave",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 3,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Animal Husbandry",
+    "traitList": "Tasting the Lash, Screaming, Shouting, Kicking the Beast",
+    "note": "Source: Burning Wheel Gold Revised, p. 228",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "ad7c0a93c5a4b80c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.ad7c0a93c5a4b80c"
+  },
+  {
+   "name": "Scavenger",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 6,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Black Legion",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Foraging, Inconspicuous",
+    "traitList": "Tasting the Lash, Running (Away), Hiding, Stealing, Scavenger",
+    "note": "Source: Burning Wheel Gold Revised, p. 228",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "153af83bf243eb3f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.153af83bf243eb3f"
+  },
+  {
+   "name": "Forge Slave",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 3,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Ditch Digging",
+    "traitList": "Tasting the Lash, Pain Life, Back-Breaking Labor, Numb",
+    "note": "Source: Burning Wheel Gold Revised, p. 228",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "c9f479b3eacd6050",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.c9f479b3eacd6050"
+  },
+  {
+   "name": "Hauler",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 3,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Driving, Beast of Burden-wise",
+    "traitList": "Tasting the Lash, Back-Breaking Labor, Cursing, Spitting, Yowling",
+    "note": "Source: Burning Wheel Gold Revised, p. 228",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "135b48965d9cfaeb",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.135b48965d9cfaeb"
+  },
+  {
+   "name": "Cutter Slave",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 3,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Tree Pulling, Ditch Digging",
+    "traitList": "Tasting the Lash, Hatred of Forests, Back-Breaking Labor",
+    "note": "Source: Burning Wheel Gold Revised, p. 228",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "211706f6a3f784f8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.211706f6a3f784f8"
+  },
+  {
+   "name": "Tunneler",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 3,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Ditch Digging, Tunnel-wise",
+    "traitList": "Tasting the Lash, Back-Breaking Labor, Black Lung",
+    "note": "Source: Burning Wheel Gold Revised, p. 228",
+    "requirements": "",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "3ca3dc56475de12f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.3ca3dc56475de12f"
+  },
+  {
+   "name": "Ravager",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 8,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Black Legion",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Brawling, Cudgel, Intimidation",
+    "traitList": "Pack Hunter",
+    "note": "Source: Burning Wheel Gold Revised, p. 228",
+    "requirements": "",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "78751ee5ec7c6cf0",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.78751ee5ec7c6cf0"
+  },
+  {
+   "name": "Woodcutter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 9,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Rude Carpentry, Mending, Intimidation",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 228",
+    "requirements": "Cutter Slave",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "6652b2efa436a64a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.6652b2efa436a64a"
+  },
+  {
+   "name": "Butcher",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 9,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Butchery, Tanner, Intimidation",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 229",
+    "requirements": "Cattle Slave",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "ec7e6bbf1d6a75f1",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.ec7e6bbf1d6a75f1"
+  },
+  {
+   "name": "Forger",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 9,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Blacksmith, Intimidation",
+    "traitList": "Singed",
+    "note": "Source: Burning Wheel Gold Revised, p. 229",
+    "requirements": "Forge Slave",
+    "restrictions": "",
+    "order": 10
+   },
+   "sort": 1000,
+   "_id": "c4b908406f571dd8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.c4b908406f571dd8"
+  },
+  {
+   "name": "Pitwright",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Mining, Intimidation",
+    "traitList": "Deep Sense",
+    "note": "Source: Burning Wheel Gold Revised, p. 229",
+    "requirements": "Tunneler",
+    "restrictions": "",
+    "order": 11
+   },
+   "sort": 1100,
+   "_id": "74c500349475c916",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.74c500349475c916"
+  },
+  {
+   "name": "Edge Grinder",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 15,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Black Legion",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Mending, Weaponsmith, Armorer, Tanner",
+    "traitList": "Suspicious",
+    "note": "Source: Burning Wheel Gold Revised, p. 229",
+    "requirements": "He Who Grinds the Edges of Our Axes to Glinting Sharpness requires Forger",
+    "restrictions": "",
+    "order": 12
+   },
+   "sort": 1200,
+   "_id": "40213e7033363b3e",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.40213e7033363b3e"
+  },
+  {
+   "name": "Whipmaster",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Black Legion",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Interrogation, Intimidation, Brawling, Torture",
+    "traitList": "Where There’s a Whip‚ There’s a Way",
+    "note": "Source: Burning Wheel Gold Revised, p. 229",
+    "requirements": "Pitwright, Forger, four slave lifepaths or any Great and Black or Legion lifepath",
+    "restrictions": "",
+    "order": 13
+   },
+   "sort": 1300,
+   "_id": "08703e574a3a89f7",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!75aaf4aac7b478e9.08703e574a3a89f7"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Chattel Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!75aaf4aac7b478e9",
+ "folder": "5ece4b6701524c4b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

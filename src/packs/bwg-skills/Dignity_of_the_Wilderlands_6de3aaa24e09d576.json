@@ -1,0 +1,49 @@
+{
+ "name": "Dignity of the Wilderlands",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": true,
+  "description": "Dignity of the Wilderlands is an exploration of the culture and ritual of the Elves of the Wilderlands. This skill song may be used in place of Etiquette when dealing with Wilder-born Elves.\n\nFoRKs: Etiquette\n\nSkill Type: Social. Tools: No.\n\nRestrictions: Elves only\n\nRoot: Will/Per (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 267",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "6de3aaa24e09d576",
+ "_key": "!items!6de3aaa24e09d576",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

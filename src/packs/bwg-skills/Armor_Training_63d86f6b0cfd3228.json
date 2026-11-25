@@ -1,0 +1,49 @@
+{
+ "name": "Armor Training",
+ "type": "skill",
+ "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "power",
+  "root2": "speed",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "martial",
+  "training": true,
+  "magical": false,
+  "description": "To the unaccustomed, armor is heavy, hot and uncomfortable. Characters without Armor Training who wear light mail suffer +1 Ob penalty to all tests. Wearing heavy mail or heavier without Armor Training incurs a +2 Ob penalty. Armor Training mitigates these penalties completely. It also mitigates fatigue penalties for wearing all types of armor. Clumsy Weight penalties still apply.\n\n*Training Root is for Aptitude only.\n\nSkill Type: Martial Training. Tools: No.\n\nRoot: Power/Speed*\n\nSource: Burning Wheel Gold Revised, p. 256",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "63d86f6b0cfd3228",
+ "_key": "!items!63d86f6b0cfd3228",
+ "folder": "099756cf8a437215",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

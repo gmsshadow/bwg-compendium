@@ -1,0 +1,41 @@
+{
+ "name": "Wordbearer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 15,
+  "resources": 10,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Clansman, Host",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Hold-wise, Rumor-wise, Oratory, Clan History",
+  "traitList": "Quirky, Iron Memory, Quick-Step",
+  "note": "Source: Burning Wheel Gold Revised, p. 111",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1
+ },
+ "sort": 100,
+ "_id": "992d416bf7c1a7d5",
+ "_key": "!items!992d416bf7c1a7d5",
+ "folder": "9dc85275b24effb4",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

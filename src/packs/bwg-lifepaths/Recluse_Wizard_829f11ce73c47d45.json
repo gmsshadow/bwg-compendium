@@ -1,0 +1,41 @@
+{
+ "name": "Recluse Wizard",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 15,
+  "resources": 28,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Outcast, Villager, City, Court",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Astrology, Alchemy, Enchanting, Illuminations, Ancient History, Obscure History",
+  "traitList": "Batshit, Gifted",
+  "note": "Source: Burning Wheel Gold Revised, p. 164",
+  "requirements": "a previous lifepath that contains the Sorcery skill",
+  "restrictions": "",
+  "order": 17
+ },
+ "sort": 1700,
+ "_id": "829f11ce73c47d45",
+ "_key": "!items!829f11ce73c47d45",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

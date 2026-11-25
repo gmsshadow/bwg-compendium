@@ -1,0 +1,50 @@
+{
+ "name": "Second Sight",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 4,
+  "name": "",
+  "traittype": "die",
+  "text": "With Second Sight, the character can peer vaguely into the shifting shadows of the spirit world. It is a powerful, multifaceted ability. Through an act of concentration, he can push through the veil of reality to see the other side. This costs one action in Fight but otherwise can be done at will. The Second Sight grants the ability to discern if something is magical or not. Test Perception: high power magic (major miracles, Mjölnir, the Burning Wheel, Ob 10 spells, Strength 10 spirits, etc.), Ob 1; moderately-powered magic (minor miracles, Ob 5 spells, a risen corpse, the Belt of Flying, Dragon Slaying Sword, Spirit Weapons, Strength 5 spirits), Ob 5; low power magic (Jade Amulet, Bless/Curse, Ob 2 spells, Strength 2 spirits etc.), Ob 8. If successful, the character knows the item, person or effect is magical. He doesn’t know exactly what the magic does. Second Sight is one of the abilities that allows a character to use the Aura Reading skill. See the Aura Reading skill in this book for obstacles. Second Sight allows the mage to FoRK Aura Reading into Sorcery or Summoning (so long as he is using his sight). Second Sight turns Perception into Observation for detecting Stealthy or Inconspicuous characters. Any physical actions taken (running, jumping, fighting, etc.) while using Second Sight suffer a +1 Ob penalty.\n\nType: Dt (die trait). Cost: 4 pts.\n\nSource: Burning Wheel Gold Revised, p. 344",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "2132f7b69032bea7",
+ "_key": "!items!2132f7b69032bea7",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

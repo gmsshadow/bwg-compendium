@@ -1,0 +1,31 @@
+{
+ "name": "Finery",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Specialty clothing and expensive items for special occasions or making a point: courtly regalia, vestments, shining robes. Improper dress imposes obstacle penalties to Inconspicuous, Etiquette and other tests.\n\nSource: Burning Wheel Gold Revised, p. 204"
+ },
+ "_id": "20c225a57f7ef6b2",
+ "_key": "!items!20c225a57f7ef6b2",
+ "folder": "e2d9989687336b5d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

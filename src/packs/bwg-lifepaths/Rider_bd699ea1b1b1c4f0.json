@@ -1,0 +1,41 @@
+{
+ "name": "Rider",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 15,
+  "resources": 8,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Wilderlands, Citadel",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Riding, Animal Husbandry, Gift of Speed, Lay of the Horse",
+  "traitList": "Smells Like a Horse",
+  "note": "Source: Burning Wheel Gold Revised, p. 136",
+  "requirements": "",
+  "restrictions": "",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "bd699ea1b1b1c4f0",
+ "_key": "!items!bd699ea1b1b1c4f0",
+ "folder": "34ca3eb13c86f59f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

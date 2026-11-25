@@ -1,0 +1,41 @@
+{
+ "name": "Page",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Soldier, City, Servitude, Noble",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Riding, Brawling, Write, Read, Sword",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 180",
+  "requirements": "",
+  "restrictions": "If chosen, this path must be the character’s second lifepath and may only be taken once",
+  "order": 10
+ },
+ "sort": 1000,
+ "_id": "496616bcbdfe0d94",
+ "_key": "!items!496616bcbdfe0d94",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

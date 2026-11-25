@@ -1,0 +1,41 @@
+{
+ "name": "Chamberlain",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 30,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Soldier, Religious",
+  "skillPoints": 5,
+  "generalPoints": 1,
+  "traitPoints": 2,
+  "skillList": "Soothing Platitudes, Persuasion, Ugly Truth",
+  "traitList": "Power Behind the Throne",
+  "note": "Source: Burning Wheel Gold Revised, p. 184",
+  "requirements": "Scholar, Steward, Town Official, Municipal Minister, Judge, Court Lawyer, Court Doctor, Magnate, Baron, Bishop, Viscount, Count or Duke",
+  "restrictions": "",
+  "order": 38
+ },
+ "sort": 3800,
+ "_id": "71c18308d61c5d25",
+ "_key": "!items!71c18308d61c5d25",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Armorer",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": false,
+  "description": "This specialized and dedicated craft is used to manufacture personal protection worn by soldiers in battle. The skill’s knowledge base is diverse, encompassing aspects of a blacksmith, a tailor and a tanner.\n\nObstacles: Gambeson, skull cap or leather hood: Ob 1. Reinforced leather armor, light helmet, pot helm: Ob 2. Light mail, spangenhelm: Ob 3. Heavy mail, open-faced bascinet, barbute: Ob 4. Plated mail, sallet, closed bascinet: Ob 5. Full plate, great helm: Ob 6. Target, Ob 1. Buckler, Ob 2. Great Shield, Ob 3. Kite, Ob 4.\n\nFoRKs: Blacksmith, Sewing, Tanner\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 256",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "b7f827dd50dbbd3b",
+ "_key": "!items!b7f827dd50dbbd3b",
+ "folder": "3bcde3f2b3069254",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

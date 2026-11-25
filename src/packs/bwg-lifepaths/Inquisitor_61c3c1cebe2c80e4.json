@@ -1,0 +1,41 @@
+{
+ "name": "Inquisitor",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Outcast, Soldier, City, Court",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Doctrine, Interrogation, Torture, Heresy-wise",
+  "traitList": "Suspicious, Merciless, Cold Blooded, Righteous",
+  "note": "Source: Burning Wheel Gold Revised, p. 186",
+  "requirements": "Temple Priest, Itinerant Priest, Priest, Court Priest, Judge or Justiciar",
+  "restrictions": "",
+  "order": 15
+ },
+ "sort": 1500,
+ "_id": "61c3c1cebe2c80e4",
+ "_key": "!items!61c3c1cebe2c80e4",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

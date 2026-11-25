@@ -1,0 +1,49 @@
+{
+ "name": "Rituals of Blood",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "The Rituals of Blood imitate the Lord of Darkness and Blood’s abilities to gather allies, twist minds and transform himself. Using the obstacles described in the Orc chapter, the Servant can cast a variety of spells with this skill.\n\nObstacles: See the Rituals of Night and Blood section of the Orc chapter.\n\nFoRKs: Doctrine of Night’s Blood\n\nSkill Type: Sorcerous. Tools: Yes, ritual knives.\n\nRestrictions: Orcs only\n\nRoot: Will (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 292",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Orcs only"
+ },
+ "_id": "1afbd2c2032e49b0",
+ "_key": "!items!1afbd2c2032e49b0",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

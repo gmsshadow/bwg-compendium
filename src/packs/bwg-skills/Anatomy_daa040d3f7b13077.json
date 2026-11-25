@@ -1,0 +1,49 @@
+{
+ "name": "Anatomy",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "Anatomy is the study of the human body’s internal functions and structure.\n\nObstacles: Dog anatomy, Ob 1. Superficial human anatomy, Ob 2. Major human organs, Ob 3. Circulatory system, Ob 4. Proper human dissection, Ob 5.\n\nFoRKs: Surgery, Field Dressing\n\nSkill Type: Academic. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 255",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "daa040d3f7b13077",
+ "_key": "!items!daa040d3f7b13077",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

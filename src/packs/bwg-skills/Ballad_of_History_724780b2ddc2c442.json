@@ -1,0 +1,49 @@
+{
+ "name": "Ballad of History",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": true,
+  "description": "Elves learn their history and that of many others in mnemonic songs.\n\nObstacles: Events of the current age, Ob 1; of the Third Age, Ob 2; of the Second Age, Ob 3; First Age, Ob 4; of the Years of the Sun, Ob 5; of the Creation and before time, Ob 6.\n\nFoRKs: Any appropriate history or Wise skill or song\n\nSkill Type: Academic. Tools: No.\n\nRestrictions: Elves only\n\nRoot: Perception (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 259",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "724780b2ddc2c442",
+ "_key": "!items!724780b2ddc2c442",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

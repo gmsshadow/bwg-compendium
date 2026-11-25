@@ -1,0 +1,280 @@
+{
+ "_id": "085052b7b6e51640",
+ "name": "Dwarven Outcast Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Dwarven Outcast Subsetting lifepaths for Dwarven characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Adventurer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 10,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Clansman, Guilder",
+    "skillPoints": 12,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Survival, Climbing, Knots, Herbalism, Haggling, Firebuilding, Brawling, Knives, Sword, Crossbow, Lock Pick, Appraisal, Obscure History, Symbology, Lost Treasures-wise",
+    "traitList": "Adventurer, Boaster",
+    "note": "Source: Burning Wheel Gold Revised, p. 116",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "bfb6034a22bbe502",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!085052b7b6e51640.bfb6034a22bbe502"
+  },
+  {
+   "name": "Gambler",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Clansman",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Games of Chance, Observation, Sleight of Hand, Cheat-wise",
+    "traitList": "Stone-Faced",
+    "note": "Source: Burning Wheel Gold Revised, p. 116",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "4b1b49badd92d374",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!085052b7b6e51640.4b1b49badd92d374"
+  },
+  {
+   "name": "Oathbreaker",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 5,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Clansman",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Ugly Truth, Falsehood, Oath-wise",
+    "traitList": "Oathbreaker, Bitter",
+    "note": "Source: Burning Wheel Gold Revised, p. 116",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "dfe60d8bc62cfcb1",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!085052b7b6e51640.dfe60d8bc62cfcb1"
+  },
+  {
+   "name": "Drunk",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Clansman",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Stentorious Singing, Drunking, Tavern Tales-wise",
+    "traitList": "Drunk, Despondent",
+    "note": "Source: Burning Wheel Gold Revised, p. 116",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "05a38415e2e264c0",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!085052b7b6e51640.05a38415e2e264c0"
+  },
+  {
+   "name": "Coward",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 5,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Inconspicuous, Ugly Truth, Oratory, Hypocritical Bastards-wise",
+    "traitList": "Branded a Coward",
+    "note": "Source: Burning Wheel Gold Revised, p. 116",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "389c321fe4994373",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!085052b7b6e51640.389c321fe4994373"
+  },
+  {
+   "name": "Rune Caster",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 6,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Any except Host",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Rune Casting, Foraging, Scavenging, Bad End-wise",
+    "traitList": "Slave to Fate",
+    "note": "Source: Burning Wheel Gold Revised, p. 116",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "6b831fc4bb282640",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!085052b7b6e51640.6b831fc4bb282640"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Dwarven Outcast Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!085052b7b6e51640",
+ "folder": "02a8bf34a0b4974f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

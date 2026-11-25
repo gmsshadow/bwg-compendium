@@ -1,0 +1,49 @@
+{
+ "name": "Etiquette",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "Etiquette is proper courtly behavior. One cannot make requests of the court without knowing the appropriate social rituals.\n\nObstacles: Proper etiquette for a minor lord, Ob 1. Proper etiquette for a baronial lord, Ob 2. For a ducal lord, Ob 3. For the king, Ob 4. For the queen, Ob 5. For the queen-mother, Ob 6.\n\nFoRKs: Soothing Platitudes, Falsehood\n\nSkill Type: Social. Tools: No.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 271",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "3c2c440de3e04329",
+ "_key": "!items!3c2c440de3e04329",
+ "folder": "5a85450a27640cfe",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Stentorious Singing",
+ "type": "skill",
+ "img": "icons/skills/trades/music-notes-sound-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "musical",
+  "training": false,
+  "magical": true,
+  "description": "This skill is simply loud, boisterous and loud. Dwarves love to sing, much to the chagrin of their guests and neighbors.\n\nObstacles: Will of the listener. If the song is suitable to the mood, add advantage. The obstacle can be used for linked tests or to convey an idea. Add +1 Ob disadvantage for singing to Men and Roden, +2 Ob for Orcs and Trolls, and +3 Ob to Elves and Wolves. Spiders don’t care about your crappy singing. They just want to eat you. Dragons, too.\n\nFoRKs: Stentorious Debate, Chronology of Kings, Drunking\n\nSkill Type: Musical. Tools: No.\n\nRestrictions: Dwarves only\n\nRoot: Will (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 301",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "0c1bffaf733e80a3",
+ "_key": "!items!0c1bffaf733e80a3",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

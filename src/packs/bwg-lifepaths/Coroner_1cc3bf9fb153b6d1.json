@@ -1,0 +1,41 @@
+{
+ "name": "Coroner",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "City Dweller, Soldier",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Rule of Law, Anatomy, Writ-wise, Observation",
+  "traitList": "Hard Hearted, Seen It All",
+  "note": "Source: Burning Wheel Gold Revised, p. 183",
+  "requirements": "Steward, Town Official, Municipal Minister, Judge, Court Lawyer, Court Doctor, Magnate or Lord",
+  "restrictions": "",
+  "order": 35
+ },
+ "sort": 3500,
+ "_id": "1cc3bf9fb153b6d1",
+ "_key": "!items!1cc3bf9fb153b6d1",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

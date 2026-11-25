@@ -1,0 +1,41 @@
+{
+ "name": "Artillerist",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 55,
+  "resources": 45,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Artificer, Outcast, Noble",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Artillerist, Mending, Carpentry, Structural Weakness-wise",
+  "traitList": "Complaining",
+  "note": "Source: Burning Wheel Gold Revised, p. 115",
+  "requirements": "Mask Bearer, Craftsman, Foreman or three Arbalester lifepaths",
+  "restrictions": "",
+  "order": 9
+ },
+ "sort": 900,
+ "_id": "011704b71a2b3cf9",
+ "_key": "!items!011704b71a2b3cf9",
+ "folder": "a9ab655cebcfeb1d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

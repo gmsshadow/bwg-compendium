@@ -1,0 +1,49 @@
+{
+ "name": "Rigging",
+ "type": "skill",
+ "img": "icons/tools/nautical/anchor-blue-orange.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "agility",
+  "root2": "speed",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "seafaring",
+  "training": false,
+  "magical": false,
+  "description": "Rigging is the knowledge of setting the sails of seagoing vessels. This includes how they work, and the ability to climb the rigging like a monkey climbs a tree.\n\nObstacles: A sailboat or longboat, Ob 1. Single mast (sampan, cog, balinger, longship), Ob 2. Junk, Ob 3. Felucca, Ob 4. Carrack, Ob 5. Caravel, Ob 6. A large seagoing vessel with many masts, Ob 7.\n\nFoRKs: Knots\n\nSkill Type: Seafaring. Tools: No.\n\nRoot: Agility/Speed\n\nSource: Burning Wheel Gold Revised, p. 291",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "cd2080c670d677c6",
+ "_key": "!items!cd2080c670d677c6",
+ "folder": "17904851845b71ae",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

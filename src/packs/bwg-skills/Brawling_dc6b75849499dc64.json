@@ -1,0 +1,49 @@
+{
+ "name": "Brawling",
+ "type": "skill",
+ "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "power",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "martial",
+  "training": false,
+  "magical": false,
+  "description": "Brawling is the undisciplined side of bare-fisted combat. Brawling grants access to attack, defense and basic actions, but not special actions. You may use the Brawling skill in place of Power for the Lock and Push actions. Brawlers may also use “found weapons:” clubs, brooms, lamps, rocks, sharp pieces of glass, towels and pencils. These count as melee weapons but rely on the Brawling skill.\n\nObstacles: The obstacles for Brawling are described in the Fight and Weapons chapters.\n\nFoRKs: Boxing, or melee weapon skill\n\nSkill Type: Martial. Tools: No.\n\nRoot: Power\n\nSource: Burning Wheel Gold Revised, p. 261",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "dc6b75849499dc64",
+ "_key": "!items!dc6b75849499dc64",
+ "folder": "c4780c995c816e33",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

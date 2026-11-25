@@ -1,0 +1,49 @@
+{
+ "name": "Ship Management",
+ "type": "skill",
+ "img": "icons/tools/nautical/anchor-blue-orange.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "seafaring",
+  "training": false,
+  "magical": false,
+  "description": "Use this skill for to manager supplies and cargo for sea voyages. Success indicates there’s no problem. A failed test and the ship runs short of supplies—food, water, medicine, lumber, ammunition, etc—and serious complications arise. Sailors start dying from one thing or another, because whatever’s missing is what is sorely needed, of course! A bad steward is bad for morale.\n\nObstacles: Rowboat or skiff, Ob 1. Longboat, Ob 2. Junk, Ob 3. Caravel, Ob 4. Carrack, Ob 5. Felucca, Ob 6. Treasure ship, Ob 7. Moderate journey, +1 Ob. Long journey, +2 Ob. Ocean crossing, +3 Ob.\n\nFoRKs: Accounting, Logistics\n\nSkill Type: Seafaring. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 295",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "08fa8ad6905bb5cf",
+ "_key": "!items!08fa8ad6905bb5cf",
+ "folder": "17904851845b71ae",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

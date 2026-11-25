@@ -1,0 +1,49 @@
+{
+ "name": "Games of Chance",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "There is a certain cult among the Dwarves fascinated by, and very knowledgeable about, games of chance. The games include dice, cards, and keg and mug spinning. To use this skill, first set a Resources obstacle for the prize. Then make a versus test against the other gambler. The winner of the test walks away with the prize. The loser must make a Resources test equal to the prize obstacle. If the loser passes his Resources test, the winner notes the same obstacle test toward advancing his own Resources. If the loser is taxed, those dice are granted to the winner as cash.\n\nThis skill does not cover games of skill such as pins or darts.\n\nFoRKs: Gambling\n\nSkill Type: Special. Tools: Traveling Gear.\n\nRestrictions: Dwarves only in character burning\n\nRoot: Per\n\nSource: Burning Wheel Gold Revised, p. 275",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only in character burning"
+ },
+ "_id": "2779ffb9d35ee196",
+ "_key": "!items!2779ffb9d35ee196",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Breath of Wind",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 4,
+  "description": "Roaring winds howl from the throat of the sorcerer. Natural effects of the winds: Success: Kicks up dust; 1 over: A nice breeze, papers flutter, candles doused; 2 over: Branches blown down from trees, shutters broken; 3 over: Larger branches blown from trees; 4 over: Wooden buildings damaged, people picked up and tossed down; 5 over: Trees blown down, 12-foot swells; 6 over: Doors ripped from hinges, 15-foot swells; 7 over: Sturdy roofs damaged; 18-foot swells; 8 over: Wooden buildings collapse; 9 over: Most structures destroyed. Weapon Length: as Missile; Range: as Great Bow.\n\nObstacle: 4^. Actions: 4.\n\nOrigin: Personal | Area of Effect: Natural Effect | Element: Air | Impetus: Destroy | Duration: Instantaneous | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 208",
+  "origin": "Personal",
+  "areaOfEffect": "Natural Effect",
+  "element": "Air",
+  "impetus": "Destroy",
+  "duration": "Instantaneous",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "as missile",
+  "optimalRange": 2,
+  "extremeRange": 4,
+  "maxRange": "300 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "cf2d8b54cc40a298",
+ "_key": "!items!cf2d8b54cc40a298",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

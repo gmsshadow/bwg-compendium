@@ -1,0 +1,23 @@
+{
+ "_id": "f28c4fd7c6c9b063",
+ "_key": "!folders!f28c4fd7c6c9b063",
+ "name": "Human",
+ "type": "Actor",
+ "folder": null,
+ "sorting": "a",
+ "sort": 0,
+ "color": null,
+ "description": "",
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

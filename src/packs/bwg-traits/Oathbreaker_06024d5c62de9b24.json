@@ -1,0 +1,50 @@
+{
+ "name": "Oathbreaker",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "A character who breaks an oath, lies while under oath or fails to fulfill an oath is forever marked as an Oathbreaker. While Oathbreakers are tolerated in Dwarven society, they are also mistrusted. No oaths may be sworn with an Oathbreaker until he has somehow resolved his initial betrayal. Also, the player must choose a relationship at the start of play that encompasses his broken oath. Lastly, Oathbreaker grants a 1D infamous reputation among the Nobles, Host, Artificers, Guilders or Clans. Player’s choice.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Dwarven lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 337",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Dwarven lifepath trait"
+ },
+ "_id": "06024d5c62de9b24",
+ "_key": "!items!06024d5c62de9b24",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

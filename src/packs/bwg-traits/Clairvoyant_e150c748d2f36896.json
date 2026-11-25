@@ -1,0 +1,50 @@
+{
+ "name": "Clairvoyant",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 6,
+  "name": "",
+  "traittype": "call-on",
+  "text": "There’s a time to live and a time to die. This character’s gift lets them see the cost of their actions a split second before they happen, allowing them to subtly nudge Fate’s hand. This trait acts as a call-on for one skill of the player’s choice per session.\n\nType: C-O (call-on trait). Cost: 6 pts.\n\nRestrictions: Humans only, special trait\n\nSource: Burning Wheel Gold Revised, p. 319",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Humans only, special trait"
+ },
+ "_id": "e150c748d2f36896",
+ "_key": "!items!e150c748d2f36896",
+ "folder": "15c52fef37dbb065",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

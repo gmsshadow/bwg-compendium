@@ -1,0 +1,49 @@
+{
+ "name": "Survival",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "Survival teaches a character how to build shelters, find water and stay warm/cool in adverse conditions.\n\nObstacles: Basic shelter, Ob 1. Basic water, Ob 2. Survival food, Ob 3. Water or shelter in extreme conditions, Ob 4. Shrug off +1 Ob penalty, Ob 5.\n\nFoRKs: Foraging, Hunting\n\nSkill Type: Forester. Tools: Traveling Gear.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 303",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "543bd13ba9185665",
+ "_key": "!items!543bd13ba9185665",
+ "folder": "1b5eb4a289f022d3",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

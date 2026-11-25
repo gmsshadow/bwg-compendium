@@ -1,0 +1,41 @@
+{
+ "name": "Artificer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 30,
+  "resources": 35,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Outcast, Host",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Stone Artifice, Etching, White Metal Artifice, Gem Artifice",
+  "traitList": "Stolid",
+  "note": "Source: Burning Wheel Gold Revised, p. 112",
+  "requirements": "Tyro or Craftsman",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "294e235e605d85e2",
+ "_key": "!items!294e235e605d85e2",
+ "folder": "5e3044c64f85d4dc",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

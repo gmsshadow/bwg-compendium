@@ -1,0 +1,52 @@
+{
+ "name": "Blue-Blooded Heart",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 8,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": false,
+  "actions": 15,
+  "description": "Cold holds no pain for one who knows the secret of the Blue-Blooded Heart. This incantation protects the recipient from the drain of cold. No Health or Forte tests need to be made due to cold, and no injury is sustained from cold air, water or frost damage.\n\nObstacle: 4. Actions: 15.\n\nOrigin: Presence | Area of Effect: Single Target or Caster | Element: Anima | Impetus: Control | Duration: Sustained | Resource Points: 8\n\nSource: Burning Wheel Gold Revised, p. 208",
+  "origin": "Presence",
+  "areaOfEffect": "Single Target or Caster",
+  "element": "Anima",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 8,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "12408a79fc9b5330",
+ "_key": "!items!12408a79fc9b5330",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Master Craftsman",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 45,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Villager, Court, Soldier",
+  "skillPoints": 6,
+  "generalPoints": 3,
+  "traitPoints": 2,
+  "skillList": "Craftsman-wise, Artisan-wise, Materials-wise, Tools-wise",
+  "traitList": "Ambitious, Charismatic",
+  "note": "Source: Burning Wheel Gold Revised, p. 176",
+  "requirements": "Journeyman and one of the following: Locksmith, Plumber, Engraver, Saddler, Blacksmith, Armorer, Atilliator, Cobbler, Bowyer or Taskmaster",
+  "restrictions": "",
+  "order": 66
+ },
+ "sort": 6600,
+ "_id": "df14200cd8dd17cf",
+ "_key": "!items!df14200cd8dd17cf",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

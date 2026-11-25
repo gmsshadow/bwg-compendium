@@ -1,0 +1,50 @@
+{
+ "name": "Calm Demeanor",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "call-on",
+  "text": "The Elven Attendant learns that an implacable visage is crucial to winning favor and advancement in the Elven court. To portray fear and agitation is to betray oneself. Call-on for Steel in the Duel of Wits.\n\nType: C-O (call-on trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Elven lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 317",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Elven lifepath trait"
+ },
+ "_id": "e634b8fe7e0d92c7",
+ "_key": "!items!e634b8fe7e0d92c7",
+ "folder": "15c52fef37dbb065",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

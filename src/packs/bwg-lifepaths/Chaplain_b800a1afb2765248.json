@@ -1,0 +1,41 @@
+{
+ "name": "Chaplain",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 15,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Outcast, City, Sea, Court, Religious",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Oratory, Riding, Armor Training, Mounted Combat Training, Appropriate Weapons",
+  "traitList": "Ideologue, Psychotic",
+  "note": "Source: Burning Wheel Gold Revised, p. 188",
+  "requirements": "any priest lifepath or Military Order",
+  "restrictions": "",
+  "order": 16
+ },
+ "sort": 1600,
+ "_id": "b800a1afb2765248",
+ "_key": "!items!b800a1afb2765248",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Keen Taste",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "die",
+  "text": "This trait can be used to determine the ingredients of a substance sampled by taste. The player can combine this trait with any one of his applicable skills. Using his knowledge and this inborn talent, he can decipher the ingredients or components of a material, substance or compound. Such an act requires a successful Perception test at an obstacle equal to what it would normally take to create or spot this substance. This test is open-ended. Keen Taste can also be used as a call-on for Alchemy, Apothecary, Herbalism, Wine Tasting, Cooking and Baking.\n\nType: Dt/C-O (die trait, counts as both die and call-on). Cost: 5 pts.\n\nSource: Burning Wheel Gold Revised, p. 331",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "085b0cb288cb70ce",
+ "_key": "!items!085b0cb288cb70ce",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

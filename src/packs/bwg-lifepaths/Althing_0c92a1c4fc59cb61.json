@@ -1,0 +1,41 @@
+{
+ "name": "Althing",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 250,
+  "resources": 100,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Wilderlands, Protector, Etharch",
+  "skillPoints": 10,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Council Caller, Song of Silence, Persuasion, Soothing Platitudes, Ugly Truth, Administration",
+  "traitList": "Servant of the Citadel",
+  "note": "Source: Burning Wheel Gold Revised, p. 135",
+  "requirements": "Patriarch/Matriarch, Loremaster, Steward, Bard, Artisan, Sea Captain or Captain",
+  "restrictions": "",
+  "order": 18
+ },
+ "sort": 1800,
+ "_id": "0c92a1c4fc59cb61",
+ "_key": "!items!0c92a1c4fc59cb61",
+ "folder": "53bf8e71f48c4a4c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

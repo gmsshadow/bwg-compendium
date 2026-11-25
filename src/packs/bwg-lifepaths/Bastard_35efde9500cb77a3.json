@@ -1,0 +1,41 @@
+{
+ "name": "Bastard",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Outcast, Soldier, City, Religious",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Family Secret-wise, Etiquette, Extortion",
+  "traitList": "Bastard, Bitter, Cynical, Happy-Go-Lucky",
+  "note": "Source: Burning Wheel Gold Revised, p. 177",
+  "requirements": "",
+  "restrictions": "If chosen, this path must be the character’s second lifepath and may only be taken once",
+  "order": 1
+ },
+ "sort": 100,
+ "_id": "35efde9500cb77a3",
+ "_key": "!items!35efde9500cb77a3",
+ "folder": "c721f7253452389b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Campaign History",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "A specific history skill, described under the History entry.\n\nHistory is the knowledge of the records of past events pertaining to one culture or society. The character is assumed to have studied the popular history of his culture/people unless the player or lifepath decides otherwise. Specific histories are often listed in the lifepaths. They are fairly self-explanatory: Ancient History, (Military) Campaign History, Foreign History, Religious History, Local History, Obscure History and Religious History. Each of these is a separate skill that must be purchased and opened.\n\nObstacles: Common historical fact, Ob 1. Classical history, Ob 2. Recent history, Ob 3. Obscure figure in history, Ob 4. History of counter cultural movements, Ob 5. History of the ones who lost the war, Ob 6.\n\nFoRKs: Research, Philosophy, Doctrine, other history skills\n\nSkill Type: Academic. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 277",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "e601f8066e9c2813",
+ "_key": "!items!e601f8066e9c2813",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

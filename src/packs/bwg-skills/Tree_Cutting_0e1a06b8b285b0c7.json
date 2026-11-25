@@ -1,0 +1,49 @@
+{
+ "name": "Tree Cutting",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "power",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": false,
+  "description": "Tree Cutting is the technique of rapidly and safely felling live trees to be used as lumber and firewood.\n\nObstacles: Deadwood, Ob 1. Small tree, Ob 2. Medium-sized tree, Ob 3. Large tree, Ob 4. Stand of trees, Ob 5. Copse, Ob 6. Forest, Ob 10.\n\nSkill Type: Peasant. Tools: Yes.\n\nRoot: Perception/Power\n\nSource: Burning Wheel Gold Revised, p. 305",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "0e1a06b8b285b0c7",
+ "_key": "!items!0e1a06b8b285b0c7",
+ "folder": "26f1d2df964749c9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

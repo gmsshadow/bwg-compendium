@@ -1,0 +1,41 @@
+{
+ "name": "Apprentice Artisan",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 10,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Villager, Soldier",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Artisan-wise, Mason, Carpentry, Write, Read, Jargon",
+  "traitList": "",
+  "note": "Skills also include: any “smith” skill. Source: Burning Wheel Gold Revised, p. 174",
+  "requirements": "",
+  "restrictions": "",
+  "order": 46
+ },
+ "sort": 4600,
+ "_id": "451f66cee0029935",
+ "_key": "!items!451f66cee0029935",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

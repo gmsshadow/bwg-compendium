@@ -1,0 +1,49 @@
+{
+ "name": "Potter",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": false,
+  "description": "‘Tis a most ancient and honorable craft. A character with the Potter skill knows how to make vessels of fired clay.\n\nObstacles: Simple bowls and cups, Ob 1. Amphorae or small statuettes, Ob 2. Tea service or lamp, Ob 3. Cookware or tiling, Ob 4. Large grain jars, Ob 5.\n\nSkill Type: Craftsman. Tools: Yes. Expendable.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 289",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "432aa9ce4e27c03a",
+ "_key": "!items!432aa9ce4e27c03a",
+ "folder": "3bcde3f2b3069254",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Artillerist",
+ "type": "skill",
+ "img": "icons/environment/people/infantry-army.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "military",
+  "training": false,
+  "magical": false,
+  "description": "Artillerists use basic physics and mathematics topped with some healthy guesswork to lob indirect-fire projectiles from war machines. They also know the designs for constructing various war engines. Actual construction requires teams of laborers and at least one carpenter.\n\nObstacles: Scavenging suitable shot, Ob 1. Carving shot from stone, Ob 2. Building a small traction trebuchet, Ob 2. Building a large traction trebuchet, Ob 3. Building a small catapult, Ob 4. Building a counterweight trebuchet or siege crossbow, Ob 5. Building a large catapult, Ob 6. Ranging shots (aka hitting the broadside of a barn): Siege crossbow, Ob 2. Small catapult or traction trebuchet, Ob 3. Counterweight trebuchet, Ob 3. Catapult, Ob 4.\n\nAlternate Rule: In campaigns that use black powder weapons, the Artillerist skill can be used to cover the manufacture and operation of cannons, bombards and shot. If this is the case for your game, use Munitions to manufacture bombs and powder.\n\nFoRKs: Engineer, Architect\n\nSkill Type: Military. Tools: Workshop.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 257",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "b2db5a20c4830591",
+ "_key": "!items!b2db5a20c4830591",
+ "folder": "278ac1142118a950",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

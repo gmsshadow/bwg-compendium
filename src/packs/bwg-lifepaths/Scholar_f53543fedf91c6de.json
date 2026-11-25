@@ -1,0 +1,41 @@
+{
+ "name": "Scholar",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Villager, Outcast, Noble Court",
+  "skillPoints": 11,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Read, Research, History, Philosophy, Symbology, Instruction, Illuminations, Foreign Languages, Ancient Languages",
+  "traitList": "Know It All, Bookworm",
+  "note": "Source: Burning Wheel Gold Revised, p. 173",
+  "requirements": "Scribe, Thinker, Archivist, Interpreter, Custodian, Bishop or any sorcerous lifepath",
+  "restrictions": "",
+  "order": 37
+ },
+ "sort": 3700,
+ "_id": "f53543fedf91c6de",
+ "_key": "!items!f53543fedf91c6de",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

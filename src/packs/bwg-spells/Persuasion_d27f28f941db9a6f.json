@@ -1,0 +1,52 @@
+{
+ "name": "Persuasion",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 10,
+  "variableObstacle": true,
+  "variableObstacleDescription": "Will",
+  "obstacle": 0,
+  "upSpell": false,
+  "actions": 4,
+  "description": "Sorcery renders supple the words and tongue of a magician. Using Persuasion, a sorcerer may offer a suggestion to his target. It must be a minor request or suggestion and seemingly normal or mundane; the sorcerer may not command his target to do anything. If the spell is successfully cast, then the victim must do as the sorcerer suggests. He must attempt to complete the request in the time allotted by the duration. After that time, the suggestion will lose importance, and the victim will move on.\n\nObstacle: Will. Actions: 4.\n\nOrigin: Presence | Area of Effect: Single Target | Element: Anima | Impetus: Influence | Duration: Sustained | Resource Points: 10\n\nSource: Burning Wheel Gold Revised, p. 217",
+  "origin": "Presence",
+  "areaOfEffect": "Single Target",
+  "element": "Anima",
+  "impetus": "Influence",
+  "duration": "Sustained",
+  "rpCost": 10,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "d27f28f941db9a6f",
+ "_key": "!items!d27f28f941db9a6f",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

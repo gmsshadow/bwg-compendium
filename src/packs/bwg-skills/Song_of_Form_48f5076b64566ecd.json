@@ -1,0 +1,49 @@
+{
+ "name": "Song of Form",
+ "type": "skill",
+ "img": "icons/tools/hand/brush-paint-brown-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artist",
+  "training": false,
+  "magical": true,
+  "description": "Using the Song of Form, the Elf may sculpt stone into shapes and curves pleasing to the eye. Combining the Song of Form with Antiphon Union and Alarm will create a warding statue. Combining it with Antiphon Union, Discerner and Voice of Ages creates a statue that will speak of the lies and deceit before it. Combine the Song of Form, Antiphon Union, Voice of Ages and the Strain of Farsight and a statue is created that can see far off lands and speak of them.\n\nObstacles: A simple shape, Ob 1. Crude mimicry, Ob 2. Anatomical approximation, Ob 3. Expressionistic depiction, Ob 5.\n\nFoRKs: Stonecraft, Gemcraft\n\nSkill Type: Artist. Tools: Yes.\n\nRestrictions: Elves only\n\nRoot: Will (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 298",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "48f5076b64566ecd",
+ "_key": "!items!48f5076b64566ecd",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Forester",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 90,
+  "resources": 5,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Citadel, Protector",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Song of Arbors, Forest-wise, Tree-wise, Song of the Eldar",
+  "traitList": "Stern",
+  "note": "Source: Burning Wheel Gold Revised, p. 132",
+  "requirements": "",
+  "restrictions": "",
+  "order": 10
+ },
+ "sort": 1000,
+ "_id": "e26e39c6286fac69",
+ "_key": "!items!e26e39c6286fac69",
+ "folder": "c6f2016285d19f81",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

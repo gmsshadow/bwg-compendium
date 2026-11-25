@@ -1,0 +1,52 @@
+{
+ "name": "White Fire",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 3,
+  "description": "A crashing bolt of lightning arcs from the caster’s brow, obliterating his enemies. After striking its intended target and resolving the effect (the most likely result being a pair of smoking boots where once stood your foe), roll the Die of Fate. On a 2-6, the spell dissipates. On a 1, the bolt jumps to another target—friend, foe or self. Roll randomly to determine the new target giving equal weight to all possibilities. After resolving this impact, roll the Die of Fate and go through the process again. Damaging effect spell: Power = Will +5, VA 4. Die of Fate to determine IMS. Weapon Length: as Missile; Range: as Great Bow.\n\nObstacle: 4^. Actions: 3.\n\nOrigin: Personal | Area of Effect: Natural Effect | Element: White | Impetus: Destroy | Duration: Instantaneous | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 222",
+  "origin": "Personal",
+  "areaOfEffect": "Natural Effect",
+  "element": "White",
+  "impetus": "Destroy",
+  "duration": "Instantaneous",
+  "rpCost": 16,
+  "isWeapon": true,
+  "halfWill": false,
+  "willDamageBonus": 5,
+  "va": 4,
+  "weaponLength": "as missile",
+  "optimalRange": 2,
+  "extremeRange": 4,
+  "maxRange": "300 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "2de26d7d3bc80938",
+ "_key": "!items!2de26d7d3bc80938",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Desperate Killer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 5,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Soldier, City Dweller, Servitude",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Appropriate Weapons, Inconspicuous, Assassination-wise",
+  "traitList": "Desperate, Murderous, Cold Hearted, Hard Hearted",
+  "note": "Source: Burning Wheel Gold Revised, p. 195",
+  "requirements": "",
+  "restrictions": "",
+  "order": 22
+ },
+ "sort": 2200,
+ "_id": "be3809baad0bf851",
+ "_key": "!items!be3809baad0bf851",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

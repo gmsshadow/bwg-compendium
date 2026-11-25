@@ -1,0 +1,49 @@
+{
+ "name": "Logistics",
+ "type": "skill",
+ "img": "icons/environment/people/infantry-army.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "military",
+  "training": false,
+  "magical": false,
+  "description": "Logistics is a rare skill. It is the knowledge of supply lines, resources, consumption rates and rates of travel of armies. The skill is used by particularly thoughtful commanders to keep their troops in supply while on campaign.\n\nObstacles: Supplying a dozen dismounted thugs to waylay peasants on the King’s highway in rich, idyllic farmland for one week, Ob 1. Supplying a small homogeneous free company of two dozen similarly armed and dismounted routiers, brigands, archers, or crossbowmen for one week, Ob 2. Supplying a mounted lance (a knight or mounted man-at-arms, a squire or sword bearer, a page, two archers or crossbowmen, a lightly armed servant or varlet, and all mounts and pack animals) for one week, Ob 3. Supplying several large homogenous companies of 500 to 600 similarly armed, dismounted men for one week, Ob 4. Supplying several large heterogeneous companies of 500 to 600 dismounted men (i.e. a large mixed force of foot and archers) for one week, Ob 5. Supplying 100 lances for one week, Ob 6. Supplying a battalion of two to three hundred lances and supporting large free company for 1 week, Ob 8. Supplying a host (three battalions) for one week, Ob 10. +1D for testing Logistics with a force where the majority of troops have the Hatred attribute. +1 Ob for any non-Dwarven force testing Logistics in the mountains or underground. +1 Ob in heavily wooded countryside with a force containing war mounts, i.e. destriers or coursers. +1 Ob with a force that includes anyone with the Prince of the Blood, Aman, Fêa, or Dvergar trait, princes and their hangers-on have large appetites, even on campaign. +2 Ob in countryside the enemy has devastated with a scorched earth policy. +2 Ob in countryside you have already tested Logistics within the last Resources maintenance cycle +2 Ob for testing Logistics in the winter with a force containing war mounts, riding mounts, or pack animals.\n\nSkill Type: Military. Tools: Supplies for an army.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 281",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "d8c50f9e5e4e18c4",
+ "_key": "!items!d8c50f9e5e4e18c4",
+ "folder": "278ac1142118a950",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Touch of the Devil",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 7,
+  "name": "",
+  "traittype": "die",
+  "text": "This is an odd but powerful trait. With the Touch of the Devil, a character’s hands become sensitive and finely tuned instruments. If, when making a Perception test, the player can describe how his character is using his hands to sense the disturbance/noise, Perception counts as Gray shade. Detecting soft foot steps on a stone floor, impressions on a piece of paper, cracks in a vial or the breeze through a keyhole, for example. If used in a versus test against Stealthy, Touch of the Devil counts as Observation. Paiting, Sculpting, Surgery, Pottery, Knots, Sewing, Whitesmithing, Etching, Engraving, Carving, Lapidary and Jewelcraft root from gray Perception. Whenever a character with this trait is wounded, he suffers an additional automatic superficial wound. These count toward the “three superficial wounds” limit and toward incapacitation.\n\nType: Dt/C-O (die trait, counts as both die and call-on). Cost: 7 pts.\n\nSource: Burning Wheel Gold Revised, p. 351",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "0249e49d40eafd1a",
+ "_key": "!items!0249e49d40eafd1a",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

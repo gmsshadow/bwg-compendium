@@ -1,0 +1,41 @@
+{
+ "name": "Master of Forges",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 75,
+  "resources": 75,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Outcast, Host",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Forge Artifice, Appraisal, Engineering, Command, Maker’s Mark-wise",
+  "traitList": "Meticulous, Estimation",
+  "note": "Source: Burning Wheel Gold Revised, p. 112",
+  "requirements": "Mask Bearer",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "f04e40cbd10309c3",
+ "_key": "!items!f04e40cbd10309c3",
+ "folder": "5e3044c64f85d4dc",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

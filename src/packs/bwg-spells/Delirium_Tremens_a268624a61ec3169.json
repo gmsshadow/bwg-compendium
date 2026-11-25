@@ -1,0 +1,52 @@
+{
+ "name": "Delirium Tremens",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 10,
+  "variableObstacle": true,
+  "variableObstacleDescription": "Target’s Forte",
+  "obstacle": 0,
+  "upSpell": false,
+  "actions": 3,
+  "description": "The touch of the wizard sends all thy senses reeling. This spell increases obstacles by 10 minus the victim’s Will. Effects lessen over time; obstacle penalty drops by one per test or after an hour of rest. Weapon Length: as Hands; Range: as Melee.\n\nObstacle: Target’s Forte. Actions: 3.\n\nOrigin: Personal | Area of Effect: Single Target | Element: Anima | Impetus: Tax | Duration: Instantaneous | Resource Points: 10\n\nSource: Burning Wheel Gold Revised, p. 210",
+  "origin": "Personal",
+  "areaOfEffect": "Single Target",
+  "element": "Anima",
+  "impetus": "Tax",
+  "duration": "Instantaneous",
+  "rpCost": 10,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "7 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "a268624a61ec3169",
+ "_key": "!items!a268624a61ec3169",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

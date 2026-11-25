@@ -1,0 +1,52 @@
+{
+ "name": "His Creeping Hand",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 6,
+  "description": "His Creeping Hand flings forth a crawling black vapor. The vapor is noxious to breathe and obscures light. However, once released, His Creeping Hand has a will of its own and is not under the control of the caster—it goes where it wants, moving with a Speed equal to the caster’s Will and a Stride of 8. Successes over the spell obstacle increase obstacles for all in the cloud due to the darkness and noxious vapors (+1 Ob per success). Anyone touched by His Creeping Hand must make a Steel test. Extra successes may also be spent to increase the duration (one exchange per extra success).\n\nObstacle: 4^. Actions: 6.\n\nOrigin: Personal | Area of Effect: Double Presence | Element: Air, Heaven | Impetus: Tax | Duration: Exchanges | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 249",
+  "origin": "Personal",
+  "areaOfEffect": "Double Presence",
+  "element": "Air, Heaven",
+  "impetus": "Tax",
+  "duration": "Exchanges",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "d373f44764e38d70",
+ "_key": "!items!d373f44764e38d70",
+ "folder": "479dd2144396431a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

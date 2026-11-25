@@ -1,0 +1,41 @@
+{
+ "name": "Mask Bearer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 55,
+  "resources": 50,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Outcast, Host, Noble",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Jargon, Fire and Steel-wise, War Art",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 112",
+  "requirements": "Artificer",
+  "restrictions": "",
+  "order": 4
+ },
+ "sort": 400,
+ "_id": "bf70f78422a0b81e",
+ "_key": "!items!bf70f78422a0b81e",
+ "folder": "5e3044c64f85d4dc",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

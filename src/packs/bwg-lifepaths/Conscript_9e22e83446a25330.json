@@ -1,0 +1,41 @@
+{
+ "name": "Conscript",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 1,
+  "resources": 5,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Servitude, Soldier, Outcast",
+  "skillPoints": 2,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Foraging, Baggage Train-wise",
+  "traitList": "Hide Before Battle",
+  "note": "Source: Burning Wheel Gold Revised, p. 166",
+  "requirements": "",
+  "restrictions": "",
+  "order": 4
+ },
+ "sort": 400,
+ "_id": "9e22e83446a25330",
+ "_key": "!items!9e22e83446a25330",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

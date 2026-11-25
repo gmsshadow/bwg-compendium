@@ -1,0 +1,52 @@
+{
+ "name": "Witch Key",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 12,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": false,
+  "actions": 4,
+  "description": "A sorcerer’s merest whim is the key to any lock. Witch Key opens any mundane lock for the caster.\n\nObstacle: 3. Actions: 4.\n\nOrigin: Personal | Area of Effect: Single Target | Element: Earth | Impetus: Control | Duration: Instantaneous | Resource Points: 12\n\nSource: Burning Wheel Gold Revised, p. 223",
+  "origin": "Personal",
+  "areaOfEffect": "Single Target",
+  "element": "Earth",
+  "impetus": "Control",
+  "duration": "Instantaneous",
+  "rpCost": 12,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "694f747396db3e9a",
+ "_key": "!items!694f747396db3e9a",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

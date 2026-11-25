@@ -1,0 +1,41 @@
+{
+ "name": "Composer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 5,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Outcast, Peasant, Noble Court",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Music Composition, Poetry, Sing, Musical Instrument",
+  "traitList": "Esoteric, Remote, Deaf",
+  "note": "Source: Burning Wheel Gold Revised, p. 172",
+  "requirements": "",
+  "restrictions": "",
+  "order": 23
+ },
+ "sort": 2300,
+ "_id": "35c039c5866fc045",
+ "_key": "!items!35c039c5866fc045",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

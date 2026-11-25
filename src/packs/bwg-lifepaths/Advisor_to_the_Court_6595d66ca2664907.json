@@ -1,0 +1,41 @@
+{
+ "name": "Advisor to the Court",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 0,
+  "resources": 10,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 0,
+  "generalPoints": 1,
+  "traitPoints": 1,
+  "skillList": "",
+  "traitList": "",
+  "note": "Time: § (see lifepath description in the book). Resources: 10/yr as listed in the book. Skills: 1 pt: General per year of tenure.\n\nSource: Burning Wheel Gold Revised, p. 184",
+  "requirements": "Thinker, Captain, Sea Captain, Magnate, Master Craftsman, Artisan, Bishop, Rogue Wizard, Mad Summoner, Heretic Priest, Dame, Baron, Viscount, Count, Duke or Prince Character earns 1 general skill point and 10 resource points per year. The stat and trait points are earned once",
+  "restrictions": "",
+  "order": 39
+ },
+ "sort": 3900,
+ "_id": "6595d66ca2664907",
+ "_key": "!items!6595d66ca2664907",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

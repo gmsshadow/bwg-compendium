@@ -1,0 +1,50 @@
+{
+ "name": "First Born",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Elves are made from the very fabric of nature—wind, air, wood and water. Thus, they know its secrets very well: They know how to preserve much of its power—even when it is taken and shaped into something new. It is this intimate knowledge that allows the Elves to weave their songs. Their unadulterated essence grants them insight into their world unmatched by the races of Men, Dwarves or Orcs. Due to this, Elves’ Perception maximum is 9 rather than 8.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Elven common trait\n\nSource: Burning Wheel Gold Revised, p. 326",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Elven common trait"
+ },
+ "_id": "8ad97d6736795ba2",
+ "_key": "!items!8ad97d6736795ba2",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

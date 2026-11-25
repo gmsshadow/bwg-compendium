@@ -1,0 +1,50 @@
+{
+ "name": "Keen Sight",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Like an eagle, Elves may see a great distance with perfect clarity. Add +1D to all Perception-based (or Observation-based) field maneuvers for Range and Cover or any Perception test involving seeing long distances. Elves also may see in starlight as if it were day. They suffer no obstacle penalties for dim light. Smoke and haze still bar their vision—normal penalties apply. In complete darkness Elves suffer +4 Ob like Men or Dwarves.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Elven common trait\n\nSource: Burning Wheel Gold Revised, p. 331",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Elven common trait"
+ },
+ "_id": "77f64a463928b0f7",
+ "_key": "!items!77f64a463928b0f7",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

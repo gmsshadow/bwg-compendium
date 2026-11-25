@@ -1,0 +1,52 @@
+{
+ "name": "Spirit Servant",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 6,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": false,
+  "actions": 50,
+  "description": "A ghostly presence forms and shadows the sorcerer, serving his need and whim. The servant may perform simple functions for the caster: carry, serve, open, etc. The servant’s Speed and Power are equal to the caster’s Will. The Servant may not leave the sorcerer’s sight.\n\nObstacle: 3. Actions: 50.\n\nOrigin: Presence | Area of Effect: Single Target | Element: Arcana/Earth | Impetus: Control | Duration: Sustained | Resource Points: 6\n\nSource: Burning Wheel Gold Revised, p. 220",
+  "origin": "Presence",
+  "areaOfEffect": "Single Target",
+  "element": "Arcana/Earth",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 6,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "06003b6b93c5d156",
+ "_key": "!items!06003b6b93c5d156",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

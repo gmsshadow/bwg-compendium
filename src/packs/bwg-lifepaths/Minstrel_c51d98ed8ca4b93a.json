@@ -1,0 +1,41 @@
+{
+ "name": "Minstrel",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Outcast, Villager",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Poetry, Sing, Musical Instrument",
+  "traitList": "Recondite",
+  "note": "Source: Burning Wheel Gold Revised, p. 179",
+  "requirements": "",
+  "restrictions": "",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "c51d98ed8ca4b93a",
+ "_key": "!items!c51d98ed8ca4b93a",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

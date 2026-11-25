@@ -1,0 +1,31 @@
+{
+ "name": "Starlight",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 50,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "A bottle of starlight, as bright as Mage Light with four successes over the obstacle. Counts as sunlight for creatures with Cold Black Blood or Enemy of the Sun traits.\n\nSource: Burning Wheel Gold Revised, p. 158"
+ },
+ "_id": "1dd38e0e59ae5e97",
+ "_key": "!items!1dd38e0e59ae5e97",
+ "folder": "b5a4e8f60fe6d52f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

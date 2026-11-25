@@ -1,0 +1,41 @@
+{
+ "name": "Freebooter",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 10,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Soldier, Peasant, Servitude",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Intimidation, Appropriate Weapons, Countryside-wise, Fortress-wise, Mercenary Company-wise, Foreign Languages, War-wise, Loot-wise, Extortion-wise",
+  "traitList": "Cold Blooded, Merciless",
+  "note": "Source: Burning Wheel Gold Revised, p. 195",
+  "requirements": "Bandit, Smuggler, Squire, Knight, City Guard, Village Tough, Marine Sailor or any Professional Soldier lifepath",
+  "restrictions": "",
+  "order": 26
+ },
+ "sort": 2600,
+ "_id": "df434872ad26dd59",
+ "_key": "!items!df434872ad26dd59",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

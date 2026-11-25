@@ -1,0 +1,41 @@
+{
+ "name": "Engineer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 25,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Soldier, City, Servitude, Outcast",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Engineering, Munitions, Artillerist, Carpentry, Mending",
+  "traitList": "It Just Might Work!",
+  "note": "Source: Burning Wheel Gold Revised, p. 191",
+  "requirements": "Artillerist’s Mate, Student, Ship’s Carpenter, Engineer or Journeyman",
+  "restrictions": "",
+  "order": 22
+ },
+ "sort": 2200,
+ "_id": "d205d1139de7c765",
+ "_key": "!items!d205d1139de7c765",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

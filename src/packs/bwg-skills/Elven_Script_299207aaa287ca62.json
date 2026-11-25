@@ -1,0 +1,49 @@
+{
+ "name": "Elven Script",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "Elven Script combines disciplines of reading and writing into one literacy skill. Elven culture is more disciplined in educating its youth than nearly any other.\n\nObstacles: As for Read and Write.\n\nSkill Type: Academic. Tools: Yes, writing only. Expendable.\n\nRestrictions: Elves only in character burning\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 270",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only in character burning"
+ },
+ "_id": "299207aaa287ca62",
+ "_key": "!items!299207aaa287ca62",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

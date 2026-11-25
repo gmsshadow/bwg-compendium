@@ -1,0 +1,49 @@
+{
+ "name": "Persuasion",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "Persuasion is the art of convincing someone to act on your behalf because it is in his best interest. This skill often involves an exchange of agreements—something very different from Falsehood or Oratory. Those two skills tell someone what to do or believe, whereas using Persuasion, one carefully crafts a suggestion for the victim to agree with. With luck, he’ll think it was his idea in the first place.\n\nObstacles: Will exponent of the intended victim.\n\nFoRKs: Falsehood, Haggling, Soothing Platitudes, Ugly Truth\n\nSkill Type: Social. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 287",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "ced0557b38617164",
+ "_key": "!items!ced0557b38617164",
+ "folder": "5a85450a27640cfe",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

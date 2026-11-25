@@ -1,0 +1,52 @@
+{
+ "name": "Sight of the Eagle",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 10,
+  "variableObstacle": true,
+  "variableObstacleDescription": "Perception",
+  "obstacle": 0,
+  "upSpell": false,
+  "actions": 30,
+  "description": "Light sharpens, and that which is distant becomes clear. The recipient gains +2D to Perception tests. Anima Enhancers like this spell can be used to affect positioning and maneuvers.\n\nObstacle: Perception. Actions: 30.\n\nOrigin: Personal | Area of Effect: Caster or Single Target | Element: Anima | Impetus: Enhance | Duration: Sustained | Resource Points: 10\n\nSource: Burning Wheel Gold Revised, p. 219",
+  "origin": "Personal",
+  "areaOfEffect": "Caster or Single Target",
+  "element": "Anima",
+  "impetus": "Enhance",
+  "duration": "Sustained",
+  "rpCost": 10,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "d4aa3271cc3fdfff",
+ "_key": "!items!d4aa3271cc3fdfff",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

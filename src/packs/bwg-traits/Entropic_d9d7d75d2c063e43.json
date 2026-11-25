@@ -1,0 +1,50 @@
+{
+ "name": "Entropic",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "die",
+  "text": "Things fall apart around the character. Any mechanic that involves something breaking—armor or materials, for example—counts double in its effect. One breach counts as two, one lost armor die counts as two. Any DoF mechanic for catastrophic failure is weighted by 1 toward the worst result. And any roll that results in no successes indicates that something broke. Oops. This trait affects everyone and everything in the character’s presence, including himself.\n\nType: Dt (die trait). Cost: 5 pts.\n\nSource: Burning Wheel Gold Revised, p. 323",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "d9d7d75d2c063e43",
+ "_key": "!items!d9d7d75d2c063e43",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

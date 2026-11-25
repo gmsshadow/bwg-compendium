@@ -1,0 +1,41 @@
+{
+ "name": "Armorer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 25,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Soldier, Court, Outcast",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Swordsman-wise, Blacksmith, Tanner, Armorer, Weaponsmith",
+  "traitList": "Diligent",
+  "note": "Source: Burning Wheel Gold Revised, p. 174",
+  "requirements": "Journeyman",
+  "restrictions": "",
+  "order": 50
+ },
+ "sort": 5000,
+ "_id": "4f152d6ae4eaeb9f",
+ "_key": "!items!4f152d6ae4eaeb9f",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

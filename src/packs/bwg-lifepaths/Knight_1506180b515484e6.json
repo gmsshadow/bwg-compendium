@@ -1,0 +1,41 @@
+{
+ "name": "Knight",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 20,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Soldier, City, Outcast, Religious",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Mounted Combat Training, Appropriate Weapons, Intimidation, Hunting, Conspicuous",
+  "traitList": "Sworn Homage",
+  "note": "Source: Burning Wheel Gold Revised, p. 178",
+  "requirements": "Squire or Cavalryman",
+  "restrictions": "",
+  "order": 8
+ },
+ "sort": 800,
+ "_id": "1506180b515484e6",
+ "_key": "!items!1506180b515484e6",
+ "folder": "c721f7253452389b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

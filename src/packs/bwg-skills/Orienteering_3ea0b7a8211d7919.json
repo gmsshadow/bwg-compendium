@@ -1,0 +1,49 @@
+{
+ "name": "Orienteering",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "Orienteering is the ability to navigate across land both with and without maps. Maps do, however, provide an advantage die to Orienteering tests.\n\nA successful Orienteering test indicates the character has found his way without delay. A failed test indicates the character and his companions have gotten lost. This result either causes the characters to miss any appointments they were trying to keep (but still arrive at their destination) or causes them to arrive in an unintended location.\n\nObstacles: Determining your compass directions during the day in familiar land, Ob 1. At night in familiar land, Ob 2. In unfamiliar land, Ob 3. In unfamiliar land at night, Ob 4. In familiar land during a storm, Ob 5. During a storm at night, Ob 6.\n\nFoRKs: Navigation\n\nSkill Type: Forester. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 286",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "3ea0b7a8211d7919",
+ "_key": "!items!3ea0b7a8211d7919",
+ "folder": "1b5eb4a289f022d3",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

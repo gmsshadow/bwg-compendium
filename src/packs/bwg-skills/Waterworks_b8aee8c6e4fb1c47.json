@@ -1,0 +1,49 @@
+{
+ "name": "Waterworks",
+ "type": "skill",
+ "img": "icons/tools/hand/chisel-steel-brown.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artisan",
+  "training": false,
+  "magical": false,
+  "description": "Waterworks is named in the Plumber lifepath but has no entry in the skill list; it is given here using the Plumbing entry.\n\nThe fine art of plumbing. Using this skill a character may design systems to convey water from one location to another. Typical plumbing in the middle ages was made of lead, wood and stone.\n\nObstacles: A well, Ob 1. Troughs or ducts, Ob 2. A pump, Ob 3. Plumbing, Ob 4. Hot and cold running water, Ob 5.\n\nSkill Type: Artisan. Tools: Yes.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 288",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "b8aee8c6e4fb1c47",
+ "_key": "!items!b8aee8c6e4fb1c47",
+ "folder": "af77da1f275833cf",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

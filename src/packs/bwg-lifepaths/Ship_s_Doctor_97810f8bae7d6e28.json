@@ -1,0 +1,41 @@
+{
+ "name": "Ship’s Doctor",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Soldier, City, Villager, Outcast",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Apothecary, Bloodletting, Surgery, Anatomy, Astrology, Falsehood, Tar-wise, Scurvy-wise",
+  "traitList": "Incomprehensible Diagnosis, Ugly Reputation",
+  "note": "Source: Burning Wheel Gold Revised, p. 191",
+  "requirements": "Doctor, Court Doctor, Physician, Barber or Student",
+  "restrictions": "",
+  "order": 14
+ },
+ "sort": 1400,
+ "_id": "97810f8bae7d6e28",
+ "_key": "!items!97810f8bae7d6e28",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

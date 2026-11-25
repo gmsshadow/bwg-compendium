@@ -1,0 +1,41 @@
+{
+ "name": "Rune Caster",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 20,
+  "resources": 6,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Any except Host",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Rune Casting, Foraging, Scavenging, Bad End-wise",
+  "traitList": "Slave to Fate",
+  "note": "Source: Burning Wheel Gold Revised, p. 116",
+  "requirements": "",
+  "restrictions": "",
+  "order": 5
+ },
+ "sort": 500,
+ "_id": "b35e15b5142806ca",
+ "_key": "!items!b35e15b5142806ca",
+ "folder": "b8aa2a77e48822f6",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

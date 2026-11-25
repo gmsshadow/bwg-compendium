@@ -1,0 +1,41 @@
+{
+ "name": "Graybeard",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 20,
+  "resources": 20,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Guilder, Outcast, Noble",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Intimidation, Field Dressing, Command, Campaign-wise",
+  "traitList": "Chuffing, Oddly Likeable",
+  "note": "Source: Burning Wheel Gold Revised, p. 115",
+  "requirements": "Axe Bearer, Longbeard or three Host lifepaths",
+  "restrictions": "",
+  "order": 5
+ },
+ "sort": 500,
+ "_id": "370c9a9e4be14d39",
+ "_key": "!items!370c9a9e4be14d39",
+ "folder": "a9ab655cebcfeb1d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

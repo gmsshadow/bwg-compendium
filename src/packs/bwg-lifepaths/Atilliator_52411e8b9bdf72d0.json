@@ -1,0 +1,41 @@
+{
+ "name": "Atilliator",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 22,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Court, City Dweller, Outcast",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Atilliator, Carpentry, Carving, Blacksmith, Tanner",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 188",
+  "requirements": "Journeyman",
+  "restrictions": "",
+  "order": 15
+ },
+ "sort": 1500,
+ "_id": "52411e8b9bdf72d0",
+ "_key": "!items!52411e8b9bdf72d0",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

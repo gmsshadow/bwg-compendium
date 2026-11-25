@@ -1,0 +1,41 @@
+{
+ "name": "Cobbler",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 20,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "City Dweller, Peasant, Soldier",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Cobbler, Shoe-wise, Feet-wise, Leather-wise, Nail-wise",
+  "traitList": "Comfortable Shoes",
+  "note": "Source: Burning Wheel Gold Revised, p. 167",
+  "requirements": "Apprentice",
+  "restrictions": "",
+  "order": 21
+ },
+ "sort": 2100,
+ "_id": "f08236dc896200b2",
+ "_key": "!items!f08236dc896200b2",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

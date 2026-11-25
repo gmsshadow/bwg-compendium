@@ -1,0 +1,23 @@
+{
+ "_id": "ee624dd1f9ac31eb",
+ "_key": "!folders!ee624dd1f9ac31eb",
+ "name": "Suits",
+ "type": "Item",
+ "folder": "58b2d2ab045c6dd8",
+ "sorting": "a",
+ "sort": 0,
+ "color": null,
+ "description": "",
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

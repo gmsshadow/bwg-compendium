@@ -1,0 +1,52 @@
+{
+ "name": "Call of the Pit",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 20,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 5,
+  "upSpell": true,
+  "actions": 14,
+  "description": "Violent, black words tear a rift in the skin of the earth, spewing fire and vapor s: tremors shiver the ground into shards like a hammer shatters a mirror. This spell counts as five successes of Siege Engineer against materials. Extra successes allocated to effect (rather than area) increase the Siege Engineer successes by one per success. All characters caught in the area of effect must make a Speed test with an obstacle equal to all effect successes. Failure indicates they have fallen into the pit and must climb out or be rescued. Weapon length: as Missile. Range dice: as Heavy Crossbow +2D.\n\nObstacle: 5^. Actions: 14.\n\nOrigin: Sight | Area of Effect: 100s of paces | Element: Earth | Impetus: Destroy | Duration: Instantaneous | Resource Points: 20\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 248",
+  "origin": "Sight",
+  "areaOfEffect": "100s of paces",
+  "element": "Earth",
+  "impetus": "Destroy",
+  "duration": "Instantaneous",
+  "rpCost": 20,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "as missile",
+  "optimalRange": 1,
+  "extremeRange": 5,
+  "maxRange": "350 paces (as Heavy Crossbow +2D)",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "d3b52cf12fc8a4d8",
+ "_key": "!items!d3b52cf12fc8a4d8",
+ "folder": "479dd2144396431a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

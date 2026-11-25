@@ -1,0 +1,49 @@
+{
+ "name": "Falsehood",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "Falsehood is bare-faced lying.\n\nObstacles: Base obstacle for Falsehood is always the Will of the character you are deceiving. Add an advantage die if the lie is believable, damn good or has some kernel of known truth to it. Increase obstacle if it is a whopper or just a bad lie: “That wasn’t me, that was my twin brother!” +2 Ob. It is also used in Duel of Wits for Feint, Obfuscate and Incite actions.\n\nFoRKs: Persuasion\n\nSkill Type: Social. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 272",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "c2e67ae5dec223ef",
+ "_key": "!items!c2e67ae5dec223ef",
+ "folder": "5a85450a27640cfe",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

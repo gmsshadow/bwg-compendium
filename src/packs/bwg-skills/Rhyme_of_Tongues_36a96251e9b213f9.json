@@ -1,0 +1,49 @@
+{
+ "name": "Rhyme of Tongues",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "Elven Loremasters spend many years studying the languages of all things. This simple Rhyme helps them remember what they have learned and allows them to communicate with nearly any creature. Once the rhyme is successfully sung, the spell lasts for hours equal to the Elf’s Will.\n\nObstacle: See Description. Dialects of native/known languages, Ob 1. Foreign language, Ob 2. Foreign language dialect, Ob 3. Vile Language, Ob 4. Low Speech: Dogs, wolves, pigs and dolphins, Ob 5. Horse and other ungulates, Ob 6. Birds, Ob 7. Fish, Ob 8. Insects, Ob 9.\n\nActions: 4\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 149",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "36a96251e9b213f9",
+ "_key": "!items!36a96251e9b213f9",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

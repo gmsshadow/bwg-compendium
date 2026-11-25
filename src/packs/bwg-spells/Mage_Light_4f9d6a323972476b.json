@@ -1,0 +1,52 @@
+{
+ "name": "Mage Light",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 12,
+  "description": "He rapped his staff upon the flagstones and gentle illumination flowed forth. Mage Light is a subtle and powerful spell that dispels darkness. It can be used to call upon the simple light of a candle or the awesome light of day. Before casting, the sorcerer must indicate where the light is set to emanate from on his person: his brow, his staff, a ring on his finger, etc. Successfully casting the spell brings forth a warm light, and negates the penalty for dim light and reduces all other darkness penalties by one. Extra successes may be spent to reduce the stiffer penalties of deeper darknesses.\n\nObstacle: 4^. Actions: 12.\n\nOrigin: Personal | Area of Effect: Presence | Element: Heaven | Impetus: Create | Duration: Sustained | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 215",
+  "origin": "Personal",
+  "areaOfEffect": "Presence",
+  "element": "Heaven",
+  "impetus": "Create",
+  "duration": "Sustained",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "4f9d6a323972476b",
+ "_key": "!items!4f9d6a323972476b",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

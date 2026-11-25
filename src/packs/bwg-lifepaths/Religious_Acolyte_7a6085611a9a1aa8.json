@@ -1,0 +1,41 @@
+{
+ "name": "Religious Acolyte",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Religious, Court",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Doctrine, Bureaucracy, Write, Read, Etiquette",
+  "traitList": "Tonsured, Faithful",
+  "note": "Source: Burning Wheel Gold Revised, p. 177",
+  "requirements": "",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "7a6085611a9a1aa8",
+ "_key": "!items!7a6085611a9a1aa8",
+ "folder": "c721f7253452389b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Magesense",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 300,
+  "description": "Magesense is a powerful spell that extends the sorcerer’s senses from the realm of the mundane into that of the arcane. When this spell is erected, the mage sees, hears and smells magic. When a spell is cast within or an active spell enters his Magesense area of effect, the mage may make a Perception test using the following obstacles: high powered magic (major miracles, Mjölnir, the Burning Wheel, Ob 10 spells, Strength 10 spirits etc.) are Ob 1 to detect; moderately powered magic (minor miracles, Ob 5 spells, a risen corpse, the Belt of Flying, Dragon Slaying Sword, Spirit Weapons, Strength 5 spirits), Ob 5; low powered magic (Jade Amulet, bless/curse, Ob 2 spells, Strength 2 spirits), Ob 8. If successful, he can pinpoint the location of the magical effect—he does not instantly know the nature of the magic.\n\nExtra successes of the spell must be divided between the area of effect and the sensitivity. Area of effect expands the range, but sensitivity adds +1D per success to Perception for the purpose of detecting magic. Magesense is one of the abilities that allows a sorcerer to use Aura Reading. Therefore, once magic is detected, Aura Reading may be used to determine the exact nature of the ability.\n\nLastly, while the Magesense is being sustained, the sorcerer’s Perception counts as Observation for detecting Stealthy and Inconspicuous characters, and the sorcerer suffers a +1 Ob penalty to all physical activities like fighting, running and jumping.\n\nObstacle: 4^. Actions: 300.\n\nOrigin: Personal | Area of Effect: 10s of Paces | Element: Anima/Arcana | Impetus: Enhance | Duration: Sustained | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 215",
+  "origin": "Personal",
+  "areaOfEffect": "10s of Paces",
+  "element": "Anima/Arcana",
+  "impetus": "Enhance",
+  "duration": "Sustained",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "6d8c61aa1f4f3905",
+ "_key": "!items!6d8c61aa1f4f3905",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

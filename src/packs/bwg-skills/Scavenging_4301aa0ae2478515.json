@@ -1,0 +1,49 @@
+{
+ "name": "Scavenging",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": false,
+  "description": "A player using his character’s Scavenger skill may state what he is looking for—it can be any type of item, but it cannot be a specific or unique thing. The location must be suitable for scavenging—a midden, a ruin, a battlefield.\n\nObstacles: Detritus or junk (rags, scraps), Ob 1. Common household goods (clothing, food, cookware), Ob 2. Hard to find items (medicine, weapons, tools), Ob 3. Valuable items (money, antiques), Ob 4. Rare objects (documents, books, specialized tools), Ob 5. Obscure or out of place items (oddities, head in a jar, a crown), Ob 6.\n\nFoRKs: Foraging and appropriate wises\n\nSkill Type: Peasant. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 294",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "4301aa0ae2478515",
+ "_key": "!items!4301aa0ae2478515",
+ "folder": "26f1d2df964749c9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

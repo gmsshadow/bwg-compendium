@@ -1,0 +1,45 @@
+{
+ "name": "Pistol",
+ "type": "ranged weapon",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "pointCost": 15,
+  "quality": "run of the mill",
+  "hasGunpowder": true,
+  "usePower": false,
+  "powerBonus": 0,
+  "incidental": 4,
+  "incidentalRoll": 4,
+  "mark": 8,
+  "markRoll": 5,
+  "superb": 11,
+  "vsArmor": 3,
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "10 paces",
+  "handedness": "one",
+  "description": "Fight action: Fire Gun: 2. VA by range: Too close to shoot VA 4, optimal VA 3, extreme VA 1 (VA set to the optimal value). Gunpowder die: roll a DoF before rolling to hit; on a 1 the firearm has misfired—reroll: on 4+ it jams or flashes and must be reloaded completely; on 1-3 it misfires: roll the weapon’s DoF and apply the damage to the shooter. Missiles: costs include enough missiles to outfit the character. Special arrowheads/bolt heads cost 1 rp per head type. Poor quality missiles cost half (rounded up) and are +1 Ob to hit; superior quality missiles cost 3x and grant a +1D balance die.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 557",
+  "skillId": "",
+  "shade": "B"
+ },
+ "_id": "fb94b3754ade7ebd",
+ "_key": "!items!fb94b3754ade7ebd",
+ "folder": "724f8e568e3e9b01",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

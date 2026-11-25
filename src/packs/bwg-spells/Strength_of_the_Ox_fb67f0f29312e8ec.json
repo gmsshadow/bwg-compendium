@@ -1,0 +1,52 @@
+{
+ "name": "Strength of the Ox",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 10,
+  "variableObstacle": true,
+  "variableObstacleDescription": "Power",
+  "obstacle": 0,
+  "upSpell": false,
+  "actions": 30,
+  "description": "Calling forth the power of ancient spirits, the sorcerer summons the limitless strength of the ox into his veins. The recipient gains +2D to Power.\n\nObstacle: Power. Actions: 30.\n\nOrigin: Presence | Area of Effect: Caster or Single Target | Element: Anima | Impetus: Enhance | Duration: Sustained | Resource Points: 10\n\nSource: Burning Wheel Gold Revised, p. 220",
+  "origin": "Presence",
+  "areaOfEffect": "Caster or Single Target",
+  "element": "Anima",
+  "impetus": "Enhance",
+  "duration": "Sustained",
+  "rpCost": 10,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "fb67f0f29312e8ec",
+ "_key": "!items!fb67f0f29312e8ec",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

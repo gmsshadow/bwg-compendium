@@ -1,0 +1,52 @@
+{
+ "name": "Thunderclap",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 6,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": false,
+  "actions": 2,
+  "description": "Speaking this primal incantation and bringing his hands together, the wizard causes a small thunderclap to erupt and deafen his enemies. Thunderclap deafens all those around the caster for one hour and causes +1 Ob to all actions for one exchange. Victims may make a Forte test to reduce time of deafness: 10 minutes per success. Multiple thunderclaps have no cumulative effect ( What? I can’t hear you ). Weapon Length: as Polearm; Range: as Pistol.\n\nObstacle: 3. Actions: 2.\n\nOrigin: Personal | Area of Effect: Presence | Element: Air | Impetus: Tax | Duration: Instantaneous/Hours | Resource Points: 6\n\nSource: Burning Wheel Gold Revised, p. 220",
+  "origin": "Personal",
+  "areaOfEffect": "Presence",
+  "element": "Air",
+  "impetus": "Tax",
+  "duration": "Instantaneous/Hours",
+  "rpCost": 6,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "longer",
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "10 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "2f9eda6a78cc559f",
+ "_key": "!items!2f9eda6a78cc559f",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

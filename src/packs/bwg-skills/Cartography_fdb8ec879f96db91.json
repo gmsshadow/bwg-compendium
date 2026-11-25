@@ -1,0 +1,49 @@
+{
+ "name": "Cartography",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "Cartography is the school of map-making. This skill imparts a hand for illustration and an eye for detail. It also allows the interpretation of other maps.\n\nObstacles: Simple local, rural area maps, Ob 1. Detailed rural area maps, Ob 2. Simple urban maps, Ob 3. Detailed urban maps, Ob 4. Simple sea charts, Ob 5. Detailed sea charts, Ob 6. Topographical maps, Ob 7.\n\nFoRKs: Calligraphy, Illumination\n\nSkill Type: Academic. Tools: Yes. Expendable.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 263",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "fdb8ec879f96db91",
+ "_key": "!items!fdb8ec879f96db91",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

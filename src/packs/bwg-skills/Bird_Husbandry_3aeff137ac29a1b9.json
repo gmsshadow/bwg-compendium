@@ -1,0 +1,49 @@
+{
+ "name": "Bird Husbandry",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "Bird Husbandry is the art of raising and caring for our avian friends.\n\nObstacles: Chickens, Ob 1. Pigeons, Ob 2. Raptors, Ob 3. Exotic birdies, Ob 4. Dinosaurs, Ob 5. Tending to wounds and illness, use the Field Dressing or Apothecary skill obstacles.\n\nSkill Type: Forester. Tools: Yes.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 259",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "3aeff137ac29a1b9",
+ "_key": "!items!3aeff137ac29a1b9",
+ "folder": "1b5eb4a289f022d3",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

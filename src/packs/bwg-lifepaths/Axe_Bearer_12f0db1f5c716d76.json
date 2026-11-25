@@ -1,0 +1,41 @@
+{
+ "name": "Axe Bearer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 15,
+  "resources": 15,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Guilder, Outcast, Noble",
+  "skillPoints": 9,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Foraging, Axe, Conspicuous, Intimidation, Armor Training, Shield Training, Formation Fighting, Throwing",
+  "traitList": "Swaggering",
+  "note": "Source: Burning Wheel Gold Revised, p. 114",
+  "requirements": "Noble Ardent, Graybeard or Banner Bearer",
+  "restrictions": "",
+  "order": 4
+ },
+ "sort": 400,
+ "_id": "12f0db1f5c716d76",
+ "_key": "!items!12f0db1f5c716d76",
+ "folder": "a9ab655cebcfeb1d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

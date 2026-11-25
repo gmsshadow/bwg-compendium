@@ -1,0 +1,50 @@
+{
+ "name": "Outlaw",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "name": "",
+  "traittype": "die",
+  "text": "The Outlaw is a very particular person in medieval society. A player who chooses the Outlaw trait for his character must consent to a few conditions: First, his character has either committed a grievous crime or is perceived as an enemy of the established order. Second, no law applies to this character—he has no rights whatsoever. He cannot appeal to the courts or the mercy of a judge for anything. Any man or beast may kill the outlaw and suffer no legal penalty for it. When the Outlaw trait is taken, the player must divide his resource points into two pools. Any resource points from City, Noble or Religious lifepaths go into one pool: The player may spend them as per the normal rules. However, he does not get access to the City/Noble/Religious resources until the Outlaw trait is voted off. The character’s remaining resource points may be spent as normal on gear, affiliations, relationships, etc. Outlaws gain a 1D infamous reputation among town and city folk and the nobility.\n\nType: Dt (die trait). Cost: 3 pts.\n\nRestrictions: Humans only, special trait\n\nSource: Burning Wheel Gold Revised, p. 339",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Humans only, special trait"
+ },
+ "_id": "721dc9763212a5b6",
+ "_key": "!items!721dc9763212a5b6",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

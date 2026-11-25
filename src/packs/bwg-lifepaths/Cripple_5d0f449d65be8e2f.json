@@ -1,0 +1,41 @@
+{
+ "name": "Cripple",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 3,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Servitude, City Dweller",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Beggardry, Inconspicuous, Conspicuous",
+  "traitList": "Lame or Missing Limb",
+  "note": "Source: Burning Wheel Gold Revised, p. 193",
+  "requirements": "",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "5d0f449d65be8e2f",
+ "_key": "!items!5d0f449d65be8e2f",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

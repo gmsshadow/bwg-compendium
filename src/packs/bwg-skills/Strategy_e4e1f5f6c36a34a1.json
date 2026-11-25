@@ -1,0 +1,49 @@
+{
+ "name": "Strategy",
+ "type": "skill",
+ "img": "icons/environment/people/infantry-army.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "military",
+  "training": false,
+  "magical": false,
+  "description": "Strategy is used to guide armies through war. You can use the Strategy skill to choose the field of battle, move your army unseen through an area, find your enemy’s supply, choose the proper troops for a task, etc. This is a rare and highly specialized skill reserved for only the greatest of generals.\n\nObstacles: Use Strategy in versus tests between commanders or use the following: Recognizing a strategic ally or opponent, Ob 1. Creating a credible threat of force, Ob 2. Assessing a salient point, Ob 3. Plan of attack (order of battle), Ob 4. Plan of campaign, Ob 5. Proper provenance for your forces, Ob 6.\n\nFoRKs: Logistics, Strategy Games, Tactics\n\nSkill Type: Military. Tools: No.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 302",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "e4e1f5f6c36a34a1",
+ "_key": "!items!e4e1f5f6c36a34a1",
+ "folder": "278ac1142118a950",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Court Artist",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "City Dweller, Outcast",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sculpture, Painting, Engraving, Seduction, Genius-wise",
+  "traitList": "Romantic",
+  "note": "Source: Burning Wheel Gold Revised, p. 179",
+  "requirements": "Court Jester, Painter, Thinker, Scholar or Sculptor",
+  "restrictions": "",
+  "order": 2
+ },
+ "sort": 200,
+ "_id": "82eda5d40bd95ee3",
+ "_key": "!items!82eda5d40bd95ee3",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

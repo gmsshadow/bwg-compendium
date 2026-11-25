@@ -1,0 +1,41 @@
+{
+ "name": "Beggar",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 5,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Peasant, Soldier, Village",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Inconspicuous, Conspicuous, Streetwise, Falsehood",
+  "traitList": "The Story",
+  "note": "Source: Burning Wheel Gold Revised, p. 194",
+  "requirements": "",
+  "restrictions": "",
+  "order": 13
+ },
+ "sort": 1300,
+ "_id": "ba89574430dcc634",
+ "_key": "!items!ba89574430dcc634",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

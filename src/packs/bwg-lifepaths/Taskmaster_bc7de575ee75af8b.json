@@ -1,0 +1,41 @@
+{
+ "name": "Taskmaster",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "City Dweller, Outcast, Soldier",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Intimidation, Brawling, Sing, Conspicuous, Lazy Bastard-wise",
+  "traitList": "Hard Hearted, Mean, Barker, Booming Voice",
+  "note": "Source: Burning Wheel Gold Revised, p. 166",
+  "requirements": "Village Sergeant or any Soldier lifepath",
+  "restrictions": "",
+  "order": 13
+ },
+ "sort": 1300,
+ "_id": "bc7de575ee75af8b",
+ "_key": "!items!bc7de575ee75af8b",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

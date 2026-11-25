@@ -1,0 +1,49 @@
+{
+ "name": "Amercement",
+ "type": "skill",
+ "img": "icons/sundries/books/book-worn-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "schoolofthought",
+  "training": false,
+  "magical": false,
+  "description": "Amercement is the knowledge of fees and criminal fines given as judicial punishment. Such amercements are almost always offered in place of corporal punishment, e.g. “Ye may take 30 days in the stocks or ye may pay the court a fee.” Using this skill the character may set the Resources obstacle for a fine. The skill test obstacles indicate how accurate and just the amount is according to the law.\n\nObstacles: Low justice (where the punishment is only a fine), Ob 2. Middle justice (where the punishment would be amputation or branding or the amercement), Ob 3. High justice (crimes punishable by death—like murder, adultery or grand larceny), Ob 5.\n\nSkill Type: School of Thought. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 254",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "19ee8a1276adb18d",
+ "_key": "!items!19ee8a1276adb18d",
+ "folder": "56d9f04d80593b17",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

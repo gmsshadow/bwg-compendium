@@ -1,0 +1,50 @@
+{
+ "name": "Prince of the Blood",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Among the Fêa, this Elf is a ruling prince and destined to one day be Etharch. By taking the Prince lifepath, the player is creating a character who is directly related to either the ruling Etharch or his forebears. A Prince of the Blood, though not an Etharch himself, is in line for the Elven crown. This trait adds +1D to the Elf’s starting base Circles rating. Prince of the Blood requires the Fêa trait as well.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Elven lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 342",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Elven lifepath trait"
+ },
+ "_id": "c3056ada7995da6d",
+ "_key": "!items!c3056ada7995da6d",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

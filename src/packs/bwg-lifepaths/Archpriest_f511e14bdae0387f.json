@@ -1,0 +1,41 @@
+{
+ "name": "Archpriest",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 25,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "City Dweller, Outcast, Court",
+  "skillPoints": 10,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Oratory, Suasion, Write, Read, Doctrine, History, Religious History, Ritual, Church-wise, Parish-wise, Tithe-wise",
+  "traitList": "Imperious Demeanor",
+  "note": "Source: Burning Wheel Gold Revised, p. 186",
+  "requirements": "Temple Priest, Itinerant Priest, Priest, Court Priest or Chaplain",
+  "restrictions": "",
+  "order": 17
+ },
+ "sort": 1700,
+ "_id": "f511e14bdae0387f",
+ "_key": "!items!f511e14bdae0387f",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

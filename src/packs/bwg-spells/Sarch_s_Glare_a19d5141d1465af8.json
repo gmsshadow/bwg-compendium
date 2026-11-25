@@ -1,0 +1,52 @@
+{
+ "name": "Sarch’s Glare",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 12,
+  "variableObstacle": true,
+  "variableObstacleDescription": "Will/Forte",
+  "obstacle": 0,
+  "upSpell": false,
+  "actions": 4,
+  "description": "Arcane power flares from the brow of the sorcerer, and his eyes become scintillating stars of fear. Those who look into his eyes freeze; their limbs go dead, paralyzed. The sorcerer may nominate one character to be the recipient of his gaze and attempt to paralyze him. Obstacle is the target’s Will or Forte, whichever is lower. Weapon Length: as Missile; Range: as Pistol.\n\nObstacle: Will/Forte. Actions: 4.\n\nOrigin: Presence | Area of Effect: Single Target | Element: Anima | Impetus: Tax | Duration: Sustained | Resource Points: 12\n\nSource: Burning Wheel Gold Revised, p. 219",
+  "origin": "Presence",
+  "areaOfEffect": "Single Target",
+  "element": "Anima",
+  "impetus": "Tax",
+  "duration": "Sustained",
+  "rpCost": 12,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "as missile",
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "10 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "a19d5141d1465af8",
+ "_key": "!items!a19d5141d1465af8",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

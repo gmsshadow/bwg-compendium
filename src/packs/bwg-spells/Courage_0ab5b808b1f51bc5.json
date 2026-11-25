@@ -1,0 +1,52 @@
+{
+ "name": "Courage",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": false,
+  "actions": 2,
+  "description": "The word is fire in thy veins. This simple incantation negates your allies’ current hesitation. Meeting the obstacle eliminates all hesitation.\n\nObstacle: 4. Actions: 2.\n\nOrigin: Personal | Area of Effect: Presence | Element: Anima | Impetus: Influence | Duration: Instantaneous | Resource Points: 16\n\nSource: Burning Wheel Gold Revised, p. 210",
+  "origin": "Personal",
+  "areaOfEffect": "Presence",
+  "element": "Anima",
+  "impetus": "Influence",
+  "duration": "Instantaneous",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "0ab5b808b1f51bc5",
+ "_key": "!items!0ab5b808b1f51bc5",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

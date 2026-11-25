@@ -1,0 +1,41 @@
+{
+ "name": "Taskmaster",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Villager, Outcast, Soldier",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Intimidation, Brawling, Sing, Conspicuous, Laborer-wise",
+  "traitList": "Intimidating, Dreadful",
+  "note": "Source: Burning Wheel Gold Revised, p. 173",
+  "requirements": "",
+  "restrictions": "may not be the character’s second lifepath",
+  "order": 40
+ },
+ "sort": 4000,
+ "_id": "a43ff4780e70f433",
+ "_key": "!items!a43ff4780e70f433",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

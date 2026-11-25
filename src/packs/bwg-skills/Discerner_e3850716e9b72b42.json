@@ -1,0 +1,49 @@
+{
+ "name": "Discerner",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "This spell song allows the prince to see what lurks in the hearts of Men, Dwarves and Elves. It counts as a bulwark against Falsehood, Soothing Platitudes, Persuasion, Inconspicuous and Seduction. Increase the obstacle by one for these skills if they are used against the Etharch while he is singing Discerner. Add the margin of success from the song to the obstacle penalty. If the test to deceive the Etharch is failed, he is aware of the intentions of the manipulator or deceiver (but not the precise nature of the lie).\n\nObstacle: See Description. The Discerner song obstacle is equal to the target character’s Will.\n\nActions: 5. It is a short stanza sung under the breath while seeming to agree with and listen to the target character. In the Duel of Wits, it’s sung during your opponent’s action.\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 145",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "e3850716e9b72b42",
+ "_key": "!items!e3850716e9b72b42",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

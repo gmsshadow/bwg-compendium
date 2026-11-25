@@ -1,0 +1,31 @@
+{
+ "name": "Ceremonial Knives",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Ornate and hallowed weapons vital to the Servant for performing his dark rituals. Otherwise simply ornate run of the mill weapons.\n\nSource: Burning Wheel Gold Revised, p. 244"
+ },
+ "_id": "3a1f5b434ae94cf4",
+ "_key": "!items!3a1f5b434ae94cf4",
+ "folder": "7fd7870c9a4a02f6",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

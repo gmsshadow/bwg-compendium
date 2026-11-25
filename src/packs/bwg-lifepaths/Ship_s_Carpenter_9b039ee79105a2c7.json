@@ -1,0 +1,41 @@
+{
+ "name": "Ship’s Carpenter",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 16,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Soldier, City, Servitude, Outcast",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Carpentry, Shipwright, Boatwright, Rigging, Ship-wise",
+  "traitList": "I Know This Ship Like My Own Hands",
+  "note": "Source: Burning Wheel Gold Revised, p. 191",
+  "requirements": "Apprentice or Carpenter’s Mate",
+  "restrictions": "",
+  "order": 20
+ },
+ "sort": 2000,
+ "_id": "9b039ee79105a2c7",
+ "_key": "!items!9b039ee79105a2c7",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

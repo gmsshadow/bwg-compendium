@@ -1,0 +1,41 @@
+{
+ "name": "Seneschal",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 55,
+  "resources": 50,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Guilder, Host",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Etiquette, Command, Estate Management, Hold-wise",
+  "traitList": "Practical",
+  "note": "Source: Burning Wheel Gold Revised, p. 113",
+  "requirements": "Trader, Longbeard, Quartermaster, Chronicler, Khirurgeon or Graybeard",
+  "restrictions": "",
+  "order": 5
+ },
+ "sort": 500,
+ "_id": "1225f1660a35f3a0",
+ "_key": "!items!1225f1660a35f3a0",
+ "folder": "6e837e6031f2b2dd",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

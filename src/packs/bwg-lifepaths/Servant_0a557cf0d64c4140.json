@@ -1,0 +1,41 @@
+{
+ "name": "Servant",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 50,
+  "resources": 30,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 2,
+  "generalPoints": 2,
+  "traitPoints": 1,
+  "skillList": "Great and Black-wise, Name Ritual",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 233",
+  "requirements": "the Born to Rule Them All trait and Dark Summoner or Blood Summoner",
+  "restrictions": "",
+  "order": 9
+ },
+ "sort": 900,
+ "_id": "0a557cf0d64c4140",
+ "_key": "!items!0a557cf0d64c4140",
+ "folder": "06a160df6011fa80",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Follower",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 9,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Legion, Chattel",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Armor Training, Axe, Bow, Knives, Mace, Riding, Shield Training, Clan-wise",
+  "traitList": "Silent Hatred",
+  "note": "Source: Burning Wheel Gold Revised, p. 230",
+  "requirements": "He Who Walks in the Named’s Shadow requires The Rites or Astride the Beast",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "c7b727232a60f02c",
+ "_key": "!items!c7b727232a60f02c",
+ "folder": "727a9cf321bfd6f5",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

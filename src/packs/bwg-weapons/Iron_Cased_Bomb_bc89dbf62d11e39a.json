@@ -1,0 +1,45 @@
+{
+ "name": "Iron-Cased Bomb",
+ "type": "ranged weapon",
+ "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
+ "system": {
+  "pointCost": 10,
+  "quality": "run of the mill",
+  "hasGunpowder": false,
+  "usePower": false,
+  "powerBonus": 0,
+  "incidental": 3,
+  "incidentalRoll": 2,
+  "mark": 6,
+  "markRoll": 4,
+  "superb": 9,
+  "vsArmor": 4,
+  "optimalRange": 1,
+  "extremeRange": 1,
+  "maxRange": "50 paces",
+  "handedness": "one",
+  "description": "VA 4 (VA 2 for indirect hits from failed tests). Fight actions: Physical Action (light fuse), Throw Object. -1 to the DoF when thrown at extreme range. Lighting the fuse takes two actions with a ready flame; the bomb explodes in the same volley/action of the following exchange. Bombs always suffer +1 Ob to hit. Explosives misfire die: when the fuse is lit roll the DoF; on a 1 it misfires (if built on a failed skill test it detonates immediately, otherwise reroll: 4+ dud, 1-3 explodes next volley). In Range and Cover, a bomb counts as a 1D range weapon with a 30 pace maximum range (see p. 472). Orcs may buy iron-cased bombs for 10 rps.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 471",
+  "skillId": "",
+  "shade": "B"
+ },
+ "_id": "bc89dbf62d11e39a",
+ "_key": "!items!bc89dbf62d11e39a",
+ "folder": "5288ce6fb27b23ed",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

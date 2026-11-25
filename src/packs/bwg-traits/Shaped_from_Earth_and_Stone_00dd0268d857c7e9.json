@@ -1,0 +1,50 @@
+{
+ "name": "Shaped from Earth and Stone",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "In the first age, when the earth was barren, Dwarves were created by the One Who Most Dearly Loves to Shape with His Hands. Dwarves were born beneath the earth and it was long before they came forth into the light of the sun. In these dark ages, they grew familiar with the ores, veins, rocks and sediments that were their sky, ocean and earth. Attendant with their appreciation of raw materials is a love of building and shaping. Due to their heritage, above all else it is craftsmanship and the beauty of that which is wrought by skill that Dwarves love most. And since they were Born Under Earth, metals, stones and gems are their first love—far beyond cloth, wood or leather. This trait also gives the Dwarves access to natural magic abilities—open-ended/special skills for most of their crafts and arts.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Dwarven common trait\n\nSource: Burning Wheel Gold Revised, p. 345",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Dwarven common trait"
+ },
+ "_id": "00dd0268d857c7e9",
+ "_key": "!items!00dd0268d857c7e9",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

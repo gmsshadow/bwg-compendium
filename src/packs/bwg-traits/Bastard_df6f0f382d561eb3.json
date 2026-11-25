@@ -1,0 +1,50 @@
+{
+ "name": "Bastard",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 4,
+  "name": "",
+  "traittype": "die",
+  "text": "This character is the illegitimate son of a noble of rank. He will only be heir to the lands and income if all the other heirs die or join the clergy. Bastards are not looked upon kindly, as they dilute claims to birthright and threaten the system of rightful inheritance. Bastards have a 1D infamous reputation among the nobility.\n\nType: Dt (die trait). Cost: 4 pts.\n\nRestrictions: Humans only, special trait\n\nSource: Burning Wheel Gold Revised, p. 314",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Humans only, special trait"
+ },
+ "_id": "df6f0f382d561eb3",
+ "_key": "!items!df6f0f382d561eb3",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

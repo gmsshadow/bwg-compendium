@@ -1,0 +1,49 @@
+{
+ "name": "Taxidermy",
+ "type": "skill",
+ "img": "icons/magic/life/cross-yellow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "medicinal",
+  "training": false,
+  "magical": false,
+  "description": "Taxidermy is the process of preparing and preserving the dead for exhibition in a lifelike state.\n\nObstacles: Rabbits and small game, Ob 1. Insects and fish, Ob 2. Fowl and large game, Ob 3. Your aunt, Ob 4. Exotic creatures, Ob 4. Monsters, Ob 5. Mythical or heroic beasts, Ob 6. Supernatural creatures, Ob 7. Also see the Burning Wheel Codex for additional uses.\n\nSkill Type: Medicinal. Tools: Yes.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 304",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "63ba633ae19e2c96",
+ "_key": "!items!63ba633ae19e2c96",
+ "folder": "cd5e691070d2d04b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

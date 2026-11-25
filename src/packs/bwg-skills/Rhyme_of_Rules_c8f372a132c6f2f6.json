@@ -1,0 +1,49 @@
+{
+ "name": "Rhyme of Rules",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "The Rhyme of Rules is an ever-growing song comprised of all the adages, apothegms, axioms, dictums, maxims, morals, precepts, proverbs, rules, sayings and truisms of the Elves. When sung itself, its primary effect is wonderment. However, Rhyme of Rules is also the only spell song that can be used as a FoRK (not a helping die, though). The FoRK die can be invoked for any skill song test (not spell song) for which the player can recite a clever bit of folklore obliquely pertinent to the situation.\n\nObstacle: 3\n\nActions: 3-10, depending on the length of the player’s verse\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 148",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "c8f372a132c6f2f6",
+ "_key": "!items!c8f372a132c6f2f6",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

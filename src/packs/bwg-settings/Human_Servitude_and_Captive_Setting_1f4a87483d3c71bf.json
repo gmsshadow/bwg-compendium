@@ -1,0 +1,362 @@
+{
+ "_id": "1f4a87483d3c71bf",
+ "name": "Human Servitude and Captive Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Servitude and Captive Setting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Slave",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 12,
+    "resources": 5,
+    "statBoost": "either",
+    "subtractStats": true,
+    "leads": "Soldier, Outcast",
+    "skillPoints": 1,
+    "generalPoints": 2,
+    "traitPoints": 3,
+    "skillList": "Slavery-wise",
+    "traitList": "Broken, Scarred, Maimed, Lame",
+    "note": "Source: Burning Wheel Gold Revised, p. 192",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "37f5fe77d39af53f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!1f4a87483d3c71bf.37f5fe77d39af53f"
+  },
+  {
+   "name": "Ditch Digger",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Soldier, Outcast",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Ditch Digging, Sing, Boss-wise",
+    "traitList": "Blisters, Back-Breaking Labor",
+    "note": "Source: Burning Wheel Gold Revised, p. 192",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "1d51422bfe90dcdc",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!1f4a87483d3c71bf.1d51422bfe90dcdc"
+  },
+  {
+   "name": "Servant",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 6,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, City, Court",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Soothing Platitudes, Inconspicuous, Gossip-wise",
+    "traitList": "Mind-Numbing Work, Obsequious",
+    "note": "Source: Burning Wheel Gold Revised, p. 192",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "b0ed7ea8d28bf9f5",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!1f4a87483d3c71bf.b0ed7ea8d28bf9f5"
+  },
+  {
+   "name": "Field Laborer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Farming, Mending, Sing, Hauling, Driving, Fall Grass-wise",
+    "traitList": "Hope",
+    "note": "Source: Burning Wheel Gold Revised, p. 192",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "38205b19319b1199",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!1f4a87483d3c71bf.38205b19319b1199"
+  },
+  {
+   "name": "Captive of War",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, City Dweller",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Cell-wise, Chain-wise",
+    "traitList": "Claustrophobic, Resigned to Fate",
+    "note": "Source: Burning Wheel Gold Revised, p. 192",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "ebb392348d7c71fc",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!1f4a87483d3c71bf.ebb392348d7c71fc"
+  },
+  {
+   "name": "Gaol",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, City Dweller",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Gaol-wise, Ratiquette",
+    "traitList": "Involuntary Shudders",
+    "note": "Source: Burning Wheel Gold Revised, p. 193",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "ec0b9fbdc8425557",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!1f4a87483d3c71bf.ec0b9fbdc8425557"
+  },
+  {
+   "name": "Harem Slave",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Falsehood, Seduction",
+    "traitList": "Numb, Worldly",
+    "note": "Source: Burning Wheel Gold Revised, p. 193",
+    "requirements": "",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "7d1ede8a92b356d1",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!1f4a87483d3c71bf.7d1ede8a92b356d1"
+  },
+  {
+   "name": "Bondsman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 7,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Peasant, Soldier, Outcast",
+    "skillPoints": 0,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "",
+    "traitList": "Lucky",
+    "note": "Skills as printed: The player may choose his Bondsman’s owner’s lifepath from the Noble, City Dweller, Soldier or Villager setting. The Bondsman may purchase from owner’s skills with one quarter of that path’s skill points (minimum of 1)\n\nSource: Burning Wheel Gold Revised, p. 193",
+    "requirements": "",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "86bc5bc152a3846b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!1f4a87483d3c71bf.86bc5bc152a3846b"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Servitude and Captive Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!1f4a87483d3c71bf",
+ "folder": "f28c4fd7c6c9b063",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

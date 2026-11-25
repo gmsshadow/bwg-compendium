@@ -1,0 +1,41 @@
+{
+ "name": "Exorcist",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Outcast, City, Court",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Doctrine, Obscure History, Observation, Church Law, Symbology, Demonology, Ancient Languages",
+  "traitList": "Skeptical, Haunted, Possessed, Exorcist, Lost Faith, Faithful",
+  "note": "Source: Burning Wheel Gold Revised, p. 186",
+  "requirements": "Temple Priest, Itinerant Priest, Priest, Court Priest or Archivist",
+  "restrictions": "",
+  "order": 14
+ },
+ "sort": 1400,
+ "_id": "618dfce1d198d5b2",
+ "_key": "!items!618dfce1d198d5b2",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

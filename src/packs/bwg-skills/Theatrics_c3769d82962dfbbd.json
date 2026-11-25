@@ -1,0 +1,49 @@
+{
+ "name": "Theatrics",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "Theatrics is the familiarity with the mechanics of stage performance. This skill encompasses sets, make-up and costumes.\n\nObstacles: Stage makeup, Ob 1. Making simple masks, Ob 2. Disguising an androgynous woman as a man or vice versa, Ob 3.\n\nFoRKs: Acting, Disguise\n\nSkill Type: Special. Tools: Yes.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 304",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "c3769d82962dfbbd",
+ "_key": "!items!c3769d82962dfbbd",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,403 @@
+{
+ "_id": "8bcced2e8b1f9090",
+ "name": "Dwarven Guilder Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Guilder Setting lifepaths for Dwarven characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Guilder",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 21,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Clansman",
+    "skillPoints": 0,
+    "generalPoints": 4,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 111",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "e55aaa8556a2869b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!8bcced2e8b1f9090.e55aaa8556a2869b"
+  },
+  {
+   "name": "Wordbearer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Clansman, Host",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Hold-wise, Rumor-wise, Oratory, Clan History",
+    "traitList": "Quirky, Iron Memory, Quick-Step",
+    "note": "Source: Burning Wheel Gold Revised, p. 111",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "01359984eed0687c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!8bcced2e8b1f9090.01359984eed0687c"
+  },
+  {
+   "name": "Hauler",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 7,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Clansman, Host",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Hauling, Wagon-wise, Cargo-wise, Road-wise",
+    "traitList": "Lifting Heavy Things",
+    "note": "Source: Burning Wheel Gold Revised, p. 111",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "9481ddd67301eb4a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!8bcced2e8b1f9090.9481ddd67301eb4a"
+  },
+  {
+   "name": "Carter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Clansman, Host, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Animal Husbandry, Driving, Mending, Mule-wise",
+    "traitList": "Patient, Iron Nose",
+    "note": "Source: Burning Wheel Gold Revised, p. 111",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "3683ee67112e31a0",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!8bcced2e8b1f9090.3683ee67112e31a0"
+  },
+  {
+   "name": "Hawker",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Clansman, Outcast, Host",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Inconspicuous, Conspicuous, Streetwise, Haggling, Spiel-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 111",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "ec76cbb13ce954b5",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!8bcced2e8b1f9090.ec76cbb13ce954b5"
+  },
+  {
+   "name": "Apprentice",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 20,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Clansman, Artificer",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Carving, Tanner, Carpentry, Scutwork-wise",
+    "traitList": "Seen Not Heard",
+    "note": "Source: Burning Wheel Gold Revised, p. 111",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "05113cd93652a336",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!8bcced2e8b1f9090.05113cd93652a336"
+  },
+  {
+   "name": "Journeyman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 25,
+    "resources": 25,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Clansman, Artificer, Host",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Haggling, Reputation-wise, Cartwright, Mending, Black Metal Artifice",
+    "traitList": "Hungry",
+    "note": "Source: Burning Wheel Gold Revised, p. 111",
+    "requirements": "Apprentice or any Ardent lifepath",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "65d91088490cecb2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!8bcced2e8b1f9090.65d91088490cecb2"
+  },
+  {
+   "name": "Craftsman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 45,
+    "resources": 45,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Clansman, Artificer",
+    "skillPoints": 4,
+    "generalPoints": 1,
+    "traitPoints": 1,
+    "skillList": "Appraisal, Shipwright, Artificer-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 111",
+    "requirements": "Journeyman, Artificer, Artillerist or Engineer",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "3985ac8f5660c65a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!8bcced2e8b1f9090.3985ac8f5660c65a"
+  },
+  {
+   "name": "Trader",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 45,
+    "resources": 70,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Clansman, Outcast",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Stentorious Debate, Shrewd Appraisal, Haggling, Persuasion",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 111",
+    "requirements": "Hawker, Journeyman, Adventurer or Husband/Wife",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "8df2493173868a46",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!8bcced2e8b1f9090.8df2493173868a46"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Guilder Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!8bcced2e8b1f9090",
+ "folder": "02a8bf34a0b4974f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

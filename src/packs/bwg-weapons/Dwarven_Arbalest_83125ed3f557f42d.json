@@ -1,0 +1,45 @@
+{
+ "name": "Dwarven Arbalest",
+ "type": "ranged weapon",
+ "img": "icons/weapons/bows/longbow-recurve-brown.webp",
+ "system": {
+  "pointCost": 20,
+  "quality": "superior",
+  "hasGunpowder": false,
+  "usePower": false,
+  "powerBonus": 0,
+  "incidental": 4,
+  "incidentalRoll": 2,
+  "mark": 8,
+  "markRoll": 4,
+  "superb": 11,
+  "vsArmor": 2,
+  "optimalRange": 1,
+  "extremeRange": 3,
+  "maxRange": "125 paces",
+  "handedness": "two",
+  "description": "A special Dwarven make of the traditional crossbow. It can fire rocks or bolts. It counts as a crossbow but only requires 10 actions to load when firing bolts, or 6 actions when firing rocks. So well made it adds a +1D balance die to the wielder’s skill. Stats here are for bolts (crossbow range and damage); see Dwarven Arbalest (Rocks).\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 125",
+  "skillId": "",
+  "shade": "B"
+ },
+ "_id": "83125ed3f557f42d",
+ "_key": "!items!83125ed3f557f42d",
+ "folder": "548b0082adaa401b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

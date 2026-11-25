@@ -1,0 +1,49 @@
+{
+ "name": "Coarse Persuasion",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": true,
+  "description": "This bizarre social art is apparently a method of coercion and persuasion among Dwarvenkind and consists of a lot of backslapping, grinning and reassurances: “Come on! You’ll love it.” That other folk often find it charming and endearing is one of the wonders of the world.\n\nObstacles: Obstacle is equal to the victim’s Will. Obstacle increases for really outlandish requests and proposals. It may be used as Persuasion in a Duel of Wits.\n\nFoRKs: Intimidation, Interrogation, Ugly Truth\n\nSkill Type: Social. Tools: No.\n\nRestrictions: Dwarves only\n\nRoot: Will (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 265",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "5881b1b9341153f2",
+ "_key": "!items!5881b1b9341153f2",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

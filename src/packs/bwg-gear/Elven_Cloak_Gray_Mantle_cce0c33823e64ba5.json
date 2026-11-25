@@ -1,0 +1,31 @@
+{
+ "name": "Elven Cloak (Gray Mantle)",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 30,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Imbued with the Threne of the Chameleon. Counts as a 4D Threne of the Chameleon: when using Stealthy and/or the Threne, add the cloak’s dice to the skill or song when rolling to hide. Warm in winter, cool in summer, covering in rain and quick to dry.\n\nSource: Burning Wheel Gold Revised, p. 157"
+ },
+ "_id": "cce0c33823e64ba5",
+ "_key": "!items!cce0c33823e64ba5",
+ "folder": "b5a4e8f60fe6d52f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

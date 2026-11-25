@@ -1,0 +1,50 @@
+{
+ "name": "Unlucky",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "The Unlucky character has a hard life. Whenever the player makes an arbitrary decision about something in game, it’s always wrong. If, for example, the character comes to a fork in the road, and the player just shrugs, “I dunno. I go left.” It’s the wrong direction—doesn’t matter what the “truth” is, that’s his luck. Unlucky may be bought off in game. If the player utterly succeeds at a test at a crucial moment—all successes, glowing results, victory, etc.—the player may opt to turn the success into a dismal, catastrophic and hopefully hilarious failure. Doing so immediately earns the player a fate point and persona point. Unlucky is then removed from his trait list.\n\nType: Dt (die trait). Cost: 1 pt.\n\nSource: Burning Wheel Gold Revised, p. 352",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "4fe278178a1b3d6f",
+ "_key": "!items!4fe278178a1b3d6f",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

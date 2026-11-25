@@ -1,0 +1,49 @@
+{
+ "name": "Gem Artifice",
+ "type": "skill",
+ "img": "icons/tools/hand/chisel-steel-brown.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artisan",
+  "training": false,
+  "magical": true,
+  "description": "Gem Artifice teaches the secrets of cutting precious stones so they shine like stars in candlelight and shimmer like eldritch fire in the sun. Any gem cut using this skill may be used as a matrix by an enchanter to create an item of power. Secondly, the Resources obstacle of any gem or stone manufactured using Gem Artifice is increased by one automatically. The value may be further increased by one by adding +2 Ob to the test before the dice are rolled.\n\nObstacles: Polishing Gems, Ob 1. Shaping opals, Ob 2. Working jade, Ob 3. Cutting and faceting sapphire, Ob 4. Cutting and faceting rubies and emeralds, Ob 5. Cutting and faceting diamond, Ob 6. Arkenstone, Ob 10.\n\nFoRKs: White Metal Artifice\n\nSkill Type: Artisan. Tools: Workshop.\n\nRestrictions: Dwarves only\n\nRoot: Will/Agi (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 275",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "3b41246dd7a5be14",
+ "_key": "!items!3b41246dd7a5be14",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

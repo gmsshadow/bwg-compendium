@@ -1,0 +1,52 @@
+{
+ "name": "Cat’s Eye",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 6,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": false,
+  "actions": 7,
+  "description": "Twilight becomes bright and what lies in the shadows is revealed. This incantation reduces obstacle penalties for dimness, haziness and darkness by two.\n\nObstacle: 3. Actions: 7.\n\nOrigin: Presence | Area of Effect: Single Target or Caster | Element: Anima | Impetus: Enhance | Duration: Sustained | Resource Points: 6\n\nSource: Burning Wheel Gold Revised, p. 209",
+  "origin": "Presence",
+  "areaOfEffect": "Single Target or Caster",
+  "element": "Anima",
+  "impetus": "Enhance",
+  "duration": "Sustained",
+  "rpCost": 6,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "f39558a8391f54dc",
+ "_key": "!items!f39558a8391f54dc",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

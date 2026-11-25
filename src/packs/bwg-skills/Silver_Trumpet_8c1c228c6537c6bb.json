@@ -1,0 +1,49 @@
+{
+ "name": "Silver Trumpet",
+ "type": "skill",
+ "img": "icons/skills/trades/music-notes-sound-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "musical",
+  "training": false,
+  "magical": false,
+  "description": "Elven silver trumpets are renowned and fabled throughout the known world. Heralds are taught how to produce wondrous and clear strains from the instrument so that the arrival of the Loremasters, Althings and Etharchs may be properly heralded.\n\nObstacles: Morning calls, Ob 1. Danger or warnings, Ob 2. Funerary calls, Ob 3. Arrival of Feâ, Ob 4. Song of the Aman, Ob 5.\n\nSkill Type: Musical. Tools: Yes, an Elven silver trumpet.\n\nRestrictions: Elves only in character burning\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 296",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only in character burning"
+ },
+ "_id": "8c1c228c6537c6bb",
+ "_key": "!items!8c1c228c6537c6bb",
+ "folder": "e6960b31d5a13b1f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

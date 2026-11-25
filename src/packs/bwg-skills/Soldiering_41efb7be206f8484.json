@@ -1,0 +1,49 @@
+{
+ "name": "Soldiering",
+ "type": "skill",
+ "img": "icons/environment/people/infantry-army.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "military",
+  "training": false,
+  "magical": false,
+  "description": "This skill covers all the incredibly boring minutiae of being a soldier—marching, digging latrines, setting up tents, army procedures and dealing with the paymasters.\n\nObstacles: Marching, Ob 1. Latrines and foxholes, Ob 2. Forage and shelter, Ob 3. Procedure, Ob 4. Payment, Ob 5.\n\nSkill Type: Military. Tools: Yes.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 298",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "41efb7be206f8484",
+ "_key": "!items!41efb7be206f8484",
+ "folder": "278ac1142118a950",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

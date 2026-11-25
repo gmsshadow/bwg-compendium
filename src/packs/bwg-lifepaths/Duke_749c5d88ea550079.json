@@ -1,0 +1,41 @@
+{
+ "name": "Duke",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 90,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Court, Soldier",
+  "skillPoints": 0,
+  "generalPoints": 3,
+  "traitPoints": 1,
+  "skillList": "",
+  "traitList": "Noblesse Oblige, Regal Bearing, Pompous, Sharp Dresser, Callous",
+  "note": "Source: Burning Wheel Gold Revised, p. 179",
+  "requirements": "Knight and the Your Grace trait",
+  "restrictions": "",
+  "order": 15
+ },
+ "sort": 1500,
+ "_id": "749c5d88ea550079",
+ "_key": "!items!749c5d88ea550079",
+ "folder": "c721f7253452389b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

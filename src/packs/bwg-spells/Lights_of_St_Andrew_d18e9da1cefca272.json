@@ -1,0 +1,52 @@
+{
+ "name": "Lights of St. Andrew",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 12,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": true,
+  "actions": 2,
+  "description": "A rushing blast of color and light flies from the outstretched hands of the caster and stuns all in its path. This spell causes the victim to make a Forte test. Meeting the spell obstacle is triggers an Ob 1 Forte test. Extra successes from the spell increase the victim’s obstacle. Margin of failure for the Forte test becomes an obstacle penalty for all of the victim’s actions. The penalty drops by one each volley after the first. Weapon Length: as Sword; Range: as Pistol.\n\nObstacle: 3^. Actions: 2.\n\nOrigin: Personal | Area of Effect: Paces | Element: Heaven | Impetus: Tax | Duration: Instantaneous | Resource Points: 12\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 214",
+  "origin": "Personal",
+  "areaOfEffect": "Paces",
+  "element": "Heaven",
+  "impetus": "Tax",
+  "duration": "Instantaneous",
+  "rpCost": 12,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "long",
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "10 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "d18e9da1cefca272",
+ "_key": "!items!d18e9da1cefca272",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

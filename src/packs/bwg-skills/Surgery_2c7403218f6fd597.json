@@ -1,0 +1,49 @@
+{
+ "name": "Surgery",
+ "type": "skill",
+ "img": "icons/magic/life/cross-yellow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "medicinal",
+  "training": false,
+  "magical": false,
+  "description": "Surgery is a highly specialized art that involves cutting and sewing damaged body parts back into a position where they can heal properly. Surgery can be used to repair broken limbs, stop bleeding and remove bodily aberrations. Failed Surgery tests increase the blood clock for the wound by one stage. Can be used to treat wounds of all types.\n\nObstacles: See Anatomy of Injury for obstacles and mechanics.\n\nFoRKs: Anatomy, Field Dressing, Apothecary, Bloodletting\n\nSkill Type: Medicinal. Tools: Yes. Expendable.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 303",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "2c7403218f6fd597",
+ "_key": "!items!2c7403218f6fd597",
+ "folder": "cd5e691070d2d04b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

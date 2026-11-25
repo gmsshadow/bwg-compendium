@@ -1,0 +1,31 @@
+{
+ "name": "Elven Rope",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 12,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Light and strong: weighs half as much as normal rope and holds twice as much. Climbing, Knots and Rigging tests using it may add +1D. Counts as tools for Knots and Climbing. Any Elf or Elf-friend may cue it to unknot and untie itself.\n\nSource: Burning Wheel Gold Revised, p. 158"
+ },
+ "_id": "be0d705a7613e95e",
+ "_key": "!items!be0d705a7613e95e",
+ "folder": "b5a4e8f60fe6d52f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

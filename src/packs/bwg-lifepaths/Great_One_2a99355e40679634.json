@@ -1,0 +1,41 @@
+{
+ "name": "Great One",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 20,
+  "resources": 60,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 5,
+  "generalPoints": 1,
+  "traitPoints": 2,
+  "skillList": "Command, Strategy, Name Ritual",
+  "traitList": "Brooding, Flights of Murderous Fancy, Unrelenting Hatred",
+  "note": "Stat: +2 M, P (two points to each pool); the system only records a single point for each.\n\nSource: Burning Wheel Gold Revised, p. 230",
+  "requirements": "Named and the Born to Rule Them All trait",
+  "restrictions": "",
+  "order": 9
+ },
+ "sort": 900,
+ "_id": "2a99355e40679634",
+ "_key": "!items!2a99355e40679634",
+ "folder": "727a9cf321bfd6f5",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

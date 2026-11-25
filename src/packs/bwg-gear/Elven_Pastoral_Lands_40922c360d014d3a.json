@@ -1,0 +1,30 @@
+{
+ "name": "Elven Pastoral Lands",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 20,
+  "isWorkshop": false,
+  "description": "Includes a single important terrain feature (a lake, length of river, hill or prairie) and a modest but comfortable dwelling for the Elf’s family. Elven Land counts as property when factoring Resources.\n\nSource: Burning Wheel Gold Revised, p. 159"
+ },
+ "_id": "40922c360d014d3a",
+ "_key": "!items!40922c360d014d3a",
+ "folder": "d0066ae36efb4213",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

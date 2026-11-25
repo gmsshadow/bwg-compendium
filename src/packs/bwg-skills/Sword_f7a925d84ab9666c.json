@@ -1,0 +1,49 @@
+{
+ "name": "Sword",
+ "type": "skill",
+ "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "agility",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "martial",
+  "training": false,
+  "magical": false,
+  "description": "This skill covers the use of any long-bladed, one- or two-handed weapons. Bastard swords, broad swords, short swords, katana, falchions, machetes, rapiers, gladii or yataghans.\n\nObstacles: See the Fight chapter in the Burning Wheel.\n\nFoRKs: Boxing, Brawling or any appropriate melee weapon skill\n\nSkill Type: Martial. Tools: A sword.\n\nRoot: Agility\n\nSource: Burning Wheel Gold Revised, p. 303",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "f7a925d84ab9666c",
+ "_key": "!items!f7a925d84ab9666c",
+ "folder": "c4780c995c816e33",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

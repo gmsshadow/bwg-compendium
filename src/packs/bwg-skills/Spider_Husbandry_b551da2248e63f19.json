@@ -1,0 +1,49 @@
+{
+ "name": "Spider Husbandry",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": false,
+  "description": "The Master of Eight learns how to raise and train Great Spiders, a skill reserved for the most calmly insane among the Servants. It acts as Instruction and Field Dressing for Spiders\n\nObstacles: Use these as your base obstacles for Instruction: Raising regular spiders, Ob 1. Training a Great Orb Weaver, Ob 2. Training a Great Master of the Hunt, Ob 3. Training a Sea Lord, Ob 4. Training a Great Undernest spider, Ob 5. For Field Dressing obstacles, see the Anatomy of Injury chapter.\n\nFoRKs: Animal Husbandry\n\nSkill Type: Peasant. Tools: Yes. Expendable.\n\nRestrictions: Orcs only in character burning\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 300",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Orcs only in character burning"
+ },
+ "_id": "b551da2248e63f19",
+ "_key": "!items!b551da2248e63f19",
+ "folder": "26f1d2df964749c9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Ship’s Chaplain",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Villager, City, Religious, Soldier",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Oratory, Doctrine, Ship-wise",
+  "traitList": "World Weary, Burial at Sea, Secretly Worships the Black Sea God",
+  "note": "Source: Burning Wheel Gold Revised, p. 191",
+  "requirements": "Chaplain, Military Order, Temple Acolyte or Religious Acolyte",
+  "restrictions": "",
+  "order": 16
+ },
+ "sort": 1600,
+ "_id": "be3c27cd2a39fe87",
+ "_key": "!items!be3c27cd2a39fe87",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

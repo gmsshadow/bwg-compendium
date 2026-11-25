@@ -1,0 +1,44 @@
+{
+ "name": "Beak",
+ "type": "melee weapon",
+ "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+ "system": {
+  "pointCost": 1,
+  "quality": "run of the mill",
+  "handedness": "two",
+  "description": "May be added to a polearm, axe or spear. Weapon length is as the weapon it is fitted to; adjust the length to suit. Modifications cost +1 rp per weapon (+4 rps for superior quality weapons).\n\nRun of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 555",
+  "skillId": "",
+  "shade": "B",
+  "baseOb": 1,
+  "attacks": [
+   {
+    "attackName": "",
+    "power": 1,
+    "add": 2,
+    "vsArmor": 3,
+    "weaponSpeed": "1",
+    "weaponLength": "long"
+   }
+  ]
+ },
+ "_id": "a6cbc6e1763b2548",
+ "_key": "!items!a6cbc6e1763b2548",
+ "folder": "fa8f0a8663f767d9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Black Destroyer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 12,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Chattel",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Mounted Combat Training, Great Wolf Husbandry, Riding, Axe, Spear",
+  "traitList": "Intense Hatred, Low Cunning",
+  "note": "Source: Burning Wheel Gold Revised, p. 230",
+  "requirements": "He Whose Skin Is like Winter Night, Whose Mere Presence Causes Those Beneath Him to Shiver in Terror and Cower Beneath His Wicked Blade requires Follower, Astride the Beast or Head Taker",
+  "restrictions": "",
+  "order": 4
+ },
+ "sort": 400,
+ "_id": "fc216779cddb9459",
+ "_key": "!items!fc216779cddb9459",
+ "folder": "727a9cf321bfd6f5",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

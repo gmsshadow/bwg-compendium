@@ -1,0 +1,1141 @@
+{
+ "_id": "4d6a4088b8fbc126",
+ "name": "Human Seafaring Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Seafaring Setting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Son of a Gun",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Servitude, Soldier, Outcast",
+    "skillPoints": 0,
+    "generalPoints": 3,
+    "traitPoints": 2,
+    "skillList": "",
+    "traitList": "Sea Legs",
+    "note": "Source: Burning Wheel Gold Revised, p. 189",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "ea59b2d44fd5387c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.ea59b2d44fd5387c"
+  },
+  {
+   "name": "Boy",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 8,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "City, Servitude, Soldier, Outcast",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Sailor-wise, Ship-wise, Captain-wise",
+    "traitList": "Veneer of Obedience, Curses like a Sailor, Sprinter",
+    "note": "Source: Burning Wheel Gold Revised, p. 189",
+    "requirements": "If Boy is chosen, it must be the second lifepath taken and may only be taken once",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "608744df337cf1ec",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.608744df337cf1ec"
+  },
+  {
+   "name": "Galley Slave",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Servitude, Soldier, Outcast",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Slave Deck-wise, Taskmaster-wise, Sing, Seamanship, Knots",
+    "traitList": "Tasting the Lash, Eating Maggots, Following the Beat, Iron Stomach, Bottomless Stomach, Gnawing Hunger",
+    "note": "Source: Burning Wheel Gold Revised, p. 189",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "1a4a062aebc3ed65",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.1a4a062aebc3ed65"
+  },
+  {
+   "name": "Ratcatcher",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Servitude, City Dweller",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Trapper, Poisons, Ratiquette",
+    "traitList": "Bilge-Drinker, Rat-Speak, Feral",
+    "note": "Source: Burning Wheel Gold Revised, p. 189",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "8b7c793b766b4bc8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.8b7c793b766b4bc8"
+  },
+  {
+   "name": "Landsman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Servitude, Soldier, Outcast",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Seamanship, Knots, Brawling, Rope-wise",
+    "traitList": "Cursing, Aches and Pains",
+    "note": "Source: Burning Wheel Gold Revised, p. 189",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "3cf5102a2b180303",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.3cf5102a2b180303"
+  },
+  {
+   "name": "Drummer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 6,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Soldier, City, Villager, Outcast",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Drum, Sing, Drum Maker",
+    "traitList": "Incessant Tapping",
+    "note": "Source: Burning Wheel Gold Revised, p. 190",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "a3d3814a05f06929",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.a3d3814a05f06929"
+  },
+  {
+   "name": "Sailor",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 7,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Servitude, Soldier, City, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Seamanship, Rigging, Knots, Brawling, Sing, Sea-wise, Gambling",
+    "traitList": "Drunk",
+    "note": "Source: Burning Wheel Gold Revised, p. 190",
+    "requirements": "",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "fb760740470f7236",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.fb760740470f7236"
+  },
+  {
+   "name": "Crazy Old Sailor",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 8,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Servitude, Outcast",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Ugly Truth, Intimidation, Omen-wise",
+    "traitList": "Superstitious, Metal Plate in the Skull, He’s a Jonah‚ That One.",
+    "note": "Source: Burning Wheel Gold Revised, p. 190",
+    "requirements": "Sailor, Pirate or Mercenary Captain and that the character take this path some time in his 40s",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "7db02e6bc37ff535",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.7db02e6bc37ff535"
+  },
+  {
+   "name": "Purser",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 9,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Servitude, Soldier",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Accounting, Crew-wise, Supply-wise, Ship-wise",
+    "traitList": "Gnawing Hunger, Bitter",
+    "note": "Source: Burning Wheel Gold Revised, p. 190",
+    "requirements": "Clerk, Student or Sailor",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "5c4e8b4a6ba6159d",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.5c4e8b4a6ba6159d"
+  },
+  {
+   "name": "Signalman",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 8,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Servitude, Soldier",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Signaling, Observation, Cryptography",
+    "traitList": "Cryptic",
+    "note": "Source: Burning Wheel Gold Revised, p. 190",
+    "requirements": "",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "6356556457ad8f3c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.6356556457ad8f3c"
+  },
+  {
+   "name": "Pilot",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 8,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Soldier, City, Villager, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Pilot, Ship-wise, Observation, Shoal-wise",
+    "traitList": "Blisters, Light Sleeper, Bored, Paranoid About the Ship",
+    "note": "Source: Burning Wheel Gold Revised, p. 190",
+    "requirements": "Sailor, Pirate or Mercenary Captain",
+    "restrictions": "",
+    "order": 10
+   },
+   "sort": 1000,
+   "_id": "eebd6c90eba50a34",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.eebd6c90eba50a34"
+  },
+  {
+   "name": "Marine",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Soldier, City, Villager, Outcast",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Appropriate Weapons, Knots, Intimidation",
+    "traitList": "Bruiser, Sea Legs",
+    "note": "Source: Burning Wheel Gold Revised, p. 190",
+    "requirements": "Sailor, Pirate or Mercenary Captain",
+    "restrictions": "",
+    "order": 11
+   },
+   "sort": 1100,
+   "_id": "012e96f0b594a639",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.012e96f0b594a639"
+  },
+  {
+   "name": "Bosun",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 8,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Soldier, City, Villager, Outcast",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Intimidation, Brawling, Sailor-wise",
+    "traitList": "Mean, Obedient",
+    "note": "Source: Burning Wheel Gold Revised, p. 190",
+    "requirements": "Sailor, Pirate or Mercenary Captain",
+    "restrictions": "",
+    "order": 12
+   },
+   "sort": 1200,
+   "_id": "f630b4e2fcbb0371",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.f630b4e2fcbb0371"
+  },
+  {
+   "name": "Sailmaker",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 9,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Soldier, City, Villager, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Sewing, Weaving, Mending, Sail-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 190",
+    "requirements": "Sailor, Pirate, Seamstress, Sewing",
+    "restrictions": "",
+    "order": 13
+   },
+   "sort": 1300,
+   "_id": "19658c6527a125c6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.19658c6527a125c6"
+  },
+  {
+   "name": "Ship’s Doctor",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Soldier, City, Villager, Outcast",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Apothecary, Bloodletting, Surgery, Anatomy, Astrology, Falsehood, Tar-wise, Scurvy-wise",
+    "traitList": "Incomprehensible Diagnosis, Ugly Reputation",
+    "note": "Source: Burning Wheel Gold Revised, p. 191",
+    "requirements": "Doctor, Court Doctor, Physician, Barber or Student",
+    "restrictions": "",
+    "order": 14
+   },
+   "sort": 1400,
+   "_id": "8cbc4dc92e226854",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.8cbc4dc92e226854"
+  },
+  {
+   "name": "Ship’s Cook",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Soldier, City, Villager, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Cooking, Firebuilding, Sing, Falsehood, Mystery Meat-wise",
+    "traitList": "Crippled, Cookie, Maggot Connoisseur",
+    "note": "Source: Burning Wheel Gold Revised, p. 191",
+    "requirements": "Sailor or Pirate",
+    "restrictions": "",
+    "order": 15
+   },
+   "sort": 1500,
+   "_id": "4247b751df9d1742",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.4247b751df9d1742"
+  },
+  {
+   "name": "Ship’s Chaplain",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 15,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Villager, City, Religious, Soldier",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Oratory, Doctrine, Ship-wise",
+    "traitList": "World Weary, Burial at Sea, Secretly Worships the Black Sea God",
+    "note": "Source: Burning Wheel Gold Revised, p. 191",
+    "requirements": "Chaplain, Military Order, Temple Acolyte or Religious Acolyte",
+    "restrictions": "",
+    "order": 16
+   },
+   "sort": 1600,
+   "_id": "43d0eb0c7edea775",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.43d0eb0c7edea775"
+  },
+  {
+   "name": "Weather Witch",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 20,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Servitude, City, Villager, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Sea-wise, Summoning, Spirit Binding, Superstition-wise, Navigation, Astrology",
+    "traitList": "Weather Sense",
+    "note": "Source: Burning Wheel Gold Revised, p. 191",
+    "requirements": "Augur, Neophyte Sorcerer, Arcane Devotee or Rogue Wizard",
+    "restrictions": "",
+    "order": 17
+   },
+   "sort": 1700,
+   "_id": "51ff7b97858f2064",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.51ff7b97858f2064"
+  },
+  {
+   "name": "Navigator",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Soldier, City, Servitude, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Navigation, Sea-wise, Cartography, Astrology, Current-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 191",
+    "requirements": "Pilot, Mercenary Captain, Sailor or Student",
+    "restrictions": "",
+    "order": 18
+   },
+   "sort": 1800,
+   "_id": "19e1ae09df168448",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.19e1ae09df168448"
+  },
+  {
+   "name": "Carpenter’s Mate",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 8,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Soldier, Servitude, Villager, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Mending, Gambling, Wood-wise, Caulking-wise",
+    "traitList": "Cursing, Lifting Heavy Things, Bull’s-eye Spitter",
+    "note": "Source: Burning Wheel Gold Revised, p. 191",
+    "requirements": "",
+    "restrictions": "",
+    "order": 19
+   },
+   "sort": 1900,
+   "_id": "71669fdc7702adc2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.71669fdc7702adc2"
+  },
+  {
+   "name": "Ship’s Carpenter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 16,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Soldier, City, Servitude, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Carpentry, Shipwright, Boatwright, Rigging, Ship-wise",
+    "traitList": "I Know This Ship Like My Own Hands",
+    "note": "Source: Burning Wheel Gold Revised, p. 191",
+    "requirements": "Apprentice or Carpenter’s Mate",
+    "restrictions": "",
+    "order": 20
+   },
+   "sort": 2000,
+   "_id": "77b4a41990e2465b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.77b4a41990e2465b"
+  },
+  {
+   "name": "Artillerist’s Mate",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 8,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Soldier, City, Servitude, Outcast",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Mending, Carpentry, Artillerist",
+    "traitList": "Disturbingly Confident",
+    "note": "Source: Burning Wheel Gold Revised, p. 191",
+    "requirements": "",
+    "restrictions": "",
+    "order": 21
+   },
+   "sort": 2100,
+   "_id": "b56131f9aa3b7680",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.b56131f9aa3b7680"
+  },
+  {
+   "name": "Engineer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 25,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Soldier, City, Servitude, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Engineering, Munitions, Artillerist, Carpentry, Mending",
+    "traitList": "It Just Might Work!",
+    "note": "Source: Burning Wheel Gold Revised, p. 191",
+    "requirements": "Artillerist’s Mate, Student, Ship’s Carpenter, Engineer or Journeyman",
+    "restrictions": "",
+    "order": 22
+   },
+   "sort": 2200,
+   "_id": "19fb2c102eef1ae6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.19fb2c102eef1ae6"
+  },
+  {
+   "name": "Officer’s Mate",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 10,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Servitude, Outcast, Soldier, City",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Etiquette, Captain-wise, Seamanship",
+    "traitList": "Curses like a Sailor",
+    "note": "Source: Burning Wheel Gold Revised, p. 192",
+    "requirements": "Born Noble, Page or Son of a Gun",
+    "restrictions": "If chosen, Officer’s Mate must be the character’s second lifepath, or third if Page was taken as the second",
+    "order": 23
+   },
+   "sort": 2300,
+   "_id": "b447f25d95e1f7a9",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.b447f25d95e1f7a9"
+  },
+  {
+   "name": "Steward",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 20,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Soldier, City, Servitude, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Accounting, Ship Management, Haggling, Merchant-wise, Appraisal",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 192",
+    "requirements": "Purser, Merchant, Steward or Accountant",
+    "restrictions": "",
+    "order": 24
+   },
+   "sort": 2400,
+   "_id": "5958af5a8e1c722d",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.5958af5a8e1c722d"
+  },
+  {
+   "name": "First Mate",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 18,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Soldier, City, Servitude, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Intimidation, Command, Conspicuous, Seaman-wise, Sword",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 192",
+    "requirements": "Knight or any two sailor/seafaring lifepaths",
+    "restrictions": "",
+    "order": 25
+   },
+   "sort": 2500,
+   "_id": "3fffde20de1699f2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.3fffde20de1699f2"
+  },
+  {
+   "name": "Ship’s Captain",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 30,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Any except Noble",
+    "skillPoints": 6,
+    "generalPoints": 2,
+    "traitPoints": 2,
+    "skillList": "Command, Oratory, Ship-wise, Sea-wise",
+    "traitList": "Stern Demeanor",
+    "note": "Source: Burning Wheel Gold Revised, p. 192",
+    "requirements": "First Mate, Knight, Knight of a Holy Military Order or two Mercenary Captain lifepaths",
+    "restrictions": "",
+    "order": 26
+   },
+   "sort": 2600,
+   "_id": "5e43113887e18093",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.5e43113887e18093"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Seafaring Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!4d6a4088b8fbc126",
+ "folder": "f28c4fd7c6c9b063",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

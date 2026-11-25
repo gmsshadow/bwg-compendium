@@ -1,0 +1,41 @@
+{
+ "name": "Noble Prince",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 100,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Court, Soldier",
+  "skillPoints": 0,
+  "generalPoints": 4,
+  "traitPoints": 1,
+  "skillList": "",
+  "traitList": "Noblesse Oblige, Regal Bearing, Pompous, Sharp Dresser, Callous",
+  "note": "Source: Burning Wheel Gold Revised, p. 179",
+  "requirements": "Duke or Knight and the Your Grace trait",
+  "restrictions": "",
+  "order": 16
+ },
+ "sort": 1600,
+ "_id": "7b803bbc30845a00",
+ "_key": "!items!7b803bbc30845a00",
+ "folder": "c721f7253452389b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Elven Major Terrain Feature",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 150,
+  "isWorkshop": false,
+  "description": "The Elf and his family occupy a major terrain feature like a forest, bay or mountain. Elven Land counts as property when factoring Resources.\n\nSource: Burning Wheel Gold Revised, p. 159"
+ },
+ "_id": "5d27363b2ce74001",
+ "_key": "!items!5d27363b2ce74001",
+ "folder": "d0066ae36efb4213",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

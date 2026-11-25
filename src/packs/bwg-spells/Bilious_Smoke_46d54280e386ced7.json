@@ -1,0 +1,52 @@
+{
+ "name": "Bilious Smoke",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 24,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 5,
+  "upSpell": false,
+  "actions": 16,
+  "description": "Inky, sulphurous vapor pours forth from the wizard’s black mouth. The stinging smoke obscures vision for those trapped in it and looking through it (+5 Ob to Perception, +3 Ob to Observation). In addition, those within the cloud are stung and smothered. Every exchange spent in the cloud requires an Ob 3 Forte test. Margin of failure is temporarily subtracted from the victim’s Health. If Health reaches zero, the victim falls unconscious. Health is recovered at one die per exchange. Weapon Length: as Missile; Range: as Thrown.\n\nObstacle: 5. Actions: 16.\n\nOrigin: Personal | Area of Effect: 10s of Paces | Element: Fire/Air | Impetus: Create/Tax | Duration: Sustained | Resource Points: 24\n\nSource: Burning Wheel Gold Revised, p. 207",
+  "origin": "Personal",
+  "areaOfEffect": "10s of Paces",
+  "element": "Fire/Air",
+  "impetus": "Create/Tax",
+  "duration": "Sustained",
+  "rpCost": 24,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "as missile",
+  "optimalRange": 1,
+  "extremeRange": 1,
+  "maxRange": "30 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "46d54280e386ced7",
+ "_key": "!items!46d54280e386ced7",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

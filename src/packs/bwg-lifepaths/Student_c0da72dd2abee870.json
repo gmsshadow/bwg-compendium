@@ -1,0 +1,41 @@
+{
+ "name": "Student",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City, Noble, Religious",
+  "skillPoints": 9,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Write, Read, Rule of Law, Oratory, Doctrine, Etiquette",
+  "traitList": "Dangerous, Geometric",
+  "note": "Source: Burning Wheel Gold Revised, p. 180",
+  "requirements": "",
+  "restrictions": "",
+  "order": 9
+ },
+ "sort": 900,
+ "_id": "c0da72dd2abee870",
+ "_key": "!items!c0da72dd2abee870",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Keg o’ Nog",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 20,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "12 tall mugfuls of the fabled drink. Each mug is worth +1D to one Health test, but +1 Ob to social skill tests for the scene (only one bonus/penalty in effect no matter how much is quaffed by Dwarves). One sip is enough to get any non-Dwarf drunk.\n\nSource: Burning Wheel Gold Revised, p. 127"
+ },
+ "_id": "8e789cd996d72213",
+ "_key": "!items!8e789cd996d72213",
+ "folder": "f5ef0d169108ef27",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

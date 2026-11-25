@@ -1,0 +1,41 @@
+{
+ "name": "Drinker of the Dark",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 6,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Chattel",
+  "skillPoints": 3,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Doctrine of Night’s Blood",
+  "traitList": "Stark Madness, Blasphemer, Void Embrace",
+  "note": "Source: Burning Wheel Gold Revised, p. 232",
+  "requirements": "Slave to the Dark",
+  "restrictions": "",
+  "order": 1
+ },
+ "sort": 100,
+ "_id": "f6148a9baf136d40",
+ "_key": "!items!f6148a9baf136d40",
+ "folder": "06a160df6011fa80",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Dwarven Workshop",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 60,
+  "isWorkshop": true,
+  "description": "Necessary to completely utilize Dwarven Artificer and Dwarven craftsman skills—without one, only smaller projects (Ob 3 or lower). Required to build special Dwarven items (masks, shields, arms, mail). Includes portable skill tool kits. Counts as property when factoring Resources.\n\nSource: Burning Wheel Gold Revised, p. 127"
+ },
+ "_id": "5b3bdcda7ca2a6dc",
+ "_key": "!items!5b3bdcda7ca2a6dc",
+ "folder": "cea22185751de56d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

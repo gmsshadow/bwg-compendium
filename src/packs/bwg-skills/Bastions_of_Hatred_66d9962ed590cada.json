@@ -1,0 +1,49 @@
+{
+ "name": "Bastions of Hatred",
+ "type": "skill",
+ "img": "icons/tools/hand/chisel-steel-brown.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artisan",
+  "training": false,
+  "magical": true,
+  "description": "Channeling his mind-numbing rage, the Gate Forger is able to create terrifying edifices. This skill blends Architect and Engineer for the purpose of creating the looming tower fortresses in which the Orcs dwell. Also, using this skill, Orcs may corrupt or adopt caves or pre-existing towers and turn them into something more suitable to the horde’s taste. All tests are open-ended.\n\nObstacles: Trench, Ob 1. Battlefield fortifications, Ob 2. Palisade wall, Ob 3. Small tower, Ob 4. Convert Human structures to something more Orc-like, Ob 1. Convert Dwarven structures, Ob 2. Defile Elven structures, Ob 3.\n\nFoRKs: Siege Engineer\n\nSkill Type: Artisan. Tools: Workshop.\n\nRestrictions: Orcs only\n\nRoot: Hatred (§ magical skill: tests are open-ended)\n\nBook root includes Hatred, which the system cannot use as a root; Will is used instead.\n\nSource: Burning Wheel Gold Revised, p. 259",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Orcs only"
+ },
+ "_id": "66d9962ed590cada",
+ "_key": "!items!66d9962ed590cada",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

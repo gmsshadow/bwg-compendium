@@ -1,0 +1,41 @@
+{
+ "name": "Chaplain",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 18,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Soldier, City, Religious, Servitude",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Oratory, Doctrine, Riding, Armor Training, Mounted Combat Training, Shield Training, Appropriate Weapons",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 181",
+  "requirements": "Military Order or any priest lifepath",
+  "restrictions": "",
+  "order": 21
+ },
+ "sort": 2100,
+ "_id": "23b7e5c9768c3f90",
+ "_key": "!items!23b7e5c9768c3f90",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

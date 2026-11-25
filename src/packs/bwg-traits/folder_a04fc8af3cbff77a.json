@@ -1,0 +1,23 @@
+{
+ "_id": "a04fc8af3cbff77a",
+ "_key": "!folders!a04fc8af3cbff77a",
+ "name": "Lifepath Character Traits",
+ "type": "Item",
+ "folder": "3afb32a49bf458eb",
+ "sorting": "a",
+ "sort": 0,
+ "color": null,
+ "description": "",
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

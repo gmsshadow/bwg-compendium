@@ -1,0 +1,41 @@
+{
+ "name": "Barkeep",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Villager, Peasant",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Drink-wise, Drunk-wise, Persuasion",
+  "traitList": "Good Listener",
+  "note": "Source: Burning Wheel Gold Revised, p. 172",
+  "requirements": "",
+  "restrictions": "",
+  "order": 29
+ },
+ "sort": 2900,
+ "_id": "bbbcb4f60211ede5",
+ "_key": "!items!bbbcb4f60211ede5",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

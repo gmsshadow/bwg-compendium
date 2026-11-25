@@ -1,0 +1,1387 @@
+{
+ "_id": "7a0eccbf85715a92",
+ "name": "Human Outcast Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Outcast Subsetting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Urchin",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Peasant, Soldier, Servitude",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Inconspicuous, Streetwise, Sleight of Hand",
+    "traitList": "Addicted, The Story",
+    "note": "Source: Burning Wheel Gold Revised, p. 193",
+    "requirements": "",
+    "restrictions": "must be the second lifepath chosen and may only be taken once",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "8cde7836401b1095",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.8cde7836401b1095"
+  },
+  {
+   "name": "Apostate",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 6,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "City Dweller, Soldier, Religious",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Doctrine, Heretical Doctrine, Foreign Doctrine",
+    "traitList": "Apostate",
+    "note": "Source: Burning Wheel Gold Revised, p. 193",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "71720860f9300d19",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.71720860f9300d19"
+  },
+  {
+   "name": "Blackmailer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City Dweller, Soldier, Village, Sea",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Extortion, Forgery, Ugly Truth, Falsehood, Bribe-wise",
+    "traitList": "Cold Hearted",
+    "note": "Source: Burning Wheel Gold Revised, p. 193",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "8780f1afff5ac51a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.8780f1afff5ac51a"
+  },
+  {
+   "name": "Kidnapper",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City Dweller, Soldier, Village, Sea",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Interrogation, Torture, Intimidation, Ransom-wise",
+    "traitList": "Hard Hearted",
+    "note": "Source: Burning Wheel Gold Revised, p. 193",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "37654eb084bd56c9",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.37654eb084bd56c9"
+  },
+  {
+   "name": "Pillager",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 7,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Soldier, City, Servitude, Sea",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Scavenging, Foraging, Army-wise, Battle-wise, Haggling",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 193",
+    "requirements": "",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "9f165767245d3dca",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.9f165767245d3dca"
+  },
+  {
+   "name": "Vagrant",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "City Dweller, Soldier, Servitude",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Road-wise, Hostel-wise, Hospital-wise, Inconspicuous",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 193",
+    "requirements": "",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "f3eb474dc666ca5f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.f3eb474dc666ca5f"
+  },
+  {
+   "name": "Cripple",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Servitude, City Dweller",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Beggardry, Inconspicuous, Conspicuous",
+    "traitList": "Lame or Missing Limb",
+    "note": "Source: Burning Wheel Gold Revised, p. 193",
+    "requirements": "",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "14ee71b4703ed735",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.14ee71b4703ed735"
+  },
+  {
+   "name": "Poacher",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 5,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Servitude, Soldier, Villager",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Royal Parks-wise, Hunting, Stealthy, Tracking, Orienteering",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 194",
+    "requirements": "",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "99d93bbc5f2f3b4e",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.99d93bbc5f2f3b4e"
+  },
+  {
+   "name": "Deranged",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Servitude",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Inconspicuous, Quack-wise",
+    "traitList": "Sick, Phobia, Lunatic, Linguist, Possessed",
+    "note": "Source: Burning Wheel Gold Revised, p. 194",
+    "requirements": "",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "fe010cdc1c62b48b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.fe010cdc1c62b48b"
+  },
+  {
+   "name": "Outlaw",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 5,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Soldier, City, Village, Peasant, Sea",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Authority-wise, Inconspicuous, Conspicuous",
+    "traitList": "Outlaw",
+    "note": "Source: Burning Wheel Gold Revised, p. 194",
+    "requirements": "",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "a7fd03f901d0f625",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.a7fd03f901d0f625"
+  },
+  {
+   "name": "Fence",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 15,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Servitude, City Dweller, Soldier",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Appraisal, Haggling, Inconspicuous, Streetwise, Guard-wise",
+    "traitList": "Shrewd",
+    "note": "Source: Burning Wheel Gold Revised, p. 194",
+    "requirements": "Shopkeeper, Barkeep, Moneylender or an additional prior Outcast lifepath or criminal-type lifepath from City Dweller",
+    "restrictions": "",
+    "order": 10
+   },
+   "sort": 1000,
+   "_id": "d05b031fa0469e2c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.d05b031fa0469e2c"
+  },
+  {
+   "name": "Gravedigger",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Soldier, Servitude",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Ditch Digging, Philosophy, Grave-wise, Cemetery-wise, Bone-wise",
+    "traitList": "Bitter",
+    "note": "Source: Burning Wheel Gold Revised, p. 194",
+    "requirements": "",
+    "restrictions": "",
+    "order": 11
+   },
+   "sort": 1100,
+   "_id": "0e8c26fcdf0a9d94",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.0e8c26fcdf0a9d94"
+  },
+  {
+   "name": "Ratcatcher",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Rats",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Trapper, Poisons, Ratiquette",
+    "traitList": "Diseased, Rat-Speak",
+    "note": "Source: Burning Wheel Gold Revised, p. 194",
+    "requirements": "",
+    "restrictions": "",
+    "order": 12
+   },
+   "sort": 1200,
+   "_id": "f0cba21c02d82769",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.f0cba21c02d82769"
+  },
+  {
+   "name": "Beggar",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Peasant, Soldier, Village",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Inconspicuous, Conspicuous, Streetwise, Falsehood",
+    "traitList": "The Story",
+    "note": "Source: Burning Wheel Gold Revised, p. 194",
+    "requirements": "",
+    "restrictions": "",
+    "order": 13
+   },
+   "sort": 1300,
+   "_id": "f476ae2627f5b5d8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.f476ae2627f5b5d8"
+  },
+  {
+   "name": "Leper",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 3,
+    "statBoost": "physical",
+    "subtractStats": true,
+    "leads": "Servitude, Peasant",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Inconspicuous, Hospital-wise, Priest-wise, Pilgrim-wise",
+    "traitList": "Leprosy, Unbeliever, White-Gold Wielder",
+    "note": "Source: Burning Wheel Gold Revised, p. 194",
+    "requirements": "",
+    "restrictions": "",
+    "order": 14
+   },
+   "sort": 1400,
+   "_id": "5ebf39aded83a2a7",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.5ebf39aded83a2a7"
+  },
+  {
+   "name": "Prostitute",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 6,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Peasant, Villager, City, Servitude",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Conspicuous, Inconspicuous, Persuasion, Falsehood, Haggling, Soothing Platitudes",
+    "traitList": "Tolerant",
+    "note": "Source: Burning Wheel Gold Revised, p. 194",
+    "requirements": "",
+    "restrictions": "",
+    "order": 15
+   },
+   "sort": 1500,
+   "_id": "40c6b3888ff4a328",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.40c6b3888ff4a328"
+  },
+  {
+   "name": "Whoremonger",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 12,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Villager, City Dweller, Soldier",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Intimidation, Haggling, Prostitute-wise, City-wise, Guard-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 194",
+    "requirements": "Corrupt Sergeant, Venal Priest, Shopkeeper, Barkeep, Moneylender or an additional prior Outcast lifepath or criminal-type lifepath from City Dweller",
+    "restrictions": "",
+    "order": 16
+   },
+   "sort": 1600,
+   "_id": "68c46aefae08d9d9",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.68c46aefae08d9d9"
+  },
+  {
+   "name": "Itinerant Performer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Peasant, Villager, City, Soldier",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Cooking, Sewing, Acting, Sleight of Hand, Haggling, Mending, Disguise",
+    "traitList": "Odd",
+    "note": "Source: Burning Wheel Gold Revised, p. 195",
+    "requirements": "",
+    "restrictions": "",
+    "order": 17
+   },
+   "sort": 1700,
+   "_id": "fb396fb282ab7418",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.fb396fb282ab7418"
+  },
+  {
+   "name": "Insurrectionist",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "City Dweller, Soldier",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Philosophy, Rule of Law, Doctrine, Oratory, Arson",
+    "traitList": "Zealot",
+    "note": "Source: Burning Wheel Gold Revised, p. 195",
+    "requirements": "",
+    "restrictions": "",
+    "order": 18
+   },
+   "sort": 1800,
+   "_id": "f9ea03b4c3166326",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.f9ea03b4c3166326"
+  },
+  {
+   "name": "Cultist",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 8,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Peasant, Servitude, Soldier",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Cult Doctrine, Inconspicuous, Conspicuous, Falsehood, Persuasion",
+    "traitList": "Zealot, Rabble-Rouser, Speaker of the Secret Language",
+    "note": "Source: Burning Wheel Gold Revised, p. 195",
+    "requirements": "",
+    "restrictions": "",
+    "order": 19
+   },
+   "sort": 1900,
+   "_id": "a9c9afb894dbdbe9",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.a9c9afb894dbdbe9"
+  },
+  {
+   "name": "Poisoner",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 8,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "City Dweller, Villager, Court",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Poisons, Cooking, Inconspicuous, Disguise",
+    "traitList": "Off-Kilter",
+    "note": "Source: Burning Wheel Gold Revised, p. 195",
+    "requirements": "",
+    "restrictions": "",
+    "order": 20
+   },
+   "sort": 2000,
+   "_id": "490e90ffd0a2c932",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.490e90ffd0a2c932"
+  },
+  {
+   "name": "Thug",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 7,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Soldier, City Dweller",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Streetwise, Murder-wise, Guard-wise, Brawling",
+    "traitList": "Cold Blooded, Jaded",
+    "note": "Source: Burning Wheel Gold Revised, p. 195",
+    "requirements": "",
+    "restrictions": "",
+    "order": 21
+   },
+   "sort": 2100,
+   "_id": "8993897d471c976f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.8993897d471c976f"
+  },
+  {
+   "name": "Desperate Killer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Soldier, City Dweller, Servitude",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Appropriate Weapons, Inconspicuous, Assassination-wise",
+    "traitList": "Desperate, Murderous, Cold Hearted, Hard Hearted",
+    "note": "Source: Burning Wheel Gold Revised, p. 195",
+    "requirements": "",
+    "restrictions": "",
+    "order": 22
+   },
+   "sort": 2200,
+   "_id": "0141c407c219fff1",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.0141c407c219fff1"
+  },
+  {
+   "name": "Bandit",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 7,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Soldier, Peasant",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Appropriate Weapons, Intimidation, Stealthy, Caravan-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 195",
+    "requirements": "",
+    "restrictions": "",
+    "order": 23
+   },
+   "sort": 2300,
+   "_id": "8677b20189083eb4",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.8677b20189083eb4"
+  },
+  {
+   "name": "Pirate",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Seafaring, City, Villager",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Pirate Cove-wise, Rigging, Knots, Knives, Sea-wise, Map-wise",
+    "traitList": "Problem with Authority, Scurvy, Maimed, Crippled, Lame",
+    "note": "Source: Burning Wheel Gold Revised, p. 195",
+    "requirements": "",
+    "restrictions": "",
+    "order": 24
+   },
+   "sort": 2400,
+   "_id": "cc9d8e425e871918",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.cc9d8e425e871918"
+  },
+  {
+   "name": "Smuggler",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Soldier, City Dweller, Villager",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Persuasion, Falsehood, Appraisal, Law-wise, Forgery, Stealthy, Inconspicuous",
+    "traitList": "Paranoid",
+    "note": "Source: Burning Wheel Gold Revised, p. 195",
+    "requirements": "",
+    "restrictions": "",
+    "order": 25
+   },
+   "sort": 2500,
+   "_id": "969e816dc1a14b29",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.969e816dc1a14b29"
+  },
+  {
+   "name": "Freebooter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Soldier, Peasant, Servitude",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Intimidation, Appropriate Weapons, Countryside-wise, Fortress-wise, Mercenary Company-wise, Foreign Languages, War-wise, Loot-wise, Extortion-wise",
+    "traitList": "Cold Blooded, Merciless",
+    "note": "Source: Burning Wheel Gold Revised, p. 195",
+    "requirements": "Bandit, Smuggler, Squire, Knight, City Guard, Village Tough, Marine Sailor or any Professional Soldier lifepath",
+    "restrictions": "",
+    "order": 26
+   },
+   "sort": 2600,
+   "_id": "03099dbd633b774b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.03099dbd633b774b"
+  },
+  {
+   "name": "Strider",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 6,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Soldier, Peasant, Servitude",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Forest-wise, Orienteering, Foraging, Tracking, Firebuilding, Riding, Stealthy, Appropriate Weapons",
+    "traitList": "Loner",
+    "note": "Source: Burning Wheel Gold Revised, p. 196",
+    "requirements": "Born Noble, Hunter, Trapper, Huntsman or Scout",
+    "restrictions": "",
+    "order": 27
+   },
+   "sort": 2700,
+   "_id": "7caee0fa4eaf07ca",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.7caee0fa4eaf07ca"
+  },
+  {
+   "name": "Mad Summoner",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 20,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Peasant, City Dweller, Seafaring",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Summoning, Enchanting, Demonology, Empyrealia",
+    "traitList": "Mad, Fear of Cheese, Fear of Wet Noises, Alarming",
+    "note": "Source: Burning Wheel Gold Revised, p. 196",
+    "requirements": "Cultist, Augur, Neophyte Sorcerer or Arcane Devotee",
+    "restrictions": "",
+    "order": 28
+   },
+   "sort": 2800,
+   "_id": "749b85e52f4c6e98",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.749b85e52f4c6e98"
+  },
+  {
+   "name": "Rogue Wizard",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 24,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Servitude, Seafarer, Religious",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Sorcery, Inconspicuous, Graveyard-wise, Astrology, Bloodletting, Ugly Truth, Apocalypse-wise, Enchanting, Alchemy",
+    "traitList": "Spooky, Aura of Fear, Obscure Aura",
+    "note": "Source: Burning Wheel Gold Revised, p. 196",
+    "requirements": "Cultist, Augur, Neophyte Sorcerer or Arcane Devotee",
+    "restrictions": "",
+    "order": 29
+   },
+   "sort": 2900,
+   "_id": "4482e78a84627866",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.4482e78a84627866"
+  },
+  {
+   "name": "Crazy Witch",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 6,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Peasant, Servitude, Village",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Folklore, Herbalism, Poisons, Summoning, Profanity-wise",
+    "traitList": "A Little Crazy, Gifted, Mark of the Beast",
+    "note": "Source: Burning Wheel Gold Revised, p. 196",
+    "requirements": "Weather Witch, Young Lady, Augur or Midwife",
+    "restrictions": "",
+    "order": 30
+   },
+   "sort": 3000,
+   "_id": "8d62ac04df61bc5b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.8d62ac04df61bc5b"
+  },
+  {
+   "name": "Heretic Priest",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 6,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Peasant, Servitude",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Heretical Doctrine, Oratory, Apostate-wise, Demonology, Summoner-wise, Cultist-wise",
+    "traitList": "Lunatic, Overbearing Loony, Faith in Dead Gods",
+    "note": "Source: Burning Wheel Gold Revised, p. 196",
+    "requirements": "Acolyte, Cultist, Apostate, Theologian, Venal Priest, Interpreter or Archivist",
+    "restrictions": "",
+    "order": 31
+   },
+   "sort": 3100,
+   "_id": "5e63d33f7118726a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.5e63d33f7118726a"
+  },
+  {
+   "name": "Thinker",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 5,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Any",
+    "skillPoints": 6,
+    "generalPoints": 1,
+    "traitPoints": 2,
+    "skillList": "Philosophy, Strategy, Strategy Games, Calligraphy, History, Painting",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 196",
+    "requirements": "",
+    "restrictions": "Thinker can only be taken if the character’s starting age will be 36 years or older",
+    "order": 32
+   },
+   "sort": 3200,
+   "_id": "4608bd8842be10cd",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.4608bd8842be10cd"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Outcast Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!7a0eccbf85715a92",
+ "folder": "f28c4fd7c6c9b063",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

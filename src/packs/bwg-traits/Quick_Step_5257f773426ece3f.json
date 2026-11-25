@@ -1,0 +1,50 @@
+{
+ "name": "Quick-Step",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "call-on",
+  "text": "Wordbearers must hustle from the Miller to the Brewer, from the Quartermaster to the Khirurgeon, and from the Trader to the Longbeard. This trait acts as a call-on for any Speed test where the Dwarf is hurrying or hustling (including running to escape or maneuvering for a positioning test).\n\nType: C-O (call-on trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Dwarven lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 342",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Dwarven lifepath trait"
+ },
+ "_id": "5257f773426ece3f",
+ "_key": "!items!5257f773426ece3f",
+ "folder": "15c52fef37dbb065",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

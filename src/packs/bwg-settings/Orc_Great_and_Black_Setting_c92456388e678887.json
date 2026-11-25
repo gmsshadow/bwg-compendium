@@ -1,0 +1,444 @@
+{
+ "_id": "c92456388e678887",
+ "name": "Orc Great and Black Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Great and Black Setting lifepaths for Orc characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Great",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Servant of the Dark",
+    "skillPoints": 0,
+    "generalPoints": 3,
+    "traitPoints": 2,
+    "skillList": "",
+    "traitList": "Born to Rule Them All, Enemy of the Sun",
+    "note": "Source: Burning Wheel Gold Revised, p. 229",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "5e1cebd3b6cbca9d",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c92456388e678887.5e1cebd3b6cbca9d"
+  },
+  {
+   "name": "The Rites",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 3,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Legion, Servant of the Dark",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Brawling, Intimidation, Torture",
+    "traitList": "Life Is Death, Sprinter",
+    "note": "Source: Burning Wheel Gold Revised, p. 229",
+    "requirements": "",
+    "restrictions": "The Rites may only be taken once and it must be the character’s second lifepath",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "5d9a630a0315eb6c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c92456388e678887.5d9a630a0315eb6c"
+  },
+  {
+   "name": "Servant of the Gate",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 7,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Legion, Chattel",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Soothing Platitudes, Ditch Digging, Hauling",
+    "traitList": "Humble Before My Master, Back-Breaking Labor",
+    "note": "Source: Burning Wheel Gold Revised, p. 229",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "9b323716417fb032",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c92456388e678887.9b323716417fb032"
+  },
+  {
+   "name": "Follower",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 9,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Legion, Chattel",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Armor Training, Axe, Bow, Knives, Mace, Riding, Shield Training, Clan-wise",
+    "traitList": "Silent Hatred",
+    "note": "Source: Burning Wheel Gold Revised, p. 230",
+    "requirements": "He Who Walks in the Named’s Shadow requires The Rites or Astride the Beast",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "7a978f554e85a533",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c92456388e678887.7a978f554e85a533"
+  },
+  {
+   "name": "Black Destroyer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 12,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Mounted Combat Training, Great Wolf Husbandry, Riding, Axe, Spear",
+    "traitList": "Intense Hatred, Low Cunning",
+    "note": "Source: Burning Wheel Gold Revised, p. 230",
+    "requirements": "He Whose Skin Is like Winter Night, Whose Mere Presence Causes Those Beneath Him to Shiver in Terror and Cower Beneath His Wicked Blade requires Follower, Astride the Beast or Head Taker",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "d8d37a1955c4c11a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c92456388e678887.d8d37a1955c4c11a"
+  },
+  {
+   "name": "Named",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 25,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Command, Brutal Intimidation, Torture",
+    "traitList": "Savage Consequences",
+    "note": "Source: Burning Wheel Gold Revised, p. 230",
+    "requirements": "He Who is Mighty and Earned the Ancient Right to Be Named requires Black Destroyer, Troll Lord or Head Taker",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "7cff0addd32555eb",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c92456388e678887.7cff0addd32555eb"
+  },
+  {
+   "name": "Siege Master",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 30,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Siege Engineer, Artillerist, Mending",
+    "traitList": "The Bigger They Come…, Brutish Efficiency",
+    "note": "Source: Burning Wheel Gold Revised, p. 230",
+    "requirements": "Servant of the Gate",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "ba526e65859ed1e0",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c92456388e678887.ba526e65859ed1e0"
+  },
+  {
+   "name": "Gate Forger",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 30,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Mason, Bastions of Hatred, Mining",
+    "traitList": "Rare Talent",
+    "note": "Source: Burning Wheel Gold Revised, p. 230",
+    "requirements": "Siege Master",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "e35a7edf3ec67350",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c92456388e678887.e35a7edf3ec67350"
+  },
+  {
+   "name": "Whisperer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 40,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Servant of the Dark",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Poisonous Platitudes, Falsehood, Persuasion, Clan-wise, Ambition-wise",
+    "traitList": "Forked Tongue, Poisonous Ambition",
+    "note": "Source: Burning Wheel Gold Revised, p. 230",
+    "requirements": "Slave to the Dark, Whipmaster, Gate Forger or Bears the Lash",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "355748689028e4e5",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c92456388e678887.355748689028e4e5"
+  },
+  {
+   "name": "Great One",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 60,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 1,
+    "traitPoints": 2,
+    "skillList": "Command, Strategy, Name Ritual",
+    "traitList": "Brooding, Flights of Murderous Fancy, Unrelenting Hatred",
+    "note": "Stat: +2 M, P (two points to each pool); the system only records a single point for each.\n\nSource: Burning Wheel Gold Revised, p. 230",
+    "requirements": "Named and the Born to Rule Them All trait",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "57328ff4d17732ae",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c92456388e678887.57328ff4d17732ae"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Great and Black Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!c92456388e678887",
+ "folder": "5ece4b6701524c4b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

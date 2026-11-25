@@ -1,0 +1,41 @@
+{
+ "name": "Priest",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 18,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Villager, Outcast, Soldier, Court",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Oratory, Suasion, Ritual, Symbology, Religious History, Sacrament-wise, Bishop-wise",
+  "traitList": "Vested",
+  "note": "Source: Burning Wheel Gold Revised, p. 185",
+  "requirements": "Temple Acolyte or Religious Acolyte",
+  "restrictions": "",
+  "order": 13
+ },
+ "sort": 1300,
+ "_id": "5697236741583bf6",
+ "_key": "!items!5697236741583bf6",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

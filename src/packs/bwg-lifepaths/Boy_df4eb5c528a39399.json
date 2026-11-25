@@ -1,0 +1,41 @@
+{
+ "name": "Boy",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 8,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "City, Servitude, Soldier, Outcast",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sailor-wise, Ship-wise, Captain-wise",
+  "traitList": "Veneer of Obedience, Curses like a Sailor, Sprinter",
+  "note": "Source: Burning Wheel Gold Revised, p. 189",
+  "requirements": "If Boy is chosen, it must be the second lifepath taken and may only be taken once",
+  "restrictions": "",
+  "order": 1
+ },
+ "sort": 100,
+ "_id": "df4eb5c528a39399",
+ "_key": "!items!df4eb5c528a39399",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

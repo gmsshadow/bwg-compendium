@@ -1,0 +1,49 @@
+{
+ "name": "Jewelcraft",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": true,
+  "description": "Jewelcrafters manufacture delicate brooches, subtle rings, fine tiaras and magnificent crowns. Using Antiphon Union, many of these objects can be enchanted: a crown with the Paean of Deeds, a mask with the Ballad of Rage or a tiara imbued with the Strain of Far Sight.\n\nObstacles: Brooch, Ob 1. Ring, Ob 2. Neck lace, Ob 3. Tiara, Ob 4. Crown, Ob 5.\n\nFoRKs: Smithcraft, Gemcraft\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRestrictions: Elves only\n\nRoot: Will/Agility (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 279",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "f401b71e1c7a4b42",
+ "_key": "!items!f401b71e1c7a4b42",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

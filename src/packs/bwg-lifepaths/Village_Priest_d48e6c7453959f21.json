@@ -1,0 +1,41 @@
+{
+ "name": "Village Priest",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Any except Noble and Noble Court",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Oratory, Suasion, Symbology",
+  "traitList": "Vested, Devout, Faithful",
+  "note": "Source: Burning Wheel Gold Revised, p. 168",
+  "requirements": "Acolyte",
+  "restrictions": "",
+  "order": 28
+ },
+ "sort": 2800,
+ "_id": "d48e6c7453959f21",
+ "_key": "!items!d48e6c7453959f21",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

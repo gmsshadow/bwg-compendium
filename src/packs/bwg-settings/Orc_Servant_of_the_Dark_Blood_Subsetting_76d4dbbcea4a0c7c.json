@@ -1,0 +1,444 @@
+{
+ "_id": "76d4dbbcea4a0c7c",
+ "name": "Orc Servant of the Dark Blood Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Servant of the Dark Blood Subsetting lifepaths for Orc characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Slave to the Dark",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Servant-wise",
+    "traitList": "Fearful Respect of the Servants, Naked Hatred",
+    "note": "Source: Burning Wheel Gold Revised, p. 232",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "4e8711693ed86984",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!76d4dbbcea4a0c7c.4e8711693ed86984"
+  },
+  {
+   "name": "Drinker of the Dark",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 6,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Doctrine of Night’s Blood",
+    "traitList": "Stark Madness, Blasphemer, Void Embrace",
+    "note": "Source: Burning Wheel Gold Revised, p. 232",
+    "requirements": "Slave to the Dark",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "13568b725bfa57f7",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!76d4dbbcea4a0c7c.13568b725bfa57f7"
+  },
+  {
+   "name": "Bloodletter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 6,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Chattel",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Rituals of Blood, Torture, Intimidation, Knives",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 233",
+    "requirements": "Drinker of the Dark",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "33a3514a830be3c8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!76d4dbbcea4a0c7c.33a3514a830be3c8"
+  },
+  {
+   "name": "Knower of Secrets",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 7,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Chattel, Legion",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Rituals of Night, Vile Poisoner, Foraging",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 233",
+    "requirements": "Drinker of the Dark",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "e0dd3017eccc9cc3",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!76d4dbbcea4a0c7c.e0dd3017eccc9cc3"
+  },
+  {
+   "name": "Master of Eight",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 8,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Chattel, Legion",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Spider Husbandry, Riding, Mounted Combat Training, Web-wise, Climbing",
+    "traitList": "Batshit, Affinity for Spiders",
+    "note": "Source: Burning Wheel Gold Revised, p. 233",
+    "requirements": "Knower of Secrets",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "0f5338673b8a4b85",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!76d4dbbcea4a0c7c.0f5338673b8a4b85"
+  },
+  {
+   "name": "Master of Blood",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 8,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Rituals-wise, Animal Husbandry, Orc-wise, Elf-wise, Wolf-wise",
+    "traitList": "Where There’s a Whip‚ There’s a Way",
+    "note": "Source: Burning Wheel Gold Revised, p. 233",
+    "requirements": "Bloodletter",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "aa1356dd614c4342",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!76d4dbbcea4a0c7c.aa1356dd614c4342"
+  },
+  {
+   "name": "Master of Darkness",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 8,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Cave-wise, Tunnel-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 233",
+    "requirements": "Knower of Secrets",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "2822702561eeaf2f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!76d4dbbcea4a0c7c.2822702561eeaf2f"
+  },
+  {
+   "name": "Dark Summoner",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 12,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 3,
+    "generalPoints": 1,
+    "traitPoints": 1,
+    "skillList": "Darkness-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 233",
+    "requirements": "Master of Darkness",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "08b2c352d52078f3",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!76d4dbbcea4a0c7c.08b2c352d52078f3"
+  },
+  {
+   "name": "Blood Summoner",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 12,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 3,
+    "generalPoints": 1,
+    "traitPoints": 1,
+    "skillList": "Poison-wise, Bat-wise, Troll-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 233",
+    "requirements": "Master of Blood",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "2bc789ab8963368f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!76d4dbbcea4a0c7c.2bc789ab8963368f"
+  },
+  {
+   "name": "Servant",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 50,
+    "resources": 30,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 2,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "Great and Black-wise, Name Ritual",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 233",
+    "requirements": "the Born to Rule Them All trait and Dark Summoner or Blood Summoner",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "5bf4af7317f34fab",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!76d4dbbcea4a0c7c.5bf4af7317f34fab"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Servant of the Dark Blood Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!76d4dbbcea4a0c7c",
+ "folder": "5ece4b6701524c4b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Storm of Lightning",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 24,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 6,
+  "upSpell": true,
+  "actions": 20,
+  "description": "The sky chokes into a purple rage and voices its displeasure with searing thunderbolts. Damaging effect spell: Power = Will +5, VA 6. Die of Fate to determine IMS. Weapon Length: as Missile; Range: as Heavy Crossbow +1D.\n\nObstacle: 6^. Actions: 20.\n\nOrigin: Sight | Area of Effect: 10s of Paces | Element: White/Air | Impetus: Destroy | Duration: Instantaneous | Resource Points: 24\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 220",
+  "origin": "Sight",
+  "areaOfEffect": "10s of Paces",
+  "element": "White/Air",
+  "impetus": "Destroy",
+  "duration": "Instantaneous",
+  "rpCost": 24,
+  "isWeapon": true,
+  "halfWill": false,
+  "willDamageBonus": 5,
+  "va": 6,
+  "weaponLength": "as missile",
+  "optimalRange": 1,
+  "extremeRange": 5,
+  "maxRange": "350 paces (as Heavy Crossbow +1D)",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "6c4f1b09f05aadba",
+ "_key": "!items!6c4f1b09f05aadba",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

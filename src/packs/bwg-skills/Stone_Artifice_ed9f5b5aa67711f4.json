@@ -1,0 +1,49 @@
+{
+ "name": "Stone Artifice",
+ "type": "skill",
+ "img": "icons/tools/hand/chisel-steel-brown.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "power",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artisan",
+  "training": false,
+  "magical": true,
+  "description": "Stone Artifice teaches the proud craft of shaping stone into sturdy material suitable for building. Dwarves are so skilled at cutting and dressing stone that the material becomes more durable and harder to destroy. The artificer may add +2 Ob to any test to build a structure. This adds a +1 Ob penalty to any test to alter or destroy this structure.\n\nObstacles: Cutting blocks of soft stone or making bricks, Ob 1. Cutting gravestones or making mortar, Ob 2. Cutting marble, granite or basalt, Ob 3. Making a slate floor, a simple wall or an obelisk, Ob 2. Arch or reinforced wall, Ob 3. Small stone house or bridge, Ob 4. Large, reinforced wall, Ob 5. Tower, Ob 6. Donjon, Ob 7.\n\nFoRKs: Hallmaster, Earth-wise\n\nSkill Type: Artisan. Tools: Workshop.\n\nRestrictions: Dwarves only\n\nRoot: Will/Pow (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 301",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "ed9f5b5aa67711f4",
+ "_key": "!items!ed9f5b5aa67711f4",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

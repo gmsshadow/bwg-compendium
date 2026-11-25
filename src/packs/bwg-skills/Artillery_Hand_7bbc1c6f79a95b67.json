@@ -1,0 +1,49 @@
+{
+ "name": "Artillery Hand",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "Dwarven artillerists and engineers are always in short supply. Therefore, when the Host is on the march, Arbalesters are assigned to crew the army’s war engines. This skill allows the character to assemble and dismantle artillery pieces, as well as fire direct-fire type mechanisms like siege crossbows or ballistae. Effectively operating indirect-fire artillery requires the Artillerist skill.\n\nFoRKs: Artillerist\n\nSkill Type: Special. Tools: Yes.\n\nRestrictions: Dwarves only in character burning\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 257",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only in character burning"
+ },
+ "_id": "7bbc1c6f79a95b67",
+ "_key": "!items!7bbc1c6f79a95b67",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

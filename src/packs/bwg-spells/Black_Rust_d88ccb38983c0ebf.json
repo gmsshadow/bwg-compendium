@@ -1,0 +1,52 @@
+{
+ "name": "Black Rust",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 8,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 2,
+  "upSpell": true,
+  "actions": 3,
+  "description": "At the touch of the Servant’s black hand, the Black Rust turns flesh into a charred, twisted ruin. The Black Rust ruptures skin and bone. Damaging Effect: Power exponent of caster plus 1 per extra success; straight damage, no DoF or IMS. Caster need only touch his victim (Ob 1 Agility test or Strike). Armor does not work against this spell. The caster may poison his hand as he would a blade and use the touch of the Black Rust to deliver the venom. Weapon length: as Knife. Range dice: as Melee.\n\nObstacle: 2^. Actions: 3.\n\nOrigin: Personal | Area of Effect: Caster or Single Target | Element: Anima | Impetus: Destroy | Duration: Sustained | Resource Points: 8\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 248",
+  "origin": "Personal",
+  "areaOfEffect": "Caster or Single Target",
+  "element": "Anima",
+  "impetus": "Destroy",
+  "duration": "Sustained",
+  "rpCost": 8,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "7 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "d88ccb38983c0ebf",
+ "_key": "!items!d88ccb38983c0ebf",
+ "folder": "479dd2144396431a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

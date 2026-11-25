@@ -1,0 +1,41 @@
+{
+ "name": "Tyro Artificer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 21,
+  "resources": 20,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Guilder, Host, Outcast",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Black Metal Artifice, Mending, Dwarven Art-wise",
+  "traitList": "Determined",
+  "note": "Source: Burning Wheel Gold Revised, p. 112",
+  "requirements": "Artificer’s Ardent or Journeyman",
+  "restrictions": "",
+  "order": 2
+ },
+ "sort": 200,
+ "_id": "eba74323e5f428aa",
+ "_key": "!items!eba74323e5f428aa",
+ "folder": "5e3044c64f85d4dc",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Elven Bread",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 10,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Nourishing and restorative: grants +3D to all Health tests taken for the day after it is eaten. One portion suffices as a meal for a day. 10 rps buys six portions.\n\nSource: Burning Wheel Gold Revised, p. 158"
+ },
+ "_id": "c23e8127e351d2d9",
+ "_key": "!items!c23e8127e351d2d9",
+ "folder": "b5a4e8f60fe6d52f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

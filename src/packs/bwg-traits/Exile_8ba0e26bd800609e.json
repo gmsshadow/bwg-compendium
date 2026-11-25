@@ -1,0 +1,50 @@
+{
+ "name": "Exile",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 2,
+  "name": "",
+  "traittype": "die",
+  "text": "This Elf has committed some crime that has nearly earned him the title of enemy among his people. Rather than dishonor him with such a stigma, his people instead sent him into exile. Ultimately, though, it is a death sentence. The Exile cannot journey West. Should his Grief overtake him, he’ll have no succor and will simply waste away. This trait adds +1D to starting Grief, and a 1D infamous reputation among all Elves.\n\nType: Dt (die trait). Cost: 2 pts.\n\nRestrictions: Elves only, special trait\n\nSource: Burning Wheel Gold Revised, p. 324",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Elves only, special trait"
+ },
+ "_id": "8ba0e26bd800609e",
+ "_key": "!items!8ba0e26bd800609e",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

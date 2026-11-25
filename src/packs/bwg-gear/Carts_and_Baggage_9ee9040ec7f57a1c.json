@@ -1,0 +1,30 @@
+{
+ "name": "Carts and Baggage",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 15,
+  "isWorkshop": false,
+  "description": "Trade and salable goods for Guilder Dwarves. Counts as property when factoring Resources; may be purchased multiple times for multiple bonuses.\n\nSource: Burning Wheel Gold Revised, p. 127"
+ },
+ "_id": "9ee9040ec7f57a1c",
+ "_key": "!items!9ee9040ec7f57a1c",
+ "folder": "cea22185751de56d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

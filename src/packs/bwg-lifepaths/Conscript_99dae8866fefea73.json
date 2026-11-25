@@ -1,0 +1,41 @@
+{
+ "name": "Conscript",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 1,
+  "resources": 4,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Servitude, Soldier, Outcast",
+  "skillPoints": 2,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Foraging, Battle-wise, Rumor-wise",
+  "traitList": "Flee from Battle",
+  "note": "Source: Burning Wheel Gold Revised, p. 163",
+  "requirements": "",
+  "restrictions": "",
+  "order": 5
+ },
+ "sort": 500,
+ "_id": "99dae8866fefea73",
+ "_key": "!items!99dae8866fefea73",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

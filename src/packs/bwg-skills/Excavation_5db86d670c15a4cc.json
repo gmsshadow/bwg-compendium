@@ -1,0 +1,49 @@
+{
+ "name": "Excavation",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "power",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": true,
+  "description": "For Dwarves, delving into the earth and quickly removing rock, dirt and stone is a special art.\n\nObstacles: Trench or pit, Ob 1. Small foundation, Ob 2. Shallow mine shaft or hurried tunnel, Ob 3. Moderate foundation, Ob 4. Mine shaft, Ob 5. Canal or moat, Ob 6. Large foundation or tunnel, Ob 7. Deep mine shaft, Ob 8. Massive foundation or tunnel, Ob 8. Clearing a rockfall or cave-in, Ob 4. Clearing a bad collapse, Ob 7.\n\nFoRKs: Mining, Prospecting, Engineering\n\nSkill Type: Craftsman. Tools: Yes.\n\nRestrictions: Dwarves only\n\nRoot: Per/Pow (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 271",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "5db86d670c15a4cc",
+ "_key": "!items!5db86d670c15a4cc",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

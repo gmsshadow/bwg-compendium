@@ -1,0 +1,41 @@
+{
+ "name": "Banner Bearer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 10,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Clansman, Outcast, Guilder",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Conspicuous, Banner-wise, Intimidation",
+  "traitList": "Resigned to Death, Obsessive",
+  "note": "Source: Burning Wheel Gold Revised, p. 114",
+  "requirements": "",
+  "restrictions": "",
+  "order": 2
+ },
+ "sort": 200,
+ "_id": "df442bbf77894a4e",
+ "_key": "!items!df442bbf77894a4e",
+ "folder": "a9ab655cebcfeb1d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Demonology",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "Demonology is the study of the history and behavior of demons and devils. This is an academic skill that does not necessarily involve the act of summoning.\n\nObstacles: Identifying spirit activity as opposed to magic or a prank, Ob 1. Identifying type of spirit (named, unnamed, lesser, greater, dead, deity, etc.): Ob 2. Identifying type of summoning (circle, blood calling, binding, unwanted, etc.): Ob 3. Identifying a spirit’s price, Ob 4. Identifying a spirit’s powers or abilities, Ob 5.\n\nFoRKs: Ancient and Obscure History, Summoning, Doctrine\n\nSkill Type: Academic. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 267",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "b10a5cb45c53cd4a",
+ "_key": "!items!b10a5cb45c53cd4a",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

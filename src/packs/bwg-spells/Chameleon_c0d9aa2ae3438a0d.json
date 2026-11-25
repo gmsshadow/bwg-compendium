@@ -1,0 +1,52 @@
+{
+ "name": "Chameleon",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 8,
+  "description": "Skin and clothing swirl and fade as the sorcerer blends seamlessly into his surroundings. Meeting the obstacle grants +1D to the Stealthy skill. Each success over the obstacle adds another +1D to the Stealthy skill. In addition, so long as one success over the obstacle is generated, the chameleoned character cannot be casually spotted. Another character must explicitly state that he is looking about (either via expressed action or by an Instinct or trait). Only then can his Perception/Observation be tested to spot the one so concealed. If cast successfully, the character counts as having one additional level of cover in Range and Cover. In Fight, other characters suffer a +1 Ob disadvantage to hit him with any missile or thrown weapon.\n\nObstacle: 4^. Actions: 8.\n\nOrigin: Personal | Area of Effect: Single Target or Caster | Element: Heaven | Impetus: Control | Duration: Sustained | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 209",
+  "origin": "Personal",
+  "areaOfEffect": "Single Target or Caster",
+  "element": "Heaven",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "c0d9aa2ae3438a0d",
+ "_key": "!items!c0d9aa2ae3438a0d",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

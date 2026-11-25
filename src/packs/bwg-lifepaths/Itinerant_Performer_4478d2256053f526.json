@@ -1,0 +1,41 @@
+{
+ "name": "Itinerant Performer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 5,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Peasant, Villager, City, Soldier",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Cooking, Sewing, Acting, Sleight of Hand, Haggling, Mending, Disguise",
+  "traitList": "Odd",
+  "note": "Source: Burning Wheel Gold Revised, p. 195",
+  "requirements": "",
+  "restrictions": "",
+  "order": 17
+ },
+ "sort": 1700,
+ "_id": "4478d2256053f526",
+ "_key": "!items!4478d2256053f526",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

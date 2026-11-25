@@ -1,0 +1,41 @@
+{
+ "name": "Court Chef",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 14,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Outcast, City Dweller",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Cooking, Sing, Herbalism, Falsehood",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 181",
+  "requirements": "",
+  "restrictions": "",
+  "order": 15
+ },
+ "sort": 1500,
+ "_id": "ad44e2dc6fe81804",
+ "_key": "!items!ad44e2dc6fe81804",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

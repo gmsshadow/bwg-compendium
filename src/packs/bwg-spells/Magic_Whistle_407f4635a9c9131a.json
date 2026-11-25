@@ -1,0 +1,52 @@
+{
+ "name": "Magic Whistle",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 2,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 1,
+  "upSpell": false,
+  "actions": 2,
+  "description": "A miniature firework launches from the magician’s outstretched finger and corkscrews crazily off into the air. Its journey ends with a magical whistle. Multicolor sparks drift to the ground. Weapon Length: as Sword; Range: as Pistol.\n\nObstacle: 1. Actions: 2.\n\nOrigin: Personal | Area of Effect: Paces | Element: Arneson/Gygax | Impetus: Evocation | Duration: Instantaneous | Resource Points: 2\n\nSource: Burning Wheel Gold Revised, p. 216",
+  "origin": "Personal",
+  "areaOfEffect": "Paces",
+  "element": "Arneson/Gygax",
+  "impetus": "Evocation",
+  "duration": "Instantaneous",
+  "rpCost": 2,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "long",
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "10 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "407f4635a9c9131a",
+ "_key": "!items!407f4635a9c9131a",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

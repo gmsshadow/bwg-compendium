@@ -1,0 +1,49 @@
+{
+ "name": "Voice of Thunder",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "forte",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": true,
+  "description": "The Etharch’s voice booms across the battlefield as he issues commands to his Sword Singers and vassals. This skill acts like Command. Also, all soldiers who have a trait, Instinct or Belief about the commander can hear his voice when he issues commands—no matter how far away they are on the battlefield.\n\nSkill Type: Social. Tools: No.\n\nRestrictions: Elves only\n\nRoot: Will/Forte (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 307",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "624ecc61202e43be",
+ "_key": "!items!624ecc61202e43be",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

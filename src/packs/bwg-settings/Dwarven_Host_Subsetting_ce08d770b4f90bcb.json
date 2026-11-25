@@ -1,0 +1,526 @@
+{
+ "_id": "ce08d770b4f90bcb",
+ "name": "Dwarven Host Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Dwarven Host Subsetting lifepaths for Dwarven characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Foot Soldier",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 6,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Clansman, Outcast, Guilder",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Foraging, Brawling, Hammer, Armor Training, Shield Training, Cadence-wise",
+    "traitList": "Salt of the Earth",
+    "note": "Source: Burning Wheel Gold Revised, p. 114",
+    "requirements": "",
+    "restrictions": "",
+    "order": 0
+   },
+   "sort": 0,
+   "_id": "5824a72e6f8f9ea2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.5824a72e6f8f9ea2"
+  },
+  {
+   "name": "Arbalester",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 12,
+    "resources": 12,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Clansman, Outcast, Guilder",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Crossbow, Mending, Fletcher, Artillery Hand, Windage-wise",
+    "traitList": "Squinty",
+    "note": "Source: Burning Wheel Gold Revised, p. 114",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1
+   },
+   "sort": 100,
+   "_id": "335cb452525c1412",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.335cb452525c1412"
+  },
+  {
+   "name": "Banner Bearer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Clansman, Outcast, Guilder",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Conspicuous, Banner-wise, Intimidation",
+    "traitList": "Resigned to Death, Obsessive",
+    "note": "Source: Burning Wheel Gold Revised, p. 114",
+    "requirements": "",
+    "restrictions": "",
+    "order": 2
+   },
+   "sort": 200,
+   "_id": "42b7dd8a175e2338",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.42b7dd8a175e2338"
+  },
+  {
+   "name": "Horncaller",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 9,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Clansman, Outcast, Guilder",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Links, Conspicuous, Cadence-wise, Suicidal Bravery-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 114",
+    "requirements": "",
+    "restrictions": "",
+    "order": 3
+   },
+   "sort": 300,
+   "_id": "17cb83a7fcf7b7d6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.17cb83a7fcf7b7d6"
+  },
+  {
+   "name": "Axe Bearer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 15,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Guilder, Outcast, Noble",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Foraging, Axe, Conspicuous, Intimidation, Armor Training, Shield Training, Formation Fighting, Throwing",
+    "traitList": "Swaggering",
+    "note": "Source: Burning Wheel Gold Revised, p. 114",
+    "requirements": "Noble Ardent, Graybeard or Banner Bearer",
+    "restrictions": "",
+    "order": 4
+   },
+   "sort": 400,
+   "_id": "ea7f867b49d32e3e",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.ea7f867b49d32e3e"
+  },
+  {
+   "name": "Graybeard",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 20,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Guilder, Outcast, Noble",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Intimidation, Field Dressing, Command, Campaign-wise",
+    "traitList": "Chuffing, Oddly Likeable",
+    "note": "Source: Burning Wheel Gold Revised, p. 115",
+    "requirements": "Axe Bearer, Longbeard or three Host lifepaths",
+    "restrictions": "",
+    "order": 5
+   },
+   "sort": 500,
+   "_id": "4feeaa49e83848e8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.4feeaa49e83848e8"
+  },
+  {
+   "name": "Khirurgeon",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 25,
+    "resources": 25,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Guilder, Outcast, Noble",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Khirurgy, Soothing Platitudes, Cooking, Infection-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 115",
+    "requirements": "Abecedart, Seneschal or Graybeard",
+    "restrictions": "",
+    "order": 6
+   },
+   "sort": 600,
+   "_id": "bc7e89d6e03900e3",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.bc7e89d6e03900e3"
+  },
+  {
+   "name": "Quartermaster",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 50,
+    "resources": 35,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Guilder, Outcast, Noble",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Logistics, Accounting, Strategy, Supply-wise, Host-wise",
+    "traitList": "No Nonsense",
+    "note": "Source: Burning Wheel Gold Revised, p. 115",
+    "requirements": "Seneschal, Treasurer, Trader or Graybeard",
+    "restrictions": "",
+    "order": 7
+   },
+   "sort": 700,
+   "_id": "76056777944259f3",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.76056777944259f3"
+  },
+  {
+   "name": "Captain",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 55,
+    "resources": 40,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Guilder, Outcast, Noble",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Command, Conspicuous, Formation Fighting, Tactics, Cartography, Graybeard-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Gold Revised, p. 115",
+    "requirements": "Prince or Graybeard",
+    "restrictions": "",
+    "order": 8
+   },
+   "sort": 800,
+   "_id": "8010965556f26e0e",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.8010965556f26e0e"
+  },
+  {
+   "name": "Artillerist",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 55,
+    "resources": 45,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Artificer, Outcast, Noble",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Artillerist, Mending, Carpentry, Structural Weakness-wise",
+    "traitList": "Complaining",
+    "note": "Source: Burning Wheel Gold Revised, p. 115",
+    "requirements": "Mask Bearer, Craftsman, Foreman or three Arbalester lifepaths",
+    "restrictions": "",
+    "order": 9
+   },
+   "sort": 900,
+   "_id": "70131fc458ea3db2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.70131fc458ea3db2"
+  },
+  {
+   "name": "Engineer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 60,
+    "resources": 50,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Artificer, Noble",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Jargon, War Engineer, Scavenging, Leverage-wise",
+    "traitList": "Estimation",
+    "note": "Source: Burning Wheel Gold Revised, p. 115",
+    "requirements": "Artillerist or Mask Bearer",
+    "restrictions": "",
+    "order": 10
+   },
+   "sort": 1000,
+   "_id": "d8167d7324677a6c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.d8167d7324677a6c"
+  },
+  {
+   "name": "Warden",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 75,
+    "resources": 65,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Outcast, Noble",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Conspicuous, Oratory, Observation, Strategy, Etiquette, Champion-wise",
+    "traitList": "Chuntering, Hard as Nails",
+    "note": "Source: Burning Wheel Gold Revised, p. 115",
+    "requirements": "Prince, Captain or High Captain",
+    "restrictions": "",
+    "order": 11
+   },
+   "sort": 1100,
+   "_id": "05da0c1fd95595e7",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ce08d770b4f90bcb.05da0c1fd95595e7"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Dwarven Host Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!ce08d770b4f90bcb",
+ "folder": "02a8bf34a0b4974f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

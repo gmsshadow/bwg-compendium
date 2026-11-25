@@ -1,0 +1,41 @@
+{
+ "name": "Courtier",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Outcast, Noble",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Etiquette, Observation, Persuasion, Seduction, Inconspicuous, Court Gossip-wise, Noble-wise",
+  "traitList": "Rapier Wit",
+  "note": "Source: Burning Wheel Gold Revised, p. 181",
+  "requirements": "",
+  "restrictions": "",
+  "order": 19
+ },
+ "sort": 1900,
+ "_id": "f7adcfcc1de919fa",
+ "_key": "!items!f7adcfcc1de919fa",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

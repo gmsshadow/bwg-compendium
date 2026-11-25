@@ -1,0 +1,49 @@
+{
+ "name": "Voice of Ages",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "Announcing his age and wisdom, the Elven lord lends weight and authority to his opinion, such that none can deny him. This effect lasts through the duration of one Duel of Wits.\n\nObstacle: See Description. +1D to Oratory or Persuasion, Ob 2. +1D Will (applied to Body of Argument or as an obstacle vs social skills), Ob 3. +3D to Oratory or Persuasion, Ob 4. Open-ended social skill dice, Ob 5. +5D to Oratory, Ob 6.\n\nActions: 4 x obstacle of the spell\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 152",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "5b9e0eef4055c3e1",
+ "_key": "!items!5b9e0eef4055c3e1",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

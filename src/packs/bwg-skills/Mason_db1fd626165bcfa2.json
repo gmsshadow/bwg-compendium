@@ -1,0 +1,49 @@
+{
+ "name": "Mason",
+ "type": "skill",
+ "img": "icons/tools/hand/chisel-steel-brown.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artisan",
+  "training": false,
+  "magical": false,
+  "description": "A mason knows how to choose suitable stone, carve it and use it to build structures. Also, masons are skilled in mixing mortar and setting foundations.\n\nObstacles: Cutting blocks of soft stone or making bricks, Ob 1. Cutting gravestones or making mortar, Ob 2. Cutting marble, granite or basalt, Ob 3. Making a slate floor, a simple wall or an obelisk, Ob 2. Arch or reinforced wall, Ob 3. Small stone house or bridge, Ob 4. Large, reinforced wall, Ob 5. Tower, Ob 6. Donjon, Ob 7.\n\nFoRKs: Engineer, Architect\n\nSkill Type: Artisan. Tools: Workshop.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 282",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "db1fd626165bcfa2",
+ "_key": "!items!db1fd626165bcfa2",
+ "folder": "af77da1f275833cf",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Workshop",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 20,
+  "isWorkshop": true,
+  "description": "A big toolkit for artisan and craftsman skill tests that require more than simple tools, with an appropriate room/building/tower. Allows more than one character to help on a skill test. Counts as property when factoring Resources.\n\nSource: Burning Wheel Gold Revised, p. 204"
+ },
+ "_id": "a0ddba9b6bdb7abd",
+ "_key": "!items!a0ddba9b6bdb7abd",
+ "folder": "af605cb952773f03",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

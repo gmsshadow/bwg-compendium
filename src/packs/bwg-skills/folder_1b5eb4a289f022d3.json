@@ -1,0 +1,23 @@
+{
+ "_id": "1b5eb4a289f022d3",
+ "_key": "!folders!1b5eb4a289f022d3",
+ "name": "Forester",
+ "type": "Item",
+ "folder": null,
+ "sorting": "a",
+ "sort": 0,
+ "color": null,
+ "description": "",
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

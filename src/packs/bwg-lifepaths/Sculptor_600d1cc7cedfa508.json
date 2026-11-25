@@ -1,0 +1,41 @@
+{
+ "name": "Sculptor",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 8,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Outcast, Peasant, Noble Court",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Sculpture, Mason, Blacksmith, Carpentry, Stone-wise",
+  "traitList": "Passionate",
+  "note": "Source: Burning Wheel Gold Revised, p. 171",
+  "requirements": "",
+  "restrictions": "",
+  "order": 21
+ },
+ "sort": 2100,
+ "_id": "600d1cc7cedfa508",
+ "_key": "!items!600d1cc7cedfa508",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

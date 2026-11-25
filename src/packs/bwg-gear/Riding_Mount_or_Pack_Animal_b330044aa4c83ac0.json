@@ -1,0 +1,31 @@
+{
+ "name": "Riding Mount or Pack Animal",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "A horse, pony, camel and so forth. Basic riding horse: Pe B3(4), Wi B2, Ag B2, Sp B6, Po B6, Fo B6. He B4, St B3, Re B4, MW B12. Hesitation 8. Skills: Rider Training, Foraging B2. Traits: Gelded, Docile, Obedient, Proud, plus Long-Limbed, Keen Hearing, Hooved, Ungulate. Stride 12.\n\nSource: Burning Wheel Gold Revised, p. 203"
+ },
+ "_id": "b330044aa4c83ac0",
+ "_key": "!items!b330044aa4c83ac0",
+ "folder": "e2d9989687336b5d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

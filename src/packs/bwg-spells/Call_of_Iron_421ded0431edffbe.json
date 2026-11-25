@@ -1,0 +1,52 @@
+{
+ "name": "Call of Iron",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 6,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": false,
+  "actions": 2,
+  "description": "With a flick of the wizard’s wrist, the knife is wrenched from the assassin’s hand. Using Call of Iron, a wizard can grab objects made of metal—a sword, for example—with his mystical might and call them to him. Pulling something is a Power test, where Power = Will. For example, wresting a metal weapon from an enemy’s hand would be a versus test: your Will versus the enemy’s Power. Weapon Length: as Missile; Range: as Thrown.\n\nObstacle: 3. Actions: 2.\n\nOrigin: Double Presence | Area of Effect: Single Target | Element: Earth | Impetus: Control | Duration: Instantaneous | Resource Points: 6\n\nSource: Burning Wheel Gold Revised, p. 208",
+  "origin": "Double Presence",
+  "areaOfEffect": "Single Target",
+  "element": "Earth",
+  "impetus": "Control",
+  "duration": "Instantaneous",
+  "rpCost": 6,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "as missile",
+  "optimalRange": 1,
+  "extremeRange": 1,
+  "maxRange": "30 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "421ded0431edffbe",
+ "_key": "!items!421ded0431edffbe",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

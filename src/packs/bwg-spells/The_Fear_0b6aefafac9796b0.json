@@ -1,0 +1,52 @@
+{
+ "name": "The Fear",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 6,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": false,
+  "actions": 1,
+  "description": "Fear radiates from him like chill from a winter night. This charm causes all in the sorcerer’s presence—who are looking at him—to make Steel tests. Weapon Length: as Polearm; Range: as Pistol. Only works once per target.\n\nObstacle: 3. Actions: 1.\n\nOrigin: Personal | Area of Effect: Presence | Element: Anima | Impetus: Influence | Duration: Instantaneous | Resource Points: 6\n\nSource: Burning Wheel Gold Revised, p. 212",
+  "origin": "Personal",
+  "areaOfEffect": "Presence",
+  "element": "Anima",
+  "impetus": "Influence",
+  "duration": "Instantaneous",
+  "rpCost": 6,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "longer",
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "10 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "0b6aefafac9796b0",
+ "_key": "!items!0b6aefafac9796b0",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

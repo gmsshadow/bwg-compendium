@@ -1,0 +1,41 @@
+{
+ "name": "Field Laborer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 5,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Soldier",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Farming, Mending, Sing, Hauling, Driving, Fall Grass-wise",
+  "traitList": "Hope",
+  "note": "Source: Burning Wheel Gold Revised, p. 192",
+  "requirements": "",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "b34ee6f93e164785",
+ "_key": "!items!b34ee6f93e164785",
+ "folder": "bb345c51a81baaa6",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

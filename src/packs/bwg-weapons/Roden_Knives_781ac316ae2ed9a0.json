@@ -1,0 +1,45 @@
+{
+ "name": "Roden Knives",
+ "type": "ranged weapon",
+ "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
+ "system": {
+  "pointCost": 3,
+  "quality": "run of the mill",
+  "hasGunpowder": false,
+  "usePower": true,
+  "powerBonus": 1,
+  "incidental": 0,
+  "incidentalRoll": 2,
+  "mark": 0,
+  "markRoll": 4,
+  "superb": 0,
+  "vsArmor": 1,
+  "optimalRange": 1,
+  "extremeRange": 1,
+  "maxRange": "30 paces",
+  "handedness": "one",
+  "description": "Thrown weapon: Weapon Power is added to the thrower’s Power to factor IMS, then the DoF determines the damage. Fight actions: Throw or Snapshot. Throwing weapons like knives or javelins cost 3 rps. Roden only.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 558",
+  "skillId": "",
+  "shade": "B"
+ },
+ "_id": "781ac316ae2ed9a0",
+ "_key": "!items!781ac316ae2ed9a0",
+ "folder": "167f39c40a514ba5",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

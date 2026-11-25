@@ -1,0 +1,41 @@
+{
+ "name": "Squire",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 14,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Soldier, City, Serv., Outcast, Noble",
+  "skillPoints": 9,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sword, Armor Training, Shield Training, Lance, Brawling, Mounted Combat Training, Etiquette",
+  "traitList": "Pragmatic, Tough, Determined",
+  "note": "Source: Burning Wheel Gold Revised, p. 181",
+  "requirements": "Corrupt Sergeant, Village Sergeant, Sergeant, Veteran, Page or Man-at-Arms",
+  "restrictions": "",
+  "order": 16
+ },
+ "sort": 1600,
+ "_id": "dee66b6c43aa45ef",
+ "_key": "!items!dee66b6c43aa45ef",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

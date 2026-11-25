@@ -1,0 +1,49 @@
+{
+ "name": "Butchery",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": false,
+  "description": "Butchers know how to kill, cut and carve an animal or carcass into edible portions.\n\nObstacles: Fowl, small game: Ob 1. Pig, lamb, goat, Ob 2. Cow, deer, horse, Ob 3. Exotic animal, Ob 4. Monster, Ob 5.\n\nSkill Type: Peasant. Tools: Yes.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 262",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "43bbe4ec340c2dbc",
+ "_key": "!items!43bbe4ec340c2dbc",
+ "folder": "26f1d2df964749c9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

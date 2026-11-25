@@ -1,0 +1,50 @@
+{
+ "name": "Your Eminence",
+ "type": "trait",
+ "img": "icons/sundries/gaming/rune-card.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "character",
+  "text": "Viscounts, Counts and Countesses are referred to as “Your Eminence.” You need not have ever been a count yourself, but it is your birthright to be addressed as one. A character must have this trait in order to take the Count or Viscount lifepaths.\n\nType: Char (character trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Human lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 354",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Human lifepath trait"
+ },
+ "_id": "88525c6551b97fa4",
+ "_key": "!items!88525c6551b97fa4",
+ "folder": "3afb32a49bf458eb",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

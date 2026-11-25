@@ -1,0 +1,41 @@
+{
+ "name": "Cavalryman",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 9,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Villager, Servitude, Noble Court",
+  "skillPoints": 10,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Riding, Mounted Combat Training, Armor Training, Shield Training, Appropriate Weapons, Horse-wise, Haggling",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 188",
+  "requirements": "a prior lifepath having to do with horses—Knight, Squire, Groom, Master of Horses, etc",
+  "restrictions": "",
+  "order": 12
+ },
+ "sort": 1200,
+ "_id": "96d72e98c094eaaa",
+ "_key": "!items!96d72e98c094eaaa",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Mending",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": false,
+  "description": "Mending is a useful skill. It encompasses the knowledge of the form and function of everything on the farm. This skill allows characters to fix, repair or darn just about anything.\n\nObstacles: Mending fences or socks, Ob 1. Making household repairs, Ob 2. Mending stuff broken on the road or at work, Ob 3. Mending something badly broken, Ob 4. Mending Armor: Lightly damaged (1D), Ob 1. Moderately damaged (2D), Ob 2. Badly damaged (3D), Ob 4. Shredded (4D), Ob 6. Ruined (5D), Ob 8.\n\nFoRKs: Any appropriate craftsman skill could suffice.\n\nSkill Type: Peasant. Tools: Yes. Expendable.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 283",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "16cf00e55b486f70",
+ "_key": "!items!16cf00e55b486f70",
+ "folder": "26f1d2df964749c9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}
