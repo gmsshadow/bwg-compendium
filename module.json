@@ -2,7 +2,7 @@
   "id": "bwg-compendium",
   "title": "Burning Wheel Gold Revised — Compendium",
   "description": "Compendium packs for the community Burning Wheel system, built from Burning Wheel Gold Revised: skills, Elven spell songs, traits, melee/ranged/thrown weapons, armor and shields, possessions and property, sorcery and Rituals of Night spells, lifepaths and lifepath settings for the character burner. For personal use with your own copy of the book.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "authors": [
     {
       "name": "GMsShadow"
@@ -131,6 +131,18 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "name": "bwg-verdorben-adventure",
+      "label": "BWG Twilight in the Duchy Verdorben",
+      "path": "packs/bwg-verdorben-adventure",
+      "type": "Adventure",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -147,12 +159,13 @@
         "bwg-spells",
         "bwg-lifepaths",
         "bwg-settings",
-        "bwg-verdorben-characters"
+        "bwg-verdorben-characters",
+        "bwg-verdorben-adventure"
       ]
     }
   ],
   "flags": {},
   "url": "https://github.com/GMsShadow/bwg-compendium",
   "manifest": "https://github.com/GMsShadow/bwg-compendium/releases/latest/download/module.json",
-  "download": "https://github.com/GMsShadow/bwg-compendium/releases/download/v1.1.0/bwg-compendium.zip"
+  "download": "https://github.com/GMsShadow/bwg-compendium/releases/download/v1.2.0/bwg-compendium.zip"
 }

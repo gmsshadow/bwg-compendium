@@ -3,7 +3,7 @@
  "_key": "!actors!c55d572b19bda3f9",
  "name": "Theoden",
  "type": "character",
- "img": "icons/svg/mystery-man.svg",
+ "img": "modules/bwg-compendium/assets/verdorben/portrait-priest.webp",
  "system": {
   "will": {
    "exp": 5,
@@ -1184,7 +1184,10 @@
  "prototypeToken": {
   "name": "Theoden",
   "actorLink": true,
-  "disposition": 1
+  "disposition": 1,
+  "texture": {
+   "src": "modules/bwg-compendium/assets/verdorben/portrait-priest.webp"
+  }
  },
  "_stats": {
   "coreVersion": "14.365",

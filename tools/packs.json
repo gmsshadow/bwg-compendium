@@ -61,5 +61,12 @@
   "type": "Actor",
   "count": 6,
   "folders": 1
+ },
+ {
+  "name": "bwg-verdorben-adventure",
+  "label": "BWG Twilight in the Duchy Verdorben",
+  "type": "Adventure",
+  "count": 1,
+  "folders": 0
  }
 ]

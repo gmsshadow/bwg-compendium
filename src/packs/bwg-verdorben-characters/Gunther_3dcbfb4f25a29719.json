@@ -3,7 +3,7 @@
  "_key": "!actors!3dcbfb4f25a29719",
  "name": "Gunther",
  "type": "character",
- "img": "icons/svg/mystery-man.svg",
+ "img": "modules/bwg-compendium/assets/verdorben/portrait-knight.webp",
  "system": {
   "will": {
    "exp": 4,
@@ -1866,7 +1866,10 @@
  "prototypeToken": {
   "name": "Gunther",
   "actorLink": true,
-  "disposition": 1
+  "disposition": 1,
+  "texture": {
+   "src": "modules/bwg-compendium/assets/verdorben/portrait-knight.webp"
+  }
  },
  "_stats": {
   "coreVersion": "14.365",

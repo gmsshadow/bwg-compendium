@@ -21,7 +21,7 @@ jobs:
              --arg d "https://github.com/${GITHUB_REPOSITORY}/releases/download/${GITHUB_REF_NAME}/bwg-compendium.zip" \
              '.version=$v | .download=$d' module.json > module.tmp && mv module.tmp module.json
       - name: Zip module (module.json at zip root)
-        run: zip -r bwg-compendium.zip module.json README.md packs
+        run: zip -r bwg-compendium.zip module.json README.md packs assets
       - uses: softprops/action-gh-release@v2
         with:
           files: |

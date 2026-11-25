@@ -3,7 +3,7 @@
  "_key": "!actors!c9ed59329bcc635d",
  "name": "Daniel Wigel",
  "type": "character",
- "img": "icons/svg/mystery-man.svg",
+ "img": "modules/bwg-compendium/assets/verdorben/portrait-hunter.webp",
  "system": {
   "will": {
    "exp": 4,
@@ -1401,7 +1401,10 @@
  "prototypeToken": {
   "name": "Daniel Wigel",
   "actorLink": true,
-  "disposition": 1
+  "disposition": 1,
+  "texture": {
+   "src": "modules/bwg-compendium/assets/verdorben/portrait-hunter.webp"
+  }
  },
  "_stats": {
   "coreVersion": "14.365",

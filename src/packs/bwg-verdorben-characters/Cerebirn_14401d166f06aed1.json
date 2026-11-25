@@ -3,7 +3,7 @@
  "_key": "!actors!14401d166f06aed1",
  "name": "Cerebirn",
  "type": "character",
- "img": "icons/svg/mystery-man.svg",
+ "img": "modules/bwg-compendium/assets/verdorben/portrait-elf.webp",
  "system": {
   "will": {
    "exp": 5,
@@ -120,7 +120,7 @@
    "routine": 0
   },
   "custom1": {
-   "exp": 0,
+   "exp": 4,
    "difficult": 0,
    "challenging": 0,
    "shade": "B",
@@ -269,7 +269,7 @@
   "homeland": "",
   "features": "",
   "practiceLog": "",
-  "miscNotes1": "The character sheet does not record a Grief exponent; set Grief (Custom Attribute 1) before play.",
+  "miscNotes1": "Grief B4: the sheet records no Grief exponent, so it was set from Starting Grief (pp. 152-153): +1 Protector lifepath (Bowyer), +1 knows no Lamentations, +1 Steel over 5, +1 Perception over 5.",
   "miscNotes2": "",
   "miscNotes3": ""
  },
@@ -1596,7 +1596,10 @@
  "prototypeToken": {
   "name": "Cerebirn",
   "actorLink": true,
-  "disposition": 1
+  "disposition": 1,
+  "texture": {
+   "src": "modules/bwg-compendium/assets/verdorben/portrait-elf.webp"
+  }
  },
  "_stats": {
   "coreVersion": "14.365",

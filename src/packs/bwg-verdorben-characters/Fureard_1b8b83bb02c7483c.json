@@ -3,7 +3,7 @@
  "_key": "!actors!1b8b83bb02c7483c",
  "name": "Fureard",
  "type": "character",
- "img": "icons/svg/mystery-man.svg",
+ "img": "modules/bwg-compendium/assets/verdorben/portrait-dwarf.webp",
  "system": {
   "will": {
    "exp": 4,
@@ -2299,7 +2299,10 @@
  "prototypeToken": {
   "name": "Fureard",
   "actorLink": true,
-  "disposition": 1
+  "disposition": 1,
+  "texture": {
+   "src": "modules/bwg-compendium/assets/verdorben/portrait-dwarf.webp"
+  }
  },
  "_stats": {
   "coreVersion": "14.365",

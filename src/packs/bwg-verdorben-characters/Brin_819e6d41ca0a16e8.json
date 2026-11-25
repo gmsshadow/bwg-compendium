@@ -3,7 +3,7 @@
  "_key": "!actors!819e6d41ca0a16e8",
  "name": "Brin",
  "type": "character",
- "img": "icons/svg/mystery-man.svg",
+ "img": "modules/bwg-compendium/assets/verdorben/portrait-wizard.webp",
  "system": {
   "will": {
    "exp": 5,
@@ -1664,7 +1664,10 @@
  "prototypeToken": {
   "name": "Brin",
   "actorLink": true,
-  "disposition": 1
+  "disposition": 1,
+  "texture": {
+   "src": "modules/bwg-compendium/assets/verdorben/portrait-wizard.webp"
+  }
  },
  "_stats": {
   "coreVersion": "14.365",
