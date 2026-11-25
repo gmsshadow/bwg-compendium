@@ -1,0 +1,58 @@
+[
+ {
+  "name": "bwg-skills",
+  "label": "BWG Skills",
+  "type": "Item",
+  "count": 642,
+  "folders": 21
+ },
+ {
+  "name": "bwg-traits",
+  "label": "BWG Traits",
+  "type": "Item",
+  "count": 720,
+  "folders": 4
+ },
+ {
+  "name": "bwg-weapons",
+  "label": "BWG Weapons",
+  "type": "Item",
+  "count": 62,
+  "folders": 13
+ },
+ {
+  "name": "bwg-armor",
+  "label": "BWG Armor and Shields",
+  "type": "Item",
+  "count": 79,
+  "folders": 10
+ },
+ {
+  "name": "bwg-gear",
+  "label": "BWG Possessions and Property",
+  "type": "Item",
+  "count": 98,
+  "folders": 11
+ },
+ {
+  "name": "bwg-spells",
+  "label": "BWG Spells",
+  "type": "Item",
+  "count": 77,
+  "folders": 2
+ },
+ {
+  "name": "bwg-lifepaths",
+  "label": "BWG Lifepaths",
+  "type": "Item",
+  "count": 456,
+  "folders": 28
+ },
+ {
+  "name": "bwg-settings",
+  "label": "BWG Lifepath Settings",
+  "type": "Actor",
+  "count": 24,
+  "folders": 4
+ }
+]

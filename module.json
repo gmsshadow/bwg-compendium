@@ -1,0 +1,145 @@
+{
+  "id": "bwg-compendium",
+  "title": "Burning Wheel Gold Revised — Compendium",
+  "description": "Compendium packs for the community Burning Wheel system, built from Burning Wheel Gold Revised: skills, Elven spell songs, traits, melee/ranged/thrown weapons, armor and shields, possessions and property, sorcery and Rituals of Night spells, lifepaths and lifepath settings for the character burner. For personal use with your own copy of the book.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "GMsShadow"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "burningwheel",
+        "type": "system",
+        "compatibility": {
+          "minimum": "1.7.0"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "bwg-skills",
+      "label": "BWG Skills",
+      "path": "packs/bwg-skills",
+      "type": "Item",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "bwg-traits",
+      "label": "BWG Traits",
+      "path": "packs/bwg-traits",
+      "type": "Item",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "bwg-weapons",
+      "label": "BWG Weapons",
+      "path": "packs/bwg-weapons",
+      "type": "Item",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "bwg-armor",
+      "label": "BWG Armor and Shields",
+      "path": "packs/bwg-armor",
+      "type": "Item",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "bwg-gear",
+      "label": "BWG Possessions and Property",
+      "path": "packs/bwg-gear",
+      "type": "Item",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "bwg-spells",
+      "label": "BWG Spells",
+      "path": "packs/bwg-spells",
+      "type": "Item",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "bwg-lifepaths",
+      "label": "BWG Lifepaths",
+      "path": "packs/bwg-lifepaths",
+      "type": "Item",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "bwg-settings",
+      "label": "BWG Lifepath Settings",
+      "path": "packs/bwg-settings",
+      "type": "Actor",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Burning Wheel Gold Revised",
+      "sorting": "m",
+      "color": "#5a1a10",
+      "packs": [
+        "bwg-skills",
+        "bwg-traits",
+        "bwg-weapons",
+        "bwg-armor",
+        "bwg-gear",
+        "bwg-spells",
+        "bwg-lifepaths",
+        "bwg-settings"
+      ]
+    }
+  ],
+  "flags": {},
+  "url": "https://github.com/GMsShadow/bwg-compendium",
+  "manifest": "https://github.com/GMsShadow/bwg-compendium/releases/latest/download/module.json",
+  "download": "https://github.com/GMsShadow/bwg-compendium/releases/download/v1.0.0/bwg-compendium.zip"
+}
