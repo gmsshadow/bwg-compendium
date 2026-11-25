@@ -22,13 +22,24 @@ jobs:
              '.version=$v | .download=$d' module.json > module.tmp && mv module.tmp module.json
       - name: Zip module (module.json at zip root)
         run: zip -r bwg-compendium.zip module.json README.md packs assets
+      - name: Keep build files on the run page
+        uses: actions/upload-artifact@v4
+        with:
+          name: bwg-compendium-${{ github.ref_name }}
+          path: |
+            module.json
+            bwg-compendium.zip
       - name: Publish release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
-            gh release upload "$GITHUB_REF_NAME" module.json bwg-compendium.zip --clobber
-          else
-            gh release create "$GITHUB_REF_NAME" module.json bwg-compendium.zip \
-              --title "$GITHUB_REF_NAME" --generate-notes --latest
-          fi
+          for i in 1 2 3; do
+            if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
+              gh release upload "$GITHUB_REF_NAME" module.json bwg-compendium.zip --clobber && exit 0
+            else
+              gh release create "$GITHUB_REF_NAME" module.json bwg-compendium.zip \
+                --title "$GITHUB_REF_NAME" --notes "Release $GITHUB_REF_NAME" --latest && exit 0
+            fi
+            echo "Attempt $i failed; retrying in 20s"; sleep 20
+          done
+          exit 1
