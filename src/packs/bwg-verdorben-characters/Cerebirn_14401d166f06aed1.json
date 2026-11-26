@@ -1406,7 +1406,7 @@
     "maxRange": "100 paces",
     "handedness": "two",
     "description": "12 hunting arrows.\n\nFight action: Nock and Draw: 5. Missiles: costs include enough missiles to outfit the character. Special arrowheads/bolt heads cost 1 rp per head type. Poor quality missiles cost half (rounded up) and are +1 Ob to hit; superior quality missiles cost 3x and grant a +1D balance die.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 557",
-    "skillId": "",
+    "skillId": "511c603f196e4e1b",
     "shade": "B"
    },
    "sort": 2400,

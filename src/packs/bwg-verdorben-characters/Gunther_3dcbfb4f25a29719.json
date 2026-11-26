@@ -1400,7 +1400,7 @@
     "quality": "run of the mill",
     "handedness": "one",
     "description": "Run of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 554",
-    "skillId": "",
+    "skillId": "eede56d820e2d923",
     "shade": "B",
     "baseOb": 1,
     "attacks": [
@@ -1444,7 +1444,7 @@
     "quality": "run of the mill",
     "handedness": "one",
     "description": "Run of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 554",
-    "skillId": "",
+    "skillId": "2397f103d91f9380",
     "shade": "B",
     "baseOb": 1,
     "attacks": [
@@ -1488,7 +1488,7 @@
     "quality": "run of the mill",
     "handedness": "one",
     "description": "Run of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight). WS X: can Strike consecutively any number of times.\n\nSource: Burning Wheel Gold Revised, p. 554",
-    "skillId": "",
+    "skillId": "6a9b15e523f52d07",
     "shade": "B",
     "baseOb": 1,
     "attacks": [
@@ -1532,7 +1532,7 @@
     "quality": "run of the mill",
     "handedness": "one",
     "description": "One handed, but the wielder must be mounted and have Mounted Combat Training.\n\nRun of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 554",
-    "skillId": "",
+    "skillId": "6a9922545a565687",
     "shade": "B",
     "baseOb": 1,
     "attacks": [
@@ -1588,7 +1588,7 @@
     "maxRange": "125 paces",
     "handedness": "two",
     "description": "6 quarrels.\n\nFight action: Fire Crossbow: 2. Missiles: costs include enough missiles to outfit the character. Special arrowheads/bolt heads cost 1 rp per head type. Poor quality missiles cost half (rounded up) and are +1 Ob to hit; superior quality missiles cost 3x and grant a +1D balance die.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 557",
-    "skillId": "",
+    "skillId": "07a4e927269fd7bc",
     "shade": "B"
    },
    "sort": 2900,

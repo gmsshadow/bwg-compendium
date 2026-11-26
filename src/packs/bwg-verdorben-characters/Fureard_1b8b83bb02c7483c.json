@@ -1965,7 +1965,7 @@
     "quality": "run of the mill",
     "handedness": "one",
     "description": "Shoddy (not Dwarf-made): run of the mill.\n\nRun of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 554",
-    "skillId": "",
+    "skillId": "9c16d96e47d0ca9b",
     "shade": "B",
     "baseOb": 1,
     "attacks": [
@@ -2021,7 +2021,7 @@
     "maxRange": "125 paces",
     "handedness": "two",
     "description": "12 bolts. Shoddy (not Dwarf-made): run of the mill.\n\nFight action: Fire Crossbow: 2. Missiles: costs include enough missiles to outfit the character. Special arrowheads/bolt heads cost 1 rp per head type. Poor quality missiles cost half (rounded up) and are +1 Ob to hit; superior quality missiles cost 3x and grant a +1D balance die.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 557",
-    "skillId": "",
+    "skillId": "e577e0f771c3002b",
     "shade": "B"
    },
    "sort": 3700,

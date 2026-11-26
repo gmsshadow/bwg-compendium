@@ -1242,7 +1242,7 @@
     "maxRange": "30 paces",
     "handedness": "one",
     "description": "6 javelins.\n\nThrown weapon: Weapon Power is added to the thrower’s Power to factor IMS, then the DoF determines the damage. Fight actions: Throw or Snapshot. Throwing weapons like knives or javelins cost 3 rps.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 558",
-    "skillId": "",
+    "skillId": "1b345da4fe7ebc68",
     "shade": "B"
    },
    "sort": 2100,
