@@ -1,0 +1,50 @@
+{
+ "_id": "9a7304597bbff416",
+ "_key": "!items!9a7304597bbff416",
+ "name": "Confusing Rant",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 9,
+  "name": "",
+  "traittype": "die",
+  "text": "Pinkies are a bit “off” in their thinking and tend to be socially awkward. People who speak to one often come away dazed by a bombardment of trivia, non sequiturs and bad jokes. During a Duel of Wits, this trait grants the character +3D to Incite. The only hesitation option is to “Stand and Blink.” All attempts to Intimidate or Command a character with Confusing Rant are at +2 Ob. Also, Ranters are at a +2 Ob to all Oratory and Rhetoric tests.\n\nType: Dt. Cost: 9 pts.\n\nSource: Burning Wheel Codex, p. 515",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

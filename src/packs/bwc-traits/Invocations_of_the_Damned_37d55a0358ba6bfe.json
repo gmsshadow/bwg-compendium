@@ -1,0 +1,50 @@
+{
+ "_id": "37d55a0358ba6bfe",
+ "_key": "!items!37d55a0358ba6bfe",
+ "name": "Invocations of the Damned",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "call-on",
+  "text": "The Dark Priest swears his soul to fell powers. Like other priests, he must have a Belief that ties to his Faith in order to maintain the emotional attribute. If the player writes a second Belief tied to his faith in the dark gods and his service to them, he may use this trait as a call-on for Faith when that Belief comes into question.\n\nType: C-O. Cost: 5 pts.\n\nSource: Burning Wheel Codex, p. 522",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "a96b5bf04e4fd109",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "_id": "1827e9c16abb9232",
+ "_key": "!items!1827e9c16abb9232",
+ "name": "Mossy Coat",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 2,
+  "name": "",
+  "traittype": "call-on",
+  "text": "Covered in a coat of moss and slime, this Troll blends in quite well to forest or earthy surroundings. Call-on for Stealthy or Camouflage in forest or mines.\n\nType: C-O. Cost: 2 pts.\n\nRestrictions: Trolls and Wolves only\n\nSource: Burning Wheel Codex, p. 523",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Trolls and Wolves only"
+ },
+ "effects": [],
+ "folder": "a96b5bf04e4fd109",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

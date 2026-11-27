@@ -1,0 +1,50 @@
+{
+ "_id": "4e325538eda5282b",
+ "_key": "!items!4e325538eda5282b",
+ "name": "Great Lupine Form",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Great Wolves possess the basic form common to wolves. They have a rangy, muscular body set on high and powerful legs with large, well-padded feet. They have long snouts and massive, protruding jaws. Their fur is a crown of coarse guard hairs supported by a nigh-impermeable layer of soft underfur. Their most prominent feature is, of course, their massive size. Great wolves stand three to five feet at the shoulder, and can weigh 200-600 lbs. Great Wolves have a maximum exponent of 6 for Agility (from their lack of hands), while other stat maximums are 8. Their Stride is 11. Wolves perform the Charge/Tackle action in Fight with a +2D bonus rather than the standard +1D.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Great Wolf common trait\n\nSource: Burning Wheel Codex, p. 519",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Great Wolf common trait"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

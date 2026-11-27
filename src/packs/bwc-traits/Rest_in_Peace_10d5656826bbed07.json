@@ -1,0 +1,50 @@
+{
+ "_id": "10d5656826bbed07",
+ "_key": "!items!10d5656826bbed07",
+ "name": "Rest in Peace",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Spirits who have gone peacefully to death and whose bodies were properly sanctified have great difficulty returning to and communicating with the world of the living. They cannot use any physical ability or skill to affect the material world. Those abilities are lost to them. Also, while they will do whatever is in their power to aid the living, they are reluctant to undertake any act that will disturb their peaceful rest or get them kicked out of heaven. When bargaining with a summoner, spirits of the sanctified dead may add +2D to a social skill. When in a Duel of Wits, add +2s to their body of argument if their opponent’s request goes against their better judgment.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Spooky ghosts only\n\nSource: Burning Wheel Codex, p. 526",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Spooky ghosts only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

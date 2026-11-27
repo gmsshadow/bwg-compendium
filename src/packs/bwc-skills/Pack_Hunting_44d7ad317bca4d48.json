@@ -1,0 +1,49 @@
+{
+ "_id": "44d7ad317bca4d48",
+ "_key": "!items!44d7ad317bca4d48",
+ "name": "Pack Hunting",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "speed",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "Wolves hunt for their prey in a different manner than those on two legs. Use the obstacles below to determine how much prey a pack can bring down over the course of a week. The dominant is always the primary for this test. Last wolves, pups, elders and nursing dominants may not help in this test—only Hunters, Aunts, Uncles and Yearlings.\n\nObstacles: Adequate kills to feed a pack of up to three, Ob 4. Adequate kills to feed of pack of four or five Great Wolves, Ob 5. Adequate kills for a pack of six to seven, Ob 7. Note the bonuses and penalties for the hunting grounds as described in the Territories section of this chapter.\n\nFoRKs: Scent Tracking, Scent-wise, Territory-wise, Forest-wise\n\nSkill Type: Forester. Tools: No.\n\nRoot: Per/Spd\n\nSource: Burning Wheel Codex, p. 539",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "741f63fce9753c5e",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

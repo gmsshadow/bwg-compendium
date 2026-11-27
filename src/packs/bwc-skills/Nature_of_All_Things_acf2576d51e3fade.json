@@ -1,0 +1,49 @@
+{
+ "_id": "acf2576d51e3fade",
+ "_key": "!items!acf2576d51e3fade",
+ "name": "Nature of All Things",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "This wolf knows the history of the trees, the streams, the rocks and brush. He knows why the snow falls and why the sun rises. He understands that the sharp tooth of the wolf lengthens the stride of the hoofed ones. He comprehends, vaguely, the interconnectedness of all things. This skill can be used as a FoRK for nearly any other skill (except martial skills), in a similar fashion to the Astrology skill.\n\nObstacles: Naming a natural feature, Ob 1. Naming a living creature, Ob 2. Giving cryptic advice, Ob 3. Discerning truth from lies, Ob 4. Interpreting natural omens, Ob 5.\n\nFoRKs: Appropriate wises. May FoRK into any other skill from Wolf skill list.\n\nSkill Type: Academic. Tools: No.\n\nRoot: Will/Per\n\nSource: Burning Wheel Codex, p. 539",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "d579f273a7848f64",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

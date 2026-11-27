@@ -1,0 +1,49 @@
+{
+ "_id": "297f12b8a973cbc5",
+ "_key": "!items!297f12b8a973cbc5",
+ "name": "Pack Etiquette",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "This is crucial knowledge of the laws of the pack and what behavior is appropriate at what juncture.\n\nObstacles: Feed order at a kill, Ob 2. Approaching the pack as a foreigner, Ob 4.\n\nFoRKs: Begging\n\nSkill Type: Social. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Codex, p. 539",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "1c03edcbcc903f9c",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

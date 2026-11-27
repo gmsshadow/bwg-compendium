@@ -1,0 +1,50 @@
+{
+ "_id": "87ae0cc0c2fbe291",
+ "_key": "!items!87ae0cc0c2fbe291",
+ "name": "Dominant",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "There are only ever two Dominants in a pack: a male and female pair. These two serve as the mother and father of the group, guiding them to new hunting grounds and producing more offspring to strengthen and expand the pack. This trait grants a 1D affiliation with a pack and a 1D reputation within that pack as a Dominant. This trait compounds with other similar, appropriate affiliations and reputations.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Great Wolf lifepath trait\n\nSource: Burning Wheel Codex, p. 517",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Great Wolf lifepath trait"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

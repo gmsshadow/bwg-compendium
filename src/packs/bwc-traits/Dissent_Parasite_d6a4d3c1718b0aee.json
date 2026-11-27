@@ -1,0 +1,50 @@
+{
+ "_id": "d6a4d3c1718b0aee",
+ "_key": "!items!d6a4d3c1718b0aee",
+ "name": "Dissent Parasite",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "die",
+  "text": "This trait allows its owner to earn one persona point for every conflict that he instigates between ostensible allies.\n\nType: Dt. Cost: 5 pts.\n\nSource: Burning Wheel Codex, p. 517",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

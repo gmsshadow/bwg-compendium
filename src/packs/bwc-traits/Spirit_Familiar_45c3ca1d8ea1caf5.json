@@ -1,0 +1,50 @@
+{
+ "_id": "45c3ca1d8ea1caf5",
+ "_key": "!items!45c3ca1d8ea1caf5",
+ "name": "Spirit Familiar",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "die",
+  "text": "This character has a familiar whose spirit is linked to his own. He can see through the familiar’s eyes using the familiar’s Perception stat. However, when using his familiar’s eyes, a character with this trait cannot look through his own though other senses may still be employed. It takes two actions of concentration to engage his familiar’s eyes, and two more actions to return his sight to his own eyes. This trait does not grant Low Speech. However, the creature does understand its companion’s wishes and will go where its master directs it to go, look at what its master directs it to look at, etc. A character with this trait feels the pain of his familiar. If the familiar suffers a light or greater wound, the master suffers a light wound. If the familiar is ever killed, the master suffers a traumatic wound. In the game, the character is physically unharmed, but mentally traumatized. Recovery and Treatment are as per a standard traumatic wound. This wound does not bleed out. A familiar uses the following stats: Wi G2, Pe G3, Ag B4, Sp B5, Po B3, Fo B3, Hea B4, Ref B4, Ste B5, MW B9 Choose its form: cat, dog, snake, bird, pig, rabbit, fox or similar. No large predators or beasts of burden. The animal must show some mark or quality that indicates it is not entirely of this world. For example, it must be hairless, one-eyed, two-tailed, of large size or even just have a disturbing aura.\n\nType: Dt. Cost: 5 pts.\n\nRestrictions: Humans only\n\nSource: Burning Wheel Codex, p. 528",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Humans only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

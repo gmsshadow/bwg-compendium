@@ -1,0 +1,50 @@
+{
+ "_id": "1717c5f406c04e3e",
+ "_key": "!items!1717c5f406c04e3e",
+ "name": "Celestial Sight",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 8,
+  "name": "",
+  "traittype": "die",
+  "text": "Those with Celestial Sight do not see as mortals do. No visible light affects their eyes. Instead, their vision is confined to the realm of auras. They see the pure auric emanations given off by life, arcana and ephemera. Celestial Sight is an improved version of Second Sight or the spell Magesense. These abilities show a cloudy, distorted window to the other side, whereas Celestial Sight sees clearly and without impediment. With this trait, one can see the auras of spellcraft. The obstacle to detect a spell cast is 6 minus the spell obstacle. If the Ob is zero, the spell is seen outright. Celestial Sight grants the ability to use the Aura Reading skill. Lastly, Celestial Sight counts as Observation and suffers no obstacles for darkness. Weather can affect Celestial Sight, though.\n\nType: Dt. Cost: 8 pts.\n\nSource: Burning Wheel Codex, p. 514",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

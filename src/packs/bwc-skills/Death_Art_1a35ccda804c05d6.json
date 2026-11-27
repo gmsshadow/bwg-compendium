@@ -1,0 +1,49 @@
+{
+ "_id": "1a35ccda804c05d6",
+ "_key": "!items!1a35ccda804c05d6",
+ "name": "Death Art",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "forte",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "Death Art is a black practice that teaches the sorcerer how to animate corpses and turn them into walking abominations.\n\nObstacles: See the Death Art chapter.\n\nFoRKs: Summoning, Folklore and appropriate wises.\n\nSkill Type: Sorcerous. Tools: Yes and no. See the chapter.\n\nRoot: Will/Forte (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Codex, p. 537",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "b7c1295f5d80bba2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

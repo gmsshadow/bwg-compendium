@@ -1,0 +1,50 @@
+{
+ "_id": "3b9ded207ddef8a8",
+ "_key": "!items!3b9ded207ddef8a8",
+ "name": "Well Traveled",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 4,
+  "name": "",
+  "traittype": "die",
+  "text": "The Speaker of Names wanders the lands and seas, communing with the spirits. This trait allows the player to take a new domain when his character travels to a new locale in play. The player may describe a memory his character has of this place or a place like it. He may describe when he traveled here before. The player then adds a new domain to his spirit binder at its base level (0). Once used, this trait becomes a character trait. To be clear, the domain is added during play at a time of the player’s choosing, not during character burning.\n\nType: Dt. Cost: 4 pts.\n\nSource: Burning Wheel Codex, p. 533",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

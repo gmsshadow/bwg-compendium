@@ -1,0 +1,49 @@
+{
+ "_id": "15428c57e83b4514",
+ "_key": "!items!15428c57e83b4514",
+ "name": "Extortion",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "Bull Trolls sometimes learn that it is more fruitful to let their victims live to extort food and shiny bits from them over the years. This way they can get more than a single meal out of them!\n\nObstacles: Obstacles are equal to the Will of the victim.\n\nFoRKs: Intimidation, Interrogation, Haggling\n\nSkill Type: Social. Tools: No.\n\nRoot: Will/Per\n\nSource: Burning Wheel Codex, p. 537",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "1c03edcbcc903f9c",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

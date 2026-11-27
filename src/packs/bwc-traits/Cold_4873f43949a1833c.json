@@ -1,0 +1,50 @@
+{
+ "_id": "4873f43949a1833c",
+ "_key": "!items!4873f43949a1833c",
+ "name": "Cold",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "In a Duel of Wits where kindness, compassion, Grief or passion are involved, the Eremite may double his Will for the purposes of the body of argument. This effect can be triggered mid-conflict, increasing the Eremite’s body of argument immediately.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Dark Elf lifepath trait\n\nSource: Burning Wheel Codex, p. 515",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Dark Elf lifepath trait"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

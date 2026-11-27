@@ -1,0 +1,50 @@
+{
+ "_id": "184aee5a7280dee0",
+ "_key": "!items!184aee5a7280dee0",
+ "name": "Crystalline Spines",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "name": "",
+  "traittype": "die",
+  "text": "A growth of crystalline spines sprouts from the back and shoulders of this Troll. The spines are sharp to the touch and break off and lodge themselves in the flesh of the unwary, causing great discomfort. Any creature that grapples or otherwise comes into contact with the Troll’s spines suffers +1 Ob to all tests until the spines are removed. This takes effect if the Troll grapples you, too. The penalty is cumulative for each contact. Spines can be plucked out in about a half hour. If the Surgery or Field Dressing skill is used, they can be treated in the time it takes to tend to a Superficial wound. If the troll is forced onto his back—if he falls or is pushed—it is possible that the spines are crushed and flattened. Roll the die of fate. On a 1 the spines are crushed and unusable. It takes about a month for the crystals to regrow. (They always regrow.)\n\nType: Dt. Cost: 3 pts.\n\nSource: Burning Wheel Codex, p. 516",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

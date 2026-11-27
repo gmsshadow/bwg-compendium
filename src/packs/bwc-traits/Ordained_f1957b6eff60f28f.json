@@ -1,0 +1,50 @@
+{
+ "_id": "f1957b6eff60f28f",
+ "_key": "!items!f1957b6eff60f28f",
+ "name": "Ordained",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 2,
+  "name": "",
+  "traittype": "die",
+  "text": "This Roden is one of Aecer’s Ordained. He is responsible for carrying out the rituals and rites. Ordained characters are always treated with respect by the Field Roden. 1D affiliation with the Roden faithful.\n\nType: Dt. Cost: 2 pts.\n\nRestrictions: Roden only\n\nSource: Burning Wheel Codex, p. 525",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Roden only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

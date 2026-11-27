@@ -1,0 +1,49 @@
+{
+ "_id": "ed27b23e5f0c4a93",
+ "_key": "!items!ed27b23e5f0c4a93",
+ "name": "Summoning",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "The Summoning skill allows the character to call spirits of the dead, demons, angels and gods to discuss matters of faith, life and philosophy, and perhaps to reach a bargain for service. This skill uses the rules found in the Summoning chapter of this book.\n\nObstacles: See the Summoning chapter.\n\nFoRKs: Astrology, Folklore, Empyrealia, Demonology and appropriate wises.\n\nSkill Type: Sorcerous. Tools: No.\n\nRoot: Perception (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Codex, p. 541",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "b7c1295f5d80bba2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

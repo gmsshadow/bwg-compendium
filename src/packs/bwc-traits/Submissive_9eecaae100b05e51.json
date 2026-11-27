@@ -1,0 +1,50 @@
+{
+ "_id": "9eecaae100b05e51",
+ "_key": "!items!9eecaae100b05e51",
+ "name": "Submissive",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Wolves learn to submit to a Dominant wolf at a very young age. Any wolf in the pack who is not part of the Dominant pair is Submissive. These wolves follow the lead of their superiors and often beg for certain permissions, including permission to eat from a kill. Being Submissive in the pack connotes no weakness. It merely shows that the wolf understands the natural order of things. This trait grants a free relationship with a master or dominant character. Prominent Submissive behaviors include: looking away from the Dominant’s gaze, crouching with head to the ground before the Dominant, rolling over and exposing the belly to the Dominant and nibbling or licking the Dominant’s chin. Lastly, wolves may possess both the Dominant and Submissive traits. These wolves will rule their pack as they rightly should, but they might also submit to stronger Dominants—be they wolf, human or Orc.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Great Wolf lifepath trait\n\nSource: Burning Wheel Codex, p. 530",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Great Wolf lifepath trait"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

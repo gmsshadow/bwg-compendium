@@ -1,0 +1,49 @@
+{
+ "_id": "02264e5a032236a3",
+ "_key": "!items!02264e5a032236a3",
+ "name": "Sorcery",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "This is not a revision of Sorcery but an expansion. In your game, the Sorcery skill can count for the standard version of the Sorcery skill described in the Burning Wheel or count for Art Magic or Practical Magic described in this book. Pick one form that the skill represents in your game. All iterations of the Sorcery skill, no matter what lifepath they are earned from, count as this form.\n\nObstacles: See the Art Magic or Practical Magic chapters in this book or the Sorcery chapter in the Burning Wheel.\n\nFoRKs: Aura Reading, Astrology, Empyrealia, Demonology and appropriate wises.\n\nSkill Type: Sorcerous. Tools: No.\n\nRoot: Perception (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Codex, p. 540",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "b7c1295f5d80bba2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

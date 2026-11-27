@@ -1,0 +1,50 @@
+{
+ "_id": "738a768804ab717d",
+ "_key": "!items!738a768804ab717d",
+ "name": "Named",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "die",
+  "text": "This creature possesses and knows its true name. When its name is spoken, it knows who the speaker is and where he is. Knowledge of a true name grants the summoner +3D to summon that specific spirit and +3D Bargaining tests or to the body of argument roll for any Duels of Wits conducted against the creature.\n\nType: Dt. Cost: 5 pts.\n\nSource: Burning Wheel Codex, p. 524",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

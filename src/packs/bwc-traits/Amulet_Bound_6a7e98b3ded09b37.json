@@ -1,0 +1,50 @@
+{
+ "_id": "6a7e98b3ded09b37",
+ "_key": "!items!6a7e98b3ded09b37",
+ "name": "Amulet Bound",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 8,
+  "name": "",
+  "traittype": "die",
+  "text": "This creature’s spirit resides trapped in an amulet. If its body is destroyed its spirit returns safely to the amulet. The amulet-bound can inhabit a new body if one is provided. Transferring the spirit requires a Minor Miracle or a body separated from it’s soul through the Living Death ritual. Obviously, this may require the assistance of your factotum. If the amulet is worn while inhabited by the spirit, the spirit may communicate with the bearer. If the amulet is destroyed while the spirit is inhabiting it, the spirit is also destroyed —unless the amulet-bound possesses the Spirit Nature trait. In that case, the spirit is released from the amulet and becomes a spooky ghost.\n\nType: Dt. Cost: 8 pts.\n\nSource: Burning Wheel Codex, p. 512",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

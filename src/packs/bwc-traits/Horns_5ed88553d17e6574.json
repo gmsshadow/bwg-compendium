@@ -1,0 +1,50 @@
+{
+ "_id": "5ed88553d17e6574",
+ "_key": "!items!5ed88553d17e6574",
+ "name": "Horns",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "die",
+  "text": "Great stony horns protrude from the Troll’s skull. In addition to being terribly intimidating, they also serve a somewhat practical purpose. When the Troll charges another creature of relatively similar size, he may choose to add +1D to his Charge Power or to do damage on the Charge as if he had been simultaneously Striking. Damage is Pow 2, VA 2, WS 1. The first two successes of the Charge attack count as a superficial wound to the victim. Four successes over equals a Mark hit. Six over is a Superb hit.\n\nType: Dt. Cost: 5 pts.\n\nSource: Burning Wheel Codex, p. 521",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

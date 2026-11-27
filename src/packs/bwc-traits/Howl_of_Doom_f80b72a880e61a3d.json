@@ -1,0 +1,50 @@
+{
+ "_id": "f80b72a880e61a3d",
+ "_key": "!items!f80b72a880e61a3d",
+ "name": "Howl of Doom",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Before the charge, these beasts bombard their opponents with cold fear. This wolf can howl and add +4D to Intimidation. This howl requires two actions to perform and cannot be done on the charge—it must be done beforehand. In Range and Cover, it positions with 2D. In Fight, it counts as the Longest weapon.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Great Wolf lifepath trait\n\nSource: Burning Wheel Codex, p. 521",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Great Wolf lifepath trait"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

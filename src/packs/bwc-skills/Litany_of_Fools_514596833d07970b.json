@@ -1,0 +1,49 @@
+{
+ "_id": "514596833d07970b",
+ "_key": "!items!514596833d07970b",
+ "name": "Litany of Fools",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "This speaks gently of the terrible fate of those who don’t see the truth in what the Dark Elf is saying. This song counts as Ugly Truth or Intimidation—choose which before testing the skill. The Dark Elf player must incorporate a barbed rhyme of verse into his roleplay.\n\nFoRKs: Falsehood\n\nSkill Type: Social. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Codex, p. 538",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "1c03edcbcc903f9c",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

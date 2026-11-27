@@ -1,0 +1,50 @@
+{
+ "_id": "18f0dc688a94dda4",
+ "_key": "!items!18f0dc688a94dda4",
+ "name": "Enemy of the Sun",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 4,
+  "name": "",
+  "traittype": "die",
+  "text": "The greatest, most fearsome of Trolls have been bred to resist the burning rays of the sun. They may travel by day and not be turned to stone as with the Night Blooded trait. Enemies of the Sun do not suffer penalties for dim or twilit light, but they can no longer see in complete darkness (+4 Ob in pitch dark). This trait replaces the Night Blooded trait.\n\nType: Dt. Cost: 4 pts.\n\nSource: Burning Wheel Codex, p. 517",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

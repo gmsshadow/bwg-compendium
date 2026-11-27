@@ -1,0 +1,49 @@
+{
+ "_id": "95562800ea719756",
+ "_key": "!items!95562800ea719756",
+ "name": "Ancient Ways",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "It is said that the Great Ancient spoke the true names of the water, loam, wind and prairie fire. Closely guarded, these powerful names have been passed from generation to generation of Great Wolves descended from the last wolf of the ancestral pack—Fell Ancients who bear the Mark. This skill is the wolf equivalent of the Spirit Binding skill. Wolves must have the Mark of the Ancient trait to use this skill.\n\nSkill Type: Sorcerous. Tools: Yes.\n\nRoot: Will/Per (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Codex, p. 535",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "b7c1295f5d80bba2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

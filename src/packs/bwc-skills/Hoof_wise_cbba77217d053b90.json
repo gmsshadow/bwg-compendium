@@ -1,0 +1,49 @@
+{
+ "_id": "cbba77217d053b90",
+ "_key": "!items!cbba77217d053b90",
+ "name": "Hoof-wise",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "Wolves learn the habits and nature of their prey.\n\nObstacles: Identifying species (horse, deer or elk), Ob 1. Judging the health of intended prey, Ob 2. Age and gender of prey, Ob 3. Predicting herd location, Ob 4.\n\nSkill Type: Wise. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Codex, p. 538",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "cf5a1bb6952d0791",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

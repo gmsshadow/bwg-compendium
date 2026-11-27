@@ -1,0 +1,50 @@
+{
+ "_id": "795f8a77a206284c",
+ "_key": "!items!795f8a77a206284c",
+ "name": "Poltergeist",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "name": "",
+  "traittype": "die",
+  "text": "This creature is ethereal and may only affect the physical world through an act of Will. If the creature wishes to touch, push, pull, slap, etc., test Will against the obstacle rather than Power or Agility. If a test is failed, Will is reduced by the margin of failure. The creature’s physical skills may also be channeled through its Will. Test for the skill as normal. After the test, test the creature’s Will against the obstacle. Will is reduced by margin of failure. If Will is reduced to zero, the creature dissipates and may not reform or be summoned for months equal to its Will exponent.\n\nType: Dt. Cost: 3 pts.\n\nRestrictions: Spooky ghosts only\n\nSource: Burning Wheel Codex, p. 525",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Spooky ghosts only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

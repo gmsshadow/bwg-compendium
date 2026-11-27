@@ -1,0 +1,50 @@
+{
+ "_id": "680f8ad3e5fa7a89",
+ "_key": "!items!680f8ad3e5fa7a89",
+ "name": "Shadow and Dust",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 9,
+  "name": "",
+  "traittype": "die",
+  "text": "Creatures of Shadow and Dust have two distinct aspects—a spirit shadow and some material vestige of their former life. The shadow is its active and “living” half. It is a physical manifestation and can be harmed by steel and fire. However, it cannot be permanently destroyed. If dealt a Mortal Wound or if incapacitated, the shadow dissipates. It reforms near its dust half in days equal to 10 minus Health. The other aspect of the creature is the dust: a corpse, a vessel of ashes, a skull or some other relic of a life past. In order to completely destroy this creature, the dust must be dragged into the morning sun and a Minor Miracle performed on it.\n\nType: Dt. Cost: 9 pts.\n\nSource: Burning Wheel Codex, p. 527",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

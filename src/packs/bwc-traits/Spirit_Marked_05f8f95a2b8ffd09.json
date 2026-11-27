@@ -1,0 +1,50 @@
+{
+ "_id": "05f8f95a2b8ffd09",
+ "_key": "!items!05f8f95a2b8ffd09",
+ "name": "Spirit Marked",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "name": "",
+  "traittype": "die",
+  "text": "On certain nights in the dead of winter, the Spirit Hunters will come to the territories and seek out lone wolves. Those who are chosen receive a special scent and are marked to become Spirit Hunters. This trait is required to be able to take the Spirit Chaser lifepath. It grants a 1D affiliation with the Spirit Hunters. It also grants a 1D spirit mark as per the Spirit Binding rules.\n\nType: Dt. Cost: 3 pts.\n\nSource: Burning Wheel Codex, p. 529",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

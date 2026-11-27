@@ -1,0 +1,50 @@
+{
+ "_id": "fa257fd4c5a886d3",
+ "_key": "!items!fa257fd4c5a886d3",
+ "name": "Crushing Jaws",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Great Wolves have powerful jaws honed into deadly hunting weapons. Crushing Jaws: Pow 3, Add 2, VA 1, WS 3, Short. When using the Savage Attack skill, the wolf can choose the Lock and Strike action.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Great Wolf common trait\n\nSource: Burning Wheel Codex, p. 516",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Great Wolf common trait"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

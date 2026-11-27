@@ -68,5 +68,19 @@
   "type": "Adventure",
   "count": 1,
   "folders": 0
+ },
+ {
+  "name": "bwc-skills",
+  "label": "BWC Codex Skills",
+  "type": "Item",
+  "count": 31,
+  "folders": 9
+ },
+ {
+  "name": "bwc-traits",
+  "label": "BWC Codex Traits",
+  "type": "Item",
+  "count": 221,
+  "folders": 3
  }
 ]

@@ -1,0 +1,49 @@
+{
+ "_id": "bbdcd2f1cb9d5f93",
+ "_key": "!items!bbdcd2f1cb9d5f93",
+ "name": "Circination",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": false,
+  "description": "Circination is the art of drawing circles and sigils that aid the spirit binder and summoner. There are three types of circles that may be drawn: the summoning circle or gate, the fortress circle and the prison circle. The summoning circle aids in conjuring and binding spirits. The fortress protects the summoner from spirits. The prison circle traps unruly spirits. Circination is tested like a regular skill: It is not open-ended and does not get combined with anything special (except help or FoRKs) when tested. Circination is used to aid Spirit Binding and Summoning. Please consult those chapters for further nuances of the skill. If a circle is physically damaged—erased, marred, smudged—then it loses its powers.\n\nObstacles: Summoning Circle or Gate: The player sets his obstacle according to how many advantage dice he hopes to earn. If successful, the test grants advantage dice for Spirit Binding or Summoning equal to the obstacle. Fortress: For Spirit Binding, the obstacle is equal to the spirit Strength to be deflected. For Summoning, the obstacle is 1 plus the obstacle penalty the sorcerer wishes to imposes on the spirit. Prison: For Spirit Binding, the obstacle is twice the spirit’s Strength. For Summoning, the obstacle is equal to the Will exponent of the creature to be imprisoned (plus any penalties for shade differences).\n\nFoRKs: Illuminations, Cartography, Symbology, Ritual and appropriate wises.\n\nSkill Type: Sorcerous. Tools: No.\n\nRoot: Per/Ag\n\nSource: Burning Wheel Codex, p. 536",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "d349c030365b2147",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "_id": "10473afb45a1f36c",
+ "_key": "!items!10473afb45a1f36c",
+ "name": "Scent Tracking",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "Wolves track in a slightly different manner than humans, Elves and Orcs—they rely on scent and sound in addition to sight.\n\nObstacles: Tracking fresh scent on dry earth, Ob 1. Recognizing a known creature by scent trail, Ob 2. Picking up day-old scent, Ob 3. Following fresh scent from nearby prey on the wind, Ob 4. Tracking fresh scent in new, light rain, Ob 5. Tracking quarry that has crossed through a stream, Ob 6. Tracking after rain, Ob 7.\n\nFoRKs: Scent-wise\n\nSkill Type: Forester. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Codex, p. 540",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "741f63fce9753c5e",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

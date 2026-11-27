@@ -1,0 +1,50 @@
+{
+ "_id": "1365205366d614f2",
+ "_key": "!items!1365205366d614f2",
+ "name": "Cilia",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "die",
+  "text": "You are covered in a mass of flowing, waving, hair like appendages. These cilia keep you free of debris, move food from one part of your body to your mouth and even aid in swimming. Cilia are used as a call-on for Speed tests when swimming. They are also disgusting and disturbing to anyone without them and cause the owner to always suffer penalties to Inconspicuous and +1 Ob to other social skill tests (except Intimidation and Ugly Truth).\n\nType: Dt/C-O. Cost: 5 pts.\n\nSource: Burning Wheel Codex, p. 514",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

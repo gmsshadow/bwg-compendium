@@ -1,0 +1,50 @@
+{
+ "_id": "35f9a1a6a91586c1",
+ "_key": "!items!35f9a1a6a91586c1",
+ "name": "Earth Blood",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "name": "",
+  "traittype": "die",
+  "text": "No matter how badly wounded, this Troll will always heal. Cuts will close, bones will knit and even lost limbs will regrow. This Troll can never fail a Health test for Recovery (though he can roll poorly, in which case maximum healing time is required for the wound to close). The only way to destroy this beast is to put him to the fire.\n\nType: Dt. Cost: 3 pts.\n\nSource: Burning Wheel Codex, p. 517",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

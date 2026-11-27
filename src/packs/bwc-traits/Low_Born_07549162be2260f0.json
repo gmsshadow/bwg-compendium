@@ -1,0 +1,50 @@
+{
+ "_id": "07549162be2260f0",
+ "_key": "!items!07549162be2260f0",
+ "name": "Low Born",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 2,
+  "name": "",
+  "traittype": "die",
+  "text": "Low Born characters are born of unremarkable parents. They cannot trace their lineage to any nobility or to any historic or notable figures. They have a 1D infamous reputation in noble or elite circles due to their obvious lack of heritage. It also adds a +1 Ob disadvantage to any Inconspicuous tests in noble or courtly settings.\n\nType: Dt. Cost: 2 pts.\n\nSource: Burning Wheel Codex, p. 522",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

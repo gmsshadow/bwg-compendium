@@ -1,0 +1,50 @@
+{
+ "_id": "b046b92808704270",
+ "_key": "!items!b046b92808704270",
+ "name": "Ancestral Taint",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Spirit Hunters are said to be the chosen ones of the Great Grandfather—selected to take up his eternal struggle against the spirits, speech-twisters and demons that seek to overcome wolf-kind. Once a wolf begins to sing the howls of the Spirit Hunters, he grows closer to the Great Grandfather; in fact he begins to take on a bit of the ancient wolf’s essence. The more the Spirit Howler sings the ancient songs, the more the Taint grows within him. See the Ancestral Taint rules in the Spirit Hunter section for more on this.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Great Wolfs only\n\nSource: Burning Wheel Codex, p. 512",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Great Wolfs only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

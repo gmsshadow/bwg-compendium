@@ -1,0 +1,50 @@
+{
+ "_id": "96566347becc6e22",
+ "_key": "!items!96566347becc6e22",
+ "name": "Spirit Nose",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "name": "",
+  "traittype": "die",
+  "text": "The Taint suffuses the Spirit Hunter. Using his Spirit Nose, he may add his Wolf Snout to detect spirits (as Spirit Ears above). Also, Spirit Nose allows Spirit Hunters to track spirits, even those who leave no marks or do not touch the ground. Use the obstacles listed with the Scent Tracking skill and be creative.\n\nType: Dt. Cost: 3 pts.\n\nRestrictions: Great Wolves only\n\nSource: Burning Wheel Codex, p. 529",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Great Wolves only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

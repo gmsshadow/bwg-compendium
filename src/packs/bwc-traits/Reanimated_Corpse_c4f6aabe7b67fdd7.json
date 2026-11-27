@@ -1,0 +1,50 @@
+{
+ "_id": "c4f6aabe7b67fdd7",
+ "_key": "!items!c4f6aabe7b67fdd7",
+ "name": "Reanimated Corpse",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "This trait grants the reanimated corpse the Wi B9, Pe B1, Ag B3, Sp B3, Po B5, Fo B5 stat line and eliminates the Health, Resources and Circles attributes. These creatures may not recover from injury. However, neither do they bleed to death or suffer from any type of disease or poison. Also, these creatures may advance extant skills, but they may not learn new skills in play. The Reanimated Corpse trait also gives the creature the mindless ability to act in a mob. Up to five walking corpses may help each other at once with any task, including dragging down their victims and eating them (in other words, positioning and Lock actions). When one corpse helps another, it adds helping dice as per usual, but it may not then act on his own.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Corpses only\n\nSource: Burning Wheel Codex, p. 526",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Corpses only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

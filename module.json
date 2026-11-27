@@ -1,8 +1,8 @@
 {
   "id": "bwg-compendium",
   "title": "Burning Wheel Gold Revised — Compendium",
-  "description": "Compendium packs for the community Burning Wheel system, built from Burning Wheel Gold Revised: skills, Elven spell songs, traits, melee/ranged/thrown weapons, armor and shields, possessions and property, sorcery and Rituals of Night spells, lifepaths and lifepath settings for the character burner. For personal use with your own copy of the book.",
-  "version": "1.2.0",
+  "description": "Compendium packs for the community Burning Wheel system, built from Burning Wheel Gold Revised: skills, Elven spell songs, traits, melee/ranged/thrown weapons, armor and shields, possessions and property, sorcery and Rituals of Night spells, lifepaths and lifepath settings for the character burner. Also includes the Burning Wheel Codex monstrous traits and skills, and the Twilight in the Duchy Verdorben adventure. For personal use with your own copy of the book.",
+  "version": "1.3.0",
   "authors": [
     {
       "name": "GMsShadow"
@@ -143,6 +143,30 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "name": "bwc-skills",
+      "label": "BWC Codex Skills",
+      "path": "packs/bwc-skills",
+      "type": "Item",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "bwc-traits",
+      "label": "BWC Codex Traits",
+      "path": "packs/bwc-traits",
+      "type": "Item",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -160,12 +184,14 @@
         "bwg-lifepaths",
         "bwg-settings",
         "bwg-verdorben-characters",
-        "bwg-verdorben-adventure"
+        "bwg-verdorben-adventure",
+        "bwc-skills",
+        "bwc-traits"
       ]
     }
   ],
   "flags": {},
   "url": "https://github.com/GMsShadow/bwg-compendium",
   "manifest": "https://github.com/GMsShadow/bwg-compendium/releases/latest/download/module.json",
-  "download": "https://github.com/GMsShadow/bwg-compendium/releases/download/v1.2.0/bwg-compendium.zip"
+  "download": "https://github.com/GMsShadow/bwg-compendium/releases/download/v1.3.0/bwg-compendium.zip"
 }

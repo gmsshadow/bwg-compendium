@@ -1,0 +1,50 @@
+{
+ "_id": "0a74f4cf1f9625d9",
+ "_key": "!items!0a74f4cf1f9625d9",
+ "name": "Bellowing",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 4,
+  "name": "",
+  "traittype": "call-on",
+  "text": "The sound of this Troll’s voice is unimaginably loud. Use as a call-on for Intimidation and Command.\n\nType: C-O. Cost: 4 pts.\n\nSource: Burning Wheel Codex, p. 513",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "a96b5bf04e4fd109",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "_id": "3cbffab98b76f2be",
+ "_key": "!items!3cbffab98b76f2be",
+ "name": "Hand-Shaker",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 4,
+  "name": "",
+  "traittype": "call-on",
+  "text": "The tools of the politician’s trade. May be used as a call-on for Oratory or Persuasion when he’s shaking hands.\n\nType: C-O. Cost: 4 pts.\n\nSource: Burning Wheel Codex, p. 520",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "a96b5bf04e4fd109",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "_id": "aed70d940ac8557e",
+ "_key": "!items!aed70d940ac8557e",
+ "name": "Alchemy",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": false,
+  "description": "This entry is an update of Alchemy that incorporates all of the new applications presented in this book. Alchemy is the distillation of materials in order to divine their essence. Alchemists may also create mixtures of arcane substances to generate a specific effect.\n\nObstacles: Distilling components of earth, Ob 1. Components of water or liquid, Ob 2. Components of metal, Ob 3. Components of blood, Ob 4. Identifying traits from organic samples: Character traits, Ob 1. Call-ons, Ob 2. Die traits, Ob 3.\n\nFoRKs: Enchanting, Herbalism, Apothecary, Munitions, Poisons.\n\nSkill Type: Sorcerous. Tools: Yes.\n\nRoot: Per\n\nSource: Burning Wheel Codex, p. 535",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "d349c030365b2147",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

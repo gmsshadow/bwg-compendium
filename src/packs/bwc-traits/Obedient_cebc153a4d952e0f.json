@@ -1,0 +1,50 @@
+{
+ "_id": "cebc153a4d952e0f",
+ "_key": "!items!cebc153a4d952e0f",
+ "name": "Obedient",
+ "type": "trait",
+ "img": "icons/sundries/gaming/rune-card.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "character",
+  "text": "Wolves who are chosen to become Dark Friends tend to be particularly obedient. While their masters can be extremely generous—feeding their wolves much fresh meat—they are also extremely violent and punishing. Rarely do they hesitate to kill a disobedient wolf. Lastly, a Dark Friend has an intuitive understanding of the powers the Blood Summoners wield—he knows the might of success and the calamity of failure. It is far better to aid the former and prevent the latter.\n\nType: Char. Costs 1 pt.\n\nSource: Burning Wheel Codex, p. 524",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "2086b8389bfd675d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

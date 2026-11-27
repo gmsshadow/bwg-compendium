@@ -1,0 +1,50 @@
+{
+ "_id": "87bf9b90bb96f4fa",
+ "_key": "!items!87bf9b90bb96f4fa",
+ "name": "Witch Flesh",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 6,
+  "name": "",
+  "traittype": "die",
+  "text": "The Brood Mother knows a bit of magic, rumored to have been handed down from an old giantess in ages past. This magic, called Witch Flesh, grants the ability to transform into a handsome young man or woman. The disguise is impenetrable. The brood mother retains her stats and attributes, but her character traits are replaced with Beautiful, Wholesome, Apple-Cheeked, etc. Any other traits requiring physical expression (like Horns or Claws) are temporarily lost to the human form. No test is required to transform, but the change requires a full scene, during which the magic slowly takes effect. Once the Brood Mother reveals her true nature to her victim (or is perhaps accidentally spotted transforming), the victim will never see her the same way again—and can never be fooled by the Witch Flesh of this Brood Mother again.\n\nType: Dt. Cost: 6 pts.\n\nSource: Burning Wheel Codex, p. 534",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

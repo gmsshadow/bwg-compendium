@@ -1,0 +1,49 @@
+{
+ "_id": "c862efe0b299b4b1",
+ "_key": "!items!c862efe0b299b4b1",
+ "name": "Combat Mount",
+ "type": "skill",
+ "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "power",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "martial",
+  "training": true,
+  "magical": false,
+  "description": "Carrying a rider on a journey and bearing him into combat are two very different skills. A wolf must be trained to modify his fighting style in order to coordinate with his rider and not roll him or throw him.\n\nSkill Type: Martial Training. Tools: No.\n\nRoot: Will/Pow\n\nSource: Burning Wheel Codex, p. 537",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "6315100302e8af10",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "_id": "e8f287c3b107e19f",
+ "_key": "!items!e8f287c3b107e19f",
+ "name": "Blood Thirsty",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 2,
+  "name": "",
+  "traittype": "call-on",
+  "text": "A Carnivore’s blood runs hot, and he is quick to anger. He relies on confrontation to deal with most problems. Call-on for Intimidation. He must enter combat in aggressive stance.\n\nType: C-O. Cost: 2 pts.\n\nSource: Burning Wheel Codex, p. 513",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "a96b5bf04e4fd109",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

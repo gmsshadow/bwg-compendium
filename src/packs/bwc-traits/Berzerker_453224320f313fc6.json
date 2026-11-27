@@ -1,0 +1,50 @@
+{
+ "_id": "453224320f313fc6",
+ "_key": "!items!453224320f313fc6",
+ "name": "Berzerker",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "name": "",
+  "traittype": "die",
+  "text": "When this Troll fails a Steel test or suffers a wound (that he can feel—Numb and Dead to Pain work against this trait), the monster immediately and automatically shifts into aggressive stance. There is no hesitation. While enraged he will (and must) attack any living (or seemingly living) thing around him—starting with that which just hurt/enraged him. He then moves on to the next closest target, friend or foe. The Troll remains in aggressive stance even if he sprints. The rage lasts for exchanges equal to 10 minus the character’s Will exponent. If the monster is already in aggressive stance when the above conditions are met, he spends two actions roaring and bellowing (which count as an Intimidation test against his opponents).\n\nType: Dt. Cost: 3 pts.\n\nSource: Burning Wheel Codex, p. 513",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

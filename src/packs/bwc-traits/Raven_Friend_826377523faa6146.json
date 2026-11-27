@@ -1,0 +1,50 @@
+{
+ "_id": "826377523faa6146",
+ "_key": "!items!826377523faa6146",
+ "name": "Raven Friend",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Wolves and ravens have a special relationship. Not only do they aid one another on the hunt—ravens will circle a herd to mark it for wolves, and wolves will allow ravens to feed at their kills—they are also great friends. Wolves and ravens enjoy taunting each other and playing endless and dangerous games of tag. This trait grants either a free relationship with a raven or a 1D affiliation with a conspiracy of ravens. This trait signifies a wolf who is especially fond of ravens and well thought of by the birds. While the whole pack may play, he is the only pack member who can understand the quacks and squawks of raven speech.\n\nType: Dt. Cost: 1 pts.\n\nRestrictions: Great Wolves only\n\nSource: Burning Wheel Codex, p. 526",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Great Wolves only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

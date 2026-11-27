@@ -1,0 +1,50 @@
+{
+ "_id": "21d252da017e39cd",
+ "_key": "!items!21d252da017e39cd",
+ "name": "Spirit Nature",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 17,
+  "name": "",
+  "traittype": "die",
+  "text": "Creatures with spirit nature are not of our world and not bound by the laws of our realm. Time, space and the elements affect those with Spirit Nature differently than they do those of mortal nature. All surfaces are stable—they may walk on earth, mud, water or ice without difficulty. Gravity lays a lighter hand on them, and they are able to easily climb (and fly, for those with wings). Give +2D to appropriate skills and stats when the Spirit Natured creature needs them. The harmful elements of this realm have no effect on them—fire does not burn, cold does not chill, rope does not bind and metal does not harm. In order to affect, harm or bind a creature of Spirit Nature, one must have tools inscribed with special spirit runes. Only Sorcery, Faith, other spirits and these “spirit weapons” can harm those of Spirit Nature.\n\nType: Dt. Cost: 17 pts.\n\nSource: Burning Wheel Codex, p. 529",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

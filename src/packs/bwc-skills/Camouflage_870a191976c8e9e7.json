@@ -1,0 +1,49 @@
+{
+ "_id": "870a191976c8e9e7",
+ "_key": "!items!870a191976c8e9e7",
+ "name": "Camouflage",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "Using this skill, a Troll may take on the appearance of his surroundings and remain hidden. The Dread Stone love to build up false stone walls around themselves and then wait for an unsuspecting passerby to wander into reach. Using this skill effectively requires that the Troll remain motionless while camouflaged. Test this skill as a Stealthy skill.\n\nObstacles: Camouflage is used in versus tests against Observation.\n\nFoRKs: Stealthy\n\nSkill Type: Forester. Tools: No.\n\nRoot: Per/Ag\n\nSource: Burning Wheel Codex, p. 536",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "741f63fce9753c5e",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

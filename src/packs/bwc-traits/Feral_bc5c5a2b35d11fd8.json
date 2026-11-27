@@ -1,0 +1,50 @@
+{
+ "_id": "bc5c5a2b35d11fd8",
+ "_key": "!items!bc5c5a2b35d11fd8",
+ "name": "Feral",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Wastrels lose themselves to their animal instincts, living for decades at a time without contact with civilization—living as animals do. The Feral trait reduces overall hesitation by one, but adds +1 Ob to all social skill tests. Also, Feral negates the bonus to Circles from any Elven lifepath trait such as Etharchal, Lord of Ages, etc.\n\nType: Dt. Cost: 1 pts.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Codex, p. 518",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Elves only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

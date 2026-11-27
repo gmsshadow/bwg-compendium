@@ -1,0 +1,50 @@
+{
+ "_id": "96803b3eced1364e",
+ "_key": "!items!96803b3eced1364e",
+ "name": "I Am God",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 12,
+  "name": "",
+  "traittype": "die",
+  "text": "Chief Deities rule over gods, men and all the creatures of their many spheres. Powerful beyond understanding, they are not to be trifled with. If this entity should ever lose a Duel of Wits against a being of equal or lesser stature, he receives a major compromise in addition to the compromise determined by the state of his opponent’s body of argument.\n\nType: Dt. Cost: 12 pts.\n\nRestrictions: Deity only\n\nSource: Burning Wheel Codex, p. 521",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Deity only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

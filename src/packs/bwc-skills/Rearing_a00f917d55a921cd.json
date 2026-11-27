@@ -1,0 +1,49 @@
+{
+ "_id": "a00f917d55a921cd",
+ "_key": "!items!a00f917d55a921cd",
+ "name": "Rearing",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "This is the wolf’s instructional skill. Good Uncles and Aunts pass on the knowledge of the hunt and the traditions of the pack to the young pups. Use this skill as Instruction for teaching wolves younger than you.\n\nFoRKs: Way of the First Hunter\n\nSkill Type: Social. Tools: No.\n\nRoot: Will/Per\n\nSource: Burning Wheel Codex, p. 540",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "1c03edcbcc903f9c",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

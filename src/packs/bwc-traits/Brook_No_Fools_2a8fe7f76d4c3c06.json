@@ -1,0 +1,50 @@
+{
+ "_id": "2a8fe7f76d4c3c06",
+ "_key": "!items!2a8fe7f76d4c3c06",
+ "name": "Brook No Fools",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 7,
+  "name": "",
+  "traittype": "die",
+  "text": "The spirit binder’s art is not something to be trifled with! His secrets are well kept because meddling fools will only cause irreparable harm to themselves and the domains with which they tamper. A spirit binder with this trait receives a fate point every time he rebuffs an offer of help from a potential student (so that character does not earn a test toward learning the skill). He receives a persona point when he actively thwarts another character from learning the secrets of Spirit Binding, Summoning or Circination.\n\nType: Dt. Cost: 7 pts.\n\nSource: Burning Wheel Codex, p. 513",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

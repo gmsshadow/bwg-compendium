@@ -1,0 +1,50 @@
+{
+ "_id": "5630d55300f50092",
+ "_key": "!items!5630d55300f50092",
+ "name": "Slave to the Power of Death",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "die",
+  "text": "This creature is now the servant of the sorcerer who evoked his soul. He is no longer alive, but neither is he dead. He will not age, grow sick, hunger or sleep. Use the skills the victim had in life. Die and call-on traits are lost and replaced with those imparted by the Death of the Spirit process (except as noted under Evocation). Character traits are retained. The slave’s stats are equal to his stats in life, minus any dice from injuries sustained at the time of this death. This condition overrides conditions from other traits like Corpse Bound.\n\nType: Dt. Cost: 5 pts.\n\nRestrictions: You must be an undead slave to a necromancer\n\nSource: Burning Wheel Codex, p. 528",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "You must be an undead slave to a necromancer"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

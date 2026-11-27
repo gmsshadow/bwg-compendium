@@ -1,0 +1,49 @@
+{
+ "_id": "018147c3c65fce40",
+ "_key": "!items!018147c3c65fce40",
+ "name": "Spirit Binding",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "Spirits abound. They infuse the world around us, and those who know their secrets call them forth and bind them into service. Using this skill, a summoner binds a spirit and sets it to a task. To summon and bind, the player totals his dice from Spirit Binding, a domain binding, a spirit mark, summoning circles and any offerings. He tests those dice against an obstacle that combines the spirit’s Strength, the task, the summoner’s own Immanence, the immediate need for the spirit and the scope of the domain affected. If successful, the summoner can name his task and reduce the amount of retribution the spirit will visit upon him. If failed, the summoner has angered the spirit and will suffer the consequences in either retribution or enmity.\n\nObstacles: See the Spirit Binding Obstacles and Spirit Services in this chapter.\n\nFoRKs: Astrology. Linked tests are appropriate.\n\nSkill Type: Sorcerous. Tools: No.\n\nRoot: Will (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Codex, p. 540",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "b7c1295f5d80bba2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

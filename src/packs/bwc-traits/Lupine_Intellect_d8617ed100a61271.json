@@ -1,0 +1,50 @@
+{
+ "_id": "d8617ed100a61271",
+ "_key": "!items!d8617ed100a61271",
+ "name": "Lupine Intellect",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Without a doubt, Great Wolves are intelligent creatures. They possess a personality and intellect equivalent to that of humans and Orcs. Never assume that just because they don’t live in cities, write with pens or eat with knives, wolves are dumb brutes. Even so, Great Wolves are not tool-using creatures. Though they understand a great many matters, they generally don’t use (or even need) tools to accomplish the tasks in their daily lives. Any wolf attempting to use tools like hammers, swords or scissors suffers quadruple obstacle penalties.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Great Wolf common trait\n\nSource: Burning Wheel Codex, p. 522",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Great Wolf common trait"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

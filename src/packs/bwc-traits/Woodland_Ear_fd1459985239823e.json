@@ -1,0 +1,50 @@
+{
+ "_id": "fd1459985239823e",
+ "_key": "!items!fd1459985239823e",
+ "name": "Woodland Ear",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Wolves have extraordinary hearing. The Woodland Ear allows wolves to distinguish between different animal calls and add +1D to Perception tests for assesses, Scent Tracking and Pack Hunting. This bonus is also added to Perception for determining Reflexes. This trait counts as Observation when combined with Wolf Snout.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Wolf common trait\n\nSource: Burning Wheel Codex, p. 534",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Wolf common trait"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

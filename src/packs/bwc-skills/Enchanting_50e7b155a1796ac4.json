@@ -1,0 +1,49 @@
+{
+ "_id": "50e7b155a1796ac4",
+ "_key": "!items!50e7b155a1796ac4",
+ "name": "Enchanting",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "Enchanting is a school of sorcery that focuses on imparting magic to inert, physical things. There are two sides to Enchanting: imbuing and full-blown enchanting. Imbuing allows the mage to temporarily infuse an item with a small amount of power. Enchanting allows the mage to create powerful, enduring artifacts.\n\nObstacles: See the Enchanting chapter.\n\nFoRKs: A craft skill appropriate to what’s being created. Linked tests are appropriate.\n\nSkill Type: Sorcerous. Tools: Yes and no. See the chapter.\n\nRoot: Per/Ag (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Codex, p. 537",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "b7c1295f5d80bba2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

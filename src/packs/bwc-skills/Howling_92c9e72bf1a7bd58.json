@@ -1,0 +1,49 @@
+{
+ "_id": "92c9e72bf1a7bd58",
+ "_key": "!items!92c9e72bf1a7bd58",
+ "name": "Howling",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "Wolves love to howl, and they do so for many reasons. It is the combination of the Singing, Oratory and Conspicuous skills.\n\nObstacles: Sing discordantly, Ob 1. Sing for joy, Ob 2. Howl for warning, Ob 3. Howl for the lost, Ob 4. When used against another wolf, use their Will as the obstacle.\n\nSkill Type: Social. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Codex, p. 538",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "1c03edcbcc903f9c",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

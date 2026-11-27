@@ -1,0 +1,50 @@
+{
+ "_id": "83aae0bbd787a392",
+ "_key": "!items!83aae0bbd787a392",
+ "name": "Impressive Hat",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "name": "",
+  "traittype": "die",
+  "text": "This character’s hat is mightily impressive. It can be seen for miles! It’s so impressive that people often remember the hat more than the person. This gives a 1D Reputation among the people of a given locale as the wearer of the really impressive hat, so long as the hat is being worn, of course. Wearing the hat also gives a +2 Ob to any Disguise or Inconspicuous test.\n\nType: Dt. Cost: 3 pts.\n\nRestrictions: Humans only\n\nSource: Burning Wheel Codex, p. 521",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Humans only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

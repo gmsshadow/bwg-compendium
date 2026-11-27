@@ -1,0 +1,50 @@
+{
+ "_id": "a5f4468e4eba09f3",
+ "_key": "!items!a5f4468e4eba09f3",
+ "name": "Great Cunning",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "call-on",
+  "text": "Ebon Tyrants are the Dominants of the vast Black Destroyer packs. More than just savagery and brutality are required to attain this rank. Great Cunning is a necessity. This trait acts as a call-on for Strategy, Tactics and any wise tested for insight.\n\nType: C-O. Cost: 5 pts.\n\nRestrictions: Great Wolf only\n\nSource: Burning Wheel Codex, p. 519",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Great Wolf only"
+ },
+ "effects": [],
+ "folder": "a96b5bf04e4fd109",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

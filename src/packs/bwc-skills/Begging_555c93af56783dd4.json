@@ -1,0 +1,49 @@
+{
+ "_id": "555c93af56783dd4",
+ "_key": "!items!555c93af56783dd4",
+ "name": "Begging",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "Begging is the Wolf’s version of the Persuasion skill. This skill may be used as Persuasion in a Duel of Wits between Great Wolves or their friends. When a submissive wolf wants something, whether it be food or permission, he must beg the dominant for it. Begging is not humiliating to a wolf; it is part of their nature. Sometimes the female dominant will even need to beg when she is nursing her pups—she begs the pack to bring them food.\n\nObstacles: Begging food for pups, Ob 1. Other obstacles are based on the Will of the target wolf.\n\nFoRKs: Pack Etiquette\n\nSkill Type: Social. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Codex, p. 536",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "1c03edcbcc903f9c",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

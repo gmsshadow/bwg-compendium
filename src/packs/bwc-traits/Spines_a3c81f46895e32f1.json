@@ -1,0 +1,50 @@
+{
+ "_id": "a3c81f46895e32f1",
+ "_key": "!items!a3c81f46895e32f1",
+ "name": "Spines",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 4,
+  "name": "",
+  "traittype": "die",
+  "text": "Certain hairs on this creature have developed into nettling spines. They are sharp to the touch and can lodge themselves in the flesh of the unwary, causing great discomfort. Any creature that grabs, touches or otherwise comes into bodily contact with the spined creature suffers a +1 Ob to all tests as the spines lodge in its flesh. Armor does not protect against this trait. A character must be covered from head to toe, including eyes and mouth to be protected. Spines can be plucked out with an Ob 1 Field Dressing or Surgery test.\n\nType: Dt. Cost: 4 pts.\n\nRestrictions: Trolls only\n\nSource: Burning Wheel Codex, p. 528",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Trolls only"
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

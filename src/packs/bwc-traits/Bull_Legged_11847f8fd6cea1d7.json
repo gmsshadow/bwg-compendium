@@ -1,0 +1,50 @@
+{
+ "_id": "11847f8fd6cea1d7",
+ "_key": "!items!11847f8fd6cea1d7",
+ "name": "Bull-Legged",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 4,
+  "name": "",
+  "traittype": "die",
+  "text": "In place of his clawed feet, this Troll possesses a pair of bony hooves that give him a kicking weapon (Pow 1, VA 1, WS 1). The Troll also walks with a distinctive gait and makes quite a racket when treading on hard surfaces. Any Speed or Stealthy tests made while on stone, ice or really hard, smooth wood are at a +1 Ob. (May not be combined with Webbed Fingers and Toes.)\n\nType: Dt. Cost: 4 pts.\n\nSource: Burning Wheel Codex, p. 514",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "effects": [],
+ "folder": "f2b4a45dc8dc7544",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

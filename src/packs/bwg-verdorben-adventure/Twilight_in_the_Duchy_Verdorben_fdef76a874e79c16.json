@@ -13989,14 +13989,14 @@
      "effects": []
     },
     {
-     "name": "Sweet-Tooth",
+     "name": "Sweet Tooth",
      "type": "trait",
      "img": "icons/sundries/gaming/rune-card.webp",
      "system": {
       "pointCost": 1,
       "name": "",
       "traittype": "character",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for The Corrupted Bear [Char].",
+      "text": "A character trait: the name says it all.\n\nType: Char. Costs 1 pt.\n\nSource: Burning Wheel Codex, p. 531",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -14017,14 +14017,14 @@
       "callonTarget": "",
       "restrictions": ""
      },
-     "_id": "9f61895b46ecceb0",
-     "folder": null,
+     "effects": [],
      "sort": 300,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "95a3be9d995f1b99",
+     "folder": null
     },
     {
      "name": "Keen Smell",
@@ -14034,7 +14034,7 @@
       "pointCost": 1,
       "name": "",
       "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for The Corrupted Bear [Dt].",
+      "text": "Trait from the Twilight in the Duchy Verdorben stat block for The Corrupted Bear [Dt]. This trait has no entry in Burning Wheel Gold or the Codex; adjudicate its effect from the name and the adventure text.",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -14072,7 +14072,7 @@
       "pointCost": 1,
       "name": "",
       "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for The Corrupted Bear [Dt].",
+      "text": "Trait from the Twilight in the Duchy Verdorben stat block for The Corrupted Bear [Dt]. This trait has no entry in Burning Wheel Gold or the Codex; adjudicate its effect from the name and the adventure text.",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -14186,7 +14186,7 @@
       "pointCost": 1,
       "name": "",
       "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for The Corrupted Bear [Dt].",
+      "text": "Trait from the Twilight in the Duchy Verdorben stat block for The Corrupted Bear [Dt]. This trait has no entry in Burning Wheel Gold or the Codex; adjudicate its effect from the name and the adventure text.",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -14228,7 +14228,7 @@
       "difficult": 0,
       "challenging": 0,
       "root1": "agility",
-      "root2": "power",
+      "root2": "speed",
       "learning": false,
       "learningProgress": 0,
       "skilltype": "martial",
@@ -15710,7 +15710,7 @@
       "pointCost": 1,
       "name": "",
       "traittype": "character",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for Risen Corpse [Char].",
+      "text": "A character trait: the name says it all.\n\nType: Char. Costs 1 pt.\n\nSource: Burning Wheel Codex, p. 521",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -15731,14 +15731,14 @@
       "callonTarget": "",
       "restrictions": ""
      },
-     "_id": "f590e2044b14c4d8",
-     "folder": null,
+     "effects": [],
      "sort": 0,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "f590e2044b14c4d8",
+     "folder": null
     },
     {
      "name": "Mute",
@@ -15786,7 +15786,7 @@
       "pointCost": 1,
       "name": "",
       "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for Risen Corpse [Dt].",
+      "text": "This trait grants the reanimated corpse the Wi B9, Pe B1, Ag B3, Sp B3, Po B5, Fo B5 stat line and eliminates the Health, Resources and Circles attributes. These creatures may not recover from injury. However, neither do they bleed to death or suffer from any type of disease or poison. Also, these creatures may advance extant skills, but they may not learn new skills in play. The Reanimated Corpse trait also gives the creature the mindless ability to act in a mob. Up to five walking corpses may help each other at once with any task, including dragging down their victims and eating them (in other words, positioning and Lock actions). When one corpse helps another, it adds helping dice as per usual, but it may not then act on his own.\n\nType: Dt. Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Corpses only\n\nSource: Burning Wheel Codex, p. 526",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -15805,26 +15805,26 @@
       "affiliationName": "",
       "affiliationDice": 0,
       "callonTarget": "",
-      "restrictions": ""
+      "restrictions": "Corpses only"
      },
-     "_id": "bf5ef33f9804f869",
-     "folder": null,
+     "effects": [],
      "sort": 200,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "bf5ef33f9804f869",
+     "folder": null
     },
     {
-     "name": "Hideous",
+     "name": "Hideous!",
      "type": "trait",
      "img": "icons/sundries/gaming/dice-runed-brown.webp",
      "system": {
-      "pointCost": 1,
+      "pointCost": 2,
       "name": "",
       "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for Risen Corpse [Dt].",
+      "text": "Add +1 hesitation to all Steel checks caused by this creature.\n\nType: Dt. Cost: 2 pts.\n\nSource: Burning Wheel Codex, p. 520",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -15845,14 +15845,14 @@
       "callonTarget": "",
       "restrictions": ""
      },
-     "_id": "787c2246ab616cc4",
-     "folder": null,
+     "effects": [],
      "sort": 300,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "16cb9fd0c642e434",
+     "folder": null
     },
     {
      "name": "Tough as Nails",
@@ -15897,10 +15897,10 @@
      "type": "trait",
      "img": "icons/sundries/gaming/dice-runed-brown.webp",
      "system": {
-      "pointCost": 1,
+      "pointCost": 6,
       "name": "",
       "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for Risen Corpse [Dt].",
+      "text": "Ignore the effects of Superficial and Light wounds. Reduce Midi, Severe and Traumatic wound penalties by -1D to -1D, -2D and -3D respectively. Increase all touch- and empathy-based obstacles by +2.\n\nType: Dt. Cost: 6 pts.\n\nSource: Burning Wheel Codex, p. 516",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -15921,24 +15921,24 @@
       "callonTarget": "",
       "restrictions": ""
      },
-     "_id": "e5d532e3bac7b104",
-     "folder": null,
+     "effects": [],
      "sort": 500,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "e5d532e3bac7b104",
+     "folder": null
     },
     {
      "name": "Unfeeling",
      "type": "trait",
      "img": "icons/sundries/gaming/dice-runed-brown.webp",
      "system": {
-      "pointCost": 1,
+      "pointCost": 8,
       "name": "",
       "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for Risen Corpse [Dt].",
+      "text": "This creature does not take Steel tests from injury or pain—or fear of suffering harm.\n\nType: Dt. Cost: 8 pts.\n\nSource: Burning Wheel Codex, p. 532",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -15959,24 +15959,24 @@
       "callonTarget": "",
       "restrictions": ""
      },
-     "_id": "736e2546b02b3432",
-     "folder": null,
+     "effects": [],
      "sort": 600,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "736e2546b02b3432",
+     "folder": null
     },
     {
      "name": "Clumsy Walker",
      "type": "trait",
-     "img": "icons/sundries/gaming/dice-runed-brown.webp",
+     "img": "icons/sundries/gaming/rune-card.webp",
      "system": {
       "pointCost": 1,
       "name": "",
-      "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for Risen Corpse [Dt].",
+      "traittype": "character",
+      "text": "A character trait: the name says it all.\n\nType: Char. Costs 1 pt.\n\nSource: Burning Wheel Codex, p. 515",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -15997,24 +15997,24 @@
       "callonTarget": "",
       "restrictions": ""
      },
-     "_id": "7ceb9cf4db0277a5",
-     "folder": null,
+     "effects": [],
      "sort": 700,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "7ceb9cf4db0277a5",
+     "folder": null
     },
     {
      "name": "Night Eyed",
      "type": "trait",
      "img": "icons/sundries/gaming/dice-runed-brown.webp",
      "system": {
-      "pointCost": 1,
+      "pointCost": 4,
       "name": "",
       "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for Risen Corpse [Dt].",
+      "text": "Born of the stuff of night, these creatures can see perfectly well in the darkness and suffer no penalties for nighttime conditions. However, rain and haze do affect them like other characters, and bright light imposes a +1 Ob penalty.\n\nType: Dt. Cost: 4 pts.\n\nRestrictions: Troll common trait\n\nSource: Burning Wheel Codex, p. 524",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -16033,21 +16033,21 @@
       "affiliationName": "",
       "affiliationDice": 0,
       "callonTarget": "",
-      "restrictions": ""
+      "restrictions": "Troll common trait"
      },
-     "_id": "992923b54fa59bce",
-     "folder": null,
+     "effects": [],
      "sort": 800,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "992923b54fa59bce",
+     "folder": null
     },
     {
      "name": "Savage Attack",
      "type": "skill",
-     "img": "icons/sundries/documents/document-official-capital.webp",
+     "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
      "system": {
       "name": "",
       "shade": "B",
@@ -16056,13 +16056,13 @@
       "difficult": 0,
       "challenging": 0,
       "root1": "agility",
-      "root2": "power",
+      "root2": "speed",
       "learning": false,
       "learningProgress": 0,
       "skilltype": "martial",
       "training": false,
       "magical": false,
-      "description": "Skill from the Twilight in the Duchy Verdorben stat block for Risen Corpse. Set the root and type to suit.",
+      "description": "Orcs train wolves to fight savagely and wildly. Wolves with Savage Attack have access to all of the martial maneuvers, including Lock and Strike when using their Crushing Jaws.\n\nFoRKs: Brawling\n\nSkill Type: Martial. Tools: No.\n\nRoot: Ag/Spd\n\nSource: Burning Wheel Codex, p. 540",
       "collapsed": false,
       "persona": 0,
       "fate": 0,
@@ -16072,14 +16072,14 @@
       "tools": false,
       "restrictions": ""
      },
-     "_id": "f8ddbb2613ce927f",
-     "folder": null,
+     "effects": [],
      "sort": 900,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "f8ddbb2613ce927f",
+     "folder": null
     },
     {
      "name": "Nails/Bite",
@@ -18792,10 +18792,10 @@
      "type": "trait",
      "img": "icons/sundries/gaming/dice-runed-brown.webp",
      "system": {
-      "pointCost": 1,
+      "pointCost": 5,
       "name": "",
       "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for Stravit, Lord of Hochen [Dt persona point for Mortal Wound].",
+      "text": "As listed for Stravit, Lord of Hochen: [Dt persona point for Mortal Wound]\n\nThis character (instantly) earns a persona point every time he takes a mortal wound.\n\nType: Dt. Cost: 5 pts.\n\nSource: Burning Wheel Codex, p. 531",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -18816,14 +18816,14 @@
       "callonTarget": "",
       "restrictions": ""
      },
-     "_id": "2b4e3913985d56ac",
-     "folder": null,
+     "effects": [],
      "sort": 1500,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "2b4e3913985d56ac",
+     "folder": null
     },
     {
      "name": "Louis Wu",
@@ -19200,7 +19200,7 @@
     {
      "name": "Death Art",
      "type": "skill",
-     "img": "icons/sundries/documents/document-official-capital.webp",
+     "img": "icons/magic/fire/flame-burning-hand-white.webp",
      "system": {
       "name": "",
       "shade": "B",
@@ -19209,30 +19209,30 @@
       "difficult": 0,
       "challenging": 0,
       "root1": "will",
-      "root2": "perception",
+      "root2": "forte",
       "learning": false,
       "learningProgress": 0,
       "skilltype": "sorcerous",
       "training": false,
       "magical": true,
-      "description": "Skill from the Twilight in the Duchy Verdorben stat block for Stravit, Lord of Hochen. Set the root and type to suit.",
+      "description": "Death Art is a black practice that teaches the sorcerer how to animate corpses and turn them into walking abominations.\n\nObstacles: See the Death Art chapter.\n\nFoRKs: Summoning, Folklore and appropriate wises.\n\nSkill Type: Sorcerous. Tools: Yes and no. See the chapter.\n\nRoot: Will/Forte (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Codex, p. 537",
       "collapsed": false,
       "persona": 0,
       "fate": 0,
       "deeds": 0,
       "open": true,
       "wildFork": false,
-      "tools": false,
+      "tools": true,
       "restrictions": ""
      },
-     "_id": "6ca2ad800dd17b05",
-     "folder": null,
+     "effects": [],
      "sort": 2600,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "_id": "6ca2ad800dd17b05",
+     "folder": null
     },
     {
      "name": "Death-wise",
@@ -22116,14 +22116,14 @@
      "folder": null
     },
     {
-     "name": "Thick Skinned",
+     "name": "Thick Skin",
      "type": "trait",
      "img": "icons/sundries/gaming/dice-runed-brown.webp",
      "system": {
       "pointCost": 1,
       "name": "",
       "traittype": "die",
-      "text": "Trait from the Twilight in the Duchy Verdorben stat block for Büttel, the Duke’s Bailiff [Dt +2 Ob to Incite against in the Duel of Wits].",
+      "text": "As listed for Büttel, the Duke’s Bailiff: [Dt +2 Ob to Incite against in the Duel of Wits]\n\nThe character is unaffected by insults, nettling and nagging. Incite actions in the Duel of Wits are +2 Ob against this character.\n\nType: Dt (die trait). Cost: 1 pt.\n\nSource: Burning Wheel Gold Revised, p. 350",
       "collapsed": true,
       "hasAptitudeModifier": false,
       "aptitudeModifier": 0,
@@ -22144,14 +22144,14 @@
       "callonTarget": "",
       "restrictions": ""
      },
-     "_id": "41cb8c054410bd60",
-     "folder": null,
      "sort": 1200,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "effects": [],
+     "_id": "916cbfd89e4d904c",
+     "folder": null
     },
     {
      "name": "Armor Training",
