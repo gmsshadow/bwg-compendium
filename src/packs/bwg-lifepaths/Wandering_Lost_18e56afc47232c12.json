@@ -1,0 +1,41 @@
+{
+ "name": "Wandering Lost",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 0.5,
+  "resources": 0,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Spirit Hunter, Outcast",
+  "skillPoints": 2,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Nature of All Things",
+  "traitList": "",
+  "note": "Time: ½ yr. Resources: — as listed in the book.\n\nSource: Burning Wheel Codex, p. 483",
+  "requirements": "Last Wolf and Lone Wolf",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "18e56afc47232c12",
+ "_key": "!items!18e56afc47232c12",
+ "folder": "8dd69fb4a76586ea",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

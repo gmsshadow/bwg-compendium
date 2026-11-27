@@ -1,0 +1,41 @@
+{
+ "name": "Corrupt Sergeant",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 12,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Soldier, Servitude, Noble Court",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Intimidation, Appropriate Weapons, Shield Training, Armor Training, Bribe-wise, Wealthy-wise, Criminal-wise",
+  "traitList": "Predatory",
+  "note": "Source: Burning Wheel Gold Revised, p. 167",
+  "requirements": "Village Tough, Squire, Freebooter, Sergeant-at-Arms or Man-at-Arms",
+  "restrictions": "",
+  "order": 18
+ },
+ "sort": 1800,
+ "_id": "c89ec07d5bcb4c22",
+ "_key": "!items!c89ec07d5bcb4c22",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

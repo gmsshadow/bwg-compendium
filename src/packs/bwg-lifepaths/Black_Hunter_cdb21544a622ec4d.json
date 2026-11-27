@@ -1,0 +1,41 @@
+{
+ "name": "Black Hunter",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 5,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Chattel",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Bow, Hunting, Field Dressing, Stealthy",
+  "traitList": "Black Bile Poison",
+  "note": "Source: Burning Wheel Gold Revised, p. 231",
+  "requirements": "He Who Is Fell and Stalks the Night requires Follower, Ravager or Nightseeker",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "cdb21544a622ec4d",
+ "_key": "!items!cdb21544a622ec4d",
+ "folder": "cbebdc53fd4cf69b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

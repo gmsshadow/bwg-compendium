@@ -1,0 +1,41 @@
+{
+ "name": "Guard Captain",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Soldier, Outcast, Noble Court",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Etiquette, Riding, Intimidation, Command, Appropriate Weapons",
+  "traitList": "Exasperated",
+  "note": "Source: Burning Wheel Gold Revised, p. 174",
+  "requirements": "Knight, Captain or any sergeant",
+  "restrictions": "",
+  "order": 44
+ },
+ "sort": 4400,
+ "_id": "eedd502ec7648a00",
+ "_key": "!items!eedd502ec7648a00",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

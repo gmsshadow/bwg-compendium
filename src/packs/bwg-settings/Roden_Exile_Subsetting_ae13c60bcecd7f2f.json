@@ -1,0 +1,321 @@
+{
+ "_id": "ae13c60bcecd7f2f",
+ "name": "Roden Exile Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Exile Subsetting lifepaths for Roden characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Carnivore",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Below, Society",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Hunting, Tracking, Trapper, Bow, Forest-wise",
+    "traitList": "Gnawing Hunger, Blood Thirsty",
+    "note": "Source: Burning Wheel Codex, p. 441",
+    "requirements": "Born to the Fields",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "501157c51302bde4",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ae13c60bcecd7f2f.501157c51302bde4"
+  },
+  {
+   "name": "Scrub",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "1 M, P Field, Society",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Inconspicuous, Soothing Platitudes, Kick Me-wise, Bully-wise, Nest-wise, Below-wise, Village-wise, Cat-wise",
+    "traitList": "Abused, Pack Rat",
+    "note": "Source: Burning Wheel Codex, p. 441",
+    "requirements": "Born Below",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "ad7dacd9ca7aa4c4",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ae13c60bcecd7f2f.ad7dacd9ca7aa4c4"
+  },
+  {
+   "name": "Hermit",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 2,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Field, Society",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Philosophy, Astrology, Rhetoric, Oratory, Foraging, Books-wise, Lost Secret-wise",
+    "traitList": "Thoughtful, Pack Rat, Boring, Farts",
+    "note": "Source: Burning Wheel Codex, p. 441",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "e11bf1a963327316",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ae13c60bcecd7f2f.e11bf1a963327316"
+  },
+  {
+   "name": "Bushwhacker",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Field, Below, Society",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Appropriate Weapons, Intimidation, Stealthy, Ambush-wise",
+    "traitList": "Desperate",
+    "note": "Source: Burning Wheel Codex, p. 442",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "8c8e780a6cb6e3ca",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ae13c60bcecd7f2f.8c8e780a6cb6e3ca"
+  },
+  {
+   "name": "Corsair",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 15,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Field, Below, Society",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Pilot, Rigging, Knots, Navigation, Mending, Ship-wise, Bay-wise",
+    "traitList": "Ruthless, Sea Legs",
+    "note": "Source: Burning Wheel Codex, p. 442",
+    "requirements": "Bushwhacker, Sheriff, Bandit King, Trader, Negotiator or Bruiser",
+    "restrictions": "",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "be1a8dfffb2e621c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ae13c60bcecd7f2f.be1a8dfffb2e621c"
+  },
+  {
+   "name": "Bandit King",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 15,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Field, Below, Society",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Intimidation, Command, Sword, Bandit-wise, Caravan-wise",
+    "traitList": "Scheming, Daring",
+    "note": "Source: Burning Wheel Codex, p. 442",
+    "requirements": "Bushwhacker, Sheriff or Bruiser",
+    "restrictions": "",
+    "order": 1005
+   },
+   "sort": 100500,
+   "_id": "0cbcbd8620809b16",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ae13c60bcecd7f2f.0cbcbd8620809b16"
+  },
+  {
+   "name": "Albino",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 25,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Astrology, Ugly Truth, Read, Write, Sorcery, Spirit Binding",
+    "traitList": "Albino, Gifted, Misunderstood",
+    "note": "Skills as printed: 7 pts: Astrology, Ugly Truth, Read, Write; either Sorcery or Spirit Binding\n\nSource: Burning Wheel Codex, p. 442",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1006
+   },
+   "sort": 100600,
+   "_id": "94020882d7f47835",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ae13c60bcecd7f2f.94020882d7f47835"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Exile Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!ae13c60bcecd7f2f",
+ "folder": "69d554b8c1b5c02d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

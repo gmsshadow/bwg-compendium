@@ -1,0 +1,41 @@
+{
+ "name": "Ranger",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 45,
+  "resources": 10,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Wilderlands",
+  "skillPoints": 10,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Observation, Stealthy, Bow, Foraging, Rhyme of the Pathfinder, Song of Soothing, Threne of the Chameleon, Lyric of Healing",
+  "traitList": "Gray Mantle, Sprinter",
+  "note": "Source: Burning Wheel Gold Revised, p. 136",
+  "requirements": "Forester, Wanderer, Bowyer or Second",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "577e042aa454f5bc",
+ "_key": "!items!577e042aa454f5bc",
+ "folder": "34ca3eb13c86f59f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

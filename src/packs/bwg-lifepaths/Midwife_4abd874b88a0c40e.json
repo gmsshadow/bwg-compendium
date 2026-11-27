@@ -1,0 +1,41 @@
+{
+ "name": "Midwife",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Villager, Outcast",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Animal Husbandry, Herbalism, Midwifery, Omen-wise",
+  "traitList": "Bedside Manner",
+  "note": "Source: Burning Wheel Gold Revised, p. 163",
+  "requirements": "any female gender-specific lifepath (Lady, for example), Farmer or Itinerant Priest",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "4abd874b88a0c40e",
+ "_key": "!items!4abd874b88a0c40e",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

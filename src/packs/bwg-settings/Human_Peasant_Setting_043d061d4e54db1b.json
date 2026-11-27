@@ -4,7 +4,7 @@
  "type": "setting",
  "img": "icons/environment/settlement/house-two-stories-small.webp",
  "system": {
-  "description": "Peasant Setting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+  "description": "Peasant Setting lifepaths for Human characters, Burning Wheel Gold Revised and the Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
  },
  "items": [
   {
@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "ce9d7e4432b8b9c4",
+   "_id": "2f253460ca2d8efd",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.ce9d7e4432b8b9c4"
+   "_key": "!actors.items!043d061d4e54db1b.2f253460ca2d8efd"
   },
   {
    "name": "Farmer",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "fad13508c1307dd2",
+   "_id": "85f91e51036bf2ca",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.fad13508c1307dd2"
+   "_key": "!actors.items!043d061d4e54db1b.85f91e51036bf2ca"
   },
   {
    "name": "Head of Household",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "070f16ac40c0a1a8",
+   "_id": "ee24642937376105",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.070f16ac40c0a1a8"
+   "_key": "!actors.items!043d061d4e54db1b.ee24642937376105"
   },
   {
    "name": "Midwife",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "d40df613f143622b",
+   "_id": "7100ee7d23cf0694",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.d40df613f143622b"
+   "_key": "!actors.items!043d061d4e54db1b.7100ee7d23cf0694"
   },
   {
    "name": "Lazy Stayabout",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "47d9919c6dc9c790",
+   "_id": "a6e9e5b36beff6d1",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.47d9919c6dc9c790"
+   "_key": "!actors.items!043d061d4e54db1b.a6e9e5b36beff6d1"
   },
   {
    "name": "Conscript",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "a3b02131779d1fe3",
+   "_id": "6322e8353c5a861b",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.a3b02131779d1fe3"
+   "_key": "!actors.items!043d061d4e54db1b.6322e8353c5a861b"
   },
   {
    "name": "Peasant Pilgrim",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "d9de91b1b7186444",
+   "_id": "7be1d0522b0f5ca3",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.d9de91b1b7186444"
+   "_key": "!actors.items!043d061d4e54db1b.7be1d0522b0f5ca3"
   },
   {
    "name": "Miller",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "4911e581ec07f6f5",
+   "_id": "ca342d60b5957837",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.4911e581ec07f6f5"
+   "_key": "!actors.items!043d061d4e54db1b.ca342d60b5957837"
   },
   {
    "name": "Fisherman",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "418c510e1d25748d",
+   "_id": "39070af221c7a37b",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.418c510e1d25748d"
+   "_key": "!actors.items!043d061d4e54db1b.39070af221c7a37b"
   },
   {
    "name": "Shepherd",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "302518e7ac2bd067",
+   "_id": "bc9b9ce201318278",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.302518e7ac2bd067"
+   "_key": "!actors.items!043d061d4e54db1b.bc9b9ce201318278"
   },
   {
    "name": "Woodcutter",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "c38ab939c26e425a",
+   "_id": "6fe40e3dd722cf67",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.c38ab939c26e425a"
+   "_key": "!actors.items!043d061d4e54db1b.6fe40e3dd722cf67"
   },
   {
    "name": "Hunter",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "4891875c78fc09b2",
+   "_id": "ce425e559ec5cd4c",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.4891875c78fc09b2"
+   "_key": "!actors.items!043d061d4e54db1b.ce425e559ec5cd4c"
   },
   {
    "name": "Trapper",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "ca8b89dc39a1c4a9",
+   "_id": "44b989251c84514b",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.ca8b89dc39a1c4a9"
+   "_key": "!actors.items!043d061d4e54db1b.44b989251c84514b"
   },
   {
    "name": "Peddler",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "cee338281310d7bf",
+   "_id": "1657d94cea5d8c87",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.cee338281310d7bf"
+   "_key": "!actors.items!043d061d4e54db1b.1657d94cea5d8c87"
   },
   {
    "name": "Elder",
@@ -602,7 +602,7 @@
     "order": 14
    },
    "sort": 1400,
-   "_id": "549005e18bd097b6",
+   "_id": "9874f7fbe5534482",
    "ownership": {
     "default": 0
    },
@@ -620,7 +620,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.549005e18bd097b6"
+   "_key": "!actors.items!043d061d4e54db1b.9874f7fbe5534482"
   },
   {
    "name": "Augur",
@@ -643,7 +643,7 @@
     "order": 15
    },
    "sort": 1500,
-   "_id": "37f9d90bd5a7323a",
+   "_id": "dd58208d0bf3d6e9",
    "ownership": {
     "default": 0
    },
@@ -661,7 +661,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.37f9d90bd5a7323a"
+   "_key": "!actors.items!043d061d4e54db1b.dd58208d0bf3d6e9"
   },
   {
    "name": "Itinerant Priest",
@@ -684,7 +684,7 @@
     "order": 16
    },
    "sort": 1600,
-   "_id": "03153663b9829481",
+   "_id": "191b6621af06999a",
    "ownership": {
     "default": 0
    },
@@ -702,7 +702,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.03153663b9829481"
+   "_key": "!actors.items!043d061d4e54db1b.191b6621af06999a"
   },
   {
    "name": "Recluse Wizard",
@@ -725,7 +725,7 @@
     "order": 17
    },
    "sort": 1700,
-   "_id": "87fd7ffc33f7e8f5",
+   "_id": "63ba2f21b6564467",
    "ownership": {
     "default": 0
    },
@@ -743,7 +743,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.87fd7ffc33f7e8f5"
+   "_key": "!actors.items!043d061d4e54db1b.63ba2f21b6564467"
   },
   {
    "name": "Country Wife",
@@ -766,7 +766,7 @@
     "order": 18
    },
    "sort": 1800,
-   "_id": "729fc9db984dca73",
+   "_id": "7f956775945e1573",
    "ownership": {
     "default": 0
    },
@@ -784,7 +784,89 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!043d061d4e54db1b.729fc9db984dca73"
+   "_key": "!actors.items!043d061d4e54db1b.7f956775945e1573"
+  },
+  {
+   "name": "Gifted Child",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Court, Religious",
+    "skillPoints": 0,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Misunderstood, Gifted, Abused, Spirit Familiar",
+    "note": "Special Gifted lifepath (Wizard Burner), added to the Peasant Setting. Source: Burning Wheel Codex, p. 402",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "5ed78ac97eeeeb98",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.5ed78ac97eeeeb98"
+  },
+  {
+   "name": "Speaker of Names",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 20,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Outcast, Peasant, Village",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Spirit Binding, Circination, Paths-wise, Spirit-wise, Domain-wise",
+    "traitList": "Well Traveled, Brook No Fools, Fey Blood",
+    "note": "Wizard Burner lifepath, supplementing the Peasant Setting. Source: Burning Wheel Codex, p. 402",
+    "requirements": "Augur, Crazy Witch, Neophyte Sorcerer or Elder",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "7036f3cb0ca97120",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!043d061d4e54db1b.7036f3cb0ca97120"
   }
  ],
  "effects": [],

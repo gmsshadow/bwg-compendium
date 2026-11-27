@@ -1,0 +1,44 @@
+{
+ "name": "Hilt, Pommel or Butt",
+ "type": "melee weapon",
+ "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+ "system": {
+  "pointCost": 0,
+  "quality": "run of the mill",
+  "handedness": "one",
+  "description": "Striking with the hilt, pommel or butt of any weapon. Weapon length is one step shorter (-1 WL) than the weapon itself; adjust the length to suit.\n\nRun of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 555",
+  "skillId": "",
+  "shade": "B",
+  "baseOb": 1,
+  "attacks": [
+   {
+    "attackName": "",
+    "power": 1,
+    "add": 2,
+    "vsArmor": 0,
+    "weaponSpeed": "1",
+    "weaponLength": "shortest"
+   }
+  ]
+ },
+ "_id": "2764fb2bf8a34612",
+ "_key": "!items!2764fb2bf8a34612",
+ "folder": "fa8f0a8663f767d9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

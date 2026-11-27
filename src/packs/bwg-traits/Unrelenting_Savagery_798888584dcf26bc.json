@@ -1,0 +1,50 @@
+{
+ "name": "Unrelenting Savagery",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Head-Takers earn their position through their ability to master their blood lust. When in battle, or when committing murder, this character may FoRK his Hatred into any weapon skill or Power test. However, the player who controls this character must take his actions too far. When he uses this trait he must describe an act so horrid and vile it causes the other players to flinch and grimace. Failure to evoke the savage nature of the Head-Taker is cause for loss of the trait in the Trait Vote. Invoking this trait also counts as a routine test for Hatred.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nSource: Burning Wheel Gold Revised, p. 352",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "798888584dcf26bc",
+ "_key": "!items!798888584dcf26bc",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

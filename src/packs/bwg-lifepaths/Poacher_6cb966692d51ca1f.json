@@ -1,0 +1,41 @@
+{
+ "name": "Poacher",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 5,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Servitude, Soldier, Villager",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Royal Parks-wise, Hunting, Stealthy, Tracking, Orienteering",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 194",
+  "requirements": "",
+  "restrictions": "",
+  "order": 7
+ },
+ "sort": 700,
+ "_id": "6cb966692d51ca1f",
+ "_key": "!items!6cb966692d51ca1f",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,444 @@
+{
+ "_id": "ed482b055fe3e543",
+ "name": "Human College of Magic Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "College of Magic Setting lifepaths for Human characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Supplicant",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Peasant, Soldier, Servitude",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Animal Husbandry, Firebuilding",
+    "traitList": "Broken In, Gifted, Second Sight, Fey Blood",
+    "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+    "requirements": "",
+    "restrictions": "Must be second lifepath. May not be taken twice",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "b30a573c771e63fb",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ed482b055fe3e543.b30a573c771e63fb"
+  },
+  {
+   "name": "Junior Student",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 2,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Court, City Dweller, Outcast",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Read, Write, Ancient History, Circination, Illuminations, Astrology, Symbology",
+    "traitList": "Hazed",
+    "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+    "requirements": "Supplicant, Arcane Devotee, Apt Pupil or Neophyte Sorcerer",
+    "restrictions": "May not be taken twice",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "98db9bbe449b82e2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ed482b055fe3e543.98db9bbe449b82e2"
+  },
+  {
+   "name": "Senior Student",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 2,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Court, City Dweller, Outcast",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Calligraphy, Rhetoric, Aura Reading, Empyrealia, Demonology, Doctrine, School of Magic-wise, Junior Student-wise",
+    "traitList": "Graduate, Bully",
+    "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+    "requirements": "Junior Student or Sorcerer. May not be taken twice",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "18b94db74142e577",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ed482b055fe3e543.18b94db74142e577"
+  },
+  {
+   "name": "Adjunct",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Religious, Outcast, City Dweller",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Research, Folklore, Alchemy, Taxidermy, Library-wise",
+    "traitList": "Overworked, Familiar Face",
+    "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+    "requirements": "Senior Student",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "6f7ef356d1e37897",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ed482b055fe3e543.6f7ef356d1e37897"
+  },
+  {
+   "name": "Master Sorcerer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 30,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Court, City Dweller, Outcast, Sea",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Sorcery, Instruction, Facet-wise, Aura-wise",
+    "traitList": "Versatile, Sixth Sense",
+    "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+    "requirements": "Adjunct or Court Sorcerer",
+    "restrictions": "",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "6bdca2b20a342961",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ed482b055fe3e543.6bdca2b20a342961"
+  },
+  {
+   "name": "Master Enchanter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 20,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Court, City Dweller, Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Enchanting, Instruction, Carving, Etching, Herbalism, Jeweler, Vessel-wise",
+    "traitList": "Nimble, Practiced Precision",
+    "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+    "requirements": "Adjunct or Court Enchanter",
+    "restrictions": "",
+    "order": 1005
+   },
+   "sort": 100500,
+   "_id": "50f7b5a8474e9e4e",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ed482b055fe3e543.50f7b5a8474e9e4e"
+  },
+  {
+   "name": "Master Summoner",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 20,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Court, City Dweller, Outcast",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Summoning, Instruction, Bargaining, Ugly Truth, Soothing Platitudes, Rule of Law, Philosophy, Scheme-wise",
+    "traitList": "Extrovert, Fearless, Obscure Aura",
+    "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+    "requirements": "Adjunct or Court Summoner",
+    "restrictions": "",
+    "order": 1006
+   },
+   "sort": 100600,
+   "_id": "55a3a53f127f6999",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ed482b055fe3e543.55a3a53f127f6999"
+  },
+  {
+   "name": "Researcher",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 15,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Court, Religious, Outcast",
+    "skillPoints": 12,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Research, Composition, Cartography, Cryptography, Doctrine, Apothecary, Ritual, Death Art, Foreign Languages, Dark Arts-wise, Elven Songs-wise, Orc Rituals-wise, Dwarven Art-wise",
+    "traitList": "Myopic, Bookworm, Speaker of the Secret Language",
+    "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 406",
+    "requirements": "Adjunct or Scholar. May only be taken once",
+    "restrictions": "",
+    "order": 1007
+   },
+   "sort": 100700,
+   "_id": "fe23ab91da1d8a78",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ed482b055fe3e543.fe23ab91da1d8a78"
+  },
+  {
+   "name": "Councillor",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 40,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Court, City Dweller",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Administration, Rhetoric, Wine Tasting, Troubled Student-wise",
+    "traitList": "Council of Mages, Imperious Demeanor",
+    "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 406",
+    "requirements": "Master Sorcerer, Master Enchanter or Master Summoner",
+    "restrictions": "",
+    "order": 1008
+   },
+   "sort": 100800,
+   "_id": "7ec1dcc8493afab2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ed482b055fe3e543.7ec1dcc8493afab2"
+  },
+  {
+   "name": "Headmaster",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 12,
+    "resources": 50,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Court, Religious",
+    "skillPoints": 7,
+    "generalPoints": 1,
+    "traitPoints": 3,
+    "skillList": "Oratory, Etiquette, Poetry, Strategy Games, Vintner, Dark Secret-wise",
+    "traitList": "Stoic, Master of Mages, Domineering Presence",
+    "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 406",
+    "requirements": "Councillor",
+    "restrictions": "",
+    "order": 1009
+   },
+   "sort": 100900,
+   "_id": "0e16e7e4b8322a51",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!ed482b055fe3e543.0e16e7e4b8322a51"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "College of Magic Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!ed482b055fe3e543",
+ "folder": "f28c4fd7c6c9b063",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

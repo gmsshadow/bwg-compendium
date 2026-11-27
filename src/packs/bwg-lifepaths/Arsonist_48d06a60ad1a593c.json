@@ -1,0 +1,41 @@
+{
+ "name": "Arsonist",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 6,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Arson, Firebuilding, Inconspicuous, Firebombs, Arson-wise",
+  "traitList": "Pyromaniac",
+  "note": "Source: Burning Wheel Codex, p. 442",
+  "requirements": "Initiate",
+  "restrictions": "",
+  "order": 1003
+ },
+ "sort": 100300,
+ "_id": "48d06a60ad1a593c",
+ "_key": "!items!48d06a60ad1a593c",
+ "folder": "39586c96cf7911c7",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

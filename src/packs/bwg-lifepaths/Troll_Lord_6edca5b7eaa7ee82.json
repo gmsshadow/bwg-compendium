@@ -1,0 +1,41 @@
+{
+ "name": "Troll Lord",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 20,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Great and Black, Servant",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Troll-wise, Troll Etiquette, Hammer, Shield Training",
+  "traitList": "Arrogant, Troll Speak",
+  "note": "Source: Burning Wheel Gold Revised, p. 232",
+  "requirements": "Bears the Lash, Pack Master or Named",
+  "restrictions": "",
+  "order": 11
+ },
+ "sort": 1100,
+ "_id": "6edca5b7eaa7ee82",
+ "_key": "!items!6edca5b7eaa7ee82",
+ "folder": "cbebdc53fd4cf69b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

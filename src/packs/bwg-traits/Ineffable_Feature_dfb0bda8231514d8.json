@@ -1,0 +1,50 @@
+{
+ "name": "Ineffable Feature",
+ "type": "trait",
+ "img": "icons/sundries/gaming/rune-card.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "character",
+  "text": "An Ineffable Feature is a facial or bodily feature that cannot be altered or destroyed. Or if it is somehow destroyed or removed, it grows back the same as it was before.\n\nType: Char (character trait). Cost: 1 pt.\n\nSource: Burning Wheel Gold Revised, p. 330",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "dfb0bda8231514d8",
+ "_key": "!items!dfb0bda8231514d8",
+ "folder": "3afb32a49bf458eb",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

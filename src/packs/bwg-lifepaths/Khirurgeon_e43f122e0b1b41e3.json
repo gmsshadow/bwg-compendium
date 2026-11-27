@@ -1,0 +1,41 @@
+{
+ "name": "Khirurgeon",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 25,
+  "resources": 25,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Guilder, Outcast, Noble",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Khirurgy, Soothing Platitudes, Cooking, Infection-wise",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 115",
+  "requirements": "Abecedart, Seneschal or Graybeard",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "e43f122e0b1b41e3",
+ "_key": "!items!e43f122e0b1b41e3",
+ "folder": "a9ab655cebcfeb1d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

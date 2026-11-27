@@ -1,0 +1,41 @@
+{
+ "name": "Master Craftsman",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 30,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "City Dweller, Soldier",
+  "skillPoints": 6,
+  "generalPoints": 3,
+  "traitPoints": 1,
+  "skillList": "Craftsman-wise, Artisan-wise, Materials-wise, Tools-wise",
+  "traitList": "Perfectionist, Early Riser, Stubborn, Healthy",
+  "note": "Source: Burning Wheel Gold Revised, p. 169",
+  "requirements": "Journeyman",
+  "restrictions": "",
+  "order": 34
+ },
+ "sort": 3400,
+ "_id": "73d9a91a224d9ca3",
+ "_key": "!items!73d9a91a224d9ca3",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

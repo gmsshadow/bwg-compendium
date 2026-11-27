@@ -1,0 +1,49 @@
+{
+ "name": "Spearcraft",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": true,
+  "description": "Spearbearers, like Bowyers, learn more than just the art of killing. They learn to cherish and understand their weapon—they know it from its birth to the first time it sheds blood. For many, their spear is the last piece of this world they hold in their hands before their own life is cut short. Use Spearcraft with Antiphon Union to create magic spears.\n\nObstacles: Reshafting a run of the mill spear, Ob 1. Making a run of the mill spear, Ob 2. Making javelins or reshafting an Elven spear, Ob 3. Making superior quality javelins, Ob 4. Making an Elven spear, Ob 5.\n\nFoRKs: Riddle of Steel, Smithcraft, Woodcraft, Warcraft\n\nSkill Type: Craftsman. Tools: Yes.\n\nRestrictions: Elves only\n\nRoot: Will/Agility (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 300",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "f94a7665bf3507f5",
+ "_key": "!items!f94a7665bf3507f5",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Song of the Sword",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "The Song of the Sword infuses the blade with a dread and vengeful power. The Sword Singer may only sing one blessing at a time, but he may bless any sword in his presence.\n\nObstacle: See Description. The singer chooses the blade blessing to be sung before rolling: Morn Blade, (+1 weapon speed), Ob 1. Singing Blade (open-ended sword dice), Ob 2; Preternatural Balance (+1D), Ob 3; Crushing Edge (+1 VA), Ob 4; Sword of Might (+1 Power), Ob 5; Blinding Blade (+3 weapon speed), Ob 6; Blood Drinker (reduce Add by 1), Ob 7; Sun Blade (increase weapon length to “longest”), Ob 8. All blessings also make the weapon a “spirit blade” which may affect creatures with the Spirit Nature trait.\n\nActions: Obstacle x 1\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 150",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "2103a82b1b8a943f",
+ "_key": "!items!2103a82b1b8a943f",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

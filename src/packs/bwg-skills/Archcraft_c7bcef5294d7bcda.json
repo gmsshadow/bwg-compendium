@@ -1,0 +1,49 @@
+{
+ "name": "Archcraft",
+ "type": "skill",
+ "img": "icons/tools/hand/chisel-steel-brown.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artisan",
+  "training": false,
+  "magical": true,
+  "description": "Archcraft is a comprehensive discipline teaching the principles of both architecture and engineering. Using this broad skill, Elven artisans create halls of sweeping beauty and depth. Combined with Antiphon Union and various spell songs, this skill can be used to create enchanted dwellings for the Elves. The following are but a few examples: Using Song of Arbors, buildings can be constructed to weave in and out of ancient trees; with Alarm, certain gates will warn of intruders; with Weathersong, an atrium can be built so it predicts the coming weather.\n\nObstacles: Simple arch, Ob 1. Small gate, Ob 2. Large gate, Ob 3. Chamber, Ob 4. Domed hall, Ob 5.\n\nFoRKs: Woodcraft, Stonecraft\n\nSkill Type: Artisan. Tools: Workshop.\n\nRestrictions: Elves only\n\nRoot: Will/Agility (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 256",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "c7bcef5294d7bcda",
+ "_key": "!items!c7bcef5294d7bcda",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Greed",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Deep in the heart of every Dwarf lies a terrible seed, a lust for wealth and beauty. Some Dwarves master it; others succumb. It is a powerful emotion that drives many a Dwarf from his comfortable life and compels him to perform terrible acts or zealously create works of inestimable craft. See the Dwarven Greed section in this chapter for more on this emotional attribute.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Dwarven common trait\n\nSource: Burning Wheel Gold Revised, p. 328",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Dwarven common trait"
+ },
+ "_id": "4d597c39f5a08b3a",
+ "_key": "!items!4d597c39f5a08b3a",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

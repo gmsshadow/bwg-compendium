@@ -1,0 +1,49 @@
+{
+ "_id": "859962b179152392",
+ "_key": "!items!859962b179152392",
+ "name": "Twisted Tongue",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "When singing into the ear of an unwitting victim, the Dark Elf bends him to his will. This song is used to enhance the Dark Elf’s social prowess.\n\nObstacle: See Below\n\nObstacles: Using the following obstacles to make a social skill open-ended for the duration of the scene: Falsehood and Intimidation, Ob 1. Soothing Platitudes and Ugly Truth, Ob 2. Persuasion, Ob 3. Oratory, Ob 4. Rhetoric, Ob 5.\n\nSpecial: In addition, the Twisted Tongue can be sung to grant the Dark Elf a reputation for use in Circles tests. Use the following obstacles: 1D reputation, Ob 2. 2D reputation, Ob 4. 3D reputation, Ob 6. Make the roll before you test Circles. Failure indicates the Dark Elf has an enemy in these circles, regardless if you pass the Circles test or not.\n\nDuration: One test or series test.\n\nActions: 6\n\nDark Elf spell song: follows the rules for Elven spell songs (sorcerous for practice and learning, always open-ended, no tools or FoRKs).\n\nSong root: Spite. The system cannot use Spite as a root; Will is set instead.\n\nRestrictions: Dark Elves only\n\nSource: Burning Wheel Codex, p. 424",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dark Elves only"
+ },
+ "effects": [],
+ "folder": "237aaf0e26bbe354",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

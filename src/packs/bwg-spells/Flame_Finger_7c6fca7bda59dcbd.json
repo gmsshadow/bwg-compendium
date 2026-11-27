@@ -1,0 +1,52 @@
+{
+ "name": "Flame Finger",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 6,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": false,
+  "actions": 12,
+  "description": "A small, bright flame leaps into being in the palm of the sorcerer. This flame can be used to ignite fires (like a brand would) or shed a little candlelight.\n\nObstacle: 3. Actions: 12.\n\nOrigin: Presence | Area of Effect: Single Target | Element: Fire | Impetus: Create | Duration: Sustained | Resource Points: 6\n\nSource: Burning Wheel Gold Revised, p. 213",
+  "origin": "Presence",
+  "areaOfEffect": "Single Target",
+  "element": "Fire",
+  "impetus": "Create",
+  "duration": "Sustained",
+  "rpCost": 6,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "7c6fca7bda59dcbd",
+ "_key": "!items!7c6fca7bda59dcbd",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Two-Fisted Fighting Training",
+ "type": "skill",
+ "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "agility",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "martial",
+  "training": true,
+  "magical": false,
+  "description": "This martial training skill allows a character to fight effectively with a weapon in his off hand. This secondary the weapon must be smaller or of equal weight to his other weapon. Both weapons must be one-handed and be at most long weapon length.\n\nWhen fighting with two weapons, there is no penalty for striking with a weapon in the off hand. If a player wants to Strike with both weapons simultaneously, divide his dice between his two weapons. The character may perform Block & Strike actions as if he had Shield Training. Skill dice are divided between attack and defense as the combatant sees fit.\n\n*Training Root is for Aptitude only.\n\nSkill Type: Martial Training. Tools: No.\n\nRoot: Agility*\n\nSource: Burning Wheel Gold Revised, p. 306",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "0688dda2803df5d9",
+ "_key": "!items!0688dda2803df5d9",
+ "folder": "099756cf8a437215",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

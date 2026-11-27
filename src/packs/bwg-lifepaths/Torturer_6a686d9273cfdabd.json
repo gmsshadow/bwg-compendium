@@ -1,0 +1,41 @@
+{
+ "name": "Torturer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Outcast, Servitude, Soldier",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Interrogation, Torture, Anatomy, Torture Devices-wise",
+  "traitList": "Unsavory Madman",
+  "note": "Source: Burning Wheel Gold Revised, p. 180",
+  "requirements": "",
+  "restrictions": "",
+  "order": 7
+ },
+ "sort": 700,
+ "_id": "6a686d9273cfdabd",
+ "_key": "!items!6a686d9273cfdabd",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

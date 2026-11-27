@@ -1,0 +1,52 @@
+{
+ "name": "Spark Shower",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 8,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 2,
+  "upSpell": true,
+  "actions": 1,
+  "description": "Fire leaps and spits sparks at the sorcerer’s call. Anyone sitting around the targeted fire suffers. Must be cast into a fire source. Will douse torches when cast, but will not unduly affect campfires or larger blazes. Damaging effect spell: Base Power = ½ Will +3, VA 2. Die of Fate to determine IMS. Weapon Length: as Polearm; Range: as Pistol.\n\nObstacle: 2^. Actions: 1.\n\nOrigin: Presence | Area of Effect: Single Target | Element: Fire | Impetus: Destroy | Duration: Instantaneous | Resource Points: 8\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 219",
+  "origin": "Presence",
+  "areaOfEffect": "Single Target",
+  "element": "Fire",
+  "impetus": "Destroy",
+  "duration": "Instantaneous",
+  "rpCost": 8,
+  "isWeapon": true,
+  "halfWill": true,
+  "willDamageBonus": 3,
+  "va": 2,
+  "weaponLength": "longer",
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "10 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "87d797347bf49c87",
+ "_key": "!items!87d797347bf49c87",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

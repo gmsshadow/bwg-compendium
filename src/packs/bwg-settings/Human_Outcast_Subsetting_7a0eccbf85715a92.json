@@ -4,7 +4,7 @@
  "type": "setting",
  "img": "icons/environment/settlement/house-two-stories-small.webp",
  "system": {
-  "description": "Outcast Subsetting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+  "description": "Outcast Subsetting lifepaths for Human characters, Burning Wheel Gold Revised and the Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
  },
  "items": [
   {
@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "8cde7836401b1095",
+   "_id": "685fe89b4c4f2621",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.8cde7836401b1095"
+   "_key": "!actors.items!7a0eccbf85715a92.685fe89b4c4f2621"
   },
   {
    "name": "Apostate",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "71720860f9300d19",
+   "_id": "8da9ae8f0e57341d",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.71720860f9300d19"
+   "_key": "!actors.items!7a0eccbf85715a92.8da9ae8f0e57341d"
   },
   {
    "name": "Blackmailer",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "8780f1afff5ac51a",
+   "_id": "2a0ebdf98e400976",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.8780f1afff5ac51a"
+   "_key": "!actors.items!7a0eccbf85715a92.2a0ebdf98e400976"
   },
   {
    "name": "Kidnapper",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "37654eb084bd56c9",
+   "_id": "ce3527f836d25ac0",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.37654eb084bd56c9"
+   "_key": "!actors.items!7a0eccbf85715a92.ce3527f836d25ac0"
   },
   {
    "name": "Pillager",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "9f165767245d3dca",
+   "_id": "84bc87ec6a921034",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.9f165767245d3dca"
+   "_key": "!actors.items!7a0eccbf85715a92.84bc87ec6a921034"
   },
   {
    "name": "Vagrant",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "f3eb474dc666ca5f",
+   "_id": "4844bdd0b46fe0e0",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.f3eb474dc666ca5f"
+   "_key": "!actors.items!7a0eccbf85715a92.4844bdd0b46fe0e0"
   },
   {
    "name": "Cripple",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "14ee71b4703ed735",
+   "_id": "f3179d24fee225f1",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.14ee71b4703ed735"
+   "_key": "!actors.items!7a0eccbf85715a92.f3179d24fee225f1"
   },
   {
    "name": "Poacher",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "99d93bbc5f2f3b4e",
+   "_id": "4e3c39c28ee3a7e6",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.99d93bbc5f2f3b4e"
+   "_key": "!actors.items!7a0eccbf85715a92.4e3c39c28ee3a7e6"
   },
   {
    "name": "Deranged",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "fe010cdc1c62b48b",
+   "_id": "dfc0bcc1a9ea5761",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.fe010cdc1c62b48b"
+   "_key": "!actors.items!7a0eccbf85715a92.dfc0bcc1a9ea5761"
   },
   {
    "name": "Outlaw",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "a7fd03f901d0f625",
+   "_id": "a95ca8810d6a42aa",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.a7fd03f901d0f625"
+   "_key": "!actors.items!7a0eccbf85715a92.a95ca8810d6a42aa"
   },
   {
    "name": "Fence",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "d05b031fa0469e2c",
+   "_id": "8f277c768c85767f",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.d05b031fa0469e2c"
+   "_key": "!actors.items!7a0eccbf85715a92.8f277c768c85767f"
   },
   {
    "name": "Gravedigger",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "0e8c26fcdf0a9d94",
+   "_id": "4d02bc587e99de65",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.0e8c26fcdf0a9d94"
+   "_key": "!actors.items!7a0eccbf85715a92.4d02bc587e99de65"
   },
   {
    "name": "Ratcatcher",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "f0cba21c02d82769",
+   "_id": "be8f29f3ec33ddb7",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.f0cba21c02d82769"
+   "_key": "!actors.items!7a0eccbf85715a92.be8f29f3ec33ddb7"
   },
   {
    "name": "Beggar",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "f476ae2627f5b5d8",
+   "_id": "8fe0068759b9bc21",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.f476ae2627f5b5d8"
+   "_key": "!actors.items!7a0eccbf85715a92.8fe0068759b9bc21"
   },
   {
    "name": "Leper",
@@ -602,7 +602,7 @@
     "order": 14
    },
    "sort": 1400,
-   "_id": "5ebf39aded83a2a7",
+   "_id": "fef96cdb0ccc55b3",
    "ownership": {
     "default": 0
    },
@@ -620,7 +620,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.5ebf39aded83a2a7"
+   "_key": "!actors.items!7a0eccbf85715a92.fef96cdb0ccc55b3"
   },
   {
    "name": "Prostitute",
@@ -643,7 +643,7 @@
     "order": 15
    },
    "sort": 1500,
-   "_id": "40c6b3888ff4a328",
+   "_id": "42a935174e1b81e5",
    "ownership": {
     "default": 0
    },
@@ -661,7 +661,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.40c6b3888ff4a328"
+   "_key": "!actors.items!7a0eccbf85715a92.42a935174e1b81e5"
   },
   {
    "name": "Whoremonger",
@@ -684,7 +684,7 @@
     "order": 16
    },
    "sort": 1600,
-   "_id": "68c46aefae08d9d9",
+   "_id": "5015c6c74d4fdfc7",
    "ownership": {
     "default": 0
    },
@@ -702,7 +702,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.68c46aefae08d9d9"
+   "_key": "!actors.items!7a0eccbf85715a92.5015c6c74d4fdfc7"
   },
   {
    "name": "Itinerant Performer",
@@ -725,7 +725,7 @@
     "order": 17
    },
    "sort": 1700,
-   "_id": "fb396fb282ab7418",
+   "_id": "9b7a19bbf7cdb853",
    "ownership": {
     "default": 0
    },
@@ -743,7 +743,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.fb396fb282ab7418"
+   "_key": "!actors.items!7a0eccbf85715a92.9b7a19bbf7cdb853"
   },
   {
    "name": "Insurrectionist",
@@ -766,7 +766,7 @@
     "order": 18
    },
    "sort": 1800,
-   "_id": "f9ea03b4c3166326",
+   "_id": "8c9584d0d76b5710",
    "ownership": {
     "default": 0
    },
@@ -784,7 +784,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.f9ea03b4c3166326"
+   "_key": "!actors.items!7a0eccbf85715a92.8c9584d0d76b5710"
   },
   {
    "name": "Cultist",
@@ -807,7 +807,7 @@
     "order": 19
    },
    "sort": 1900,
-   "_id": "a9c9afb894dbdbe9",
+   "_id": "8b7c2ed0f20794c7",
    "ownership": {
     "default": 0
    },
@@ -825,7 +825,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.a9c9afb894dbdbe9"
+   "_key": "!actors.items!7a0eccbf85715a92.8b7c2ed0f20794c7"
   },
   {
    "name": "Poisoner",
@@ -848,7 +848,7 @@
     "order": 20
    },
    "sort": 2000,
-   "_id": "490e90ffd0a2c932",
+   "_id": "b9f884d087f71a2e",
    "ownership": {
     "default": 0
    },
@@ -866,7 +866,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.490e90ffd0a2c932"
+   "_key": "!actors.items!7a0eccbf85715a92.b9f884d087f71a2e"
   },
   {
    "name": "Thug",
@@ -889,7 +889,7 @@
     "order": 21
    },
    "sort": 2100,
-   "_id": "8993897d471c976f",
+   "_id": "e522490d9fcc7bf3",
    "ownership": {
     "default": 0
    },
@@ -907,7 +907,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.8993897d471c976f"
+   "_key": "!actors.items!7a0eccbf85715a92.e522490d9fcc7bf3"
   },
   {
    "name": "Desperate Killer",
@@ -930,7 +930,7 @@
     "order": 22
    },
    "sort": 2200,
-   "_id": "0141c407c219fff1",
+   "_id": "86ef6fd025f9db76",
    "ownership": {
     "default": 0
    },
@@ -948,7 +948,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.0141c407c219fff1"
+   "_key": "!actors.items!7a0eccbf85715a92.86ef6fd025f9db76"
   },
   {
    "name": "Bandit",
@@ -971,7 +971,7 @@
     "order": 23
    },
    "sort": 2300,
-   "_id": "8677b20189083eb4",
+   "_id": "6afd2ec264e03663",
    "ownership": {
     "default": 0
    },
@@ -989,7 +989,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.8677b20189083eb4"
+   "_key": "!actors.items!7a0eccbf85715a92.6afd2ec264e03663"
   },
   {
    "name": "Pirate",
@@ -1012,7 +1012,7 @@
     "order": 24
    },
    "sort": 2400,
-   "_id": "cc9d8e425e871918",
+   "_id": "7b6bc8614e7c3efa",
    "ownership": {
     "default": 0
    },
@@ -1030,7 +1030,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.cc9d8e425e871918"
+   "_key": "!actors.items!7a0eccbf85715a92.7b6bc8614e7c3efa"
   },
   {
    "name": "Smuggler",
@@ -1053,7 +1053,7 @@
     "order": 25
    },
    "sort": 2500,
-   "_id": "969e816dc1a14b29",
+   "_id": "c76faa432ee00758",
    "ownership": {
     "default": 0
    },
@@ -1071,7 +1071,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.969e816dc1a14b29"
+   "_key": "!actors.items!7a0eccbf85715a92.c76faa432ee00758"
   },
   {
    "name": "Freebooter",
@@ -1094,7 +1094,7 @@
     "order": 26
    },
    "sort": 2600,
-   "_id": "03099dbd633b774b",
+   "_id": "1ceebd23c0e070a8",
    "ownership": {
     "default": 0
    },
@@ -1112,7 +1112,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.03099dbd633b774b"
+   "_key": "!actors.items!7a0eccbf85715a92.1ceebd23c0e070a8"
   },
   {
    "name": "Strider",
@@ -1135,7 +1135,7 @@
     "order": 27
    },
    "sort": 2700,
-   "_id": "7caee0fa4eaf07ca",
+   "_id": "cc412fe4162ac2f9",
    "ownership": {
     "default": 0
    },
@@ -1153,7 +1153,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.7caee0fa4eaf07ca"
+   "_key": "!actors.items!7a0eccbf85715a92.cc412fe4162ac2f9"
   },
   {
    "name": "Mad Summoner",
@@ -1176,7 +1176,7 @@
     "order": 28
    },
    "sort": 2800,
-   "_id": "749b85e52f4c6e98",
+   "_id": "d917a813fbbd8598",
    "ownership": {
     "default": 0
    },
@@ -1194,7 +1194,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.749b85e52f4c6e98"
+   "_key": "!actors.items!7a0eccbf85715a92.d917a813fbbd8598"
   },
   {
    "name": "Rogue Wizard",
@@ -1217,7 +1217,7 @@
     "order": 29
    },
    "sort": 2900,
-   "_id": "4482e78a84627866",
+   "_id": "abd4ee8bf2e97a7a",
    "ownership": {
     "default": 0
    },
@@ -1235,7 +1235,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.4482e78a84627866"
+   "_key": "!actors.items!7a0eccbf85715a92.abd4ee8bf2e97a7a"
   },
   {
    "name": "Crazy Witch",
@@ -1258,7 +1258,7 @@
     "order": 30
    },
    "sort": 3000,
-   "_id": "8d62ac04df61bc5b",
+   "_id": "9c36525f3e66e29b",
    "ownership": {
     "default": 0
    },
@@ -1276,7 +1276,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.8d62ac04df61bc5b"
+   "_key": "!actors.items!7a0eccbf85715a92.9c36525f3e66e29b"
   },
   {
    "name": "Heretic Priest",
@@ -1299,7 +1299,7 @@
     "order": 31
    },
    "sort": 3100,
-   "_id": "5e63d33f7118726a",
+   "_id": "2a0add605c09e84b",
    "ownership": {
     "default": 0
    },
@@ -1317,7 +1317,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.5e63d33f7118726a"
+   "_key": "!actors.items!7a0eccbf85715a92.2a0add605c09e84b"
   },
   {
    "name": "Thinker",
@@ -1340,7 +1340,7 @@
     "order": 32
    },
    "sort": 3200,
-   "_id": "4608bd8842be10cd",
+   "_id": "0be04a4ef009aa88",
    "ownership": {
     "default": 0
    },
@@ -1358,7 +1358,130 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!7a0eccbf85715a92.4608bd8842be10cd"
+   "_key": "!actors.items!7a0eccbf85715a92.0be04a4ef009aa88"
+  },
+  {
+   "name": "Apt Pupil",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 8,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, Servitude",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Obscure History, Ugly Truth, Intimidation",
+    "traitList": "Believer, Gifted, Tainted Legacy",
+    "note": "Special Gifted lifepath (Wizard Burner), added to the Outcast Subsetting. Source: Burning Wheel Codex, p. 402",
+    "requirements": "",
+    "restrictions": "Must be character’s second or third lifepath. It may not be taken twice",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "d4da6f521cd19ae4",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.d4da6f521cd19ae4"
+  },
+  {
+   "name": "Demented Inventor",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Peasant, Villager",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Mad Invention-wise, Mending, Enchanting, Blacksmith, Whitesmith",
+    "traitList": "Demented, Tinkerer",
+    "note": "Wizard Burner lifepath, supplementing the Outcast Subsetting. Source: Burning Wheel Codex, p. 404",
+    "requirements": "Rogue Wizard, Apt Pupil or Wizard’s Apprentice",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "19f4a17785ec980c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.19f4a17785ec980c"
+  },
+  {
+   "name": "Evil Necromancer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 20,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Death Art, Anatomy, Graveyard-wise",
+    "traitList": "Corrupted, Evil",
+    "note": "Wizard Burner lifepath, supplementing the Outcast Subsetting. Source: Burning Wheel Codex, p. 404",
+    "requirements": "Coroner, Death Cultist, Cultist or Apt Pupil",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "6e3c45eb1d7222cf",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7a0eccbf85715a92.6e3c45eb1d7222cf"
   }
  ],
  "effects": [],

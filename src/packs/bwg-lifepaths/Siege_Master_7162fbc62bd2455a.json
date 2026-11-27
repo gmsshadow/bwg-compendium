@@ -1,0 +1,41 @@
+{
+ "name": "Siege Master",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 30,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Chattel",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Siege Engineer, Artillerist, Mending",
+  "traitList": "The Bigger They Come…, Brutish Efficiency",
+  "note": "Source: Burning Wheel Gold Revised, p. 230",
+  "requirements": "Servant of the Gate",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "7162fbc62bd2455a",
+ "_key": "!items!7162fbc62bd2455a",
+ "folder": "727a9cf321bfd6f5",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

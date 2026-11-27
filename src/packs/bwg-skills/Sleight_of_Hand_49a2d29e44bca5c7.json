@@ -1,0 +1,49 @@
+{
+ "name": "Sleight of Hand",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "agility",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "Sleight of Hand allows the character to perform minor tricks with small objects in the hands. The skill also allows the character to surreptitiously place objects on and remove objects from another person.\n\nObstacles: Simple card tricks, Ob 1. Parlor tricks, Ob 2. To pick a pocket or perform a similar trick of legerdemain on a victim, make a versus test: Sleight of Hand vs Observation.\n\nSkill Type: Special. Tools: No.\n\nRoot: Agility\n\nSource: Burning Wheel Gold Revised, p. 297",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "49a2d29e44bca5c7",
+ "_key": "!items!49a2d29e44bca5c7",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

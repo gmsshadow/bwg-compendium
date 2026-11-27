@@ -1,0 +1,49 @@
+{
+ "name": "Appraisal",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "This skill is used to judge the value or worth of certain items such as jewelry, gems, artwork and antiquities. The Appraisal skill can be used by a player before testing his Resources to ensure that he is getting an accurate price.\n\nObstacles: Coin and precious metals, Ob 1. Gems, Ob 2. Tapestries, Ob 3. Armaments, Ob 3. Antiquities, Ob 4. Art, Ob 5. Ephemera—wine, drugs, candles, Ob 6. If something is magical, add +1 Ob penalty to appraisal.\n\nFoRKs: Appropriate wises, academic, artisan or craftsman skills\n\nSkill Type: Special. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 255",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "e589e30cfed93761",
+ "_key": "!items!e589e30cfed93761",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

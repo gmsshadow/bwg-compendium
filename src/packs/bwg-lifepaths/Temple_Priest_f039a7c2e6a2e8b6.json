@@ -1,0 +1,41 @@
+{
+ "name": "Temple Priest",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 20,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Any except Noble",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Church Politics-wise, Doctrine, Oratory, Suasion, Symbology",
+  "traitList": "Vested, Aloof, Imperious, Strong-Willed",
+  "note": "Source: Burning Wheel Gold Revised, p. 176",
+  "requirements": "Religious Acolyte, Temple Acolyte, or Military Order",
+  "restrictions": "",
+  "order": 62
+ },
+ "sort": 6200,
+ "_id": "f039a7c2e6a2e8b6",
+ "_key": "!items!f039a7c2e6a2e8b6",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Harem Slave",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 3,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Servitude",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Creepy Priest-wise, Disgusting Necromancer-wise, Death Cult-wise, Escape Artist",
+  "traitList": "Numb",
+  "note": "Source: Burning Wheel Codex, p. 406",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "1a53d0d7aedd0624",
+ "_key": "!items!1a53d0d7aedd0624",
+ "folder": "e656ebd3cdd6b06b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

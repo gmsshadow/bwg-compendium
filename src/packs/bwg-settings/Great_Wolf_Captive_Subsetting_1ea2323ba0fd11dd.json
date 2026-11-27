@@ -1,0 +1,75 @@
+{
+ "_id": "1ea2323ba0fd11dd",
+ "name": "Great Wolf Captive Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Captive Subsetting lifepaths for Great Wolf characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Captive",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 0.5,
+    "resources": 1,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Legion, Outcast",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Begging, Cage-wise, Man-wise",
+    "traitList": "Broken, Submissive",
+    "note": "Time: ½ yr.\n\nSource: Burning Wheel Codex, p. 482",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "fcfc07ee895f64b3",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!1ea2323ba0fd11dd.fcfc07ee895f64b3"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Captive Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!1ea2323ba0fd11dd",
+ "folder": "831b7f025738cb40",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

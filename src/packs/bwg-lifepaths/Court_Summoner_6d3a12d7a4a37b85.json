@@ -1,0 +1,41 @@
+{
+ "name": "Court Summoner",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 30,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Outcast, Peasant, Villager",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Etiquette, Astrology, Summoning, Circination, Bargaining, Inane Request-wise, Promise-wise",
+  "traitList": "Dismissive, Polite, Arrogant, Frustrated, Faust",
+  "note": "Wizard Burner lifepath, supplementing the Noble Court Subsetting. Source: Burning Wheel Codex, p. 403",
+  "requirements": "Senior Student, Mad Summoner, Apt Pupil or Wizard’s Apprentice",
+  "restrictions": "",
+  "order": 1001
+ },
+ "sort": 100100,
+ "_id": "6d3a12d7a4a37b85",
+ "_key": "!items!6d3a12d7a4a37b85",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Prince of the Blood",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 0,
+  "resources": 60,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Court, Soldier, Religious",
+  "skillPoints": 0,
+  "generalPoints": 2,
+  "traitPoints": 2,
+  "skillList": "",
+  "traitList": "Born to Be King, Noblesse Oblige, Regal Bearing, Pompous, Sharp Dresser, Callous",
+  "note": "Players may take the Prince of the Blood lifepath for any appropriate length of time, from 2 years to 20. Subject to GM approval, as above. Time: * (see lifepath description in the book).\n\nSource: Burning Wheel Gold Revised, p. 179",
+  "requirements": "the Your Grace trait and express permission from the GM and all players in the current game",
+  "restrictions": "",
+  "order": 17
+ },
+ "sort": 1700,
+ "_id": "be228f29a7c38c11",
+ "_key": "!items!be228f29a7c38c11",
+ "folder": "c721f7253452389b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

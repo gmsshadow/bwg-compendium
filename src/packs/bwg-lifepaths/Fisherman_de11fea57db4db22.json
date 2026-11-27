@@ -1,0 +1,41 @@
+{
+ "name": "Fisherman",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 5,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Villager, Outcast, Seafaring",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Fishing, Rigging, Knots, Mending, Cooking, Boatwright",
+  "traitList": "Superstitious",
+  "note": "Source: Burning Wheel Gold Revised, p. 163",
+  "requirements": "",
+  "restrictions": "",
+  "order": 8
+ },
+ "sort": 800,
+ "_id": "de11fea57db4db22",
+ "_key": "!items!de11fea57db4db22",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

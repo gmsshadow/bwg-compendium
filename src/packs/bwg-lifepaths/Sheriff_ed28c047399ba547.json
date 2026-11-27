@@ -1,0 +1,41 @@
+{
+ "name": "Sheriff",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 8,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Command, Intimidation, Interrogation, Sword",
+  "traitList": "",
+  "note": "Source: Burning Wheel Codex, p. 438",
+  "requirements": "Deputy, Bandit King, Bruiser or Mastermind",
+  "restrictions": "",
+  "order": 1015
+ },
+ "sort": 101500,
+ "_id": "ed28c047399ba547",
+ "_key": "!items!ed28c047399ba547",
+ "folder": "bf3758f4ad382083",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

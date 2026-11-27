@@ -1,0 +1,41 @@
+{
+ "name": "Father/Mother",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Aecer-wise, Oratory, Illuminations, Calligraphy, Sing, History, Research, Cartography, Poetry",
+  "traitList": "Portly, Patient",
+  "note": "Source: Burning Wheel Codex, p. 439",
+  "requirements": "Brother/Sister",
+  "restrictions": "",
+  "order": 1019
+ },
+ "sort": 101900,
+ "_id": "315aeb53b60abb9f",
+ "_key": "!items!315aeb53b60abb9f",
+ "folder": "bf3758f4ad382083",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

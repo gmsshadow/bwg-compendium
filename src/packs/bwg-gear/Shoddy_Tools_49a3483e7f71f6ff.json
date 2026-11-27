@@ -1,0 +1,31 @@
+{
+ "name": "Shoddy Tools",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "isToolkit": true,
+  "isExpended": false,
+  "description": "Per set. Not Dwarf-made: counts as run of the mill gear and provides none of the bonuses of Dwarven gear.\n\nSource: Burning Wheel Gold Revised, p. 125"
+ },
+ "_id": "49a3483e7f71f6ff",
+ "_key": "!items!49a3483e7f71f6ff",
+ "folder": "f5ef0d169108ef27",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "e55aaa8556a2869b",
+   "_id": "138745a115ff76f6",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!8bcced2e8b1f9090.e55aaa8556a2869b"
+   "_key": "!actors.items!8bcced2e8b1f9090.138745a115ff76f6"
   },
   {
    "name": "Wordbearer",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "01359984eed0687c",
+   "_id": "c6ea996069ee34df",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!8bcced2e8b1f9090.01359984eed0687c"
+   "_key": "!actors.items!8bcced2e8b1f9090.c6ea996069ee34df"
   },
   {
    "name": "Hauler",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "9481ddd67301eb4a",
+   "_id": "303bcc9d2a690301",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!8bcced2e8b1f9090.9481ddd67301eb4a"
+   "_key": "!actors.items!8bcced2e8b1f9090.303bcc9d2a690301"
   },
   {
    "name": "Carter",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "3683ee67112e31a0",
+   "_id": "d53e4c575c3d2a06",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!8bcced2e8b1f9090.3683ee67112e31a0"
+   "_key": "!actors.items!8bcced2e8b1f9090.d53e4c575c3d2a06"
   },
   {
    "name": "Hawker",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "ec76cbb13ce954b5",
+   "_id": "e4925c09cddf383b",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!8bcced2e8b1f9090.ec76cbb13ce954b5"
+   "_key": "!actors.items!8bcced2e8b1f9090.e4925c09cddf383b"
   },
   {
    "name": "Apprentice",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "05113cd93652a336",
+   "_id": "0e6add987c9c4236",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!8bcced2e8b1f9090.05113cd93652a336"
+   "_key": "!actors.items!8bcced2e8b1f9090.0e6add987c9c4236"
   },
   {
    "name": "Journeyman",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "65d91088490cecb2",
+   "_id": "959f892a3d1a2fd1",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!8bcced2e8b1f9090.65d91088490cecb2"
+   "_key": "!actors.items!8bcced2e8b1f9090.959f892a3d1a2fd1"
   },
   {
    "name": "Craftsman",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "3985ac8f5660c65a",
+   "_id": "67925ea6bb271e23",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!8bcced2e8b1f9090.3985ac8f5660c65a"
+   "_key": "!actors.items!8bcced2e8b1f9090.67925ea6bb271e23"
   },
   {
    "name": "Trader",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "8df2493173868a46",
+   "_id": "11b689e570c2a70e",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!8bcced2e8b1f9090.8df2493173868a46"
+   "_key": "!actors.items!8bcced2e8b1f9090.11b689e570c2a70e"
   }
  ],
  "effects": [],

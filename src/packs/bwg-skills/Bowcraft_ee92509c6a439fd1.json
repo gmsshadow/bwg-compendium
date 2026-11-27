@@ -1,0 +1,49 @@
+{
+ "name": "Bowcraft",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": true,
+  "description": "An Elven archer learns more than just how to fell an opponent with a shaft. For years he trains to discover the very heart and soul of the bow. When he joins the ranks of his fellow protectors, the Bowyer comes forth with his own personally crafted weapon—a product of a decade of learning and labor.\n\nObstacles: Arrows and flights, Ob 1. Hunting bow, Ob 2. Great bow, Ob 3. Horse bow, Ob 4. Elven bow, Ob 6.\n\nFoRKs: Woodcraft\n\nSkill Type: Craftsman. Tools: Yes. Expendable.\n\nRestrictions: Elves only\n\nRoot: Will/Agility (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 261",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "ee92509c6a439fd1",
+ "_key": "!items!ee92509c6a439fd1",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

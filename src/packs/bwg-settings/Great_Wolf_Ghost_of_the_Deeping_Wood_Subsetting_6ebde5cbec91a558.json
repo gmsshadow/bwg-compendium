@@ -1,0 +1,239 @@
+{
+ "_id": "6ebde5cbec91a558",
+ "name": "Great Wolf Ghost of the Deeping Wood Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Ghost of the Deeping Wood Subsetting lifepaths for Great Wolf characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Wandering Lost",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 0.5,
+    "resources": 0,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Spirit Hunter, Outcast",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Nature of All Things",
+    "traitList": "",
+    "note": "Time: ½ yr. Resources: — as listed in the book.\n\nSource: Burning Wheel Codex, p. 483",
+    "requirements": "Last Wolf and Lone Wolf",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "2d08d8bbffb3901a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!6ebde5cbec91a558.2d08d8bbffb3901a"
+  },
+  {
+   "name": "Dire Haunt",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 10,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Tongue of the Ancient One",
+    "traitList": "",
+    "note": "Source: Burning Wheel Codex, p. 483",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "903802fa246c5718",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!6ebde5cbec91a558.903802fa246c5718"
+  },
+  {
+   "name": "Ancient Journeyer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 0.5,
+    "resources": 0,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Spirit Hunter, Outcast",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Old World-wise",
+    "traitList": "",
+    "note": "Time: ½ yr. Resources: — as listed in the book.\n\nSource: Burning Wheel Codex, p. 483",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "76d24941ddb81747",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!6ebde5cbec91a558.76d24941ddb81747"
+  },
+  {
+   "name": "Fell Ancient",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 2,
+    "resources": 15,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Ancient Ways",
+    "traitList": "Reclusive, Paranoid, Odor of Spirits",
+    "note": "Source: Burning Wheel Codex, p. 483",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "2107d29a9f915e4f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!6ebde5cbec91a558.2107d29a9f915e4f"
+  },
+  {
+   "name": "Ghost of the Wood",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 2,
+    "resources": 10,
+    "statBoost": "menttwo",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 6,
+    "generalPoints": 1,
+    "traitPoints": 3,
+    "skillList": "Wolf-wise, Spirit-Hunter-wise, Legion-wise, Path-wise, River-wise, Pack-wise",
+    "traitList": "Preternaturally Calm, Watchful, Piercing Gaze, Stink of the Ancient",
+    "note": "Source: Burning Wheel Codex, p. 483",
+    "requirements": "Dire Haunt and Fell Ancient",
+    "restrictions": "",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "30de479616a06fc2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!6ebde5cbec91a558.30de479616a06fc2"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Ghost of the Deeping Wood Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!6ebde5cbec91a558",
+ "folder": "831b7f025738cb40",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

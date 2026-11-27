@@ -1,0 +1,49 @@
+{
+ "name": "Apothecary",
+ "type": "skill",
+ "img": "icons/magic/life/cross-yellow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "medicinal",
+  "training": false,
+  "magical": false,
+  "description": "Apothecaries use herbs, roots, minerals and animalia to cure and prevent common and chronic ailments. Apothecaries may mitigate the symptoms of infection and illness; they may also alleviate wound die penalties.\n\nObstacles: Stop itching, Ob 2. Cure warts, Ob 3. Medicine to alleviate +1 Ob of pain, Ob 3. Medicine to numb an area, Ob 4: This reduces the wounded die penalty by one but increases all obstacles by one and lasts four hours.\n\nFoRKs: Herbalism\n\nSkill Type: Medicinal. Tools: Yes. Expendable.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 255",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "954a78be000ba9a1",
+ "_key": "!items!954a78be000ba9a1",
+ "folder": "cd5e691070d2d04b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "_id": "f29d0d202b753aa5",
+ "_key": "!items!f29d0d202b753aa5",
+ "name": "Supplication to Shadows",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "The shadows hold no secrets or sorrows from us. This supplication adds +1D to Stealthy. Successes over the obstacle count as additional advantage dice. It can only be sung and used in an area of shadow or darkness.\n\nObstacle: 4\n\nDuration: Until the character steps into direct sunlight.\n\nActions: 4\n\nDark Elf spell song: follows the rules for Elven spell songs (sorcerous for practice and learning, always open-ended, no tools or FoRKs).\n\nSong root: Will.\n\nRestrictions: Dark Elves only\n\nSource: Burning Wheel Codex, p. 424",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dark Elves only"
+ },
+ "effects": [],
+ "folder": "237aaf0e26bbe354",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

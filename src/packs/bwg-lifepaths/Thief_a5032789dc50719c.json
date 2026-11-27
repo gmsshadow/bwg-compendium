@@ -1,0 +1,41 @@
+{
+ "name": "Thief",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 18,
+  "resources": 6,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Lock Pick, Stealthy, Climbing, Sleight of Hand, Dirge of Night",
+  "traitList": "Thief",
+  "note": "Source: Burning Wheel Codex, p. 418",
+  "requirements": "Griever",
+  "restrictions": "",
+  "order": 1002
+ },
+ "sort": 100200,
+ "_id": "a5032789dc50719c",
+ "_key": "!items!a5032789dc50719c",
+ "folder": "96e8dff24c1e65ee",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

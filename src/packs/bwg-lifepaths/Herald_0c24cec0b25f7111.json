@@ -1,0 +1,41 @@
+{
+ "name": "Herald",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 10,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Soldier, Servitude, City Dweller",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Heraldry, Noble-wise",
+  "traitList": "Formalist, Rainman, Eidetic Memory",
+  "note": "Source: Burning Wheel Gold Revised, p. 181",
+  "requirements": "",
+  "restrictions": "",
+  "order": 14
+ },
+ "sort": 1400,
+ "_id": "0c24cec0b25f7111",
+ "_key": "!items!0c24cec0b25f7111",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

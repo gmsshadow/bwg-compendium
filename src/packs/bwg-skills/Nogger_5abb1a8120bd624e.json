@@ -1,0 +1,49 @@
+{
+ "name": "Nogger",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": true,
+  "description": "Dwarven brew is renowned throughout the known lands. Some say a single mouthful of the finest Dwarven nog is worth the price of the greatest kingdom of Men. For Dwarves, nog has a restorative effect. Downing a full cool draught of the stout brew grants +1D to the next Health test. It also adds +1 Ob to all social skill tests for the scene. No matter how much he drinks, only one bonus/penalty is bestowed. However, if a Dwarf downs a number of steins equal to or greater than his Forte exponent, he becomes drunk—+1 Ob to all tests for hours equal to 10 minus Health. If any other creature so much as sips a mouthful of the powerful beverage, it becomes drunk (+1 Ob to all tests) and receives no benefit.\n\nObstacles: Revered, sacred and most secret ritual of preparing the grain, Ob 2. Sanctifying the vats in preparation for the most holy, Ob 3. Brewing the nectar of the gods, Ob 5.\n\nFoRKs: Grain Appraisal\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRestrictions: Dwarves only\n\nRoot: Will/Per (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 285",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "5abb1a8120bd624e",
+ "_key": "!items!5abb1a8120bd624e",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

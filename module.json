@@ -2,7 +2,7 @@
   "id": "bwg-compendium",
   "title": "Burning Wheel Gold Revised — Compendium",
   "description": "Compendium packs for the community Burning Wheel system, built from Burning Wheel Gold Revised: skills, Elven spell songs, traits, melee/ranged/thrown weapons, armor and shields, possessions and property, sorcery and Rituals of Night spells, lifepaths and lifepath settings for the character burner. Also includes the Burning Wheel Codex monstrous traits and skills, and the Twilight in the Duchy Verdorben adventure. For personal use with your own copy of the book.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "authors": [
     {
       "name": "GMsShadow"
@@ -121,30 +121,6 @@
       "flags": {}
     },
     {
-      "name": "bwg-verdorben-characters",
-      "label": "BWG Verdorben Pregens",
-      "path": "packs/bwg-verdorben-characters",
-      "type": "Actor",
-      "system": "burningwheel",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "bwg-verdorben-adventure",
-      "label": "BWG Twilight in the Duchy Verdorben",
-      "path": "packs/bwg-verdorben-adventure",
-      "type": "Adventure",
-      "system": "burningwheel",
-      "ownership": {
-        "PLAYER": "NONE",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
       "name": "bwc-skills",
       "label": "BWC Codex Skills",
       "path": "packs/bwc-skills",
@@ -167,6 +143,42 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "name": "bwc-spells",
+      "label": "BWC Codex Spells",
+      "path": "packs/bwc-spells",
+      "type": "Item",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "bwg-verdorben-characters",
+      "label": "BWG Verdorben Pregens",
+      "path": "packs/bwg-verdorben-characters",
+      "type": "Actor",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "bwg-verdorben-adventure",
+      "label": "BWG Twilight in the Duchy Verdorben",
+      "path": "packs/bwg-verdorben-adventure",
+      "type": "Adventure",
+      "system": "burningwheel",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -182,16 +194,31 @@
         "bwg-gear",
         "bwg-spells",
         "bwg-lifepaths",
-        "bwg-settings",
-        "bwg-verdorben-characters",
-        "bwg-verdorben-adventure",
+        "bwg-settings"
+      ]
+    },
+    {
+      "name": "Burning Wheel Codex",
+      "sorting": "m",
+      "color": "#3a2a4a",
+      "packs": [
         "bwc-skills",
-        "bwc-traits"
+        "bwc-traits",
+        "bwc-spells"
+      ]
+    },
+    {
+      "name": "Twilight in the Duchy Verdorben",
+      "sorting": "m",
+      "color": "#2a4a3a",
+      "packs": [
+        "bwg-verdorben-characters",
+        "bwg-verdorben-adventure"
       ]
     }
   ],
   "flags": {},
   "url": "https://github.com/GMsShadow/bwg-compendium",
   "manifest": "https://github.com/GMsShadow/bwg-compendium/releases/latest/download/module.json",
-  "download": "https://github.com/GMsShadow/bwg-compendium/releases/download/v1.3.0/bwg-compendium.zip"
+  "download": "https://github.com/GMsShadow/bwg-compendium/releases/download/v1.4.0/bwg-compendium.zip"
 }

@@ -1,0 +1,50 @@
+{
+ "name": "Atravieso",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "The Atravieso is always fiddling with every little thing he can. When in any new place, or a stressful situation, the character must pass an Ob 3 Will test to resist touching and fiddling. If he fails the test, the character goes for the most fragile/breakable/dangerous objects around—beakers in the laboratory, eggs in the hen house, detonators in the bomb shop, the queen’s dress at court, etc.—and, well, fiddles with them.\n\nType: Dt (die trait). Cost: 1 pt.\n\nSource: Burning Wheel Gold Revised, p. 313",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "49707e1478102857",
+ "_key": "!items!49707e1478102857",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

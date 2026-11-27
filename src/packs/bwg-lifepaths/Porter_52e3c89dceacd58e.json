@@ -1,0 +1,41 @@
+{
+ "name": "Porter",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 5,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Villager, Peasant",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Temple-wise, Priest-wise, Worshipper-wise, Church Treasure-wise",
+  "traitList": "Keys to the Church, Familiar Face",
+  "note": "Source: Burning Wheel Gold Revised, p. 184",
+  "requirements": "",
+  "restrictions": "",
+  "order": 5
+ },
+ "sort": 500,
+ "_id": "52e3c89dceacd58e",
+ "_key": "!items!52e3c89dceacd58e",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Village Wife",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 5,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Religious, City Dweller, Servitude",
+  "skillPoints": 2,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Child-Rearing, Cooking",
+  "traitList": "",
+  "note": "Players who take the Village Wife lifepath may also choose their husband’s lifepath from the Villager setting. The Village Wife may choose from her husband’s skills—she gets half of his skill points (including General points), rounded down—and she gets half of her husband’s Resources. Resources: 5+ as listed in the book.\n\nSource: Burning Wheel Gold Revised, p. 169",
+  "requirements": "",
+  "restrictions": "",
+  "order": 40
+ },
+ "sort": 4000,
+ "_id": "3a673dfd4bcd8316",
+ "_key": "!items!3a673dfd4bcd8316",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

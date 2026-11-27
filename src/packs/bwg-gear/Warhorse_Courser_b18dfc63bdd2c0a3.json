@@ -1,0 +1,31 @@
+{
+ "name": "Warhorse (Courser)",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 12,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Trained to carry its master into battle. Pe B3(4), Wi B2, Ag B4, Sp B6, Po B7, Fo B7. He B5, St B7, Re B4, MW B13. Hesitation 5 (Fearless and Determined). Skills: Rider Training, Mounted Combat Training, Armor Training, Formation Fighting Training, Intimidation B2, Brawling B3, Foraging B2. Traits: Level-Headed, Loyal, Determined, Fearless, Aggressive plus Long-Limbed, Keen Hearing, Hooved, Ungulate. Stride 12.\n\nSource: Burning Wheel Gold Revised, p. 203"
+ },
+ "_id": "b18dfc63bdd2c0a3",
+ "_key": "!items!b18dfc63bdd2c0a3",
+ "folder": "e2d9989687336b5d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

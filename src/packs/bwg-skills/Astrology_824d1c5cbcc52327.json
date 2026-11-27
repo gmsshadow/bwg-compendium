@@ -1,0 +1,49 @@
+{
+ "name": "Astrology",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "The study of the stars, the planets and the zodiac—astrology is a deep and ancient science that describes the relations of the celestial sphere to the terrestrial.\n\nAstrology may be FoRKed with any skill except those of martial or physical type. However, the Astrology FoRK die is different from other FoRKs: The die is open-ended. But unlike standard open-ended dice, it open-ends both ways. 6s are rerolled as per the normal open-end rules, but 1s are open-ended as well. If a 1 is rolled, reroll the die. If the second roll is a failure, then a success is subtracted from the result. For a less risky roll, use this skill as a linked test toward any endeavor or gambit. In this case do not use the open-ended die.\n\nFoRKs: Doctrine, Symbology.\n\nObstacles: Naming the stars and constellations, Ob 1. Constructing a person’s horoscope, Ob 2. Determining the auspices of beginning an enterprise, Ob 3. Calling upon the stars to answer a question, Ob 4. Interpreting celestial phenomena or omens, Ob 5.\n\nSkill Type: Academic. Tools: Yes.\n\nRestrictions: Humans only\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 257",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Humans only"
+ },
+ "_id": "824d1c5cbcc52327",
+ "_key": "!items!824d1c5cbcc52327",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

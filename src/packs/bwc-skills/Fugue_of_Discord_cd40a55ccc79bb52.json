@@ -1,0 +1,49 @@
+{
+ "_id": "cd40a55ccc79bb52",
+ "_key": "!items!cd40a55ccc79bb52",
+ "name": "Fugue of Discord",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "When sung this song interrupts spells and songs being cast. It acts as a distraction to any song or spell currently being sustained. The area of effect is the Dark Elf’s presence. If a character attempts to sing or cast while a Fugue of Discord is in effect, they must add the Dark Elf’s extra successes from the Fugue of Discord to their obstacle. to sing for as long as he or she likes and may act but may not otherwise speak (or sleep, eat or drink).\n\nObstacle: 5\n\nDuration: The effect lasts while the song is sung. The Dark Elf may continue\n\nActions: 12\n\nDark Elf spell song: follows the rules for Elven spell songs (sorcerous for practice and learning, always open-ended, no tools or FoRKs).\n\nSong root: Spite. The system cannot use Spite as a root; Will is set instead.\n\nRestrictions: Dark Elves only\n\nSource: Burning Wheel Codex, p. 422",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dark Elves only"
+ },
+ "effects": [],
+ "folder": "237aaf0e26bbe354",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

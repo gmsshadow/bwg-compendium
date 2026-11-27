@@ -1,0 +1,49 @@
+{
+ "name": "Verse of Decision",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "This potent spell is used when an Elven Elder sets his mind to a task. He can bind himself and another character into a decision that carries the same weight as a Duel of Wits result. Both parties must nominally agree to the terms. The song is sung and the result is binding as if the two had come to the decision via a Duel of Wits. No other test is necessary but the Verse of Decision.\n\nObstacle: Target’s Will\n\nActions: 555\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 152",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "10435c1a7b334cb6",
+ "_key": "!items!10435c1a7b334cb6",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

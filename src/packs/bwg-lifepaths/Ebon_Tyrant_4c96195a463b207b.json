@@ -1,0 +1,41 @@
+{
+ "name": "Ebon Tyrant",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 2,
+  "resources": 5,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Conspicuous, Command, Skirmish Tactics, Strategy",
+  "traitList": "Dominant, Great Cunning",
+  "note": "Source: Burning Wheel Codex, p. 481",
+  "requirements": "Shadow Chaser or Black Destroyer",
+  "restrictions": "",
+  "order": 1007
+ },
+ "sort": 100700,
+ "_id": "4c96195a463b207b",
+ "_key": "!items!4c96195a463b207b",
+ "folder": "6115dfb7c437130d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

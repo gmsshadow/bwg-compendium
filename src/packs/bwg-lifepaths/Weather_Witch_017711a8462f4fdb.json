@@ -1,0 +1,41 @@
+{
+ "name": "Weather Witch",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 20,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Servitude, City, Villager, Outcast",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Sea-wise, Summoning, Spirit Binding, Superstition-wise, Navigation, Astrology",
+  "traitList": "Weather Sense",
+  "note": "Source: Burning Wheel Gold Revised, p. 191",
+  "requirements": "Augur, Neophyte Sorcerer, Arcane Devotee or Rogue Wizard",
+  "restrictions": "",
+  "order": 17
+ },
+ "sort": 1700,
+ "_id": "017711a8462f4fdb",
+ "_key": "!items!017711a8462f4fdb",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

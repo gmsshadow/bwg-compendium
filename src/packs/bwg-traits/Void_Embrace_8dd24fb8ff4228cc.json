@@ -1,0 +1,50 @@
+{
+ "name": "Void Embrace",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 4,
+  "name": "",
+  "traittype": "die",
+  "text": "Drinkers of the Dark are immersed in shivering pools of arcane energies. They are taught to imbibe, inhale and exhale the Dark Blood and survive. This trait transforms the Orc’s Hatred into a vehicle for enormous power. However, Orcs are unable to tap their innate power without Rituals. Void Embrace is an emotional attribute with its own shade and exponent. It is used to resist tax, sustain spells (rather than Will), and is used to maintain a spell after a distraction. Any Orc may be taught the Rituals, but without Void Embrace, he cannot resist the tax and thus will be permanently crippled or worse. Void Embrace can also be used to enhance certain rolls by spending a persona point to tap the Void. See the Void Embrace section of the Orc chapter for more details. If Void Embrace is advanced to exponent 10, the Orc goes mad or commits suicide. Either way, he’s removed from play.\n\nType: Dt (die trait). Cost: 4 pts.\n\nRestrictions: Orc characters only\n\nSource: Burning Wheel Gold Revised, p. 353",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Orc characters only"
+ },
+ "_id": "8dd24fb8ff4228cc",
+ "_key": "!items!8dd24fb8ff4228cc",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

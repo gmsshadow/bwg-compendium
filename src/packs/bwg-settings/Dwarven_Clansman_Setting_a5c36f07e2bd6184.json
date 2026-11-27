@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "2e309ee89c60420b",
+   "_id": "c7741a57e0b3bf12",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!a5c36f07e2bd6184.2e309ee89c60420b"
+   "_key": "!actors.items!a5c36f07e2bd6184.c7741a57e0b3bf12"
   },
   {
    "name": "Tender",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "82841fed0f2dbca5",
+   "_id": "7406daf85773bfa9",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!a5c36f07e2bd6184.82841fed0f2dbca5"
+   "_key": "!actors.items!a5c36f07e2bd6184.7406daf85773bfa9"
   },
   {
    "name": "Herder",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "15fae0cff24ed7d6",
+   "_id": "49e224bebd4fa360",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!a5c36f07e2bd6184.15fae0cff24ed7d6"
+   "_key": "!actors.items!a5c36f07e2bd6184.49e224bebd4fa360"
   },
   {
    "name": "Tinkerer",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "d56fb4667457e308",
+   "_id": "84af96653e1fb97f",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!a5c36f07e2bd6184.d56fb4667457e308"
+   "_key": "!actors.items!a5c36f07e2bd6184.84af96653e1fb97f"
   },
   {
    "name": "Delver",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "8ada8803fae73894",
+   "_id": "88e6363279bb95d8",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!a5c36f07e2bd6184.8ada8803fae73894"
+   "_key": "!actors.items!a5c36f07e2bd6184.88e6363279bb95d8"
   },
   {
    "name": "Miller",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "870fd35d2044fce6",
+   "_id": "10bde8f326c09819",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!a5c36f07e2bd6184.870fd35d2044fce6"
+   "_key": "!actors.items!a5c36f07e2bd6184.10bde8f326c09819"
   },
   {
    "name": "Brewer",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "3e0e81ca6e90155b",
+   "_id": "a0741304848077c3",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!a5c36f07e2bd6184.3e0e81ca6e90155b"
+   "_key": "!actors.items!a5c36f07e2bd6184.a0741304848077c3"
   },
   {
    "name": "Foreman",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "b0e222883aa177a8",
+   "_id": "872db9cd2d6ce7e5",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!a5c36f07e2bd6184.b0e222883aa177a8"
+   "_key": "!actors.items!a5c36f07e2bd6184.872db9cd2d6ce7e5"
   },
   {
    "name": "Husband/Wife",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "ebf1eb3b08f32934",
+   "_id": "50767fabcf94a74a",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!a5c36f07e2bd6184.ebf1eb3b08f32934"
+   "_key": "!actors.items!a5c36f07e2bd6184.50767fabcf94a74a"
   },
   {
    "name": "Longbeard",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "cf2652c20caab329",
+   "_id": "6fff037444fa33a1",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!a5c36f07e2bd6184.cf2652c20caab329"
+   "_key": "!actors.items!a5c36f07e2bd6184.6fff037444fa33a1"
   }
  ],
  "effects": [],

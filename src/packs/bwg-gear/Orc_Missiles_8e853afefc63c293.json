@@ -1,0 +1,31 @@
+{
+ "name": "Orc Missiles",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Poor quality bow (+1 Ob to hit) 3 rps; poor quality crossbow (+1 Ob to hit) 4 rps; run of the mill bow 5 rps; run of the mill crossbow 6 rps; iron-cased bombs 10 rps. Includes enough missiles; special heads 1 rp apiece. Use the ranged weapon items.\n\nSource: Burning Wheel Gold Revised, p. 242"
+ },
+ "_id": "8e853afefc63c293",
+ "_key": "!items!8e853afefc63c293",
+ "folder": "a2609e3cbb7ca442",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

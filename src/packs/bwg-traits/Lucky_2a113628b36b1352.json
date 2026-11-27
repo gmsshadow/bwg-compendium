@@ -1,0 +1,50 @@
+{
+ "name": "Lucky",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "There’s always the lucky ones. Always. They make the rest of us look like shlubs while they skate through life. This trait can be used in a number of ways. First, it can be used as a call-on for any ability. This can only be used once per adventure. Second, it can be used to buy off one failed roll to save the character’s life once—a failed armor test, a flubbed Speed test, etc. The test is passed and the trait is lost. Lastly, if the player makes a random in-game guess (via roleplay), the guess is always right—so long as the player isn’t aware the guess is right.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Human lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 334",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Human lifepath trait"
+ },
+ "_id": "2a113628b36b1352",
+ "_key": "!items!2a113628b36b1352",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "d4dafd45679d1d68",
+   "_id": "dc947d49dbcb1efd",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!86adc401a42d6349.d4dafd45679d1d68"
+   "_key": "!actors.items!86adc401a42d6349.dc947d49dbcb1efd"
   },
   {
    "name": "Student",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "f2230678299393c7",
+   "_id": "3fafb82cef604525",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!86adc401a42d6349.f2230678299393c7"
+   "_key": "!actors.items!86adc401a42d6349.3fafb82cef604525"
   },
   {
    "name": "Attendant",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "310278962f8bf7cc",
+   "_id": "db17badec84d85bf",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!86adc401a42d6349.310278962f8bf7cc"
+   "_key": "!actors.items!86adc401a42d6349.db17badec84d85bf"
   },
   {
    "name": "Second",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "75d1b5d6ee561920",
+   "_id": "20916d99f80e9361",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!86adc401a42d6349.75d1b5d6ee561920"
+   "_key": "!actors.items!86adc401a42d6349.20916d99f80e9361"
   },
   {
    "name": "Sword Singer",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "6f37e3f8d9b53526",
+   "_id": "82379ca49b2306ea",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!86adc401a42d6349.6f37e3f8d9b53526"
+   "_key": "!actors.items!86adc401a42d6349.82379ca49b2306ea"
   },
   {
    "name": "Steward",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "73f6b5aa3063cd2f",
+   "_id": "1bff4fef21cd32df",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!86adc401a42d6349.73f6b5aa3063cd2f"
+   "_key": "!actors.items!86adc401a42d6349.1bff4fef21cd32df"
   },
   {
    "name": "Prince/Princess",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "9707a978188cda51",
+   "_id": "33690e27ecdc135d",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!86adc401a42d6349.9707a978188cda51"
+   "_key": "!actors.items!86adc401a42d6349.33690e27ecdc135d"
   },
   {
    "name": "Etharch",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "fb6f54c13ea638a6",
+   "_id": "240b6a5f23e459c8",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!86adc401a42d6349.fb6f54c13ea638a6"
+   "_key": "!actors.items!86adc401a42d6349.240b6a5f23e459c8"
   }
  ],
  "effects": [],

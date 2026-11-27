@@ -1,0 +1,50 @@
+{
+ "name": "Practiced Precision",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 2,
+  "name": "",
+  "traittype": "die",
+  "text": "The match appeared in his hand, and in a tiny blur of motion, his pipe was lit. This character has a trademark act that he has repeated so frequently that it has become a single action—like lighting a pipe with a match. Normally this would cost at least three “actions” in game, but the Practiced Precision trait reduces that cost to one action. Players must decide what “trademark act” their character will practice before the character enters into the game. Combat-related actions may be Practiced Precision trademarks. They are only reduced by one action, rather than reduced to one action.\n\nType: Dt (die trait). Cost: 2 pts.\n\nSource: Burning Wheel Gold Revised, p. 341",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "03f42af695ff13f9",
+ "_key": "!items!03f42af695ff13f9",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

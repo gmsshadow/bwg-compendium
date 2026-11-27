@@ -1,0 +1,52 @@
+{
+ "name": "Shards",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 8,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 2,
+  "upSpell": true,
+  "actions": 1,
+  "description": "With a gesture, the sorcerer gouges massive splinters from nearby wood and stone and flings them with great velocity into the unwary. The spell leaves deep grooves in the material used as its source. Damaging effect spell: Power = ½ Will +2, VA 3. Die of Fate to determine IMS. Weapon Length: as Polearm; Range: as Pistol.\n\nObstacle: 2^. Actions: 1.\n\nOrigin: Presence | Area of Effect: Paces | Element: Earth | Impetus: Destroy | Duration: Instantaneous | Resource Points: 8\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 219",
+  "origin": "Presence",
+  "areaOfEffect": "Paces",
+  "element": "Earth",
+  "impetus": "Destroy",
+  "duration": "Instantaneous",
+  "rpCost": 8,
+  "isWeapon": true,
+  "halfWill": true,
+  "willDamageBonus": 2,
+  "va": 3,
+  "weaponLength": "longer",
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "10 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "057adfaab6ad5054",
+ "_key": "!items!057adfaab6ad5054",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

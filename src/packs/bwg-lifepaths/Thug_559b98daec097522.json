@@ -1,0 +1,41 @@
+{
+ "name": "Thug",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 7,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Soldier, City Dweller",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Streetwise, Murder-wise, Guard-wise, Brawling",
+  "traitList": "Cold Blooded, Jaded",
+  "note": "Source: Burning Wheel Gold Revised, p. 195",
+  "requirements": "",
+  "restrictions": "",
+  "order": 21
+ },
+ "sort": 2100,
+ "_id": "559b98daec097522",
+ "_key": "!items!559b98daec097522",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

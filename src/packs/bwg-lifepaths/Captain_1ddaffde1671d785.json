@@ -1,0 +1,41 @@
+{
+ "name": "Captain",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 85,
+  "resources": 15,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 9,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Oratory, Sword, Command, Tactics, Formation Fighting, Monody of the March, Silent Fury, Hymn of Victory",
+  "traitList": "Sworn to the Lord Protector",
+  "note": "Source: Burning Wheel Gold Revised, p. 137",
+  "requirements": "Lieutenant, Prince, Sea Captain, Steward or two Sword Singer lifepaths",
+  "restrictions": "",
+  "order": 10
+ },
+ "sort": 1000,
+ "_id": "1ddaffde1671d785",
+ "_key": "!items!1ddaffde1671d785",
+ "folder": "34ca3eb13c86f59f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

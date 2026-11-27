@@ -1,0 +1,50 @@
+{
+ "name": "Sworn Homage",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "The knight must swear homage to his lord, the king. He promises fealty to his lord; to guard his land and fight in wars with armor, horse and sword; to manage his land in good stead, to collect and pay taxes; and generally to obey the law and uphold the peace. The player doesn’t have to write in a Belief for this, though it is encouraged. The Sworn Homage trait indicates the belief is internalized. This trait grants a 1D affiliation in the nobility. Should the character fail to perform his duties, then he may be stripped of rank. This compounds with other noble affiliations like Mark of Privilege.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Human lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 348",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Human lifepath trait"
+ },
+ "_id": "c6120e83f300cc69",
+ "_key": "!items!c6120e83f300cc69",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

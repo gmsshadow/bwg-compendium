@@ -1,0 +1,362 @@
+{
+ "_id": "7bc93ca575e4d7e7",
+ "name": "Troll Wild Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Wild Setting lifepaths for Troll characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Wild",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 2,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Pit",
+    "skillPoints": 0,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "",
+    "note": "Also gains the Troll common traits.\n\nSource: Burning Wheel Codex, p. 462",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "959e544807e859a8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7bc93ca575e4d7e7.959e544807e859a8"
+  },
+  {
+   "name": "Bogey",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 1,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Cave",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Brawling, Forest-wise, Stealthy",
+    "traitList": "",
+    "note": "Source: Burning Wheel Codex, p. 462",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "d0ee06feecd88ee6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7bc93ca575e4d7e7.d0ee06feecd88ee6"
+  },
+  {
+   "name": "Bridgehaunt",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 2,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Bridge-wise, Intimidation",
+    "traitList": "Stubborn",
+    "note": "Source: Burning Wheel Codex, p. 462",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "7b8c49038c841768",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7bc93ca575e4d7e7.7b8c49038c841768"
+  },
+  {
+   "name": "Manhunter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 2,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Pit",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Man-wise, Village-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Codex, p. 462",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "eabd77bc22ecfc12",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7bc93ca575e4d7e7.eabd77bc22ecfc12"
+  },
+  {
+   "name": "Forlorn",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 13,
+    "resources": 1,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 0,
+    "generalPoints": 1,
+    "traitPoints": 2,
+    "skillList": "",
+    "traitList": "Solitary, Addled, Slow",
+    "note": "Source: Burning Wheel Codex, p. 462",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "7625b12a5fd0d2cd",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7bc93ca575e4d7e7.7625b12a5fd0d2cd"
+  },
+  {
+   "name": "Brute",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 2,
+    "statBoost": "phystwo",
+    "subtractStats": false,
+    "leads": "Pit",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Intimidation, Brawling",
+    "traitList": "Brute",
+    "note": "Source: Burning Wheel Codex, p. 462",
+    "requirements": "Bridge Haunt, Mine Haunt, Manhunter, Dwarf Hunter, Battering Ram or Mattock",
+    "restrictions": "",
+    "order": 1005
+   },
+   "sort": 100500,
+   "_id": "55ebfb89f54fbe77",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7bc93ca575e4d7e7.55ebfb89f54fbe77"
+  },
+  {
+   "name": "Brood Mother",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 33,
+    "resources": 10,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Cave, Pit",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Nursing, Ugly Truth",
+    "traitList": "Misshapen, Grotesque, Witch Flesh",
+    "note": "Source: Burning Wheel Codex, p. 462",
+    "requirements": "Brute, Dread Stone or Bellower",
+    "restrictions": "",
+    "order": 1006
+   },
+   "sort": 100600,
+   "_id": "9cd275ff30b848d2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7bc93ca575e4d7e7.9cd275ff30b848d2"
+  },
+  {
+   "name": "Bull",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 45,
+    "resources": 5,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Pit",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Torture, Extortion",
+    "traitList": "Boor",
+    "note": "Source: Burning Wheel Codex, p. 462",
+    "requirements": "Brute or Ironshield",
+    "restrictions": "",
+    "order": 1007
+   },
+   "sort": 100700,
+   "_id": "6721b88052b3d1ca",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!7bc93ca575e4d7e7.6721b88052b3d1ca"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Wild Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!7bc93ca575e4d7e7",
+ "folder": "3b438c5a2a4faa29",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

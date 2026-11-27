@@ -1,0 +1,41 @@
+{
+ "name": "Banker",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 60,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Noble Court, Noble",
+  "skillPoints": 4,
+  "generalPoints": 2,
+  "traitPoints": 1,
+  "skillList": "Accounting, Administration, Currency-wise",
+  "traitList": "Intense",
+  "note": "Source: Burning Wheel Gold Revised, p. 175",
+  "requirements": "Merchant, Moneylender, Steward, Accountant or Chamberlain",
+  "restrictions": "",
+  "order": 59
+ },
+ "sort": 5900,
+ "_id": "0b8144bdefe22939",
+ "_key": "!items!0b8144bdefe22939",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

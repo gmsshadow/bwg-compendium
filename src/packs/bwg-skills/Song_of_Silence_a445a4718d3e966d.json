@@ -1,0 +1,49 @@
+{
+ "name": "Song of Silence",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "To voice his displeasure, an Elven Lord will utter the brief syllables of the Song of Silence and then fall into an impenetrable aphony, thinking deeply on all matters at hand. No social skills or “mind affecting” spells will have any effect on the Lord while he is under the Song of Silence. If sung as an action during a Duel of Wits, the Elf can end the duel. No winner is declared, and no compromise can be made.\n\nObstacle: 10 minus Will of Singer\n\nActions: 2\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nSong Root: Grief. The system cannot use Grief as a root; Will is set instead.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 150",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "a445a4718d3e966d",
+ "_key": "!items!a445a4718d3e966d",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

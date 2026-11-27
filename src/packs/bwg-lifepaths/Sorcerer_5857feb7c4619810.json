@@ -1,0 +1,41 @@
+{
+ "name": "Sorcerer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 32,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Villager, Outcast, Noble Court",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sorcery, Enchanting, Calligraphy",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 176",
+  "requirements": "Neophyte Sorcerer, Arcane Devotee or Weather Witch",
+  "restrictions": "",
+  "order": 61
+ },
+ "sort": 6100,
+ "_id": "5857feb7c4619810",
+ "_key": "!items!5857feb7c4619810",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

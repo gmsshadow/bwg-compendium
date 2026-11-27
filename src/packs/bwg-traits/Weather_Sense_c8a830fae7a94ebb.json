@@ -1,0 +1,50 @@
+{
+ "name": "Weather Sense",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 2,
+  "name": "",
+  "traittype": "die",
+  "text": "“My joints ache; storm’s coming.” With a twinge in the knee, a stiffening of the joints, back pain or headaches, Weather Sense clues a character into impending weather. Unless the GM plays with strict house weather rules—I don’t—the Weather Sense in essence gives the player the ability to dictate the weather. Why else would a player pick this trait unless he were concerned about having the right weather for something or other? Anyway, I say let him predict it based on the Perception obstacles below—and let his predictions come true. Useless vague predictions (“Rain soon”), Ob 1. Accurate weather, Ob 2. Approximate location, Ob 3. Approximate time, Ob 4. Accurate location, Ob 4. Accurate time, Ob 5. Each obstacle tier includes all the other effects under it.\n\nType: Dt (die trait). Cost: 2 pts.\n\nSource: Burning Wheel Gold Revised, p. 353",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "c8a830fae7a94ebb",
+ "_key": "!items!c8a830fae7a94ebb",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

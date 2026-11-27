@@ -1,0 +1,41 @@
+{
+ "name": "The Gauntlet",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 1,
+  "resources": 4,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Society",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Brawling, Soothing Platitudes, Hazing-wise, Pecking Order-wise",
+  "traitList": "Victim",
+  "note": "Source: Burning Wheel Codex, p. 439",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1005
+ },
+ "sort": 100500,
+ "_id": "2a954c1e3f3f32af",
+ "_key": "!items!2a954c1e3f3f32af",
+ "folder": "b459a367a7c6ee1e",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

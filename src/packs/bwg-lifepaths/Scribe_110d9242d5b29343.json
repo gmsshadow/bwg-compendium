@@ -1,0 +1,41 @@
+{
+ "name": "Scribe",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Villager, Peasant",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Write, Illuminations, Foreign Languages, Handwriting-wise",
+  "traitList": "Near-Sighted, Cramped Hands",
+  "note": "Source: Burning Wheel Gold Revised, p. 173",
+  "requirements": "Student, Acolyte or Clerk",
+  "restrictions": "",
+  "order": 35
+ },
+ "sort": 3500,
+ "_id": "110d9242d5b29343",
+ "_key": "!items!110d9242d5b29343",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

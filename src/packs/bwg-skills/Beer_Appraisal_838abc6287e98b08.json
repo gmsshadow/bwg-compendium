@@ -1,0 +1,49 @@
+{
+ "name": "Beer Appraisal",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": false,
+  "description": "Years of training are required to fine-tune the sensitive taste of a discerning Dwarf. But once honed, said taste can determine the type of grain used, the type and length of the brewing, how long it has been in the cask and even the wood of the barrel.\n\nObstacles: Dwarven brews, Ob 1. Human swill, Ob 2. Rat wine, Ob 3. Elven crap, Ob 4. Orcish puke, Ob 5.\n\nFoRKs: Grain Appraisal, Nogger\n\nSkill Type: Craftsman. Tools: No.\n\nRestrictions: Dwarves only in character burning.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 259",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dwarves only in character burning."
+ },
+ "_id": "838abc6287e98b08",
+ "_key": "!items!838abc6287e98b08",
+ "folder": "3bcde3f2b3069254",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

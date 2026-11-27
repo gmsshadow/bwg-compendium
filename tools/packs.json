@@ -3,7 +3,7 @@
   "name": "bwg-skills",
   "label": "BWG Skills",
   "type": "Item",
-  "count": 642,
+  "count": 739,
   "folders": 21
  },
  {
@@ -45,15 +45,36 @@
   "name": "bwg-lifepaths",
   "label": "BWG Lifepaths",
   "type": "Item",
-  "count": 456,
-  "folders": 28
+  "count": 609,
+  "folders": 47
  },
  {
   "name": "bwg-settings",
   "label": "BWG Lifepath Settings",
   "type": "Actor",
-  "count": 24,
+  "count": 40,
+  "folders": 7
+ },
+ {
+  "name": "bwc-skills",
+  "label": "BWC Codex Skills",
+  "type": "Item",
+  "count": 43,
+  "folders": 11
+ },
+ {
+  "name": "bwc-traits",
+  "label": "BWC Codex Traits",
+  "type": "Item",
+  "count": 225,
   "folders": 4
+ },
+ {
+  "name": "bwc-spells",
+  "label": "BWC Codex Spells",
+  "type": "Item",
+  "count": 2,
+  "folders": 1
  },
  {
   "name": "bwg-verdorben-characters",
@@ -68,19 +89,5 @@
   "type": "Adventure",
   "count": 1,
   "folders": 0
- },
- {
-  "name": "bwc-skills",
-  "label": "BWC Codex Skills",
-  "type": "Item",
-  "count": 31,
-  "folders": 9
- },
- {
-  "name": "bwc-traits",
-  "label": "BWC Codex Traits",
-  "type": "Item",
-  "count": 221,
-  "folders": 3
  }
 ]

@@ -1,0 +1,49 @@
+{
+ "_id": "d2349ffe9809fc92",
+ "_key": "!items!d2349ffe9809fc92",
+ "name": "Paean to the Dark Fire",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "When sung properly this terrible song shows the singer’s true form—a shifting and distorted visage that none can look upon without growing dizzy or faint. At its base level, the spell gives all who look upon the Dark Elf +1 Ob to any act directed against him—attacking him, intimidating him, convincing him, etc. Extra successes over the spell obstacle add to the obstacle penalty. he or she likes, and may act, but may not otherwise speak.\n\nObstacle: 10 minus Spite\n\nDuration: Effect lasts while sung. Dark Elf may continue to sing for as long as\n\nActions: 4\n\nDark Elf spell song: follows the rules for Elven spell songs (sorcerous for practice and learning, always open-ended, no tools or FoRKs).\n\nSong root: Spite. The system cannot use Spite as a root; Will is set instead.\n\nRestrictions: Dark Elves only\n\nSource: Burning Wheel Codex, p. 423",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dark Elves only"
+ },
+ "effects": [],
+ "folder": "237aaf0e26bbe354",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

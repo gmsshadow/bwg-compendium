@@ -1,0 +1,31 @@
+{
+ "name": "Dwarven Arms",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 20,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "All Dwarven Arms are superior quality and add a +1D balance die to the wielder’s skill. Traditionally axes, hammers, throwing axes and knives; swords and maces are acceptable. Beaks, spikes and weights cost +4 rps per modification per weapon. Use the superior quality weapon items.\n\nSource: Burning Wheel Gold Revised, p. 125"
+ },
+ "_id": "517f3092aeccab7c",
+ "_key": "!items!517f3092aeccab7c",
+ "folder": "f5ef0d169108ef27",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

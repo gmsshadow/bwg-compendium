@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "bfb6034a22bbe502",
+   "_id": "fe74408c9ec00b64",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!085052b7b6e51640.bfb6034a22bbe502"
+   "_key": "!actors.items!085052b7b6e51640.fe74408c9ec00b64"
   },
   {
    "name": "Gambler",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "4b1b49badd92d374",
+   "_id": "fee4994c4a878140",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!085052b7b6e51640.4b1b49badd92d374"
+   "_key": "!actors.items!085052b7b6e51640.fee4994c4a878140"
   },
   {
    "name": "Oathbreaker",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "dfe60d8bc62cfcb1",
+   "_id": "490166a15cb51fc0",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!085052b7b6e51640.dfe60d8bc62cfcb1"
+   "_key": "!actors.items!085052b7b6e51640.490166a15cb51fc0"
   },
   {
    "name": "Drunk",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "05a38415e2e264c0",
+   "_id": "640577b17d0145b8",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!085052b7b6e51640.05a38415e2e264c0"
+   "_key": "!actors.items!085052b7b6e51640.640577b17d0145b8"
   },
   {
    "name": "Coward",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "389c321fe4994373",
+   "_id": "48ad09a8fb74d925",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!085052b7b6e51640.389c321fe4994373"
+   "_key": "!actors.items!085052b7b6e51640.48ad09a8fb74d925"
   },
   {
    "name": "Rune Caster",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "6b831fc4bb282640",
+   "_id": "96ba610bbbc3ab1a",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!085052b7b6e51640.6b831fc4bb282640"
+   "_key": "!actors.items!085052b7b6e51640.96ba610bbbc3ab1a"
   }
  ],
  "effects": [],

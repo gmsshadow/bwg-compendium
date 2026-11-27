@@ -1,0 +1,41 @@
+{
+ "name": "Born to the Pack",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 1,
+  "resources": 0,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Captive",
+  "skillPoints": 2,
+  "generalPoints": 2,
+  "traitPoints": 2,
+  "skillList": "Howling",
+  "traitList": "",
+  "note": "Resources: — as listed in the book. Also gains the Great Wolf common traits.\n\nSource: Burning Wheel Codex, p. 480",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "4f2959bce2b7154c",
+ "_key": "!items!4f2959bce2b7154c",
+ "folder": "f132b029df4a5495",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

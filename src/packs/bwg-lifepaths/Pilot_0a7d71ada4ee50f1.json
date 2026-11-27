@@ -1,0 +1,41 @@
+{
+ "name": "Pilot",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 8,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Soldier, City, Villager, Outcast",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Pilot, Ship-wise, Observation, Shoal-wise",
+  "traitList": "Blisters, Light Sleeper, Bored, Paranoid About the Ship",
+  "note": "Source: Burning Wheel Gold Revised, p. 190",
+  "requirements": "Sailor, Pirate or Mercenary Captain",
+  "restrictions": "",
+  "order": 10
+ },
+ "sort": 1000,
+ "_id": "0a7d71ada4ee50f1",
+ "_key": "!items!0a7d71ada4ee50f1",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

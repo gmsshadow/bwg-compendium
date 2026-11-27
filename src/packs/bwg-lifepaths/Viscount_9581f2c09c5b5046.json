@@ -1,0 +1,41 @@
+{
+ "name": "Viscount",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 9,
+  "resources": 65,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Court, Soldier",
+  "skillPoints": 0,
+  "generalPoints": 2,
+  "traitPoints": 1,
+  "skillList": "",
+  "traitList": "Noblesse Oblige, Regal Bearing, Pompous, Sharp Dresser, Callous",
+  "note": "Source: Burning Wheel Gold Revised, p. 178",
+  "requirements": "Knight and the Your Eminence trait; or Magnate, Baron, Constable or Justiciar",
+  "restrictions": "",
+  "order": 13
+ },
+ "sort": 1300,
+ "_id": "9581f2c09c5b5046",
+ "_key": "!items!9581f2c09c5b5046",
+ "folder": "c721f7253452389b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

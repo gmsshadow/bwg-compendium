@@ -1,0 +1,41 @@
+{
+ "name": "Born to the Pit",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 1,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Cave, Pit",
+  "skillPoints": 0,
+  "generalPoints": 1,
+  "traitPoints": 2,
+  "skillList": "",
+  "traitList": "",
+  "note": "Also gains the Troll common traits.\n\nSource: Burning Wheel Codex, p. 464",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "d4e656524fa1b195",
+ "_key": "!items!d4e656524fa1b195",
+ "folder": "4d5e91b39c09c061",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

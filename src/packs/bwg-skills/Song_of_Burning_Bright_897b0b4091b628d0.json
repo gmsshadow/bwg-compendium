@@ -1,0 +1,49 @@
+{
+ "name": "Song of Burning Bright",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "The Song of Burning Bright evokes the true fire within the Elven heart. Once summoned, it drives the Elf into a blinding fury that strikes terror in the hearts of his enemies. All who look upon him must make a Steel Test. Hesitation is increased by the Elf’s successes over the song obstacle. The Song of Burning Bright negates all hesitation-reducing traits for purposes of the Steel test. The victims must make a Steel test—no matter what—at 10 minus Will plus extra song successes. The effect of this song supersedes wonderment: Do not test for wonderment.\n\nObstacle: 10 minus Grief\n\nActions: Obstacle x 2\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 149",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "897b0b4091b628d0",
+ "_key": "!items!897b0b4091b628d0",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Shield Training",
+ "type": "skill",
+ "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "agility",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "martial",
+  "training": true,
+  "magical": false,
+  "description": "Shield Training allows a character to incorporate a shield into his defense. Characters without Shield Training must actively block with a shield in order to gain its benefits. See Armor and Shields in the Burning Wheel for rules. When performing a Strike with a shield use Brawling, an appropriate Boxing skill or Agility.\n\n*Training Root is for Aptitude only.\n\nObstacles: See Armor and Shields.\n\nSkill Type: Martial Training. Tools: No.\n\nRoot: Agility*\n\nSource: Burning Wheel Gold Revised, p. 295",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "46cc6bed2064e493",
+ "_key": "!items!46cc6bed2064e493",
+ "folder": "099756cf8a437215",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

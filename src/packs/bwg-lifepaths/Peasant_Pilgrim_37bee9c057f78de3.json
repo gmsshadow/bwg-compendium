@@ -1,0 +1,41 @@
+{
+ "name": "Peasant Pilgrim",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 4,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Servitude, Villager",
+  "skillPoints": 3,
+  "generalPoints": 1,
+  "traitPoints": 2,
+  "skillList": "Doctrine, Pilgrimage-wise, Saint-wise",
+  "traitList": "Road Weary, Alms-Taker",
+  "note": "Source: Burning Wheel Gold Revised, p. 163",
+  "requirements": "",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "37bee9c057f78de3",
+ "_key": "!items!37bee9c057f78de3",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

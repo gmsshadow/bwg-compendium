@@ -1,0 +1,50 @@
+{
+ "name": "Light Sleeper",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 2,
+  "name": "",
+  "traittype": "die",
+  "text": "Light Sleepers are easily roused from slumber. They are always allowed the benefit of a Perception test to wake up when a noise is heard or someone is creeping about their room. Make the test as if they were awake. If the character has Observation, that can be used in place of Perception. If the test is passed, the character is instantly awake and ready to go. Also, Light Sleeper adds +1 Ob to all Health tests for recovering Tax.\n\nType: Dt (die trait). Cost: 2 pts.\n\nSource: Burning Wheel Gold Revised, p. 333",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "1f29c75ec7fc1928",
+ "_key": "!items!1f29c75ec7fc1928",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

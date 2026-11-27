@@ -1,0 +1,50 @@
+{
+ "name": "Oathsworn",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "All Dwarves have stern values hammered into their skulls from a very early age. In fact, Dwarven society is a complex and interlocking network of promises and traditions. The most prime among them is: “Honor the oath.” To break an oath is to break tradition that has seen Dwarves through many dark ages. It is a terrible crime and one not easily forgiven or forgotten. Due to this trait, all Dwarf characters start the game with an additional (fourth) Belief. This Belief must come in the form of an oath, and represents a pre-game bond between the Dwarf and one of his relationships. Oaths that pertain to the situation in play fill one of the standard three Belief slots. Acceptable oaths are: the soldier’s oath: “I owe Burri a debt of honor;” the uncle’s: “I swore to recover the crown for my brother;” the prince’s vow: “My father’s last words were to rule wisely; this I swore;” and the drunk promises his wife: “I vow never to go near the beer again.” Yes, the requirements of an oath mean a Dwarf character must start with a relationship.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Dwarven common trait\n\nSource: Burning Wheel Gold Revised, p. 338",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Dwarven common trait"
+ },
+ "_id": "cd97dd8d40216d13",
+ "_key": "!items!cd97dd8d40216d13",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

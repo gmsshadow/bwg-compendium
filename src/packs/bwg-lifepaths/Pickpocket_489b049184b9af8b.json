@@ -1,0 +1,41 @@
+{
+ "name": "Pickpocket",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 8,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Outcast, Villager, Servitude",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Inconspicuous, Streetwise, Sleight of Hand, Crowd-wise",
+  "traitList": "Plain Face",
+  "note": "Source: Burning Wheel Gold Revised, p. 171",
+  "requirements": "",
+  "restrictions": "",
+  "order": 10
+ },
+ "sort": 1000,
+ "_id": "489b049184b9af8b",
+ "_key": "!items!489b049184b9af8b",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

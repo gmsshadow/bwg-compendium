@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "b93592f3445bf54b",
+   "_id": "fb5bc1372ad82e44",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.b93592f3445bf54b"
+   "_key": "!actors.items!e1bd6546a163fde7.fb5bc1372ad82e44"
   },
   {
    "name": "Herald",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "5e18e48c577da43d",
+   "_id": "6f82594bd1946cce",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.5e18e48c577da43d"
+   "_key": "!actors.items!e1bd6546a163fde7.6f82594bd1946cce"
   },
   {
    "name": "Soother",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "afb5a7097e8c2dfe",
+   "_id": "4a3433516e9f7949",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.afb5a7097e8c2dfe"
+   "_key": "!actors.items!e1bd6546a163fde7.4a3433516e9f7949"
   },
   {
    "name": "Ranger",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "d6fc9698c4986cb0",
+   "_id": "cdf3ceb9be892867",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.d6fc9698c4986cb0"
+   "_key": "!actors.items!e1bd6546a163fde7.cdf3ceb9be892867"
   },
   {
    "name": "Bowyer",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "9b1c64cf2fadae25",
+   "_id": "f6fe9edbdea8ce5f",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.9b1c64cf2fadae25"
+   "_key": "!actors.items!e1bd6546a163fde7.f6fe9edbdea8ce5f"
   },
   {
    "name": "Spearbearer",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "42c461db28677248",
+   "_id": "93578fc0c1436275",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.42c461db28677248"
+   "_key": "!actors.items!e1bd6546a163fde7.93578fc0c1436275"
   },
   {
    "name": "Sword Singer",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "532ee974b8c18498",
+   "_id": "5b4d8e0830a2b3c8",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.532ee974b8c18498"
+   "_key": "!actors.items!e1bd6546a163fde7.5b4d8e0830a2b3c8"
   },
   {
    "name": "Outrider",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "b9da30473ac7ef0b",
+   "_id": "06599d743ba59c44",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.b9da30473ac7ef0b"
+   "_key": "!actors.items!e1bd6546a163fde7.06599d743ba59c44"
   },
   {
    "name": "Lancer",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "2a6b60e99c431ba3",
+   "_id": "b0ed645ebe3657ec",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.2a6b60e99c431ba3"
+   "_key": "!actors.items!e1bd6546a163fde7.b0ed645ebe3657ec"
   },
   {
    "name": "Lieutenant",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "594f1eb0f96dd5e1",
+   "_id": "978b61171139d6a7",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.594f1eb0f96dd5e1"
+   "_key": "!actors.items!e1bd6546a163fde7.978b61171139d6a7"
   },
   {
    "name": "Captain",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "6a99847e0a299e83",
+   "_id": "605ddfdc8adf085c",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.6a99847e0a299e83"
+   "_key": "!actors.items!e1bd6546a163fde7.605ddfdc8adf085c"
   },
   {
    "name": "Armorer",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "9d05ce5c3bacf587",
+   "_id": "4ae515f40536df71",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.9d05ce5c3bacf587"
+   "_key": "!actors.items!e1bd6546a163fde7.4ae515f40536df71"
   },
   {
    "name": "Bladesmith",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "e9f24fa3dce959fd",
+   "_id": "927f2630ce3023fa",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.e9f24fa3dce959fd"
+   "_key": "!actors.items!e1bd6546a163fde7.927f2630ce3023fa"
   },
   {
    "name": "Lord Protector",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "9598a910b533a1bf",
+   "_id": "f1df95d2c1c50665",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!e1bd6546a163fde7.9598a910b533a1bf"
+   "_key": "!actors.items!e1bd6546a163fde7.f1df95d2c1c50665"
   }
  ],
  "effects": [],

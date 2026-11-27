@@ -1,0 +1,44 @@
+{
+ "name": "Bed Knob",
+ "type": "melee weapon",
+ "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+ "system": {
+  "pointCost": 0,
+  "quality": "basic",
+  "handedness": "one",
+  "description": "Found weapon. Any character with Brawling may use found weapons; characters with a weapon skill can use them so long as they are an analog of their skill. All found weapons have Add 2 and no VA, except the pick (VA 1). The book lists no weapon length or handedness for found weapons; set them to suit the object.\n\nSource: Burning Wheel Gold Revised, p. 555",
+  "skillId": "",
+  "shade": "B",
+  "baseOb": 1,
+  "attacks": [
+   {
+    "attackName": "",
+    "power": 1,
+    "add": 2,
+    "vsArmor": 0,
+    "weaponSpeed": "1",
+    "weaponLength": "shortest"
+   }
+  ]
+ },
+ "_id": "fd907eb26ce4e3d7",
+ "_key": "!items!fd907eb26ce4e3d7",
+ "folder": "935c362d3f39b8f2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

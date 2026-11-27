@@ -1,0 +1,403 @@
+{
+ "_id": "672ff0864e8fb4a8",
+ "name": "Great Wolf Slave to the Legion Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Slave to the Legion Setting lifepaths for Great Wolf characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born to the Legion",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 0,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Captive",
+    "skillPoints": 2,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "Howling",
+    "traitList": "Vile Language, Demented",
+    "note": "Resources: — as listed in the book. Also gains the Great Wolf common traits.\n\nSource: Burning Wheel Codex, p. 481",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "f7566b2ca1dcb2e8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!672ff0864e8fb4a8.f7566b2ca1dcb2e8"
+  },
+  {
+   "name": "Caged and Beaten",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 0.5,
+    "resources": 1,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Captive",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Pack Etiquette, Begging, Cage-wise",
+    "traitList": "Submissive, Tasting the Lash, Deranged",
+    "note": "Wolves entering the legion from other settings must take Caged and Beaten as their first lifepath in this setting. Time: ½ yr.\n\nSource: Burning Wheel Codex, p. 481",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "8e57ef1308de384e",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!672ff0864e8fb4a8.8e57ef1308de384e"
+  },
+  {
+   "name": "Shadow Chaser",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 2,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Stealthy, Scent Tracking, Trail-wise, Orc-wise, Scavenging, Intimidation, Rider Training, Begging",
+    "traitList": "Submissive, Tasting the Lash",
+    "note": "Source: Burning Wheel Codex, p. 481",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "40d9f75bc704ddfa",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!672ff0864e8fb4a8.40d9f75bc704ddfa"
+  },
+  {
+   "name": "Wayward",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 0.5,
+    "resources": 2,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Outcast",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Pack Hunting, Foraging, Brawling, Stealthy, Howling, Escape Artist",
+    "traitList": "",
+    "note": "Time: ½ yr.\n\nSource: Burning Wheel Codex, p. 481",
+    "requirements": "Shadow Chaser or Caged and Beaten",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "317e9a25a2cba56c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!672ff0864e8fb4a8.317e9a25a2cba56c"
+  },
+  {
+   "name": "Bitch",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Nursing, Rearing, Pup-wise, Scavenging, Begging",
+    "traitList": "Submissive",
+    "note": "Source: Burning Wheel Codex, p. 481",
+    "requirements": "",
+    "restrictions": "Characters taking this lifepath must be at least two years old",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "61350abf52728c27",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!672ff0864e8fb4a8.61350abf52728c27"
+  },
+  {
+   "name": "Howling Beast",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 1,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Rider Training, Combat Mount, Savage Attack, Intimidation",
+    "traitList": "Howl of Doom",
+    "note": "Source: Burning Wheel Codex, p. 481",
+    "requirements": "Shadow Chaser",
+    "restrictions": "",
+    "order": 1005
+   },
+   "sort": 100500,
+   "_id": "a9250ac068194c23",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!672ff0864e8fb4a8.a9250ac068194c23"
+  },
+  {
+   "name": "Black Destroyer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 2,
+    "resources": 2,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Rider Training, Combat Mount, Savage Attack",
+    "traitList": "Fearsome Beast, Intense Hatred, Fearless, Dominant, Submissive",
+    "note": "Source: Burning Wheel Codex, p. 481",
+    "requirements": "Howling Beast or Ebon Tyrant",
+    "restrictions": "",
+    "order": 1006
+   },
+   "sort": 100600,
+   "_id": "37e8dee1092ddc09",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!672ff0864e8fb4a8.37e8dee1092ddc09"
+  },
+  {
+   "name": "Ebon Tyrant",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 2,
+    "resources": 5,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Conspicuous, Command, Skirmish Tactics, Strategy",
+    "traitList": "Dominant, Great Cunning",
+    "note": "Source: Burning Wheel Codex, p. 481",
+    "requirements": "Shadow Chaser or Black Destroyer",
+    "restrictions": "",
+    "order": 1007
+   },
+   "sort": 100700,
+   "_id": "f94aff5fbad2b838",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!672ff0864e8fb4a8.f94aff5fbad2b838"
+  },
+  {
+   "name": "Dark Friend",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 3,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Outcast",
+    "skillPoints": 5,
+    "generalPoints": 1,
+    "traitPoints": 1,
+    "skillList": "Stealthy, Scent Tracking, Brawling, Rituals-wise, Poisons-wise",
+    "traitList": "Obedient, Loyal, Fearless",
+    "note": "Source: Burning Wheel Codex, p. 482",
+    "requirements": "Caged and Beaten",
+    "restrictions": "",
+    "order": 1008
+   },
+   "sort": 100800,
+   "_id": "897f08646459d608",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!672ff0864e8fb4a8.897f08646459d608"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Slave to the Legion Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!672ff0864e8fb4a8",
+ "folder": "831b7f025738cb40",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

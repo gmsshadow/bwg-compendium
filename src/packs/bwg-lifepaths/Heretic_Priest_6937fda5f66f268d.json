@@ -1,0 +1,41 @@
+{
+ "name": "Heretic Priest",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 6,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Peasant, Servitude",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Heretical Doctrine, Oratory, Apostate-wise, Demonology, Summoner-wise, Cultist-wise",
+  "traitList": "Lunatic, Overbearing Loony, Faith in Dead Gods",
+  "note": "Source: Burning Wheel Gold Revised, p. 196",
+  "requirements": "Acolyte, Cultist, Apostate, Theologian, Venal Priest, Interpreter or Archivist",
+  "restrictions": "",
+  "order": 31
+ },
+ "sort": 3100,
+ "_id": "6937fda5f66f268d",
+ "_key": "!items!6937fda5f66f268d",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

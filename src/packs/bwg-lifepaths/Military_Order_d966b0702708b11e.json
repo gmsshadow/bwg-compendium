@@ -1,0 +1,41 @@
+{
+ "name": "Military Order",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 7,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Any except Peasant",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Doctrine, Riding, Armor Training, Appropriate Weapons",
+  "traitList": "Disciplined, Fanatical Devotion, Sworn to the Order",
+  "note": "Source: Burning Wheel Gold Revised, p. 184",
+  "requirements": "Knight of a Holy Military Order requires Squire, Knight or any lifepath from the Professional Soldier setting",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "d966b0702708b11e",
+ "_key": "!items!d966b0702708b11e",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

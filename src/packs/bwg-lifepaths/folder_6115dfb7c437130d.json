@@ -1,0 +1,23 @@
+{
+ "_id": "6115dfb7c437130d",
+ "_key": "!folders!6115dfb7c437130d",
+ "name": "Slave to the Legion Setting",
+ "type": "Item",
+ "folder": "9044fd1484bd3ea0",
+ "sorting": "a",
+ "sort": 0,
+ "color": null,
+ "description": "",
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

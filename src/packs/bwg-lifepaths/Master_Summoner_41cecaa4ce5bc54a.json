@@ -1,0 +1,41 @@
+{
+ "name": "Master Summoner",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 20,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Court, City Dweller, Outcast",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Summoning, Instruction, Bargaining, Ugly Truth, Soothing Platitudes, Rule of Law, Philosophy, Scheme-wise",
+  "traitList": "Extrovert, Fearless, Obscure Aura",
+  "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+  "requirements": "Adjunct or Court Summoner",
+  "restrictions": "",
+  "order": 1006
+ },
+ "sort": 100600,
+ "_id": "41cecaa4ce5bc54a",
+ "_key": "!items!41cecaa4ce5bc54a",
+ "folder": "1c38bfd0e452d33f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

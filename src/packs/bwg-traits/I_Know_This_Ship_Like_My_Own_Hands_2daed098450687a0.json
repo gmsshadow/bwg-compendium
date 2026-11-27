@@ -1,0 +1,50 @@
+{
+ "name": "I Know This Ship Like My Own Hands",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "call-on",
+  "text": "The carpenter is a strange bloke, but he definitely knows the ship. This trait acts as a call-on for any ability used in trying to figure out something about the sailor’s ship—be it the location of something lost or the knowledge to repair terrible damage.\n\nType: C-O (call-on trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Human lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 330",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Human lifepath trait"
+ },
+ "_id": "2daed098450687a0",
+ "_key": "!items!2daed098450687a0",
+ "folder": "15c52fef37dbb065",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

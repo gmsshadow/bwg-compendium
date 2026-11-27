@@ -1,0 +1,41 @@
+{
+ "name": "Wizard’s Apprentice",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Peasant, City, Outcast, Servitude",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Read, Foraging, Symbology, Circination, Pig-wise, Bone Headed-wise",
+  "traitList": "Always in the Way, Atravieso, Gifted, Assistant Pig-Keeper",
+  "note": "Wizard Burner lifepath, supplementing the Villager Setting. Source: Burning Wheel Codex, p. 403",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "65c2ee9c2e655426",
+ "_key": "!items!65c2ee9c2e655426",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

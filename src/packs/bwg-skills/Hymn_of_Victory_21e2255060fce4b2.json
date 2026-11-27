@@ -1,0 +1,49 @@
+{
+ "name": "Hymn of Victory",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "A song sung of all the victories of the Elves—this one included. The Hymn forces the enemy to choose Stand and Drool as a hesitation option from a failed Steel test while this song is being sung. The Hymn of Victory is a fine way to round up and finish off the straggling remnants of the enemy forces.\n\nObstacle: See description. Enemy squad, Ob 1. Enemy company, Ob 2. Battalion, Ob 3. Army, Ob 5.\n\nActions: 60\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 147",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "21e2255060fce4b2",
+ "_key": "!items!21e2255060fce4b2",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

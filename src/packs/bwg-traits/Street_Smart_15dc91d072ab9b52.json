@@ -1,0 +1,50 @@
+{
+ "name": "Street Smart",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 4,
+  "name": "",
+  "traittype": "call-on",
+  "text": "This character understands the dangers and customs of city living. This trait may be used as a call-on for Streetwise, City-wise and Circles in the City Dweller Setting. (The pricing is correct for this trait.)\n\nType: C-O (call-on trait). Cost: 4 pts.\n\nSource: Burning Wheel Gold Revised, p. 348",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "15dc91d072ab9b52",
+ "_key": "!items!15dc91d072ab9b52",
+ "folder": "15c52fef37dbb065",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

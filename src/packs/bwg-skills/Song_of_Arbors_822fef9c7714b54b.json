@@ -1,0 +1,49 @@
+{
+ "name": "Song of Arbors",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "The Song of Arbors allows the Elves to communicate in the tongue of the leafed ones and learn what news they can from the cryptic mind of the wood. An Elf may sing to any tree in his Presence. If successful, he may communicate with the tree about its well-being and any recent notable events.\n\nObstacle: See Description. Ancient trees, Ob 1. Elder trees, Ob 2. Full-grown trees, Ob 3. Young trees, Ob 4. Saplings, Ob 5. Vines and hangers, Ob 6.\n\nActions: 4444\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 149",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "822fef9c7714b54b",
+ "_key": "!items!822fef9c7714b54b",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

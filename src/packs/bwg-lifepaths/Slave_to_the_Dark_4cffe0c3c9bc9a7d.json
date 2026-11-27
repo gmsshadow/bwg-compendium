@@ -1,0 +1,41 @@
+{
+ "name": "Slave to the Dark",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 3,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Chattel",
+  "skillPoints": 2,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Servant-wise",
+  "traitList": "Fearful Respect of the Servants, Naked Hatred",
+  "note": "Source: Burning Wheel Gold Revised, p. 232",
+  "requirements": "",
+  "restrictions": "",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "4cffe0c3c9bc9a7d",
+ "_key": "!items!4cffe0c3c9bc9a7d",
+ "folder": "06a160df6011fa80",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

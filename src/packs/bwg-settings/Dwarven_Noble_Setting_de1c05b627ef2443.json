@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "f06992f0a0c637a5",
+   "_id": "f6dec920522c24c0",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!de1c05b627ef2443.f06992f0a0c637a5"
+   "_key": "!actors.items!de1c05b627ef2443.f6dec920522c24c0"
   },
   {
    "name": "Abecedart",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "aaf88deb628a185e",
+   "_id": "d0a2e832171512d1",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!de1c05b627ef2443.aaf88deb628a185e"
+   "_key": "!actors.items!de1c05b627ef2443.d0a2e832171512d1"
   },
   {
    "name": "Ardent",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "041ec3b7f26b433a",
+   "_id": "392d1203fc178c1d",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!de1c05b627ef2443.041ec3b7f26b433a"
+   "_key": "!actors.items!de1c05b627ef2443.392d1203fc178c1d"
   },
   {
    "name": "Axe Bearer",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "9aaf51e8d8eb9700",
+   "_id": "7aa727d43aef7b47",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!de1c05b627ef2443.9aaf51e8d8eb9700"
+   "_key": "!actors.items!de1c05b627ef2443.7aa727d43aef7b47"
   },
   {
    "name": "Chronicler",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "f01a3a30b6da1098",
+   "_id": "d75dbf27355c5bf9",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!de1c05b627ef2443.f01a3a30b6da1098"
+   "_key": "!actors.items!de1c05b627ef2443.d75dbf27355c5bf9"
   },
   {
    "name": "Seneschal",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "8ccc2982f7a7f9df",
+   "_id": "bce49c8b6b7b7f7b",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!de1c05b627ef2443.8ccc2982f7a7f9df"
+   "_key": "!actors.items!de1c05b627ef2443.bce49c8b6b7b7f7b"
   },
   {
    "name": "Treasurer",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "9df53c142563b270",
+   "_id": "45efa4270f30e73a",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!de1c05b627ef2443.9df53c142563b270"
+   "_key": "!actors.items!de1c05b627ef2443.45efa4270f30e73a"
   },
   {
    "name": "High Captain",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "e005c7a85db1ed66",
+   "_id": "ebace76c50a82364",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!de1c05b627ef2443.e005c7a85db1ed66"
+   "_key": "!actors.items!de1c05b627ef2443.ebace76c50a82364"
   },
   {
    "name": "Prince",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "c5b4e81853fe95b0",
+   "_id": "e6e1fe8cc90fcb93",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!de1c05b627ef2443.c5b4e81853fe95b0"
+   "_key": "!actors.items!de1c05b627ef2443.e6e1fe8cc90fcb93"
   }
  ],
  "effects": [],

@@ -1,0 +1,41 @@
+{
+ "name": "Preacher",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Preaching, Conspicuous, Symbology, Obscure History",
+  "traitList": "Obsessed, Righteous",
+  "note": "Source: Burning Wheel Codex, p. 443",
+  "requirements": "Cultist, Missionary or Hermit",
+  "restrictions": "",
+  "order": 1009
+ },
+ "sort": 100900,
+ "_id": "dbdf47f2a20c35b3",
+ "_key": "!items!dbdf47f2a20c35b3",
+ "folder": "39586c96cf7911c7",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Rune Casting",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "Learned Elves, Orcs and Men would consider Rune Casting an innocent use of the arcane forces at play in the world, but most Dwarves consider its use a mad and profane act. You see, the Rune Caster uses a set of specially designed runes to discern the future. When cast to the ground, their pattern and order reveal to him another’s fate.\n\nA successful test of this natural magic skill allows the Rune Caster player to pronounce the target character’s fate. The Rune Caster player may look at the target’s Beliefs. The fate that he pronounces must tie in to one of the Beliefs—and it must be suitably dire: a rise to power, a tragic death or a pyrrhic victory, for example.\n\nIn order for the pronouncement to even have a chance of coming true, the Rune Caster player must change one of his character’s Beliefs to match the fate. (Playing on or against that Belief earns artha as per the standard rules.) If he does not or if the Belief changes, then the fate is rendered invalid.\n\nIt is ultimately up to the target whether or not he will embrace his fate or veer from it. If a scene is played out in which the fate is fulfilled, that player earns a deeds point. If the fated character is killed in fulfillment of his pronounced fate, the player’s next character in this campaign starts with a deeds point.\n\nFoRKs: Rune Casting can also be used as a FoRK just like Astrology.\n\nObstacles: Writing moon runes, Ob 1. Carving the runes onto the small stones necessary to Rune Casting is Ob 2. The obstacle for pronouncing a fate is equal to 10 minus the target’s highest Circles+ reputation+ affiliation dice total or 10 minus the point value of the character’s most expensive non-common trait. Use whichever obstacle is lower.\n\nSkill Type: Sorcerous. Tools: Yes, rune stones.\n\nRestrictions: Dwarves only\n\nRoot: Will/Per (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 293",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "eadb2cb0631c60e1",
+ "_key": "!items!eadb2cb0631c60e1",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

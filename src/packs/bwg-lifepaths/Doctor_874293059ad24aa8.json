@@ -1,0 +1,41 @@
+{
+ "name": "Doctor",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 20,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Outcast, Noble Court, Villager",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Anatomy, Apothecary, Bloodletting, Surgery, Soothing Platitudes",
+  "traitList": "Frustrated",
+  "note": "Source: Burning Wheel Gold Revised, p. 175",
+  "requirements": "Student or Young Lady",
+  "restrictions": "",
+  "order": 56
+ },
+ "sort": 5600,
+ "_id": "874293059ad24aa8",
+ "_key": "!items!874293059ad24aa8",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

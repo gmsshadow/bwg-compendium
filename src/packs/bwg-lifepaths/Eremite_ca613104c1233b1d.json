@@ -1,0 +1,41 @@
+{
+ "name": "Eremite",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 150,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Servant to the Dark",
+  "skillPoints": 12,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Philosophy, Ugly Truth, Obscure History, Symbology, Strategy, Elf-wise, Orc-wise, Dwarf-wise, Man-wise, Paean to the Dark Fire",
+  "traitList": "Remote, Cold",
+  "note": "Source: Burning Wheel Codex, p. 419",
+  "requirements": "Siren, Wastrel or Stalker",
+  "restrictions": "",
+  "order": 1008
+ },
+ "sort": 100800,
+ "_id": "ca613104c1233b1d",
+ "_key": "!items!ca613104c1233b1d",
+ "folder": "96e8dff24c1e65ee",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

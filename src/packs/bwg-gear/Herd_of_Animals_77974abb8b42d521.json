@@ -1,0 +1,30 @@
+{
+ "name": "Herd of Animals",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 20,
+  "isWorkshop": false,
+  "description": "Characters with Animal Husbandry, or the Master of Horses, Merchant or Magnate lifepath, may take an appropriate herd. Counts as property when factoring Resources.\n\nSource: Burning Wheel Gold Revised, p. 204"
+ },
+ "_id": "77974abb8b42d521",
+ "_key": "!items!77974abb8b42d521",
+ "folder": "af605cb952773f03",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

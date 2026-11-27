@@ -1,0 +1,41 @@
+{
+ "name": "Gaol Warden",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Court, Soldier, Villager",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Administration, Etiquette, Gaol-wise, Everybody’s Innocent-wise",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 175",
+  "requirements": "Born Noble, Merchant, Sergeant, Man-at-Arms or Judge",
+  "restrictions": "",
+  "order": 54
+ },
+ "sort": 5400,
+ "_id": "d8447bf8451b2938",
+ "_key": "!items!d8447bf8451b2938",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

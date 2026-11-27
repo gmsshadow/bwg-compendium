@@ -1,0 +1,41 @@
+{
+ "name": "Thinker",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 15,
+  "resources": 5,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 6,
+  "generalPoints": 1,
+  "traitPoints": 2,
+  "skillList": "Philosophy, Strategy, Strategy Games, Calligraphy, History, Painting",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 196",
+  "requirements": "",
+  "restrictions": "Thinker can only be taken if the character’s starting age will be 36 years or older",
+  "order": 32
+ },
+ "sort": 3200,
+ "_id": "95c240b2a68c3a5a",
+ "_key": "!items!95c240b2a68c3a5a",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

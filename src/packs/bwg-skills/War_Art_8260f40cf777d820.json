@@ -1,0 +1,49 @@
+{
+ "name": "War Art",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": true,
+  "description": "Mask Bearers spend much time in the terrible heat of the forges beating out wicked blades and unyielding armor. Using this skill, the Artificer may create weapons or armor.\n\nObstacles: Knives, Ob 1. Hammer, axe and sword, Ob 2. Spear and polearm, Ob 3. Arbalest, Ob 4. Bolts for crossbows and arbalests are Ob 2. You may do the following once per weapon: +1 VA—Ob=current VA plus 1. Add balance die, +2 Ob. +1 power—Ob=current weapon pow. Pot helmet, Ob 1. Light mail armor, Ob 2. Heavy mail armor, Ob 3. Plated mail, Ob 4. To make armor or shields “Dwarven-made” (reroll one 1 once), add +1 Ob. To make armor superior quality (reroll all 1s all the time), add +3 Ob. To create gray shade devices, the Artificer must have a gray skill—either via a temporary Epiphany or due to his actual shade.\n\nFoRKs: Black-Metal Artifice\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRestrictions: Dwarves only\n\nRoot: Will/Agi (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 307",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "8260f40cf777d820",
+ "_key": "!items!8260f40cf777d820",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

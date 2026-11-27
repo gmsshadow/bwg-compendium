@@ -1,0 +1,41 @@
+{
+ "name": "Judge",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 30,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Court, Villager",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Rule of Law, Amercement, Criminal-wise, Interrogation",
+  "traitList": "Ornery, Quick-Witted",
+  "note": "Source: Burning Wheel Gold Revised, p. 176",
+  "requirements": "Town Official, Tax Collector, Bailiff or Justiciar",
+  "restrictions": "",
+  "order": 63
+ },
+ "sort": 6300,
+ "_id": "1dbc126a0b94bc31",
+ "_key": "!items!1dbc126a0b94bc31",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

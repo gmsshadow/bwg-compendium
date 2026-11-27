@@ -1,0 +1,49 @@
+{
+ "name": "Ratiquette",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "Rats have a particular etiquette they prefer in all their dealings. If one is willing and nimble, this social art can be learned and even mastered. Use this skill in place of Etiquette whenever dealing with rats or their cousins. Roden consider Ratiquette a mortal insult.\n\nObstacles: Proper etiquette for a house rat, Ob 1; for a ship rat, Ob 2. For a granary rat, Ob 3. For the rat king, Ob 4. For the rat queen, Ob 5. For the rat queen mother, Ob 6.\n\nFoRKs: Etiquette\n\nSkill Type: Social. Tools: No.\n\nRoot: Will\n\nSource: Burning Wheel Gold Revised, p. 289",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "c4b9e493cce1262c",
+ "_key": "!items!c4b9e493cce1262c",
+ "folder": "5a85450a27640cfe",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

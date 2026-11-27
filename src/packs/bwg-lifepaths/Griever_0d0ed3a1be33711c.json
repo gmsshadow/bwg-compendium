@@ -1,0 +1,41 @@
+{
+ "name": "Griever",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 0,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 3,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sorrow of Truth, Dark Elf-wise",
+  "traitList": "Spite",
+  "note": "Resources: — as listed in the book.\n\nSource: Burning Wheel Codex, p. 418",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "0d0ed3a1be33711c",
+ "_key": "!items!0d0ed3a1be33711c",
+ "folder": "96e8dff24c1e65ee",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

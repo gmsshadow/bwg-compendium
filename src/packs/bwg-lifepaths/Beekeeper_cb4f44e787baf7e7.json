@@ -1,0 +1,41 @@
+{
+ "name": "Beekeeper",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 9,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Bee Husbandry, Firebuilding, Bee-wise, Flower-wise, Honey-wise",
+  "traitList": "Thick Skin, Beespeaker",
+  "note": "Source: Burning Wheel Codex, p. 437",
+  "requirements": "Woodsen, Gatherer, Farmer, Apprentice or Hand",
+  "restrictions": "",
+  "order": 1006
+ },
+ "sort": 100600,
+ "_id": "cb4f44e787baf7e7",
+ "_key": "!items!cb4f44e787baf7e7",
+ "folder": "bf3758f4ad382083",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

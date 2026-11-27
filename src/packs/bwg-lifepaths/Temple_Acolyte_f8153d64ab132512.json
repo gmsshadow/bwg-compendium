@@ -1,0 +1,41 @@
+{
+ "name": "Temple Acolyte",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 5,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Outcast, Soldier",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Write, Read, Doctrine, Temple-wise",
+  "traitList": "Tonsured, Obedient, Faithful",
+  "note": "Source: Burning Wheel Gold Revised, p. 185",
+  "requirements": "",
+  "restrictions": "",
+  "order": 12
+ },
+ "sort": 1200,
+ "_id": "f8153d64ab132512",
+ "_key": "!items!f8153d64ab132512",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

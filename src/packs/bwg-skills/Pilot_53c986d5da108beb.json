@@ -1,0 +1,49 @@
+{
+ "name": "Pilot",
+ "type": "skill",
+ "img": "icons/tools/nautical/anchor-blue-orange.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "power",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "seafaring",
+  "training": false,
+  "magical": false,
+  "description": "The pilot is the all-important crewman who guides the ship through storm and calm. A good pilot can stay the course through the most terrible gale.\n\nObstacles: Piloting into a large port, Ob 1. Piloting into a busy port, Ob 2. Piloting into a small, busy port, Ob 3. Piloting through narrow or shallow channels, Ob 4. Piloting through rough or dangerous waters, Ob 5.\n\nFoRKs: Navigation\n\nSkill Type: Seafaring. Tools: No.\n\nRoot: Perception/Power\n\nSource: Burning Wheel Gold Revised, p. 288",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "53c986d5da108beb",
+ "_key": "!items!53c986d5da108beb",
+ "folder": "17904851845b71ae",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

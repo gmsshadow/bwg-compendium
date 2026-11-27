@@ -1,0 +1,41 @@
+{
+ "name": "Scratcher",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 4,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Ditch Digging, Tunnel-wise, Mending",
+  "traitList": "Hacking Cough, Deep Sense",
+  "note": "Source: Burning Wheel Codex, p. 439",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1003
+ },
+ "sort": 100300,
+ "_id": "f874b5d88a3ac4d7",
+ "_key": "!items!f874b5d88a3ac4d7",
+ "folder": "b459a367a7c6ee1e",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

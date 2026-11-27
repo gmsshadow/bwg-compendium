@@ -1,0 +1,41 @@
+{
+ "name": "Evil Necromancer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 20,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Death Art, Anatomy, Graveyard-wise",
+  "traitList": "Corrupted, Evil",
+  "note": "Wizard Burner lifepath, supplementing the Outcast Subsetting. Source: Burning Wheel Codex, p. 404",
+  "requirements": "Coroner, Death Cultist, Cultist or Apt Pupil",
+  "restrictions": "",
+  "order": 1001
+ },
+ "sort": 100100,
+ "_id": "3f80ff2f1b71e9aa",
+ "_key": "!items!3f80ff2f1b71e9aa",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Disguise",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "Disguise is the art of changing one’s face or appearance to look like another person or ethnicity.\n\nObstacles: Disguise gender, Ob 1. Disguise social class: City dweller, Ob 1; Merchant or priest, Ob 2. Peasant, Ob 3. Noble or wizard, Ob 4. Disguise stock: Human/Orc, Ob 2; Dwarf/Human, Orc/Troll, Orc/Roden, Ob 3; Roden/Human, Elf/Human, Ob 4; Dwarf/Roden/Troll, Ob 5. Elf/Roden/Troll, Ob 6. Orc/Elf, Ob 7. Roden/Wolf, Ob 8. Other/Wolf, Ob 9. Any/Spider, Ob 10.\n\nFoRKs: Acting, Theatrics\n\nSkill Type: Special. Tools: Yes. Expendable.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 267",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "e2332b2f90ffcaa1",
+ "_key": "!items!e2332b2f90ffcaa1",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

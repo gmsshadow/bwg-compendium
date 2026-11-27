@@ -1,0 +1,49 @@
+{
+ "name": "Jeweler",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": false,
+  "description": "This skill provides the character with a knowledge of metals and precious gems used to create jewelry. With the proper tools, characters can build necklaces, form bracelets and create brooches.\n\nObstacles: Polishing and cleaning metal, Ob 1. Weighing and counting elements, Ob 1. Gewgaws and baubles, Ob 2. Chain, Ob 3. Ring, Ob 3. Necklace, Ob 3. Bracelet, Ob 3. Locket, Ob 4. Carcanet, Ob 5. Coronet, Ob 6. Diadem, Ob 6. Crown, Ob 7.\n\nFoRKs: Etching, Whitesmith, Lapidary\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 279",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "af94a0b3dd8973f3",
+ "_key": "!items!af94a0b3dd8973f3",
+ "folder": "3bcde3f2b3069254",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

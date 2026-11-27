@@ -1,0 +1,49 @@
+{
+ "name": "Hallmaster",
+ "type": "skill",
+ "img": "icons/tools/hand/chisel-steel-brown.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artisan",
+  "training": false,
+  "magical": true,
+  "description": "This is the skill that built the sweeping halls of the great delvings. Using this skill, a Dwarven Artificer may reinforce his hall’s structure. By adding +2 Ob to his test when building a structure, he may add +1 Ob to any test to alter or destroy the structure.\n\nObstacles: Simple wall, Ob 1. Column or door, Ob 2. Arch or gate, Ob 3. Chamber, Ob 4. Hall, Ob 5. Small hold, Ob 6. Modest hall, Ob 7. Large hall, Ob 8. Great hall, Ob 9.\n\nFoRKs: War Engineer, Stone Artifice\n\nSkill Type: Artisan. Tools: Workshop.\n\nRestrictions: Dwarves only\n\nRoot: Will/Per (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 276",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "b8cfdbca701a013f",
+ "_key": "!items!b8cfdbca701a013f",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Vintner",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 40,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Noble Court, Peasant, Villager",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Vintner, Wine Tasting, Estate Management, Grape-wise",
+  "traitList": "Patient, Lugubrious",
+  "note": "Source: Burning Wheel Gold Revised, p. 169",
+  "requirements": "",
+  "restrictions": "may not be the character’s second lifepath",
+  "order": 35
+ },
+ "sort": 3500,
+ "_id": "cf438b105bb2e91a",
+ "_key": "!items!cf438b105bb2e91a",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Weatherworker",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 10,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 5,
+  "upSpell": false,
+  "actions": 12,
+  "description": "With a word, a plea and a pinch of luck, the weather witch asks the clouds, wind and rain to move along, remain a little longer or even calm down a bit. The caster may influence clouds, rain, and storms. He may not influence sun or light independent of moving clouds about. When successfully cast, the spell reduces any nasty weather to something merely bothersome, and can magnify bothersome weather to something nasty. Weatherworker can reduce or increase the intensity of weather by up to three steps on the Natural Effect scale. Reducing the effect to zero moves the phenomenon completely out of the caster’s vicinity. Weather may only be increased up to the “9-over” effects—an act tantamount to suicide.\n\nObstacle: 5. Actions: 12.\n\nOrigin: Sight | Area of Effect: Natural Effect | Element: Air/Water | Impetus: Influence | Duration: Elapsed Time: Hours | Resource Points: 10\n\nSource: Burning Wheel Gold Revised, p. 222",
+  "origin": "Sight",
+  "areaOfEffect": "Natural Effect",
+  "element": "Air/Water",
+  "impetus": "Influence",
+  "duration": "Elapsed Time: Hours",
+  "rpCost": 10,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "9aa4c8682db0dc20",
+ "_key": "!items!9aa4c8682db0dc20",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

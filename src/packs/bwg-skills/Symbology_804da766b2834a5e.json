@@ -1,0 +1,49 @@
+{
+ "name": "Symbology",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "Symbology is the study of ancient & obscure symbols. A symbologist can recognize/interpret these marks + signs.\n\nObstacles: Common symbols, Ob 1. Common religious symbols, Ob 2. Common arcane symbols, Ob 3. Obscure religious symbols, Ob 4. Foreign pictograms, Ob 5. Obscure arcane symbols, Ob 6. Unknown religious symbols, Ob 7. Unknown arcane symbols, Ob 8. Truly alien symbology, Ob 9.\n\nFoRKs: Ancient and Obscure History, Doctrine, Sorcery\n\nSkill Type: Academic. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 303",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "804da766b2834a5e",
+ "_key": "!items!804da766b2834a5e",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

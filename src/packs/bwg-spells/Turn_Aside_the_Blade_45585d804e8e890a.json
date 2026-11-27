@@ -1,0 +1,52 @@
+{
+ "name": "Turn Aside the Blade",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 11,
+  "description": "A true sorcerer is untouchable by swords, arrows, spears and fists. Turn Aside the Blade increases the obstacle to strike or shoot the caster. The obstacle penalty is 1 plus the margin of success of the spell. Thus, if a sorcerer casts the spell with five successes, all incoming attacks are at +2 Ob.\n\nObstacle: 4^. Actions: 11.\n\nOrigin: Personal | Area of Effect: Caster | Element: Anima/Earth | Impetus: Control | Duration: Sustained | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 220",
+  "origin": "Personal",
+  "areaOfEffect": "Caster",
+  "element": "Anima/Earth",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "45585d804e8e890a",
+ "_key": "!items!45585d804e8e890a",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

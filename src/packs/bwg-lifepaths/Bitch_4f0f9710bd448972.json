@@ -1,0 +1,41 @@
+{
+ "name": "Bitch",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 1,
+  "resources": 4,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Nursing, Rearing, Pup-wise, Scavenging, Begging",
+  "traitList": "Submissive",
+  "note": "Source: Burning Wheel Codex, p. 481",
+  "requirements": "",
+  "restrictions": "Characters taking this lifepath must be at least two years old",
+  "order": 1004
+ },
+ "sort": 100400,
+ "_id": "4f0f9710bd448972",
+ "_key": "!items!4f0f9710bd448972",
+ "folder": "6115dfb7c437130d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Dagger (Superior Quality)",
+ "type": "melee weapon",
+ "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+ "system": {
+  "pointCost": 20,
+  "quality": "superior",
+  "handedness": "one",
+  "description": "Superior Quality Arms cost 20 rps for the character's whole idiom of hand weapons. WS X: can Strike consecutively any number of times.\n\nSource: Burning Wheel Gold Revised, p. 554",
+  "skillId": "",
+  "shade": "B",
+  "baseOb": 1,
+  "attacks": [
+   {
+    "attackName": "",
+    "power": 1,
+    "add": 1,
+    "vsArmor": 1,
+    "weaponSpeed": "x",
+    "weaponLength": "shortest"
+   }
+  ]
+ },
+ "_id": "5ba846ac43bf1345",
+ "_key": "!items!5ba846ac43bf1345",
+ "folder": "521a9af45a7e4557",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

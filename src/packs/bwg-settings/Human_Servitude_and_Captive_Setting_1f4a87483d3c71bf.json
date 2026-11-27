@@ -4,7 +4,7 @@
  "type": "setting",
  "img": "icons/environment/settlement/house-two-stories-small.webp",
  "system": {
-  "description": "Servitude and Captive Setting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+  "description": "Servitude and Captive Setting lifepaths for Human characters, Burning Wheel Gold Revised and the Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
  },
  "items": [
   {
@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "37f5fe77d39af53f",
+   "_id": "9bceedbd89de74a5",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!1f4a87483d3c71bf.37f5fe77d39af53f"
+   "_key": "!actors.items!1f4a87483d3c71bf.9bceedbd89de74a5"
   },
   {
    "name": "Ditch Digger",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "1d51422bfe90dcdc",
+   "_id": "3ffdebb1621efe7a",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!1f4a87483d3c71bf.1d51422bfe90dcdc"
+   "_key": "!actors.items!1f4a87483d3c71bf.3ffdebb1621efe7a"
   },
   {
    "name": "Servant",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "b0ed7ea8d28bf9f5",
+   "_id": "c01393842d41efe2",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!1f4a87483d3c71bf.b0ed7ea8d28bf9f5"
+   "_key": "!actors.items!1f4a87483d3c71bf.c01393842d41efe2"
   },
   {
    "name": "Field Laborer",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "38205b19319b1199",
+   "_id": "4cd162540de6bc0b",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!1f4a87483d3c71bf.38205b19319b1199"
+   "_key": "!actors.items!1f4a87483d3c71bf.4cd162540de6bc0b"
   },
   {
    "name": "Captive of War",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "ebb392348d7c71fc",
+   "_id": "0a1bf581ef1fee49",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!1f4a87483d3c71bf.ebb392348d7c71fc"
+   "_key": "!actors.items!1f4a87483d3c71bf.0a1bf581ef1fee49"
   },
   {
    "name": "Gaol",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "ec0b9fbdc8425557",
+   "_id": "028f29902529c70c",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!1f4a87483d3c71bf.ec0b9fbdc8425557"
+   "_key": "!actors.items!1f4a87483d3c71bf.028f29902529c70c"
   },
   {
    "name": "Harem Slave",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "7d1ede8a92b356d1",
+   "_id": "db5c2220973a9cd3",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!1f4a87483d3c71bf.7d1ede8a92b356d1"
+   "_key": "!actors.items!1f4a87483d3c71bf.db5c2220973a9cd3"
   },
   {
    "name": "Bondsman",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "86bc5bc152a3846b",
+   "_id": "bb0bea8a35c6ee89",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,48 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!1f4a87483d3c71bf.86bc5bc152a3846b"
+   "_key": "!actors.items!1f4a87483d3c71bf.bb0bea8a35c6ee89"
+  },
+  {
+   "name": "Gifted Child",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Court, Religious",
+    "skillPoints": 0,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Misunderstood, Gifted, Abused, Spirit Familiar",
+    "note": "Special Gifted lifepath (Wizard Burner), added to the Servitude and Captive Setting. Source: Burning Wheel Codex, p. 402",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "b7134ae5342b2cee",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!1f4a87483d3c71bf.b7134ae5342b2cee"
   }
  ],
  "effects": [],

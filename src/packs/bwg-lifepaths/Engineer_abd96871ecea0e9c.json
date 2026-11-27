@@ -1,0 +1,41 @@
+{
+ "name": "Engineer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 60,
+  "resources": 50,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Artificer, Noble",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Jargon, War Engineer, Scavenging, Leverage-wise",
+  "traitList": "Estimation",
+  "note": "Source: Burning Wheel Gold Revised, p. 115",
+  "requirements": "Artillerist or Mask Bearer",
+  "restrictions": "",
+  "order": 10
+ },
+ "sort": 1000,
+ "_id": "abd96871ecea0e9c",
+ "_key": "!items!abd96871ecea0e9c",
+ "folder": "a9ab655cebcfeb1d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -4053,7 +4053,7 @@
       "skilltype": "special",
       "training": false,
       "magical": false,
-      "description": "A wise skill named in the lifepaths (Forester (Wilderlands Setting); Woodcutter (Peasant Setting); Gardener (Noble Court Subsetting)). All wises use the general Wises entry and are rooted in Perception.\n\nObstacles: Common knowledge of the subject, Ob 1. An interesting fact, Ob 2. Details, Ob 3. Uncommon knowledge, Ob 4. Rare goods, Ob 5. Bizarre or obscure, Ob 7. Freaky details or specifics, Ob 8.\n\nSkill Type: Wise (Special). Tools: No.\n\nSource: Burning Wheel Gold Revised, Wises p. 309",
+      "description": "A wise skill named in the lifepaths (Forester (Wilderlands Setting); Woodcutter (Peasant Setting); Gardener (Noble Court Subsetting); Woodsen (Field Setting)). All wises use the general Wises entry and are rooted in Perception.\n\nObstacles: Common knowledge of the subject, Ob 1. An interesting fact, Ob 2. Details, Ob 3. Uncommon knowledge, Ob 4. Rare goods, Ob 5. Bizarre or obscure, Ob 7. Freaky details or specifics, Ob 8.\n\nSkill Type: Wise (Special). Tools: No.\n\nSource: Burning Wheel Gold Revised, Wises p. 309",
       "collapsed": false,
       "persona": 0,
       "fate": 0,
@@ -10699,7 +10699,7 @@
       "skilltype": "special",
       "training": false,
       "magical": false,
-      "description": "A wise skill named in the lifepaths (Village Tough (Villager Setting); Barber (Villager Setting); Bailiff (Noble Court Subsetting)). All wises use the general Wises entry and are rooted in Perception.\n\nObstacles: Common knowledge of the subject, Ob 1. An interesting fact, Ob 2. Details, Ob 3. Uncommon knowledge, Ob 4. Rare goods, Ob 5. Bizarre or obscure, Ob 7. Freaky details or specifics, Ob 8.\n\nSkill Type: Wise (Special). Tools: No.\n\nSource: Burning Wheel Gold Revised, Wises p. 309",
+      "description": "A wise skill named in the lifepaths (Village Tough (Villager Setting); Barber (Villager Setting); Bailiff (Noble Court Subsetting); Trader (Field Setting); Scrub (Exile Subsetting); Manhunter (Wild Setting)). All wises use the general Wises entry and are rooted in Perception.\n\nObstacles: Common knowledge of the subject, Ob 1. An interesting fact, Ob 2. Details, Ob 3. Uncommon knowledge, Ob 4. Rare goods, Ob 5. Bizarre or obscure, Ob 7. Freaky details or specifics, Ob 8.\n\nSkill Type: Wise (Special). Tools: No.\n\nSource: Burning Wheel Gold Revised, Wises p. 309",
       "collapsed": false,
       "persona": 0,
       "fate": 0,
@@ -19237,7 +19237,7 @@
     {
      "name": "Death-wise",
      "type": "skill",
-     "img": "icons/sundries/documents/document-official-capital.webp",
+     "img": "icons/skills/trades/academics-investigation-puzzles.webp",
      "system": {
       "name": "",
       "shade": "B",
@@ -19252,7 +19252,7 @@
       "skilltype": "special",
       "training": false,
       "magical": false,
-      "description": "Skill from the Twilight in the Duchy Verdorben stat block for Stravit, Lord of Hochen. A wise: rooted in Perception.",
+      "description": "A wise skill named in the lifepaths (Death Cultist (Death Cult Setting)). All wises use the general Wises entry and are rooted in Perception.\n\nObstacles: Common knowledge of the subject, Ob 1. An interesting fact, Ob 2. Details, Ob 3. Uncommon knowledge, Ob 4. Rare goods, Ob 5. Bizarre or obscure, Ob 7. Freaky details or specifics, Ob 8.\n\nSkill Type: Wise (Special). Tools: No.\n\nSource: Burning Wheel Gold Revised, Wises p. 309",
       "collapsed": false,
       "persona": 0,
       "fate": 0,
@@ -19262,14 +19262,14 @@
       "tools": false,
       "restrictions": ""
      },
-     "_id": "aa24f465e3f0754b",
-     "folder": null,
      "sort": 2700,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "effects": [],
+     "_id": "aa24f465e3f0754b",
+     "folder": null
     },
     {
      "name": "Doctrine",
@@ -19681,7 +19681,7 @@
     {
      "name": "Secret Cult Worship-wise",
      "type": "skill",
-     "img": "icons/sundries/documents/document-official-capital.webp",
+     "img": "icons/skills/trades/academics-investigation-puzzles.webp",
      "system": {
       "name": "",
       "shade": "B",
@@ -19696,7 +19696,7 @@
       "skilltype": "special",
       "training": false,
       "magical": false,
-      "description": "Skill from the Twilight in the Duchy Verdorben stat block for Stravit, Lord of Hochen. A wise: rooted in Perception.",
+      "description": "A wise skill named in the lifepaths (Death Cultist (Death Cult Setting)). All wises use the general Wises entry and are rooted in Perception.\n\nObstacles: Common knowledge of the subject, Ob 1. An interesting fact, Ob 2. Details, Ob 3. Uncommon knowledge, Ob 4. Rare goods, Ob 5. Bizarre or obscure, Ob 7. Freaky details or specifics, Ob 8.\n\nSkill Type: Wise (Special). Tools: No.\n\nSource: Burning Wheel Gold Revised, Wises p. 309",
       "collapsed": false,
       "persona": 0,
       "fate": 0,
@@ -19706,14 +19706,14 @@
       "tools": false,
       "restrictions": ""
      },
-     "_id": "e9529d05c1f44c6b",
-     "folder": null,
      "sort": 3900,
      "ownership": {
       "default": 0
      },
      "flags": {},
-     "effects": []
+     "effects": [],
+     "_id": "e9529d05c1f44c6b",
+     "folder": null
     },
     {
      "name": "Seduction",
@@ -22726,7 +22726,7 @@
       "skilltype": "special",
       "training": false,
       "magical": false,
-      "description": "A wise skill named in the lifepaths (Village Tough (Villager Setting); Barber (Villager Setting); Bailiff (Noble Court Subsetting)). All wises use the general Wises entry and are rooted in Perception.\n\nObstacles: Common knowledge of the subject, Ob 1. An interesting fact, Ob 2. Details, Ob 3. Uncommon knowledge, Ob 4. Rare goods, Ob 5. Bizarre or obscure, Ob 7. Freaky details or specifics, Ob 8.\n\nSkill Type: Wise (Special). Tools: No.\n\nSource: Burning Wheel Gold Revised, Wises p. 309",
+      "description": "A wise skill named in the lifepaths (Village Tough (Villager Setting); Barber (Villager Setting); Bailiff (Noble Court Subsetting); Trader (Field Setting); Scrub (Exile Subsetting); Manhunter (Wild Setting)). All wises use the general Wises entry and are rooted in Perception.\n\nObstacles: Common knowledge of the subject, Ob 1. An interesting fact, Ob 2. Details, Ob 3. Uncommon knowledge, Ob 4. Rare goods, Ob 5. Bizarre or obscure, Ob 7. Freaky details or specifics, Ob 8.\n\nSkill Type: Wise (Special). Tools: No.\n\nSource: Burning Wheel Gold Revised, Wises p. 309",
       "collapsed": false,
       "persona": 0,
       "fate": 0,

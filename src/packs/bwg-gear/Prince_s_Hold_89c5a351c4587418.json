@@ -1,0 +1,30 @@
+{
+ "name": "Prince’s Hold",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 105,
+  "isWorkshop": false,
+  "description": "Counts as property when factoring Resources. Only Dwarves of the listed rank or higher may take this kind of property.\n\nSource: Burning Wheel Gold Revised, p. 127"
+ },
+ "_id": "89c5a351c4587418",
+ "_key": "!items!89c5a351c4587418",
+ "folder": "cea22185751de56d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

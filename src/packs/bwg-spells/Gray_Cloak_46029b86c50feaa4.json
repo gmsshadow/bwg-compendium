@@ -1,0 +1,52 @@
+{
+ "name": "Gray Cloak",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 8,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 5,
+  "upSpell": false,
+  "actions": 12,
+  "description": "Cold tendrils of gray mist unfold from the sorcerer’s robes, blurring shape and hiding form. The Gray Cloak increases all Observation and Perception obstacles within (or looking into) its folds by +3 Ob. Weapon Length: as Missile; Range: as Thrown.\n\nObstacle: 5. Actions: 12.\n\nOrigin: Personal | Area of Effect: 10s of Paces | Element: Water/Air | Impetus: Control | Duration: Minutes | Resource Points: 8\n\nSource: Burning Wheel Gold Revised, p. 213",
+  "origin": "Personal",
+  "areaOfEffect": "10s of Paces",
+  "element": "Water/Air",
+  "impetus": "Control",
+  "duration": "Minutes",
+  "rpCost": 8,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "as missile",
+  "optimalRange": 1,
+  "extremeRange": 1,
+  "maxRange": "30 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "46029b86c50feaa4",
+ "_key": "!items!46029b86c50feaa4",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

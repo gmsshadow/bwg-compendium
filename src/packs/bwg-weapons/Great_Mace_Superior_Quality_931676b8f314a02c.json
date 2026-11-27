@@ -1,0 +1,44 @@
+{
+ "name": "Great Mace (Superior Quality)",
+ "type": "melee weapon",
+ "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+ "system": {
+  "pointCost": 20,
+  "quality": "superior",
+  "handedness": "two",
+  "description": "Superior Quality Arms cost 20 rps for the character's whole idiom of hand weapons.\n\nSource: Burning Wheel Gold Revised, p. 554",
+  "skillId": "",
+  "shade": "B",
+  "baseOb": 1,
+  "attacks": [
+   {
+    "attackName": "",
+    "power": 2,
+    "add": 2,
+    "vsArmor": 3,
+    "weaponSpeed": "2",
+    "weaponLength": "long"
+   }
+  ]
+ },
+ "_id": "931676b8f314a02c",
+ "_key": "!items!931676b8f314a02c",
+ "folder": "521a9af45a7e4557",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

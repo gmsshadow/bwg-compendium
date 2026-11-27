@@ -1,0 +1,30 @@
+{
+ "name": "Elven Ship",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 80,
+  "isWorkshop": false,
+  "description": "A beautiful, sleek and sturdy sea-going vessel with two masts and a crew of about twenty. The crew is included so long as the player purchases a relationship with an Elf who acts as pilot, navigator or first mate. Counts as property when factoring Resources.\n\nSource: Burning Wheel Gold Revised, p. 158"
+ },
+ "_id": "66fba3100e1fba87",
+ "_key": "!items!66fba3100e1fba87",
+ "folder": "d0066ae36efb4213",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

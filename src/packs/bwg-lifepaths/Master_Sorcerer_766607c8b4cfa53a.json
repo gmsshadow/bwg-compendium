@@ -1,0 +1,41 @@
+{
+ "name": "Master Sorcerer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 30,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Court, City Dweller, Outcast, Sea",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sorcery, Instruction, Facet-wise, Aura-wise",
+  "traitList": "Versatile, Sixth Sense",
+  "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+  "requirements": "Adjunct or Court Sorcerer",
+  "restrictions": "",
+  "order": 1004
+ },
+ "sort": 100400,
+ "_id": "766607c8b4cfa53a",
+ "_key": "!items!766607c8b4cfa53a",
+ "folder": "1c38bfd0e452d33f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

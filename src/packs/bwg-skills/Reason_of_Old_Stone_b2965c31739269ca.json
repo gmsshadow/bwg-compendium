@@ -1,0 +1,49 @@
+{
+ "name": "Reason of Old Stone",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "This curious skill allows the Master Engraver to extract knowledge from a stone. Merely by seeing, touching, tasting and smelling the stone—and considering it for a long while—the Dwarf can discern a number of facts: How old it is, how long it has been in this place and what events have transpired around it.\n\nObstacles: Type/name of stone, Ob 1. Age of stone, Ob 2. Length of time the stone has been in its current location, Ob 3. Recent events surrounding the stone that left physical evidence, Ob 4. Recent events that left no physical mark, Ob 5. Past events that left their mark on the stone, Ob 6. Past events that left no mark, Ob 7.\n\nSkill Type: Sorcerous. Tools: No.\n\nRestrictions: Dwarves only\n\nRoot: Will (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 290",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "b2965c31739269ca",
+ "_key": "!items!b2965c31739269ca",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

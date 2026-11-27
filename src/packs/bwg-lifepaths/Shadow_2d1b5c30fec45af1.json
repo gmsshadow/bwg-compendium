@@ -1,0 +1,41 @@
+{
+ "name": "Shadow",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 6,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Stealthy, Observation, Inconspicuous, Climbing, Tail-wise",
+  "traitList": "Cautious",
+  "note": "Source: Burning Wheel Codex, p. 442",
+  "requirements": "Initiate",
+  "restrictions": "",
+  "order": 1002
+ },
+ "sort": 100200,
+ "_id": "2d1b5c30fec45af1",
+ "_key": "!items!2d1b5c30fec45af1",
+ "folder": "39586c96cf7911c7",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

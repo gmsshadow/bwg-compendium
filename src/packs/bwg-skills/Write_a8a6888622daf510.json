@@ -1,0 +1,49 @@
+{
+ "name": "Write",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "Write is the companion skill to Read. As I mentioned in the Read listing, it is possible to have this as a separate skill. Without the benefit of the ability to read, Write is a copyist’s skill. The character knows the shapes of letters and how to reproduce them, but he does not know what they mean. A character with Write may transcribe his thoughts onto paper in reasonably coherent chunks.\n\nObstacles: Your name, Ob 1. Copying letters, Ob 2. Composing a letter, Ob 3.\n\nFoRKs: Composition, Calligraphy\n\nSkill Type: Academic. Tools: Yes. Expendable.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 309",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "a8a6888622daf510",
+ "_key": "!items!a8a6888622daf510",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

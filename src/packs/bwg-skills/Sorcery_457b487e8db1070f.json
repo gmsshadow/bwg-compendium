@@ -1,0 +1,49 @@
+{
+ "name": "Sorcery",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "Sorcery is the skill that allows the character to understand written or spoken magical formulae. Should the character have the Gifted trait, he can then translate those formulae into spells and thereby cast magic. He may also use this skill to create new spells. The mechanics of Sorcery are described in detail in the Sorcery section of the Burning Wheel.\n\nObstacles: See the Sorcery chapter in the Burning Wheel.\n\nFoRKs: Astrology, Astronomy, Alchemy, Aura Reading, Empyrealia, Demonology\n\nSkill Type: Sorcerous. Tools: No.\n\nRestrictions: Humans or Roden only in character burning\n\nRoot: Perception (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 299",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Humans or Roden only in character burning"
+ },
+ "_id": "457b487e8db1070f",
+ "_key": "!items!457b487e8db1070f",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

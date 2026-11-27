@@ -1,0 +1,52 @@
+{
+ "name": "Firewalker",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 10,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": false,
+  "actions": 4,
+  "description": "Fire cannot burn one who knows this secret. This incantation will protect the caster and his belongings from the ravages of fire. This does not protect against fire created via the Destroy facet.\n\nObstacle: 4. Actions: 4.\n\nOrigin: Personal | Area of Effect: Caster or Single Target | Element: Anima | Impetus: Control | Duration: Sustained | Resource Points: 10\n\nSource: Burning Wheel Gold Revised, p. 213",
+  "origin": "Personal",
+  "areaOfEffect": "Caster or Single Target",
+  "element": "Anima",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 10,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "ceffab77504acb8b",
+ "_key": "!items!ceffab77504acb8b",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Enemy of the Sun",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 10,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 5,
+  "upSpell": false,
+  "actions": 8,
+  "description": "A gray haze falls across the sky, shielding the Orcs from the sun’s rays. This spell turns the light in the sky to a dim twilight—ideal conditions for Orcs going to war.\n\nObstacle: 5. Actions: 8.\n\nOrigin: Personal | Area of Effect: Miles | Element: Heaven | Impetus: Influence | Duration: Sustained | Resource Points: 10\n\nSource: Burning Wheel Gold Revised, p. 249",
+  "origin": "Personal",
+  "areaOfEffect": "Miles",
+  "element": "Heaven",
+  "impetus": "Influence",
+  "duration": "Sustained",
+  "rpCost": 10,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "f0d0f91f331b3932",
+ "_key": "!items!f0d0f91f331b3932",
+ "folder": "479dd2144396431a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

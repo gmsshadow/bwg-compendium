@@ -1,0 +1,41 @@
+{
+ "name": "Crossbowman",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 8,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Outcast, Villager, Servitude",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Crossbow, Soldiering, Fletcher, Brawling, Foraging",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 187",
+  "requirements": "",
+  "restrictions": "",
+  "order": 5
+ },
+ "sort": 500,
+ "_id": "0fe361f727628ab9",
+ "_key": "!items!0fe361f727628ab9",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

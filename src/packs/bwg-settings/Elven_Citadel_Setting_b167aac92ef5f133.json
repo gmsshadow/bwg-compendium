@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "e6a1c219641b071f",
+   "_id": "717ed077dcbf2d57",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.e6a1c219641b071f"
+   "_key": "!actors.items!b167aac92ef5f133.717ed077dcbf2d57"
   },
   {
    "name": "Servitor",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "d02b6d05bbd44479",
+   "_id": "e15c7373cc7b149d",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.d02b6d05bbd44479"
+   "_key": "!actors.items!b167aac92ef5f133.e15c7373cc7b149d"
   },
   {
    "name": "Wanderer",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "1e48736b2c60fb38",
+   "_id": "47773d88f2a6a03f",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.1e48736b2c60fb38"
+   "_key": "!actors.items!b167aac92ef5f133.47773d88f2a6a03f"
   },
   {
    "name": "Song Singer",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "c3b3f4662fc5d797",
+   "_id": "c1ca1d716aa894bc",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.c3b3f4662fc5d797"
+   "_key": "!actors.items!b167aac92ef5f133.c1ca1d716aa894bc"
   },
   {
    "name": "Student",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "049a6754b264987e",
+   "_id": "75da15a08538e949",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.049a6754b264987e"
+   "_key": "!actors.items!b167aac92ef5f133.75da15a08538e949"
   },
   {
    "name": "Clothier",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "68db16079a79add4",
+   "_id": "c21e4f3caa363714",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.68db16079a79add4"
+   "_key": "!actors.items!b167aac92ef5f133.c21e4f3caa363714"
   },
   {
    "name": "Soldier-Protector",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "d0971911432c4a38",
+   "_id": "3ceb63c9447db952",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.d0971911432c4a38"
+   "_key": "!actors.items!b167aac92ef5f133.3ceb63c9447db952"
   },
   {
    "name": "Seafarer",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "084cb06eeb58c609",
+   "_id": "fa301831e70008a9",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.084cb06eeb58c609"
+   "_key": "!actors.items!b167aac92ef5f133.fa301831e70008a9"
   },
   {
    "name": "Sea Captain",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "5ab6027a481dabef",
+   "_id": "02b98e60339b7ca8",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.5ab6027a481dabef"
+   "_key": "!actors.items!b167aac92ef5f133.02b98e60339b7ca8"
   },
   {
    "name": "Novice",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "a6f6b1d62273b62d",
+   "_id": "575d2440a781eef2",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.a6f6b1d62273b62d"
+   "_key": "!actors.items!b167aac92ef5f133.575d2440a781eef2"
   },
   {
    "name": "Shaper",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "98f2111a427d6e2c",
+   "_id": "929222456a511eb7",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.98f2111a427d6e2c"
+   "_key": "!actors.items!b167aac92ef5f133.929222456a511eb7"
   },
   {
    "name": "Jeweler",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "c43cc4369d065359",
+   "_id": "f1df9d39faeedb3b",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.c43cc4369d065359"
+   "_key": "!actors.items!b167aac92ef5f133.f1df9d39faeedb3b"
   },
   {
    "name": "Artisan",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "2a9ead3609c94419",
+   "_id": "d7c1230b1cd79580",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.2a9ead3609c94419"
+   "_key": "!actors.items!b167aac92ef5f133.d7c1230b1cd79580"
   },
   {
    "name": "Keel Master",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "0020de282a221449",
+   "_id": "0d54ac8d532c39e2",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.0020de282a221449"
+   "_key": "!actors.items!b167aac92ef5f133.0d54ac8d532c39e2"
   },
   {
    "name": "Artist",
@@ -602,7 +602,7 @@
     "order": 14
    },
    "sort": 1400,
-   "_id": "f6ca53a51c6b4fad",
+   "_id": "9d1141b5f10590a3",
    "ownership": {
     "default": 0
    },
@@ -620,7 +620,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.f6ca53a51c6b4fad"
+   "_key": "!actors.items!b167aac92ef5f133.9d1141b5f10590a3"
   },
   {
    "name": "Bard",
@@ -643,7 +643,7 @@
     "order": 15
    },
    "sort": 1500,
-   "_id": "04d58eafa4424531",
+   "_id": "69c09d37b30d12cf",
    "ownership": {
     "default": 0
    },
@@ -661,7 +661,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.04d58eafa4424531"
+   "_key": "!actors.items!b167aac92ef5f133.69c09d37b30d12cf"
   },
   {
    "name": "Adjutant",
@@ -684,7 +684,7 @@
     "order": 16
    },
    "sort": 1600,
-   "_id": "73c0f3ac656cea02",
+   "_id": "64e2c51c55f21bef",
    "ownership": {
     "default": 0
    },
@@ -702,7 +702,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.73c0f3ac656cea02"
+   "_key": "!actors.items!b167aac92ef5f133.64e2c51c55f21bef"
   },
   {
    "name": "Loremaster",
@@ -725,7 +725,7 @@
     "order": 17
    },
    "sort": 1700,
-   "_id": "c359d51deee540b9",
+   "_id": "985ccbd51fc2c965",
    "ownership": {
     "default": 0
    },
@@ -743,7 +743,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.c359d51deee540b9"
+   "_key": "!actors.items!b167aac92ef5f133.985ccbd51fc2c965"
   },
   {
    "name": "Althing",
@@ -766,7 +766,7 @@
     "order": 18
    },
    "sort": 1800,
-   "_id": "1d93c675f70a88e8",
+   "_id": "8962f86b6e6ded2d",
    "ownership": {
     "default": 0
    },
@@ -784,7 +784,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!b167aac92ef5f133.1d93c675f70a88e8"
+   "_key": "!actors.items!b167aac92ef5f133.8962f86b6e6ded2d"
   }
  ],
  "effects": [],

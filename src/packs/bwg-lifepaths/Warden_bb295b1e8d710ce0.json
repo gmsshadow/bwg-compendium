@@ -1,0 +1,41 @@
+{
+ "name": "Warden",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 75,
+  "resources": 65,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Outcast, Noble",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Conspicuous, Oratory, Observation, Strategy, Etiquette, Champion-wise",
+  "traitList": "Chuntering, Hard as Nails",
+  "note": "Source: Burning Wheel Gold Revised, p. 115",
+  "requirements": "Prince, Captain or High Captain",
+  "restrictions": "",
+  "order": 11
+ },
+ "sort": 1100,
+ "_id": "bb295b1e8d710ce0",
+ "_key": "!items!bb295b1e8d710ce0",
+ "folder": "a9ab655cebcfeb1d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

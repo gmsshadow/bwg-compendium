@@ -1,0 +1,41 @@
+{
+ "name": "Jeweler",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 75,
+  "resources": 20,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Wilderlands, Protector",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Jewelcraft, Gemcraft, Appraisal",
+  "traitList": "Patient, Nimble",
+  "note": "Source: Burning Wheel Gold Revised, p. 133",
+  "requirements": "Shaper",
+  "restrictions": "",
+  "order": 11
+ },
+ "sort": 1100,
+ "_id": "010638495d4c105a",
+ "_key": "!items!010638495d4c105a",
+ "folder": "53bf8e71f48c4a4c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

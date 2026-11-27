@@ -1,0 +1,41 @@
+{
+ "name": "Officer’s Mate",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 10,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Servitude, Outcast, Soldier, City",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Etiquette, Captain-wise, Seamanship",
+  "traitList": "Curses like a Sailor",
+  "note": "Source: Burning Wheel Gold Revised, p. 192",
+  "requirements": "Born Noble, Page or Son of a Gun",
+  "restrictions": "If chosen, Officer’s Mate must be the character’s second lifepath, or third if Page was taken as the second",
+  "order": 23
+ },
+ "sort": 2300,
+ "_id": "6d66d86fcd665e7e",
+ "_key": "!items!6d66d86fcd665e7e",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

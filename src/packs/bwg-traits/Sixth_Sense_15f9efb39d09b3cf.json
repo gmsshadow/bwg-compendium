@@ -1,0 +1,50 @@
+{
+ "name": "Sixth Sense",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "name": "",
+  "traittype": "die",
+  "text": "This character gets a twinge in his brain (or eye, or heart, or stomach) when a life-threatening event or phenomenon is near. This trait counts as a very special Instinct: Always get a twinge in the head from impending danger. It’s broad and breaks all the rules for Instincts, but that’s why it’s a trait. At any point where the player is about to send his character into a life-threatening situation, the GM is obligated to warn him, “You’ve got a bad feeling about this.” The precise nature of the danger is not revealed. Also, it is the player’s responsibility to remind the GM that he has Sixth Sense. If ever there is a dispute surrounding its use, apply the guidelines for using Instincts to the trait.\n\nType: Dt (die trait). Cost: 3 pts.\n\nSource: Burning Wheel Gold Revised, p. 346",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "15f9efb39d09b3cf",
+ "_key": "!items!15f9efb39d09b3cf",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

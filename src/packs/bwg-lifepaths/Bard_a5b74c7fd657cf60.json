@@ -1,0 +1,41 @@
+{
+ "name": "Bard",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 65,
+  "resources": 20,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Wilderlands, Protector",
+  "skillPoints": 11,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Song of Merriment, Lament of Mourning, Verse of Friendship, Tract of Enmity, Oratory, Conspicuous, Lyre, Flute",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 134",
+  "requirements": "Song Singer",
+  "restrictions": "",
+  "order": 15
+ },
+ "sort": 1500,
+ "_id": "a5b74c7fd657cf60",
+ "_key": "!items!a5b74c7fd657cf60",
+ "folder": "53bf8e71f48c4a4c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

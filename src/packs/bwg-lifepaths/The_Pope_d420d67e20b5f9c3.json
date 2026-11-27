@@ -1,0 +1,41 @@
+{
+ "name": "The Pope",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 11,
+  "resources": 75,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 9,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Extortion, Intimidation, Read, Write, Composition, Church-wise, Papal Bull-wise, Pope Joke-wise",
+  "traitList": "Most Holy, Faithful",
+  "note": "Source: Burning Wheel Codex, p. 441",
+  "requirements": "Father/Mother or Visionary",
+  "restrictions": "",
+  "order": 1018
+ },
+ "sort": 101800,
+ "_id": "d420d67e20b5f9c3",
+ "_key": "!items!d420d67e20b5f9c3",
+ "folder": "b459a367a7c6ee1e",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Patriarch/Matriarch",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 100,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Citadel",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Homesong, Lyric of Healing, Dignity of the Wilderlands",
+  "traitList": "Patriarchal/Matriarchal",
+  "note": "Source: Burning Wheel Gold Revised, p. 132",
+  "requirements": "Spouse",
+  "restrictions": "",
+  "order": 15
+ },
+ "sort": 1500,
+ "_id": "f5665fa7012fd487",
+ "_key": "!items!f5665fa7012fd487",
+ "folder": "c6f2016285d19f81",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

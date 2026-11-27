@@ -1,0 +1,49 @@
+{
+ "name": "Stuff-wise",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "This Dwarf knows his stuff! He knows all about it. Where it’s from, who made it, what it’s made out of. Everything except what it actually does.\n\nObstacles: Your stuff, Ob 1. Your friend’s stuff, Ob 2. Stuff about stuff, Ob 3. Shit versus stuff, Ob 4. What stuff to pack, Ob 5.\n\nFoRKs: Dwarf-wise, Scavenging\n\nSkill Type: Wise. Tools: No.\n\nRestrictions: Dwarves only in character burning\n\nRoot: Per\n\nSource: Burning Wheel Gold Revised, p. 302",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dwarves only in character burning"
+ },
+ "_id": "a742986c8c33f4a4",
+ "_key": "!items!a742986c8c33f4a4",
+ "folder": "1070d662da139e5b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

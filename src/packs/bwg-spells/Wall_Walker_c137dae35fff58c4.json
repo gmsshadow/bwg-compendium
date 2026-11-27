@@ -1,0 +1,52 @@
+{
+ "name": "Wall Walker",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 10,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": false,
+  "actions": 3,
+  "description": "Like a hunting spider, the witch clings to walls and clambers about. This spell allows the witch to walk upon walls as if they were horizontal surfaces. Count Speed as Climbing skill. Add +1D to Speed when able to utilize walls and ceilings for advantage.\n\nObstacle: 3. Actions: 3.\n\nOrigin: Personal | Area of Effect: Caster | Element: Anima | Impetus: Control/Enhance | Duration: Sustained | Resource Points: 10\n\nSource: Burning Wheel Gold Revised, p. 221",
+  "origin": "Personal",
+  "areaOfEffect": "Caster",
+  "element": "Anima",
+  "impetus": "Control/Enhance",
+  "duration": "Sustained",
+  "rpCost": 10,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "c137dae35fff58c4",
+ "_key": "!items!c137dae35fff58c4",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Stout",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "Dwarves are smaller than Men in stature, but they tend to be a bit thicker around the middle, with attendant broader hands, feet and arms. Though tough and doughty, Dwarves’ stout frame also hinders them slightly. Speed must always be lower than their Power or Forte (whichever is higher), even if this limits advancement. Their stride is 6. Dwarven nature allows for a Forte maximum of 9 rather than 8 and a Speed maximum of 6 rather than 8.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Dwarven common trait\n\nSource: Burning Wheel Gold Revised, p. 348",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Dwarven common trait"
+ },
+ "_id": "fca4118b4a98c3e5",
+ "_key": "!items!fca4118b4a98c3e5",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

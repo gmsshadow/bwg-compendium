@@ -1,0 +1,41 @@
+{
+ "name": "Accountant",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Villager, Peasant",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Accounting, Bureaucracy, Extortion, Ledger-wise, Graft-wise",
+  "traitList": "Bored",
+  "note": "Source: Burning Wheel Gold Revised, p. 173",
+  "requirements": "Clerk, Young Lady or Student",
+  "restrictions": "",
+  "order": 36
+ },
+ "sort": 3600,
+ "_id": "b0ec6afb112881cb",
+ "_key": "!items!b0ec6afb112881cb",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

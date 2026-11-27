@@ -1,0 +1,49 @@
+{
+ "name": "Rule of Law",
+ "type": "skill",
+ "img": "icons/sundries/books/book-worn-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "schoolofthought",
+  "training": false,
+  "magical": false,
+  "description": "The Rule of Law is the body of rules and guides set up to maintain order within the state. Characters familiar with law may act as advocates, lawyers and magistrates within the system.\n\nObstacles: Jurisdiction (king, duke, church, etc.), Ob 1. Common law, Ob 2. Royal law, Ob 3. Commercial law, Ob 4. Technicality, Ob 5.\n\nFoRKs: For researching a case: Doctrine, Philosophy, History, Research. For presenting a case: Oratory, Rhetoric and Ugly Truth. Only an idiot—or a very powerful man—intimidates or commands a court.\n\nSkill Type: School of Thought. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 293",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "399de4ea4a9c78a3",
+ "_key": "!items!399de4ea4a9c78a3",
+ "folder": "56d9f04d80593b17",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

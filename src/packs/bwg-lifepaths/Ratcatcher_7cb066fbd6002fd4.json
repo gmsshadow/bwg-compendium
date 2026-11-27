@@ -1,0 +1,41 @@
+{
+ "name": "Ratcatcher",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 4,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Rats",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Trapper, Poisons, Ratiquette",
+  "traitList": "Diseased, Rat-Speak",
+  "note": "Source: Burning Wheel Gold Revised, p. 194",
+  "requirements": "",
+  "restrictions": "",
+  "order": 12
+ },
+ "sort": 1200,
+ "_id": "7cb066fbd6002fd4",
+ "_key": "!items!7cb066fbd6002fd4",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

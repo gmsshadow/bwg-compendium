@@ -1,0 +1,41 @@
+{
+ "name": "Armorer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 90,
+  "resources": 15,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Wilderlands, Citadel",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Armorer, Etching, Sewing, Tanner, Antiphon Union Training",
+  "traitList": "Patient",
+  "note": "Source: Burning Wheel Gold Revised, p. 137",
+  "requirements": "Shaper or Bladesmith",
+  "restrictions": "",
+  "order": 11
+ },
+ "sort": 1100,
+ "_id": "858c3f0c2c6a2e2d",
+ "_key": "!items!858c3f0c2c6a2e2d",
+ "folder": "34ca3eb13c86f59f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

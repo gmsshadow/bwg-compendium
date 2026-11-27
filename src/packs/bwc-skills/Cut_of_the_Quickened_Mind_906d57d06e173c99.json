@@ -1,0 +1,49 @@
+{
+ "_id": "906d57d06e173c99",
+ "_key": "!items!906d57d06e173c99",
+ "name": "Cut of the Quickened Mind",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "It is all but impossible to argue with a Dark Elf. They turn each argument against their interlocutor, proving their point with each denial and reproach. This song allows the Dark Elf to switch the function of social skills. He can switch from a skill he has to one he doesn’t: Falsehood becomes Persuasion. Ugly Truth becomes Oratory, etc.\n\nObstacle: See Below\n\nObstacles: To turn a skill to Falsehood, Soothing Platitudes or Ugly Truth, Ob 2. To turn a skill to Intimidation or Seduction, Ob 3. To turn a skill to Persuasion or Oratory, Ob 4. To turn a skill to Rhetoric, Ob 5. This effect lasts for one scene.\n\nSpecial: The Cut can also be used to temporarily epiphany any one social skill. The obstacle is 10 minus Spite. The epiphany lasts for one scene. This effect can only be used once against a single particular opposing character. It may not be used with the switched skill ability above. It is only used on skills you possess.\n\nActions: Obstacle x 10\n\nDark Elf spell song: follows the rules for Elven spell songs (sorcerous for practice and learning, always open-ended, no tools or FoRKs).\n\nSong root: Will.\n\nRestrictions: Dark Elves only\n\nSource: Burning Wheel Codex, p. 422",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dark Elves only"
+ },
+ "effects": [],
+ "folder": "237aaf0e26bbe354",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

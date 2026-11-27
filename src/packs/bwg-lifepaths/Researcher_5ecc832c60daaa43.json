@@ -1,0 +1,41 @@
+{
+ "name": "Researcher",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Court, Religious, Outcast",
+  "skillPoints": 12,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Research, Composition, Cartography, Cryptography, Doctrine, Apothecary, Ritual, Death Art, Foreign Languages, Dark Arts-wise, Elven Songs-wise, Orc Rituals-wise, Dwarven Art-wise",
+  "traitList": "Myopic, Bookworm, Speaker of the Secret Language",
+  "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 406",
+  "requirements": "Adjunct or Scholar. May only be taken once",
+  "restrictions": "",
+  "order": 1007
+ },
+ "sort": 100700,
+ "_id": "5ecc832c60daaa43",
+ "_key": "!items!5ecc832c60daaa43",
+ "folder": "1c38bfd0e452d33f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Farming",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": false,
+  "description": "Farming is the prodigious knowledge of seeding, planting and harvesting.\n\nObstacles: Barley and millet, Ob 1. Wheat and oats, Ob 2. Flax and hemp, Ob 3. Hiring samurai to protect crops from bandits, Ob 7.\n\nSkill Type: Peasant. Tools: Yes.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 272",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "598d848f4b0c5622",
+ "_key": "!items!598d848f4b0c5622",
+ "folder": "26f1d2df964749c9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,444 @@
+{
+ "_id": "c3c12c477745e9ab",
+ "name": "Dark Elf Path of Spite Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Path of Spite Subsetting lifepaths for Elven characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Griever",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 0,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Sorrow of Truth, Dark Elf-wise",
+    "traitList": "Spite",
+    "note": "Resources: — as listed in the book.\n\nSource: Burning Wheel Codex, p. 418",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "a2ae3455787066c9",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c3c12c477745e9ab.a2ae3455787066c9"
+  },
+  {
+   "name": "Wastrel",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 25,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Scavenging, Brawling, Forest-wise, Wasteland-wise, Animal-wise",
+    "traitList": "Filthy, Feral",
+    "note": "Source: Burning Wheel Codex, p. 418",
+    "requirements": "Griever",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "80fdf1706ff57707",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c3c12c477745e9ab.80fdf1706ff57707"
+  },
+  {
+   "name": "Thief",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 18,
+    "resources": 6,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Lock Pick, Stealthy, Climbing, Sleight of Hand, Dirge of Night",
+    "traitList": "Thief",
+    "note": "Source: Burning Wheel Codex, p. 418",
+    "requirements": "Griever",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "9e6f24b8a1ef2e9a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c3c12c477745e9ab.9e6f24b8a1ef2e9a"
+  },
+  {
+   "name": "Assassin",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 15,
+    "resources": 6,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Intimidation, Poisons, Escape Artist, Knives, Garrote, Keen of Terror",
+    "traitList": "Murderous, Callous, Cold Blooded",
+    "note": "Source: Burning Wheel Codex, p. 419",
+    "requirements": "Griever",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "9babb6e782fbca9b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c3c12c477745e9ab.9babb6e782fbca9b"
+  },
+  {
+   "name": "Stalker",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 20,
+    "resources": 8,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Hunting, Elf-wise, Tracking, Trapper, Observation, Stealthy, Throwing, Javelin, Supplication to Shadows",
+    "traitList": "Saturnine",
+    "note": "Source: Burning Wheel Codex, p. 419",
+    "requirements": "Griever",
+    "restrictions": "",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "917cc61e37568641",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c3c12c477745e9ab.917cc61e37568641"
+  },
+  {
+   "name": "Deceiver",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 35,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Sleight of Hand, Disguise, Inconspicuous, Rhyme of the Unraveler",
+    "traitList": "Deceptive",
+    "note": "Source: Burning Wheel Codex, p. 419",
+    "requirements": "Griever",
+    "restrictions": "",
+    "order": 1005
+   },
+   "sort": 100500,
+   "_id": "3c50143aa4046b18",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c3c12c477745e9ab.3c50143aa4046b18"
+  },
+  {
+   "name": "Liar",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 25,
+    "resources": 8,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Falsehood, Soothing Platitudes, Persuasion, Twisted Tongue",
+    "traitList": "Compulsive Liar",
+    "note": "Source: Burning Wheel Codex, p. 419",
+    "requirements": "Griever",
+    "restrictions": "",
+    "order": 1006
+   },
+   "sort": 100600,
+   "_id": "8e29bc74083f743c",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c3c12c477745e9ab.8e29bc74083f743c"
+  },
+  {
+   "name": "Siren",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 55,
+    "resources": 20,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Seduction, Etiquette, Persuasion, Soothing Platitudes, Gossip-wise, Fugue of Discord, Litany of Fools",
+    "traitList": "Charismatic, Femme Fatale/ Homme Fatal",
+    "note": "Source: Burning Wheel Codex, p. 419",
+    "requirements": "Assassin, Deceiver or Liar",
+    "restrictions": "",
+    "order": 1007
+   },
+   "sort": 100700,
+   "_id": "742e2e00561d26ce",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c3c12c477745e9ab.742e2e00561d26ce"
+  },
+  {
+   "name": "Eremite",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 150,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Servant to the Dark",
+    "skillPoints": 12,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Philosophy, Ugly Truth, Obscure History, Symbology, Strategy, Elf-wise, Orc-wise, Dwarf-wise, Man-wise, Paean to the Dark Fire",
+    "traitList": "Remote, Cold",
+    "note": "Source: Burning Wheel Codex, p. 419",
+    "requirements": "Siren, Wastrel or Stalker",
+    "restrictions": "",
+    "order": 1008
+   },
+   "sort": 100800,
+   "_id": "d0687ec97c8e6ee8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c3c12c477745e9ab.d0687ec97c8e6ee8"
+  },
+  {
+   "name": "Recluse",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 225,
+    "resources": 25,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 2,
+    "generalPoints": 5,
+    "traitPoints": 1,
+    "skillList": "Ancient History, Dwarf-wise, Elven Politics-wise, Cut of the Quickened Mind",
+    "traitList": "Vengeful",
+    "note": "Source: Burning Wheel Codex, p. 419",
+    "requirements": "Eremite or any three Dark Elf lifepaths",
+    "restrictions": "",
+    "order": 1009
+   },
+   "sort": 100900,
+   "_id": "c21fcc69d2be6c6b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c3c12c477745e9ab.c21fcc69d2be6c6b"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Path of Spite Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!c3c12c477745e9ab",
+ "folder": "d215763b17106e0d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

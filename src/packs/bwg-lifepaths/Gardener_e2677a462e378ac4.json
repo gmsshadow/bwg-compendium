@@ -1,0 +1,41 @@
+{
+ "name": "Gardener",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 10,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "City Dweller, Servitude",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Plant-wise, Flower-wise, Tree-wise, Pest-wise, Herbalism, Farming, Almanac",
+  "traitList": "Earthy Smell, Salt of the Earth, Down to Earth, Affinity for Plants",
+  "note": "Source: Burning Wheel Gold Revised, p. 180",
+  "requirements": "",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "e2677a462e378ac4",
+ "_key": "!items!e2677a462e378ac4",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

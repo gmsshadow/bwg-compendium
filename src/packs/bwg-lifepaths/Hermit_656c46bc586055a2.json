@@ -1,0 +1,41 @@
+{
+ "name": "Hermit",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 2,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Field, Society",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Philosophy, Astrology, Rhetoric, Oratory, Foraging, Books-wise, Lost Secret-wise",
+  "traitList": "Thoughtful, Pack Rat, Boring, Farts",
+  "note": "Source: Burning Wheel Codex, p. 441",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1002
+ },
+ "sort": 100200,
+ "_id": "656c46bc586055a2",
+ "_key": "!items!656c46bc586055a2",
+ "folder": "4610b603b85f63ce",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

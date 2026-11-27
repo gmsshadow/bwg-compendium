@@ -1,0 +1,31 @@
+{
+ "name": "Traveling Gear",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "The bits, odds and ends needed for survival on the road—candles, flint and steel, a pocket knife, rain cloak and hat, a sturdy rucksack, belt, purse, warm coat, and a good length of rope.\n\nSource: Burning Wheel Gold Revised, p. 203"
+ },
+ "_id": "a73cfb098269d69e",
+ "_key": "!items!a73cfb098269d69e",
+ "folder": "e2d9989687336b5d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

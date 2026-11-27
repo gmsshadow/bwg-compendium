@@ -1,0 +1,41 @@
+{
+ "name": "Wizard of War",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 20,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Court, Outcast",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sorcery, Strategy Games, Soldier-wise, War-wise, Haggling, Cartography",
+  "traitList": "Arrogant",
+  "note": "Source: Burning Wheel Gold Revised, p. 189",
+  "requirements": "Neophyte Sorcerer, Arcane Devotee, Weather Witch, Rogue Wizard or Mad Summoner",
+  "restrictions": "",
+  "order": 18
+ },
+ "sort": 1800,
+ "_id": "00e1e726664a4d25",
+ "_key": "!items!00e1e726664a4d25",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

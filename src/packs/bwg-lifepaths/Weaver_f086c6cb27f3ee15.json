@@ -1,0 +1,41 @@
+{
+ "name": "Weaver",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 50,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Citadel",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Weaving Way, Threading Chant, Mending",
+  "traitList": "Fateful",
+  "note": "Source: Burning Wheel Gold Revised, p. 131",
+  "requirements": "",
+  "restrictions": "",
+  "order": 9
+ },
+ "sort": 900,
+ "_id": "f086c6cb27f3ee15",
+ "_key": "!items!f086c6cb27f3ee15",
+ "folder": "c6f2016285d19f81",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

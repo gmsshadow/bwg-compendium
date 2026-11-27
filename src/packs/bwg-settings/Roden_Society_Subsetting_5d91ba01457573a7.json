@@ -1,0 +1,485 @@
+{
+ "_id": "5d91ba01457573a7",
+ "name": "Roden Society Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Society Subsetting lifepaths for Roden characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Initiate",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 2,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Exile",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Doctrine, Society-wise",
+    "traitList": "Broken",
+    "note": "Source: Burning Wheel Codex, p. 442",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "aa7836a69ce99615",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.aa7836a69ce99615"
+  },
+  {
+   "name": "Cultist",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 4,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Rhetoric, Suasion, Cudgel, Conversion-wise",
+    "traitList": "Zealot, Defensive",
+    "note": "Source: Burning Wheel Codex, p. 442",
+    "requirements": "Initiate",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "9766ed2991e08ccb",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.9766ed2991e08ccb"
+  },
+  {
+   "name": "Shadow",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 6,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Stealthy, Observation, Inconspicuous, Climbing, Tail-wise",
+    "traitList": "Cautious",
+    "note": "Source: Burning Wheel Codex, p. 442",
+    "requirements": "Initiate",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "3efc4b83d3889a5f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.3efc4b83d3889a5f"
+  },
+  {
+   "name": "Arsonist",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 6,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Arson, Firebuilding, Inconspicuous, Firebombs, Arson-wise",
+    "traitList": "Pyromaniac",
+    "note": "Source: Burning Wheel Codex, p. 442",
+    "requirements": "Initiate",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "61304e0e5c5b6d0e",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.61304e0e5c5b6d0e"
+  },
+  {
+   "name": "Murderer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 7,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Knives, Stealthy, Intimidation, Inconspicuous, Garrote",
+    "traitList": "Murderous, Single-Minded",
+    "note": "Source: Burning Wheel Codex, p. 442",
+    "requirements": "Initiate",
+    "restrictions": "",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "b546c7241ea9a1c8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.b546c7241ea9a1c8"
+  },
+  {
+   "name": "Willard",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Animal Husbandry, Inconspicuous, Ratiquette",
+    "traitList": "Rat-Speak, Bitter, Weird",
+    "note": "Source: Burning Wheel Codex, p. 443",
+    "requirements": "Initiate",
+    "restrictions": "",
+    "order": 1005
+   },
+   "sort": 100500,
+   "_id": "3635a09acf35ffcb",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.3635a09acf35ffcb"
+  },
+  {
+   "name": "Perverter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Field, Below, Exile",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Disguise, Preaching, Inconspicuous, Falsehood, Dupe-wise",
+    "traitList": "Scheming",
+    "note": "Source: Burning Wheel Codex, p. 443",
+    "requirements": "The Brain, Cultist or Missionary",
+    "restrictions": "",
+    "order": 1006
+   },
+   "sort": 100600,
+   "_id": "75d50ed5761615dc",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.75d50ed5761615dc"
+  },
+  {
+   "name": "Poisoner",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 7,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Poisons, Inconspicuous, Apothecary, Toxin-wise",
+    "traitList": "Nauseous",
+    "note": "Source: Burning Wheel Codex, p. 443",
+    "requirements": "Initiate",
+    "restrictions": "",
+    "order": 1007
+   },
+   "sort": 100700,
+   "_id": "0bfdabbe97894d04",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.0bfdabbe97894d04"
+  },
+  {
+   "name": "Guardian",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 9,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Appropriate Weapons, Brawling, Armor Training, Shield Training, Intimidation",
+    "traitList": "Merciless, Loyal",
+    "note": "Source: Burning Wheel Codex, p. 443",
+    "requirements": "Murderer, Willard or Perverter",
+    "restrictions": "",
+    "order": 1008
+   },
+   "sort": 100800,
+   "_id": "b09ff0512a145292",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.b09ff0512a145292"
+  },
+  {
+   "name": "Preacher",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Preaching, Conspicuous, Symbology, Obscure History",
+    "traitList": "Obsessed, Righteous",
+    "note": "Source: Burning Wheel Codex, p. 443",
+    "requirements": "Cultist, Missionary or Hermit",
+    "restrictions": "",
+    "order": 1009
+   },
+   "sort": 100900,
+   "_id": "bcd27f6198500785",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.bcd27f6198500785"
+  },
+  {
+   "name": "Visionary",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 30,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Exile, Below",
+    "skillPoints": 11,
+    "generalPoints": 0,
+    "traitPoints": 4,
+    "skillList": "Oratory, Command, Astrology, Research, Interrogation, Torture, Observation, Poetry, Cult-wise, Inner Workings-wise, Undermining-wise",
+    "traitList": "Megalomaniac, Imperious Demeanor, Visionary Faith, Dreamer",
+    "note": "Source: Burning Wheel Codex, p. 443",
+    "requirements": "Albino, Preacher, Abbot/Abbess or Mastermind",
+    "restrictions": "",
+    "order": 1010
+   },
+   "sort": 101000,
+   "_id": "c8edae97c8a28654",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!5d91ba01457573a7.c8edae97c8a28654"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Society Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!5d91ba01457573a7",
+ "folder": "69d554b8c1b5c02d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

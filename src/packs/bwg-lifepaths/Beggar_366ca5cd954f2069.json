@@ -1,0 +1,41 @@
+{
+ "name": "Beggar",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 4,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Servitude, Village",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Beggardry, Inconspicuous, Persuasion, Falsehood, City-wise, City Guard-wise, Wealth-wise",
+  "traitList": "Lame, Downtrodden, Hurt, Broken",
+  "note": "Source: Burning Wheel Gold Revised, p. 170",
+  "requirements": "",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "366ca5cd954f2069",
+ "_key": "!items!366ca5cd954f2069",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "_id": "ab982929e428f4be",
+ "_key": "!items!ab982929e428f4be",
+ "name": "Ancestral Jaw",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "It is a matter of debate among the Spirit Hunters and the Elven Wanderers as to who taught whom to sing. The Great Wolves attest that the Elves learned to sing from listening to Great Grandfather howl. The Wanderers say otherwise—it was their creator who taught Grandfather how to howl in chord and vary his pitch. Regardless of who is correct, this song is very similar to the Song of the Sword. It allows the Spirit Howler to summon ancient power into his jaws, transforming them into a spirit weapon, or worse.\n\nObstacles: Ob 1: Spirit Jaws, jaws become a spirit weapon. (This is the most basic form of this howl. All subsequent forms count as Spirit Jaws in addition to the howled for power.) Ob 2: Preternatural Jaws, extra successes add dice to the wolf’s Brawling or Savage Attack skills. Ob 3: Fox-Luck, all Brawling, Savage Attack and Speed dice become open-ended. Ob 4: Jaws of Lightning, +1 to Reflexes for the duration of the combat. Ob 5: Avalanche, the wolf may double his dice on the Charge.\n\nDuration: Exchanges equal to Will exponent\n\nActions: 1x obstacle\n\nSpirit Hunter song: rated, rolled and advanced like a skill; all howl-song tests are open-ended.\n\nRoot: Will.\n\nRestrictions: Great Wolves (Spirit Hunters) only\n\nSource: Burning Wheel Codex, p. 500",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Great Wolves (Spirit Hunters) only"
+ },
+ "effects": [],
+ "folder": "d7e4524a526401f9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

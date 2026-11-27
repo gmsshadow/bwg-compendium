@@ -1,0 +1,52 @@
+{
+ "name": "Wyrd Light",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 4,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 2,
+  "upSpell": false,
+  "actions": 9,
+  "description": "Globes of swirling light orbit the caster and move with a Speed equal to the caster’s Will. The lights hover and float at the caster’s command, illuminate as if they were torches, and may not move beyond the limits of the caster’s presence.\n\nObstacle: 2. Actions: 9.\n\nOrigin: Presence | Area of Effect: Natural Effect | Element: Heaven | Impetus: Control | Duration: Sustained | Resource Points: 4\n\nSource: Burning Wheel Gold Revised, p. 223",
+  "origin": "Presence",
+  "areaOfEffect": "Natural Effect",
+  "element": "Heaven",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 4,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "2d859aca51649679",
+ "_key": "!items!2d859aca51649679",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

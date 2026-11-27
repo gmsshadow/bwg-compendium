@@ -1,0 +1,41 @@
+{
+ "name": "Born Guilder",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 21,
+  "resources": 5,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Clansman",
+  "skillPoints": 0,
+  "generalPoints": 4,
+  "traitPoints": 1,
+  "skillList": "",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 111",
+  "requirements": "",
+  "restrictions": "",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "a664cba1d63c6ddf",
+ "_key": "!items!a664cba1d63c6ddf",
+ "folder": "9dc85275b24effb4",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

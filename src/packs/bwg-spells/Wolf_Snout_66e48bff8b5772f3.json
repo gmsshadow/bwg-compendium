@@ -1,0 +1,52 @@
+{
+ "name": "Wolf Snout",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 12,
+  "variableObstacle": true,
+  "variableObstacleDescription": "Perception",
+  "obstacle": 0,
+  "upSpell": false,
+  "actions": 32,
+  "description": "To the witch, a man’s scent becomes as distinct as his voice, fear becomes a taste on the tongue. This incantation increases Perception by +1D overall, by +2D for strictly olfactory/taste-based tests. Also, Perception counts as Observation for detecting Stealthy characters.\n\nObstacle: Perception. Actions: 32.\n\nOrigin: Personal | Area of Effect: Single Target or Caster | Element: Anima | Impetus: Enhance | Duration: Sustained | Resource Points: 12\n\nSource: Burning Wheel Gold Revised, p. 223",
+  "origin": "Personal",
+  "areaOfEffect": "Single Target or Caster",
+  "element": "Anima",
+  "impetus": "Enhance",
+  "duration": "Sustained",
+  "rpCost": 12,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "66e48bff8b5772f3",
+ "_key": "!items!66e48bff8b5772f3",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

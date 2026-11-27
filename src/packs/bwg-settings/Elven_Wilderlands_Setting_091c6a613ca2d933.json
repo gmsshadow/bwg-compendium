@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "cad7a88d646d9cc6",
+   "_id": "c3106367852b8713",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.cad7a88d646d9cc6"
+   "_key": "!actors.items!091c6a613ca2d933.c3106367852b8713"
   },
   {
    "name": "Rider",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "b5768dd6189e43c8",
+   "_id": "06ab7e5fbf1cdfb2",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.b5768dd6189e43c8"
+   "_key": "!actors.items!091c6a613ca2d933.06ab7e5fbf1cdfb2"
   },
   {
    "name": "Harvester",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "0e1e40cd4ae06a2f",
+   "_id": "209fbba160e5a789",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.0e1e40cd4ae06a2f"
+   "_key": "!actors.items!091c6a613ca2d933.209fbba160e5a789"
   },
   {
    "name": "Gatherer",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "618d94a7dbee64c6",
+   "_id": "006aa4f782f22fe8",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.618d94a7dbee64c6"
+   "_key": "!actors.items!091c6a613ca2d933.006aa4f782f22fe8"
   },
   {
    "name": "Fisherman",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "51d60fc77a9aaf01",
+   "_id": "9564b68f781f247a",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.51d60fc77a9aaf01"
+   "_key": "!actors.items!091c6a613ca2d933.9564b68f781f247a"
   },
   {
    "name": "Shepherd",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "5a51f504f58128e9",
+   "_id": "05994ba5d957196f",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.5a51f504f58128e9"
+   "_key": "!actors.items!091c6a613ca2d933.05994ba5d957196f"
   },
   {
    "name": "Wanderer",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "b66c298142a18437",
+   "_id": "352b59df70f8b54e",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.b66c298142a18437"
+   "_key": "!actors.items!091c6a613ca2d933.352b59df70f8b54e"
   },
   {
    "name": "Huntsman",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "ee63b1bc26731623",
+   "_id": "a6c0f61c0c28391a",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.ee63b1bc26731623"
+   "_key": "!actors.items!091c6a613ca2d933.a6c0f61c0c28391a"
   },
   {
    "name": "Chandler",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "62d868b3115f2ceb",
+   "_id": "21791e88697c1f2a",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.62d868b3115f2ceb"
+   "_key": "!actors.items!091c6a613ca2d933.21791e88697c1f2a"
   },
   {
    "name": "Weaver",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "8f14e55c357ad448",
+   "_id": "c6ca7bea15da1196",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.8f14e55c357ad448"
+   "_key": "!actors.items!091c6a613ca2d933.c6ca7bea15da1196"
   },
   {
    "name": "Forester",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "8f991524b49baa93",
+   "_id": "702f66005b2613ea",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.8f991524b49baa93"
+   "_key": "!actors.items!091c6a613ca2d933.702f66005b2613ea"
   },
   {
    "name": "Vintner",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "2c4629c37f332af6",
+   "_id": "48d81ee1e186a3ec",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.2c4629c37f332af6"
+   "_key": "!actors.items!091c6a613ca2d933.48d81ee1e186a3ec"
   },
   {
    "name": "Miller",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "4af13a5a00330a49",
+   "_id": "aec71adfc172b7ca",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.4af13a5a00330a49"
+   "_key": "!actors.items!091c6a613ca2d933.aec71adfc172b7ca"
   },
   {
    "name": "Song Singer",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "013f63760676047f",
+   "_id": "656479e353f2273d",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.013f63760676047f"
+   "_key": "!actors.items!091c6a613ca2d933.656479e353f2273d"
   },
   {
    "name": "Spouse",
@@ -602,7 +602,7 @@
     "order": 14
    },
    "sort": 1400,
-   "_id": "b479d3feba8abc3f",
+   "_id": "2a11a8b3ba6bf6da",
    "ownership": {
     "default": 0
    },
@@ -620,7 +620,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.b479d3feba8abc3f"
+   "_key": "!actors.items!091c6a613ca2d933.2a11a8b3ba6bf6da"
   },
   {
    "name": "Patriarch/Matriarch",
@@ -643,7 +643,7 @@
     "order": 15
    },
    "sort": 1500,
-   "_id": "df6381c9f8342bdc",
+   "_id": "59a801c9afe174b5",
    "ownership": {
     "default": 0
    },
@@ -661,7 +661,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.df6381c9f8342bdc"
+   "_key": "!actors.items!091c6a613ca2d933.59a801c9afe174b5"
   },
   {
    "name": "Elder",
@@ -684,7 +684,7 @@
     "order": 16
    },
    "sort": 1600,
-   "_id": "999d91f63fed106d",
+   "_id": "29ecf950b10f65ee",
    "ownership": {
     "default": 0
    },
@@ -702,7 +702,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!091c6a613ca2d933.999d91f63fed106d"
+   "_key": "!actors.items!091c6a613ca2d933.29ecf950b10f65ee"
   }
  ],
  "effects": [],

@@ -1,0 +1,41 @@
+{
+ "name": "Hosteller",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "City, Peasant",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Cooking, Mending, Accounting, Soothing Platitudes, Guest-wise",
+  "traitList": "Fixed Smile, Gossip",
+  "note": "Source: Burning Wheel Gold Revised, p. 167",
+  "requirements": "",
+  "restrictions": "may not be the character’s second lifepath",
+  "order": 15
+ },
+ "sort": 1500,
+ "_id": "bcd0e694e64f4013",
+ "_key": "!items!bcd0e694e64f4013",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Apprentice",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 6,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "City Dweller, Peasant, Villager",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Mending, Write, Read, Hauling, Driving, Ditch Digging",
+  "traitList": "Exhausted, Back-Breaking Labor",
+  "note": "Source: Burning Wheel Gold Revised, p. 187",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1
+ },
+ "sort": 100,
+ "_id": "7320594d29a3b7c6",
+ "_key": "!items!7320594d29a3b7c6",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

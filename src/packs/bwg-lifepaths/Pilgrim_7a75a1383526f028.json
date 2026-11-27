@@ -1,0 +1,41 @@
+{
+ "name": "Pilgrim",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 2,
+  "resources": 3,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Religious, Servitude, Villager",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Religious Diatribe, City-wise, Shrine-wise, Doctrine",
+  "traitList": "Tall Tale Teller, Stinky",
+  "note": "Source: Burning Wheel Gold Revised, p. 170",
+  "requirements": "",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "7a75a1383526f028",
+ "_key": "!items!7a75a1383526f028",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

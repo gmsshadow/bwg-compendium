@@ -1,0 +1,41 @@
+{
+ "name": "Weaver",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Weaving, Sewing, Embroidery, Soothing Platitudes, Sing",
+  "traitList": "Calloused",
+  "note": "Source: Burning Wheel Codex, p. 438",
+  "requirements": "Apprentice",
+  "restrictions": "",
+  "order": 1010
+ },
+ "sort": 101000,
+ "_id": "a1d3ad3276bea824",
+ "_key": "!items!a1d3ad3276bea824",
+ "folder": "bf3758f4ad382083",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

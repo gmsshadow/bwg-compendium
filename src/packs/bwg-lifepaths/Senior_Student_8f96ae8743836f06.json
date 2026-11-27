@@ -1,0 +1,41 @@
+{
+ "name": "Senior Student",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 2,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Court, City Dweller, Outcast",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Calligraphy, Rhetoric, Aura Reading, Empyrealia, Demonology, Doctrine, School of Magic-wise, Junior Student-wise",
+  "traitList": "Graduate, Bully",
+  "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+  "requirements": "Junior Student or Sorcerer. May not be taken twice",
+  "restrictions": "",
+  "order": 1002
+ },
+ "sort": 100200,
+ "_id": "8f96ae8743836f06",
+ "_key": "!items!8f96ae8743836f06",
+ "folder": "1c38bfd0e452d33f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

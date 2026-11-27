@@ -4,7 +4,7 @@
  "type": "setting",
  "img": "icons/environment/settlement/house-two-stories-small.webp",
  "system": {
-  "description": "City Dweller Setting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+  "description": "City Dweller Setting lifepaths for Human characters, Burning Wheel Gold Revised and the Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
  },
  "items": [
   {
@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "b9773e2e416f9535",
+   "_id": "250b33f4739e3007",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.b9773e2e416f9535"
+   "_key": "!actors.items!c81eb8fdd528b10e.250b33f4739e3007"
   },
   {
    "name": "Runner",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "05cb831bc085ce42",
+   "_id": "adfb91012a6ccf32",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.05cb831bc085ce42"
+   "_key": "!actors.items!c81eb8fdd528b10e.adfb91012a6ccf32"
   },
   {
    "name": "Urchin",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "ce02b48b452bd3c0",
+   "_id": "365ba3a7585ceb90",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.ce02b48b452bd3c0"
+   "_key": "!actors.items!c81eb8fdd528b10e.365ba3a7585ceb90"
   },
   {
    "name": "Beggar",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "b902571cb40f2a5e",
+   "_id": "a74d02682fdf8995",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.b902571cb40f2a5e"
+   "_key": "!actors.items!c81eb8fdd528b10e.a74d02682fdf8995"
   },
   {
    "name": "Courier",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "1c4b3f5bb1d00295",
+   "_id": "d6398f0d8aa3d3c6",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.1c4b3f5bb1d00295"
+   "_key": "!actors.items!c81eb8fdd528b10e.d6398f0d8aa3d3c6"
   },
   {
    "name": "Laborer",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "10ca0f7b1b34c3bb",
+   "_id": "19bb90efa26cd6b4",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.10ca0f7b1b34c3bb"
+   "_key": "!actors.items!c81eb8fdd528b10e.19bb90efa26cd6b4"
   },
   {
    "name": "Pilgrim",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "d72927851cfb1813",
+   "_id": "99e250637fe5a33e",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.d72927851cfb1813"
+   "_key": "!actors.items!c81eb8fdd528b10e.99e250637fe5a33e"
   },
   {
    "name": "Groom",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "6d5289dddfb02fbe",
+   "_id": "068be3ae3e56d511",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.6d5289dddfb02fbe"
+   "_key": "!actors.items!c81eb8fdd528b10e.068be3ae3e56d511"
   },
   {
    "name": "Duelist",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "024e44bc53f2cce4",
+   "_id": "7f92eba3775d418f",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.024e44bc53f2cce4"
+   "_key": "!actors.items!c81eb8fdd528b10e.7f92eba3775d418f"
   },
   {
    "name": "Coin Clipper",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "3a0c9fa0786b7787",
+   "_id": "3cc979dd31748d14",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.3a0c9fa0786b7787"
+   "_key": "!actors.items!c81eb8fdd528b10e.3cc979dd31748d14"
   },
   {
    "name": "Pickpocket",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "ec2ffe8d9a4b0eb8",
+   "_id": "c208503cafb2a85e",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.ec2ffe8d9a4b0eb8"
+   "_key": "!actors.items!c81eb8fdd528b10e.c208503cafb2a85e"
   },
   {
    "name": "Street Thug",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "73e6e7fbd93afaa3",
+   "_id": "be9ccc914bca5197",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.73e6e7fbd93afaa3"
+   "_key": "!actors.items!c81eb8fdd528b10e.be9ccc914bca5197"
   },
   {
    "name": "Criminal",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "e4b8c147aab1d984",
+   "_id": "bea29fc95e337435",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.e4b8c147aab1d984"
+   "_key": "!actors.items!c81eb8fdd528b10e.bea29fc95e337435"
   },
   {
    "name": "Confidence Man",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "c4904ddd1fbb8ae2",
+   "_id": "fa26472a48f152c9",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.c4904ddd1fbb8ae2"
+   "_key": "!actors.items!c81eb8fdd528b10e.fa26472a48f152c9"
   },
   {
    "name": "City Peddler",
@@ -602,7 +602,7 @@
     "order": 14
    },
    "sort": 1400,
-   "_id": "8d0e262178b6a894",
+   "_id": "9ab2e99f883cb79c",
    "ownership": {
     "default": 0
    },
@@ -620,7 +620,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.8d0e262178b6a894"
+   "_key": "!actors.items!c81eb8fdd528b10e.9ab2e99f883cb79c"
   },
   {
    "name": "Sailor",
@@ -643,7 +643,7 @@
     "order": 15
    },
    "sort": 1500,
-   "_id": "c0cd0dbc821fd389",
+   "_id": "24c5e34e20015432",
    "ownership": {
     "default": 0
    },
@@ -661,7 +661,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.c0cd0dbc821fd389"
+   "_key": "!actors.items!c81eb8fdd528b10e.24c5e34e20015432"
   },
   {
    "name": "Student",
@@ -684,7 +684,7 @@
     "order": 16
    },
    "sort": 1600,
-   "_id": "a7386e294c56468a",
+   "_id": "c0bf1cbfd20d4cba",
    "ownership": {
     "default": 0
    },
@@ -702,7 +702,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.a7386e294c56468a"
+   "_key": "!actors.items!c81eb8fdd528b10e.c0bf1cbfd20d4cba"
   },
   {
    "name": "Ganymede",
@@ -725,7 +725,7 @@
     "order": 17
    },
    "sort": 1700,
-   "_id": "e8c570fed8fc5f95",
+   "_id": "de0a24b3bf8b4bb5",
    "ownership": {
     "default": 0
    },
@@ -743,7 +743,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.e8c570fed8fc5f95"
+   "_key": "!actors.items!c81eb8fdd528b10e.de0a24b3bf8b4bb5"
   },
   {
    "name": "Dilettante",
@@ -766,7 +766,7 @@
     "order": 18
    },
    "sort": 1800,
-   "_id": "90619a935030b194",
+   "_id": "d6c7eb366711d604",
    "ownership": {
     "default": 0
    },
@@ -784,7 +784,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.90619a935030b194"
+   "_key": "!actors.items!c81eb8fdd528b10e.d6c7eb366711d604"
   },
   {
    "name": "Neophyte Sorcerer",
@@ -807,7 +807,7 @@
     "order": 19
    },
    "sort": 1900,
-   "_id": "236907b36f3d8c6a",
+   "_id": "cc7836f83bdb1402",
    "ownership": {
     "default": 0
    },
@@ -825,7 +825,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.236907b36f3d8c6a"
+   "_key": "!actors.items!c81eb8fdd528b10e.cc7836f83bdb1402"
   },
   {
    "name": "Temple Acolyte",
@@ -848,7 +848,7 @@
     "order": 20
    },
    "sort": 2000,
-   "_id": "451778f48e5e519b",
+   "_id": "0a51f9064321dfe2",
    "ownership": {
     "default": 0
    },
@@ -866,7 +866,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.451778f48e5e519b"
+   "_key": "!actors.items!c81eb8fdd528b10e.0a51f9064321dfe2"
   },
   {
    "name": "Sculptor",
@@ -889,7 +889,7 @@
     "order": 21
    },
    "sort": 2100,
-   "_id": "b7a1f1f532d588f3",
+   "_id": "d207fc629a853c4b",
    "ownership": {
     "default": 0
    },
@@ -907,7 +907,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.b7a1f1f532d588f3"
+   "_key": "!actors.items!c81eb8fdd528b10e.d207fc629a853c4b"
   },
   {
    "name": "Painter",
@@ -930,7 +930,7 @@
     "order": 22
    },
    "sort": 2200,
-   "_id": "c82fde12a9ff883f",
+   "_id": "22dd504541e9414f",
    "ownership": {
     "default": 0
    },
@@ -948,7 +948,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.c82fde12a9ff883f"
+   "_key": "!actors.items!c81eb8fdd528b10e.22dd504541e9414f"
   },
   {
    "name": "Composer",
@@ -971,7 +971,7 @@
     "order": 23
    },
    "sort": 2300,
-   "_id": "be6ecedb74480942",
+   "_id": "0d9817ce1448ceb0",
    "ownership": {
     "default": 0
    },
@@ -989,7 +989,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.be6ecedb74480942"
+   "_key": "!actors.items!c81eb8fdd528b10e.0d9817ce1448ceb0"
   },
   {
    "name": "Dramaturge",
@@ -1012,7 +1012,7 @@
     "order": 24
    },
    "sort": 2400,
-   "_id": "c06508f95cd3f862",
+   "_id": "fb751522f1d5851b",
    "ownership": {
     "default": 0
    },
@@ -1030,7 +1030,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.c06508f95cd3f862"
+   "_key": "!actors.items!c81eb8fdd528b10e.fb751522f1d5851b"
   },
   {
    "name": "Performer",
@@ -1053,7 +1053,7 @@
     "order": 25
    },
    "sort": 2500,
-   "_id": "ea68b03b3b49bc52",
+   "_id": "ace24381bcf8abe7",
    "ownership": {
     "default": 0
    },
@@ -1071,7 +1071,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.ea68b03b3b49bc52"
+   "_key": "!actors.items!c81eb8fdd528b10e.ace24381bcf8abe7"
   },
   {
    "name": "Tinkerer",
@@ -1094,7 +1094,7 @@
     "order": 26
    },
    "sort": 2600,
-   "_id": "d30f427122995fb5",
+   "_id": "cfab211b051cef90",
    "ownership": {
     "default": 0
    },
@@ -1112,7 +1112,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.d30f427122995fb5"
+   "_key": "!actors.items!c81eb8fdd528b10e.cfab211b051cef90"
   },
   {
    "name": "Coalman",
@@ -1135,7 +1135,7 @@
     "order": 27
    },
    "sort": 2700,
-   "_id": "91cc19fba459efe3",
+   "_id": "10d8efc5d08269d9",
    "ownership": {
     "default": 0
    },
@@ -1153,7 +1153,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.91cc19fba459efe3"
+   "_key": "!actors.items!c81eb8fdd528b10e.10d8efc5d08269d9"
   },
   {
    "name": "Seamstress",
@@ -1176,7 +1176,7 @@
     "order": 28
    },
    "sort": 2800,
-   "_id": "bdc0aff060d550c3",
+   "_id": "a921cdc5e481716f",
    "ownership": {
     "default": 0
    },
@@ -1194,7 +1194,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.bdc0aff060d550c3"
+   "_key": "!actors.items!c81eb8fdd528b10e.a921cdc5e481716f"
   },
   {
    "name": "Barkeep",
@@ -1217,7 +1217,7 @@
     "order": 29
    },
    "sort": 2900,
-   "_id": "72e15a9b1beae07c",
+   "_id": "2a70e84537b6eac6",
    "ownership": {
     "default": 0
    },
@@ -1235,7 +1235,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.72e15a9b1beae07c"
+   "_key": "!actors.items!c81eb8fdd528b10e.2a70e84537b6eac6"
   },
   {
    "name": "Shopkeeper",
@@ -1258,7 +1258,7 @@
     "order": 30
    },
    "sort": 3000,
-   "_id": "b888cdb713fe68ba",
+   "_id": "cae0b2b38667647e",
    "ownership": {
     "default": 0
    },
@@ -1276,7 +1276,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.b888cdb713fe68ba"
+   "_key": "!actors.items!c81eb8fdd528b10e.cae0b2b38667647e"
   },
   {
    "name": "Baker",
@@ -1299,7 +1299,7 @@
     "order": 31
    },
    "sort": 3100,
-   "_id": "2eb691683cba206b",
+   "_id": "2dc156de8ac9c79b",
    "ownership": {
     "default": 0
    },
@@ -1317,7 +1317,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.2eb691683cba206b"
+   "_key": "!actors.items!c81eb8fdd528b10e.2dc156de8ac9c79b"
   },
   {
    "name": "Alewife",
@@ -1340,7 +1340,7 @@
     "order": 32
    },
    "sort": 3200,
-   "_id": "173e192bfcdffcf9",
+   "_id": "5a4c6a9040a84f2a",
    "ownership": {
     "default": 0
    },
@@ -1358,7 +1358,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.173e192bfcdffcf9"
+   "_key": "!actors.items!c81eb8fdd528b10e.5a4c6a9040a84f2a"
   },
   {
    "name": "Conner",
@@ -1381,7 +1381,7 @@
     "order": 33
    },
    "sort": 3300,
-   "_id": "03710ef3c9ab6c8f",
+   "_id": "faa5348f3ec42904",
    "ownership": {
     "default": 0
    },
@@ -1399,7 +1399,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.03710ef3c9ab6c8f"
+   "_key": "!actors.items!c81eb8fdd528b10e.faa5348f3ec42904"
   },
   {
    "name": "Clerk",
@@ -1422,7 +1422,7 @@
     "order": 34
    },
    "sort": 3400,
-   "_id": "f60bc777cee2c494",
+   "_id": "3a6bb0c1a97b88d1",
    "ownership": {
     "default": 0
    },
@@ -1440,7 +1440,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.f60bc777cee2c494"
+   "_key": "!actors.items!c81eb8fdd528b10e.3a6bb0c1a97b88d1"
   },
   {
    "name": "Scribe",
@@ -1463,7 +1463,7 @@
     "order": 35
    },
    "sort": 3500,
-   "_id": "77a8ab337b2c9628",
+   "_id": "ca4fe98a0a1986c7",
    "ownership": {
     "default": 0
    },
@@ -1481,7 +1481,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.77a8ab337b2c9628"
+   "_key": "!actors.items!c81eb8fdd528b10e.ca4fe98a0a1986c7"
   },
   {
    "name": "Accountant",
@@ -1504,7 +1504,7 @@
     "order": 36
    },
    "sort": 3600,
-   "_id": "613c1a1aea658e4f",
+   "_id": "f223a2b336388aa3",
    "ownership": {
     "default": 0
    },
@@ -1522,7 +1522,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.613c1a1aea658e4f"
+   "_key": "!actors.items!c81eb8fdd528b10e.f223a2b336388aa3"
   },
   {
    "name": "Scholar",
@@ -1545,7 +1545,7 @@
     "order": 37
    },
    "sort": 3700,
-   "_id": "a2a8278664f91296",
+   "_id": "a95570eff35d4e50",
    "ownership": {
     "default": 0
    },
@@ -1563,7 +1563,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.a2a8278664f91296"
+   "_key": "!actors.items!c81eb8fdd528b10e.a95570eff35d4e50"
   },
   {
    "name": "Moneylender",
@@ -1586,7 +1586,7 @@
     "order": 38
    },
    "sort": 3800,
-   "_id": "dc0aa2907377f7e0",
+   "_id": "77717a8f50091c38",
    "ownership": {
     "default": 0
    },
@@ -1604,7 +1604,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.dc0aa2907377f7e0"
+   "_key": "!actors.items!c81eb8fdd528b10e.77717a8f50091c38"
   },
   {
    "name": "Tax Collector",
@@ -1627,7 +1627,7 @@
     "order": 39
    },
    "sort": 3900,
-   "_id": "b18f22c569d45e8c",
+   "_id": "af82c6b832a42f8c",
    "ownership": {
     "default": 0
    },
@@ -1645,7 +1645,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.b18f22c569d45e8c"
+   "_key": "!actors.items!c81eb8fdd528b10e.af82c6b832a42f8c"
   },
   {
    "name": "Taskmaster",
@@ -1668,7 +1668,7 @@
     "order": 40
    },
    "sort": 4000,
-   "_id": "4b850721bfa738a8",
+   "_id": "4af35231bf0ce3d1",
    "ownership": {
     "default": 0
    },
@@ -1686,7 +1686,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.4b850721bfa738a8"
+   "_key": "!actors.items!c81eb8fdd528b10e.4af35231bf0ce3d1"
   },
   {
    "name": "Mercenary Captain",
@@ -1709,7 +1709,7 @@
     "order": 41
    },
    "sort": 4100,
-   "_id": "da2b6e862e080933",
+   "_id": "78acd9ac83ef52db",
    "ownership": {
     "default": 0
    },
@@ -1727,7 +1727,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.da2b6e862e080933"
+   "_key": "!actors.items!c81eb8fdd528b10e.78acd9ac83ef52db"
   },
   {
    "name": "City Guard",
@@ -1750,7 +1750,7 @@
     "order": 42
    },
    "sort": 4200,
-   "_id": "745162c1c5311754",
+   "_id": "f329e834f662e39a",
    "ownership": {
     "default": 0
    },
@@ -1768,7 +1768,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.745162c1c5311754"
+   "_key": "!actors.items!c81eb8fdd528b10e.f329e834f662e39a"
   },
   {
    "name": "Sergeant-at-Arms",
@@ -1791,7 +1791,7 @@
     "order": 43
    },
    "sort": 4300,
-   "_id": "29c27d30822d1dd0",
+   "_id": "8e769c316b57a6b9",
    "ownership": {
     "default": 0
    },
@@ -1809,7 +1809,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.29c27d30822d1dd0"
+   "_key": "!actors.items!c81eb8fdd528b10e.8e769c316b57a6b9"
   },
   {
    "name": "Guard Captain",
@@ -1832,7 +1832,7 @@
     "order": 44
    },
    "sort": 4400,
-   "_id": "6227bba1759d3cfe",
+   "_id": "a84ae7529ad85070",
    "ownership": {
     "default": 0
    },
@@ -1850,7 +1850,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.6227bba1759d3cfe"
+   "_key": "!actors.items!c81eb8fdd528b10e.a84ae7529ad85070"
   },
   {
    "name": "Apprentice",
@@ -1873,7 +1873,7 @@
     "order": 45
    },
    "sort": 4500,
-   "_id": "5d02cfea6736de8d",
+   "_id": "6995342a8c1049d5",
    "ownership": {
     "default": 0
    },
@@ -1891,7 +1891,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.5d02cfea6736de8d"
+   "_key": "!actors.items!c81eb8fdd528b10e.6995342a8c1049d5"
   },
   {
    "name": "Apprentice Artisan",
@@ -1914,7 +1914,7 @@
     "order": 46
    },
    "sort": 4600,
-   "_id": "78f05cef7e5c3638",
+   "_id": "72397dd5dc4c46e9",
    "ownership": {
     "default": 0
    },
@@ -1932,7 +1932,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.78f05cef7e5c3638"
+   "_key": "!actors.items!c81eb8fdd528b10e.72397dd5dc4c46e9"
   },
   {
    "name": "Journeyman",
@@ -1955,7 +1955,7 @@
     "order": 47
    },
    "sort": 4700,
-   "_id": "3b9bd59ebe8fe8a7",
+   "_id": "7231c1b26b57a1f8",
    "ownership": {
     "default": 0
    },
@@ -1973,7 +1973,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.3b9bd59ebe8fe8a7"
+   "_key": "!actors.items!c81eb8fdd528b10e.7231c1b26b57a1f8"
   },
   {
    "name": "Engraver",
@@ -1996,7 +1996,7 @@
     "order": 48
    },
    "sort": 4800,
-   "_id": "c46a0efdbf30643f",
+   "_id": "703eda4798f920ce",
    "ownership": {
     "default": 0
    },
@@ -2014,7 +2014,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.c46a0efdbf30643f"
+   "_key": "!actors.items!c81eb8fdd528b10e.703eda4798f920ce"
   },
   {
    "name": "Saddler",
@@ -2037,7 +2037,7 @@
     "order": 49
    },
    "sort": 4900,
-   "_id": "7d30273b01199757",
+   "_id": "7ec7a7bcba8d1fa3",
    "ownership": {
     "default": 0
    },
@@ -2055,7 +2055,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.7d30273b01199757"
+   "_key": "!actors.items!c81eb8fdd528b10e.7ec7a7bcba8d1fa3"
   },
   {
    "name": "Armorer",
@@ -2078,7 +2078,7 @@
     "order": 50
    },
    "sort": 5000,
-   "_id": "c5cec1f69789bc3c",
+   "_id": "135f5e28342e6eac",
    "ownership": {
     "default": 0
    },
@@ -2096,7 +2096,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.c5cec1f69789bc3c"
+   "_key": "!actors.items!c81eb8fdd528b10e.135f5e28342e6eac"
   },
   {
    "name": "Plumber",
@@ -2119,7 +2119,7 @@
     "order": 51
    },
    "sort": 5100,
-   "_id": "37fb21859b1b0d3b",
+   "_id": "1823e92921aec0bc",
    "ownership": {
     "default": 0
    },
@@ -2137,7 +2137,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.37fb21859b1b0d3b"
+   "_key": "!actors.items!c81eb8fdd528b10e.1823e92921aec0bc"
   },
   {
    "name": "Locksmith",
@@ -2160,7 +2160,7 @@
     "order": 52
    },
    "sort": 5200,
-   "_id": "31bddc8cd8654cec",
+   "_id": "a8a05081decea993",
    "ownership": {
     "default": 0
    },
@@ -2178,7 +2178,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.31bddc8cd8654cec"
+   "_key": "!actors.items!c81eb8fdd528b10e.a8a05081decea993"
   },
   {
    "name": "Jeweler",
@@ -2201,7 +2201,7 @@
     "order": 53
    },
    "sort": 5300,
-   "_id": "ef799c8d96028761",
+   "_id": "1cafbf68f36f8262",
    "ownership": {
     "default": 0
    },
@@ -2219,7 +2219,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.ef799c8d96028761"
+   "_key": "!actors.items!c81eb8fdd528b10e.1cafbf68f36f8262"
   },
   {
    "name": "Gaol Warden",
@@ -2242,7 +2242,7 @@
     "order": 54
    },
    "sort": 5400,
-   "_id": "76bd6d9aae71b772",
+   "_id": "a7f2f4f00e3584b3",
    "ownership": {
     "default": 0
    },
@@ -2260,7 +2260,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.76bd6d9aae71b772"
+   "_key": "!actors.items!c81eb8fdd528b10e.a7f2f4f00e3584b3"
   },
   {
    "name": "Advocate",
@@ -2283,7 +2283,7 @@
     "order": 55
    },
    "sort": 5500,
-   "_id": "8f46b69e3eea3fc5",
+   "_id": "db43c8c531ec65e9",
    "ownership": {
     "default": 0
    },
@@ -2301,7 +2301,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.8f46b69e3eea3fc5"
+   "_key": "!actors.items!c81eb8fdd528b10e.db43c8c531ec65e9"
   },
   {
    "name": "Doctor",
@@ -2324,7 +2324,7 @@
     "order": 56
    },
    "sort": 5600,
-   "_id": "5ebdcaaf8396fbf8",
+   "_id": "22829675304eaf19",
    "ownership": {
     "default": 0
    },
@@ -2342,7 +2342,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.5ebdcaaf8396fbf8"
+   "_key": "!actors.items!c81eb8fdd528b10e.22829675304eaf19"
   },
   {
    "name": "Physician",
@@ -2365,7 +2365,7 @@
     "order": 57
    },
    "sort": 5700,
-   "_id": "1c51a8723dbd338f",
+   "_id": "1ad9474af7d9f916",
    "ownership": {
     "default": 0
    },
@@ -2383,7 +2383,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.1c51a8723dbd338f"
+   "_key": "!actors.items!c81eb8fdd528b10e.1ad9474af7d9f916"
   },
   {
    "name": "Hospital Warden",
@@ -2406,7 +2406,7 @@
     "order": 58
    },
    "sort": 5800,
-   "_id": "a562aca55a32bfdb",
+   "_id": "91b714fcd64f2762",
    "ownership": {
     "default": 0
    },
@@ -2424,7 +2424,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.a562aca55a32bfdb"
+   "_key": "!actors.items!c81eb8fdd528b10e.91b714fcd64f2762"
   },
   {
    "name": "Banker",
@@ -2447,7 +2447,7 @@
     "order": 59
    },
    "sort": 5900,
-   "_id": "2dc013c4b4493f2e",
+   "_id": "240e73ebf236110c",
    "ownership": {
     "default": 0
    },
@@ -2465,7 +2465,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.2dc013c4b4493f2e"
+   "_key": "!actors.items!c81eb8fdd528b10e.240e73ebf236110c"
   },
   {
    "name": "Merchant",
@@ -2488,7 +2488,7 @@
     "order": 60
    },
    "sort": 6000,
-   "_id": "2a09a89431500117",
+   "_id": "ceed6ee0824cff1a",
    "ownership": {
     "default": 0
    },
@@ -2506,7 +2506,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.2a09a89431500117"
+   "_key": "!actors.items!c81eb8fdd528b10e.ceed6ee0824cff1a"
   },
   {
    "name": "Sorcerer",
@@ -2529,7 +2529,7 @@
     "order": 61
    },
    "sort": 6100,
-   "_id": "770e7922c9c0d60d",
+   "_id": "329c6484ae3610e6",
    "ownership": {
     "default": 0
    },
@@ -2547,7 +2547,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.770e7922c9c0d60d"
+   "_key": "!actors.items!c81eb8fdd528b10e.329c6484ae3610e6"
   },
   {
    "name": "Temple Priest",
@@ -2570,7 +2570,7 @@
     "order": 62
    },
    "sort": 6200,
-   "_id": "413dfbc4fe93dda7",
+   "_id": "530f2c204fd4ee58",
    "ownership": {
     "default": 0
    },
@@ -2588,7 +2588,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.413dfbc4fe93dda7"
+   "_key": "!actors.items!c81eb8fdd528b10e.530f2c204fd4ee58"
   },
   {
    "name": "Judge",
@@ -2611,7 +2611,7 @@
     "order": 63
    },
    "sort": 6300,
-   "_id": "2b7a239856f5dcb9",
+   "_id": "f41b74f385fcd2b1",
    "ownership": {
     "default": 0
    },
@@ -2629,7 +2629,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.2b7a239856f5dcb9"
+   "_key": "!actors.items!c81eb8fdd528b10e.f41b74f385fcd2b1"
   },
   {
    "name": "Municipal Minister",
@@ -2652,7 +2652,7 @@
     "order": 64
    },
    "sort": 6400,
-   "_id": "6f5194dd86ceef39",
+   "_id": "e163e232a61c5927",
    "ownership": {
     "default": 0
    },
@@ -2670,7 +2670,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.6f5194dd86ceef39"
+   "_key": "!actors.items!c81eb8fdd528b10e.e163e232a61c5927"
   },
   {
    "name": "Artisan",
@@ -2693,7 +2693,7 @@
     "order": 65
    },
    "sort": 6500,
-   "_id": "0d2b2824119a6fa0",
+   "_id": "b71032880bf567df",
    "ownership": {
     "default": 0
    },
@@ -2711,7 +2711,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.0d2b2824119a6fa0"
+   "_key": "!actors.items!c81eb8fdd528b10e.b71032880bf567df"
   },
   {
    "name": "Master Craftsman",
@@ -2734,7 +2734,7 @@
     "order": 66
    },
    "sort": 6600,
-   "_id": "47abfd4795233549",
+   "_id": "5a7392b49c8d242c",
    "ownership": {
     "default": 0
    },
@@ -2752,7 +2752,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.47abfd4795233549"
+   "_key": "!actors.items!c81eb8fdd528b10e.5a7392b49c8d242c"
   },
   {
    "name": "Bishop",
@@ -2775,7 +2775,7 @@
     "order": 67
    },
    "sort": 6700,
-   "_id": "32de7bbffc9181fd",
+   "_id": "c4d96f64a56c79ad",
    "ownership": {
     "default": 0
    },
@@ -2793,7 +2793,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.32de7bbffc9181fd"
+   "_key": "!actors.items!c81eb8fdd528b10e.c4d96f64a56c79ad"
   },
   {
    "name": "Magnate",
@@ -2816,7 +2816,7 @@
     "order": 68
    },
    "sort": 6800,
-   "_id": "4e3bd8f0c289ddcb",
+   "_id": "18ec7ee01a485b16",
    "ownership": {
     "default": 0
    },
@@ -2834,7 +2834,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.4e3bd8f0c289ddcb"
+   "_key": "!actors.items!c81eb8fdd528b10e.18ec7ee01a485b16"
   },
   {
    "name": "City Wife",
@@ -2857,7 +2857,7 @@
     "order": 69
    },
    "sort": 6900,
-   "_id": "6d08ad764dff7eef",
+   "_id": "4929298c9ab829e3",
    "ownership": {
     "default": 0
    },
@@ -2875,7 +2875,89 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c81eb8fdd528b10e.6d08ad764dff7eef"
+   "_key": "!actors.items!c81eb8fdd528b10e.4929298c9ab829e3"
+  },
+  {
+   "name": "Gifted Child",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Court, Religious",
+    "skillPoints": 0,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Misunderstood, Gifted, Abused, Spirit Familiar",
+    "note": "Special Gifted lifepath (Wizard Burner), added to the City Dweller Setting. Source: Burning Wheel Codex, p. 402",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "1fb7f0e90bf3c7b0",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c81eb8fdd528b10e.1fb7f0e90bf3c7b0"
+  },
+  {
+   "name": "Evangelist",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 6,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Outcast, Court, Religious",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Empyrealia, Demonology, Oratory, Cultist-wise",
+    "traitList": "Believer, Fiery",
+    "note": "Wizard Burner lifepath, supplementing the City Dweller Setting. Source: Burning Wheel Codex, p. 403",
+    "requirements": "Dilettante, or any summoner or religious lifepath",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "bb10a783706a2a44",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!c81eb8fdd528b10e.bb10a783706a2a44"
   }
  ],
  "effects": [],

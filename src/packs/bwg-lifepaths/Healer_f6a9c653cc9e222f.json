@@ -1,0 +1,41 @@
+{
+ "name": "Healer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Herbalism, Field Dressing, Apothecary, Ugly Truth, Hurt-wise",
+  "traitList": "Compassionate, Bedside Manner",
+  "note": "Source: Burning Wheel Codex, p. 438",
+  "requirements": "Hermit, Albino, Sawbones, Hand, Woodsen, Farmer or Beekeeper",
+  "restrictions": "",
+  "order": 1012
+ },
+ "sort": 101200,
+ "_id": "f6a9c653cc9e222f",
+ "_key": "!items!f6a9c653cc9e222f",
+ "folder": "bf3758f4ad382083",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

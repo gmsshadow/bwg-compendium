@@ -1,0 +1,41 @@
+{
+ "name": "Goblin",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 2,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Chattel",
+  "skillPoints": 2,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Foraging, Brawling",
+  "traitList": "Tasting the Lash, Exhaustion, Running (Away), Charging Blindly, Marching",
+  "note": "Source: Burning Wheel Gold Revised, p. 231",
+  "requirements": "",
+  "restrictions": "Born Great Orcs may not take this path",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "f43db648fcc2cb63",
+ "_key": "!items!f43db648fcc2cb63",
+ "folder": "cbebdc53fd4cf69b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Duelist",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 8,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Soldier, Outcast, Servitude",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sword, Brawling, Two-Fisted Fighting Training, Streetwise, Haggling, Conspicuous, Trial by Combat-wise",
+  "traitList": "Mercenary, Cold Blooded, Fearless",
+  "note": "Source: Burning Wheel Gold Revised, p. 170",
+  "requirements": "Squire or any Outcast or Soldier lifepath, or any guard lifepath",
+  "restrictions": "",
+  "order": 8
+ },
+ "sort": 800,
+ "_id": "cd723cd7bc7f8440",
+ "_key": "!items!cd723cd7bc7f8440",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

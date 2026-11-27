@@ -1,0 +1,41 @@
+{
+ "name": "Recluse",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 225,
+  "resources": 25,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 2,
+  "generalPoints": 5,
+  "traitPoints": 1,
+  "skillList": "Ancient History, Dwarf-wise, Elven Politics-wise, Cut of the Quickened Mind",
+  "traitList": "Vengeful",
+  "note": "Source: Burning Wheel Codex, p. 419",
+  "requirements": "Eremite or any three Dark Elf lifepaths",
+  "restrictions": "",
+  "order": 1009
+ },
+ "sort": 100900,
+ "_id": "cc0b117440f09608",
+ "_key": "!items!cc0b117440f09608",
+ "folder": "96e8dff24c1e65ee",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

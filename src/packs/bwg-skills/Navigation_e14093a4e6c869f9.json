@@ -1,0 +1,49 @@
+{
+ "name": "Navigation",
+ "type": "skill",
+ "img": "icons/tools/nautical/anchor-blue-orange.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "seafaring",
+  "training": false,
+  "magical": false,
+  "description": "Using charts of the stars, winds and currents, a navigator safely guides his ship from port to port. True navigation allows ships to journey away from the coastline into the open sea without becoming hopelessly lost.\n\nObstacles: Navigating in clear weather through well-charted coastal or river, Ob 1. A short coastal or river journey, Ob 2. A moderate coastal or river journey, or a short seagoing journey (like crossing the Channel), Ob 3. A long coastal journey or a moderate sea journey, Ob 4. A dangerous coastal journey or a long sea journey, Ob 5. A dangerous sea journey, Ob 6. An oceanic crossing, Ob 10.\n\nFoRKs: Astrology, Orienteering, Pilot\n\nSkill Type: Seafaring. Tools: Yes.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 285",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "e14093a4e6c869f9",
+ "_key": "!items!e14093a4e6c869f9",
+ "folder": "17904851845b71ae",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

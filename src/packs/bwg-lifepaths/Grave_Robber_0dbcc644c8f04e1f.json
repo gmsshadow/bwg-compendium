@@ -1,0 +1,41 @@
+{
+ "name": "Grave Robber",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 7,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Soldier, Servitude",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Ditch Digging, Graveyard-wise, Night Watch-wise, Shovel-wise",
+  "traitList": "Lunatic",
+  "note": "Source: Burning Wheel Codex, p. 406",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1002
+ },
+ "sort": 100200,
+ "_id": "0dbcc644c8f04e1f",
+ "_key": "!items!0dbcc644c8f04e1f",
+ "folder": "e656ebd3cdd6b06b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

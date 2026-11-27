@@ -1,0 +1,41 @@
+{
+ "name": "Zealous Convert",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 10,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Peasant, Servitude, Court",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Religious Diatribe, Doctrine, Rhetoric",
+  "traitList": "Infallible Religious Logic, Righteous, Demagogue",
+  "note": "Source: Burning Wheel Gold Revised, p. 184",
+  "requirements": "",
+  "restrictions": "",
+  "order": 2
+ },
+ "sort": 200,
+ "_id": "1f6870179c512745",
+ "_key": "!items!1f6870179c512745",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,895 @@
+{
+ "_id": "07ad5eaf8c506562",
+ "name": "Roden Field Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Field Setting lifepaths for Roden characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born to the Fields",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 0,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Society",
+    "skillPoints": 0,
+    "generalPoints": 3,
+    "traitPoints": 2,
+    "skillList": "",
+    "traitList": "Vegetarian",
+    "note": "Resources: — as listed in the book. Also gains the Roden common traits.\n\nSource: Burning Wheel Codex, p. 437",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "9c641ca320ca5a79",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.9c641ca320ca5a79"
+  },
+  {
+   "name": "Hand",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 3,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Exile",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Sing, Work-wise, Ditch Digging",
+    "traitList": "Back-Breaking Labor",
+    "note": "Source: Burning Wheel Codex, p. 437",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "3668f790c6f09c06",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.3668f790c6f09c06"
+  },
+  {
+   "name": "Woodsen",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 6,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Exile",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Tree Cutting, Tree-wise, Mending, Orienteering",
+    "traitList": "Independent",
+    "note": "Source: Burning Wheel Codex, p. 437",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "e3b8e27eb4c3c389",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.e3b8e27eb4c3c389"
+  },
+  {
+   "name": "Apprentice",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 9,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Exile, Society",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Mending, Haggling, Materials-wise",
+    "traitList": "Gopher",
+    "note": "Source: Burning Wheel Codex, p. 437",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "12b6fbcf48bdbfb8",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.12b6fbcf48bdbfb8"
+  },
+  {
+   "name": "Gatherer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 10,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Exile",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 0,
+    "skillList": "Foraging, Herbalism, Nut and Berry-wise",
+    "traitList": "",
+    "note": "Source: Burning Wheel Codex, p. 437",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "3a0aea0fdb41fd63",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.3a0aea0fdb41fd63"
+  },
+  {
+   "name": "Farmer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Farming, Mending, Seed-wise",
+    "traitList": "Hoarder",
+    "note": "Source: Burning Wheel Codex, p. 437",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1005
+   },
+   "sort": 100500,
+   "_id": "75d992a0c9754a89",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.75d992a0c9754a89"
+  },
+  {
+   "name": "Beekeeper",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 9,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Bee Husbandry, Firebuilding, Bee-wise, Flower-wise, Honey-wise",
+    "traitList": "Thick Skin, Beespeaker",
+    "note": "Source: Burning Wheel Codex, p. 437",
+    "requirements": "Woodsen, Gatherer, Farmer, Apprentice or Hand",
+    "restrictions": "",
+    "order": 1006
+   },
+   "sort": 100600,
+   "_id": "af2c5ec06e546985",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.af2c5ec06e546985"
+  },
+  {
+   "name": "Miller",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 15,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Miller, Grain-wise, Haggling",
+    "traitList": "Industrious",
+    "note": "Source: Burning Wheel Codex, p. 437",
+    "requirements": "Woodsen, Gatherer, Farmer, Apprentice or Hand",
+    "restrictions": "",
+    "order": 1007
+   },
+   "sort": 100700,
+   "_id": "015238af29a9be7d",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.015238af29a9be7d"
+  },
+  {
+   "name": "Meadmaker",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 14,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Brewer, Mead-wise, Haggling, Cooper",
+    "traitList": "",
+    "note": "Source: Burning Wheel Codex, p. 437",
+    "requirements": "Meadmaker requires Beekeeper",
+    "restrictions": "",
+    "order": 1008
+   },
+   "sort": 100800,
+   "_id": "dd6f19bb157ac013",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.dd6f19bb157ac013"
+  },
+  {
+   "name": "Baker",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 12,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Baking, Firebuilding, Bread-wise, Cooking",
+    "traitList": "Fragrant, Sweet Tooth",
+    "note": "Source: Burning Wheel Codex, p. 438",
+    "requirements": "Hand, Miller or Beekeeper",
+    "restrictions": "",
+    "order": 1009
+   },
+   "sort": 100900,
+   "_id": "64bd181868c2c579",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.64bd181868c2c579"
+  },
+  {
+   "name": "Weaver",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 15,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Any",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Weaving, Sewing, Embroidery, Soothing Platitudes, Sing",
+    "traitList": "Calloused",
+    "note": "Source: Burning Wheel Codex, p. 438",
+    "requirements": "Apprentice",
+    "restrictions": "",
+    "order": 1010
+   },
+   "sort": 101000,
+   "_id": "0d64e9702e34d705",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.0d64e9702e34d705"
+  },
+  {
+   "name": "Crafter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 20,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Jargon, Instruction, Apprentice-wise, Blacksmith, Carpentry, Potter, Mason",
+    "traitList": "Diligent",
+    "note": "Source: Burning Wheel Codex, p. 438",
+    "requirements": "Apprentice",
+    "restrictions": "",
+    "order": 1011
+   },
+   "sort": 101100,
+   "_id": "38941185757c14b5",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.38941185757c14b5"
+  },
+  {
+   "name": "Healer",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Herbalism, Field Dressing, Apothecary, Ugly Truth, Hurt-wise",
+    "traitList": "Compassionate, Bedside Manner",
+    "note": "Source: Burning Wheel Codex, p. 438",
+    "requirements": "Hermit, Albino, Sawbones, Hand, Woodsen, Farmer or Beekeeper",
+    "restrictions": "",
+    "order": 1012
+   },
+   "sort": 101200,
+   "_id": "e257c736e75bce9b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.e257c736e75bce9b"
+  },
+  {
+   "name": "Trader",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 16,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Exile",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Haggling, Appraisal, Accounting, Conspicuous, Village-wise",
+    "traitList": "Opportunist",
+    "note": "Source: Burning Wheel Codex, p. 438",
+    "requirements": "Trader may not be your second lifepath",
+    "restrictions": "",
+    "order": 1013
+   },
+   "sort": 101300,
+   "_id": "5d9aeee6c40f761d",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.5d9aeee6c40f761d"
+  },
+  {
+   "name": "Deputy",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 6,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Exile, Society",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Conspicuous, Spear, Bow, Brawling, Shield Training, Trouble-wise",
+    "traitList": "Alarmist",
+    "note": "Source: Burning Wheel Codex, p. 438",
+    "requirements": "Deputy may not be your second lifepath",
+    "restrictions": "",
+    "order": 1014
+   },
+   "sort": 101400,
+   "_id": "4c9f32cedc0bcdba",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.4c9f32cedc0bcdba"
+  },
+  {
+   "name": "Sheriff",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 8,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Command, Intimidation, Interrogation, Sword",
+    "traitList": "",
+    "note": "Source: Burning Wheel Codex, p. 438",
+    "requirements": "Deputy, Bandit King, Bruiser or Mastermind",
+    "restrictions": "",
+    "order": 1015
+   },
+   "sort": 101500,
+   "_id": "9250f35d3b73196e",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.9250f35d3b73196e"
+  },
+  {
+   "name": "Mayor",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 20,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Oratory, Persuasion, Law, Etiquette, Haggling, Petitioner-wise",
+    "traitList": "Practiced Smile",
+    "note": "Source: Burning Wheel Codex, p. 438",
+    "requirements": "Sheriff, Healer, Baker, Meadmaker, Negotiator or Philosopher",
+    "restrictions": "Character must be 17 years or older to take this lifepath",
+    "order": 1016
+   },
+   "sort": 101600,
+   "_id": "362dc9aacbebd9c1",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.362dc9aacbebd9c1"
+  },
+  {
+   "name": "Brother/Sister",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 14,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Exile, Society",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Doctrine, Read, Write, Meditation, Shrine-wise, Prayer-wise",
+    "traitList": "Ordained, Faithful",
+    "note": "Source: Burning Wheel Codex, p. 438",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1017
+   },
+   "sort": 101700,
+   "_id": "e6bb2a5a7fdb83b9",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.e6bb2a5a7fdb83b9"
+  },
+  {
+   "name": "Missionary",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 5,
+    "resources": 5,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Exile, Society",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Suasion, Preaching, Foreign Languages, Intimidation, Below-wise, Brawling, Man-wise",
+    "traitList": "Zealot, Righteous",
+    "note": "Source: Burning Wheel Codex, p. 439",
+    "requirements": "Brother/Sister",
+    "restrictions": "",
+    "order": 1018
+   },
+   "sort": 101800,
+   "_id": "a33addd0c0616162",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.a33addd0c0616162"
+  },
+  {
+   "name": "Father/Mother",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Aecer-wise, Oratory, Illuminations, Calligraphy, Sing, History, Research, Cartography, Poetry",
+    "traitList": "Portly, Patient",
+    "note": "Source: Burning Wheel Codex, p. 439",
+    "requirements": "Brother/Sister",
+    "restrictions": "",
+    "order": 1019
+   },
+   "sort": 101900,
+   "_id": "a772aac7bd79bffd",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.a772aac7bd79bffd"
+  },
+  {
+   "name": "Abbot/Abbess",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 30,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Administration, Accounting, Conspicuous, Etiquette",
+    "traitList": "Revered",
+    "note": "Source: Burning Wheel Codex, p. 439",
+    "requirements": "Father/Mother",
+    "restrictions": "",
+    "order": 1020
+   },
+   "sort": 102000,
+   "_id": "eeee7a573ac42a58",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!07ad5eaf8c506562.eeee7a573ac42a58"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Field Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!07ad5eaf8c506562",
+ "folder": "69d554b8c1b5c02d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

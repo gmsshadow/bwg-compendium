@@ -1,0 +1,45 @@
+{
+ "name": "Dwarven Arbalest (Rocks)",
+ "type": "ranged weapon",
+ "img": "icons/weapons/bows/longbow-recurve-brown.webp",
+ "system": {
+  "pointCost": 0,
+  "quality": "superior",
+  "hasGunpowder": false,
+  "usePower": false,
+  "powerBonus": 0,
+  "incidental": 3,
+  "incidentalRoll": 4,
+  "mark": 6,
+  "markRoll": 5,
+  "superb": 9,
+  "vsArmor": 0,
+  "optimalRange": 1,
+  "extremeRange": 1,
+  "maxRange": "50 paces",
+  "handedness": "two",
+  "description": "The Dwarven Arbalest firing rocks: I B3, M B6, S B9, VA –. When firing rocks, it counts as an arquebus for Range and Cover and DoF rules (but no gunpowder die). Loading rocks takes 6 actions. +1D balance die. Purchase the Dwarven Arbalest; this entry is its alternate ammunition.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 125",
+  "skillId": "",
+  "shade": "B"
+ },
+ "_id": "b2b07c851dfaa19c",
+ "_key": "!items!b2b07c851dfaa19c",
+ "folder": "548b0082adaa401b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

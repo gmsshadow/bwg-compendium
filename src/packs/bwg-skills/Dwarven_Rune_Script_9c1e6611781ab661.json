@@ -1,0 +1,49 @@
+{
+ "name": "Dwarven Rune Script",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "Dwarven Society is a literate one. Dwarven children are taught to decipher and inscribe runes from a very young age. This skill counts as both Read and Write for Dwarves.\n\nObstacles: As for Read and Write.\n\nFoRKs: History skills, Chronology of Kings\n\nSkill Type: Academic. Tools: Yes, writing only. Expendable.\n\nRestrictions: Dwarves only in character burning\n\nRoot: Per\n\nSource: Burning Wheel Gold Revised, p. 269",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only in character burning"
+ },
+ "_id": "9c1e6611781ab661",
+ "_key": "!items!9c1e6611781ab661",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

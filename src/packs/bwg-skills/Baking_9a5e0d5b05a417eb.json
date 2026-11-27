@@ -1,0 +1,49 @@
+{
+ "name": "Baking",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": false,
+  "description": "His bread, flatcakes and pastries make the baker an important fixture in any civilized town.\n\nObstacles: Peasant bread, Ob 1. Flatcakes, Ob 2. Nice bread, Ob 2. Cream-filled buns, Ob 3. Advanced Pastry Mechanics, Ob 4.\n\nFoRKs: Cooking\n\nSkill Type: Peasant. Tools: Workshop.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 258",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "9a5e0d5b05a417eb",
+ "_key": "!items!9a5e0d5b05a417eb",
+ "folder": "26f1d2df964749c9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

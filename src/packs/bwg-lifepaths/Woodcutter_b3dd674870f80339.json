@@ -1,0 +1,41 @@
+{
+ "name": "Woodcutter",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 5,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Villager, Outcast",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Firebuilding, Mending, Foraging, Orienteering, Tree-wise, Tree Cutting",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 164",
+  "requirements": "",
+  "restrictions": "",
+  "order": 10
+ },
+ "sort": 1000,
+ "_id": "b3dd674870f80339",
+ "_key": "!items!b3dd674870f80339",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

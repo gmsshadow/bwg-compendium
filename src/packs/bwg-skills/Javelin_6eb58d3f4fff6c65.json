@@ -1,0 +1,49 @@
+{
+ "name": "Javelin",
+ "type": "skill",
+ "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "agility",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "martial",
+  "training": false,
+  "magical": false,
+  "description": "Javelins are short throwing spears.\n\nObstacles: Use the thrown weapon rules in Range and Cover and Fight.\n\nFoRKs: Throwing\n\nSkill Type: Martial. Tools: No.\n\nRoot: Agility\n\nSource: Burning Wheel Gold Revised, p. 279",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "6eb58d3f4fff6c65",
+ "_key": "!items!6eb58d3f4fff6c65",
+ "folder": "c4780c995c816e33",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

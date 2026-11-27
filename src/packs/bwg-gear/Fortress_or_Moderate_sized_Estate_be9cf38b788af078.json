@@ -1,0 +1,30 @@
+{
+ "name": "Fortress or Moderate-sized Estate",
+ "type": "property",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "pointCost": 75,
+  "isWorkshop": false,
+  "description": "Comes with appropriate staff, buildings and accoutrements. Counts as property when factoring Resources. *Only Noble Born characters or characters with the Minister, Town Official, Merchant, Magnate, Steward, Master of Horse, Master of Hounds, Bailiff, Justiciar, Coroner, Constable, Treasurer, Bishop or Abbot LPs may spend more than 40 rps on property.\n\nSource: Burning Wheel Gold Revised, p. 205"
+ },
+ "_id": "be9cf38b788af078",
+ "_key": "!items!be9cf38b788af078",
+ "folder": "af605cb952773f03",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

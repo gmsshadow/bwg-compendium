@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "4935ee298dac2626",
+   "_id": "01dde7af280a4269",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.4935ee298dac2626"
+   "_key": "!actors.items!3d5f8855fd6184c9.01dde7af280a4269"
   },
   {
    "name": "Bastard",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "df8d458d2d76fcc4",
+   "_id": "00b27dac7320c565",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.df8d458d2d76fcc4"
+   "_key": "!actors.items!3d5f8855fd6184c9.00b27dac7320c565"
   },
   {
    "name": "Page",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "71866d6eabe78263",
+   "_id": "9bd072faeae9e8e5",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.71866d6eabe78263"
+   "_key": "!actors.items!3d5f8855fd6184c9.9bd072faeae9e8e5"
   },
   {
    "name": "Student",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "05f2d4d773dec4b7",
+   "_id": "a9fb69fbd0ae6f1d",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.05f2d4d773dec4b7"
+   "_key": "!actors.items!3d5f8855fd6184c9.a9fb69fbd0ae6f1d"
   },
   {
    "name": "Squire",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "c096cc3d182c6cf1",
+   "_id": "3c32931f489b9f4d",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.c096cc3d182c6cf1"
+   "_key": "!actors.items!3d5f8855fd6184c9.3c32931f489b9f4d"
   },
   {
    "name": "Arcane Devotee",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "7f84f8f32de6d559",
+   "_id": "a2aecd19bde117d6",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.7f84f8f32de6d559"
+   "_key": "!actors.items!3d5f8855fd6184c9.a2aecd19bde117d6"
   },
   {
    "name": "Religious Acolyte",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "b73cdb8d624a65b0",
+   "_id": "f1f794bb24f23b0b",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.b73cdb8d624a65b0"
+   "_key": "!actors.items!3d5f8855fd6184c9.f1f794bb24f23b0b"
   },
   {
    "name": "Young Lady",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "fb4fceb730cc3da2",
+   "_id": "2ba628f41f14a216",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.fb4fceb730cc3da2"
+   "_key": "!actors.items!3d5f8855fd6184c9.2ba628f41f14a216"
   },
   {
    "name": "Knight",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "713e4cf3b573ab79",
+   "_id": "c9f7be57212197ff",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.713e4cf3b573ab79"
+   "_key": "!actors.items!3d5f8855fd6184c9.c9f7be57212197ff"
   },
   {
    "name": "Lady",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "76353d42d93e2f8c",
+   "_id": "aca753e5e423c4f9",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.76353d42d93e2f8c"
+   "_key": "!actors.items!3d5f8855fd6184c9.aca753e5e423c4f9"
   },
   {
    "name": "Lord",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "b46ee3ff6510a6d3",
+   "_id": "4348c504dbb72071",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.b46ee3ff6510a6d3"
+   "_key": "!actors.items!3d5f8855fd6184c9.4348c504dbb72071"
   },
   {
    "name": "Dame",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "a14a0a685c7ea30c",
+   "_id": "3acf245c08a625e7",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.a14a0a685c7ea30c"
+   "_key": "!actors.items!3d5f8855fd6184c9.3acf245c08a625e7"
   },
   {
    "name": "Baron",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "0fcca04e98ac08fa",
+   "_id": "ae37c41e46fdb400",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.0fcca04e98ac08fa"
+   "_key": "!actors.items!3d5f8855fd6184c9.ae37c41e46fdb400"
   },
   {
    "name": "Viscount",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "413969557a62a07f",
+   "_id": "dd1ee69ea1a97dc3",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.413969557a62a07f"
+   "_key": "!actors.items!3d5f8855fd6184c9.dd1ee69ea1a97dc3"
   },
   {
    "name": "Count",
@@ -602,7 +602,7 @@
     "order": 14
    },
    "sort": 1400,
-   "_id": "ccbc80d101a9b7cd",
+   "_id": "b7a092f29101d0e0",
    "ownership": {
     "default": 0
    },
@@ -620,7 +620,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.ccbc80d101a9b7cd"
+   "_key": "!actors.items!3d5f8855fd6184c9.b7a092f29101d0e0"
   },
   {
    "name": "Duke",
@@ -643,7 +643,7 @@
     "order": 15
    },
    "sort": 1500,
-   "_id": "9df9808e4e8a43d4",
+   "_id": "31942c1859848ed3",
    "ownership": {
     "default": 0
    },
@@ -661,7 +661,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.9df9808e4e8a43d4"
+   "_key": "!actors.items!3d5f8855fd6184c9.31942c1859848ed3"
   },
   {
    "name": "Noble Prince",
@@ -684,7 +684,7 @@
     "order": 16
    },
    "sort": 1600,
-   "_id": "78b2b52b82b9d28c",
+   "_id": "e08929b2c9b07141",
    "ownership": {
     "default": 0
    },
@@ -702,7 +702,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.78b2b52b82b9d28c"
+   "_key": "!actors.items!3d5f8855fd6184c9.e08929b2c9b07141"
   },
   {
    "name": "Prince of the Blood",
@@ -725,7 +725,7 @@
     "order": 17
    },
    "sort": 1700,
-   "_id": "f59153f017b631e5",
+   "_id": "47c628f397a5708e",
    "ownership": {
     "default": 0
    },
@@ -743,7 +743,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!3d5f8855fd6184c9.f59153f017b631e5"
+   "_key": "!actors.items!3d5f8855fd6184c9.47c628f397a5708e"
   }
  ],
  "effects": [],

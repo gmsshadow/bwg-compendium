@@ -1,0 +1,41 @@
+{
+ "name": "Albino",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 25,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Astrology, Ugly Truth, Read, Write, Sorcery, Spirit Binding",
+  "traitList": "Albino, Gifted, Misunderstood",
+  "note": "Skills as printed: 7 pts: Astrology, Ugly Truth, Read, Write; either Sorcery or Spirit Binding\n\nSource: Burning Wheel Codex, p. 442",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1006
+ },
+ "sort": 100600,
+ "_id": "aea0bb9936b2954d",
+ "_key": "!items!aea0bb9936b2954d",
+ "folder": "4610b603b85f63ce",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

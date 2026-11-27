@@ -1,0 +1,41 @@
+{
+ "name": "Artillerist’s Mate",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 8,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Soldier, City, Servitude, Outcast",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Mending, Carpentry, Artillerist",
+  "traitList": "Disturbingly Confident",
+  "note": "Source: Burning Wheel Gold Revised, p. 191",
+  "requirements": "",
+  "restrictions": "",
+  "order": 21
+ },
+ "sort": 2100,
+ "_id": "7731f4f6219a3b0f",
+ "_key": "!items!7731f4f6219a3b0f",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

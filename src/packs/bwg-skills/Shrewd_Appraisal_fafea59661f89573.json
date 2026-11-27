@@ -1,0 +1,49 @@
+{
+ "name": "Shrewd Appraisal",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": true,
+  "description": "The Dwarven eye for detail, especially in regard to craftsmanship, jewel work or gemcraft, is legendary. Shrewd Appraisal is the art of noting every single flaw in an item—thereby reducing its price.\n\nObstacles: Common goods, Ob 2. Expensive goods, Ob 3. Rare goods, Ob 4. Unique goods, Ob 5.\n\nFoRKs: Appropriate wises, Haggling\n\nSkill Type: Social. Tools: No.\n\nRestrictions: Dwarves only\n\nRoot: Per (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 296",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "fafea59661f89573",
+ "_key": "!items!fafea59661f89573",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

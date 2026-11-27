@@ -1,0 +1,49 @@
+{
+ "name": "Spear",
+ "type": "skill",
+ "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "agility",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "martial",
+  "training": false,
+  "magical": false,
+  "description": "Spears, lances or pikes are versatile and intuitive weapons. They can be used as a quick slashing weapon, as a thrusting or even a smashing weapon. This is not a throwing skill.\n\nObstacles: See the Fight chapter of the Burning Wheel.\n\nFoRKs: Martial Arts, Boxing or any appropriate melee weapon skill.\n\nSkill Type: Martial. Tools: No.\n\nRoot: Agility\n\nSource: Burning Wheel Gold Revised, p. 300",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "1c4dd02b40afa1d0",
+ "_key": "!items!1c4dd02b40afa1d0",
+ "folder": "c4780c995c816e33",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

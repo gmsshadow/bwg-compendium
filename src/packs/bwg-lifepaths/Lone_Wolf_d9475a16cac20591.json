@@ -1,0 +1,41 @@
+{
+ "name": "Lone Wolf",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 1,
+  "resources": 1,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Territory-wise, Pack-wise, Scavenging",
+  "traitList": "Wanderlust, Spirit Marked",
+  "note": "Source: Burning Wheel Codex, p. 482",
+  "requirements": "Yearling, Last Wolf, Captive, Wandering Lost, Ancient Journeyer, Wayward or Dark Friend",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "d9475a16cac20591",
+ "_key": "!items!d9475a16cac20591",
+ "folder": "b8cc51a230fa34fe",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

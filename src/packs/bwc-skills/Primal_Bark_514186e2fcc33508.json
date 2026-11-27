@@ -1,0 +1,49 @@
+{
+ "_id": "514186e2fcc33508",
+ "_key": "!items!514186e2fcc33508",
+ "name": "Primal Bark",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "This ferocious and formidable bark comes from deep within the wolf. Channeling the essence of his snarls and barks, the wolf speaks as Great Grandfather once did. Roll the wolf’s skill versus the Spirit’s Strength. If the wolf wins the test, the spirit is abjured and driven off. It will not return while the wolf remains in its domain. If used against a named spirit, the obstacle is equal to the victim’s Will. Success means the creature must pass a Steel test. If used against a creature of non-Spirit Nature, Primal Bark causes a Steel test. Test the skill against an obstacle equal to the victim’s Will. Successes over the obstacle increase hesitation by one each. Any animal forced to hesitate from this bark will break and “Run Screaming.” Characters may choose their own fate as per the standard Steel test results. The Primal Bark is impossibly loud and penetrating. It can be heard over a great distance—for dozens of miles on a quiet night. The sound of it will summon forth any Spirit Hunters in the vicinity, who will come to the aid of their brethren.\n\nDuration: Instantaneous\n\nActions: 2\n\nSpirit Hunter song: rated, rolled and advanced like a skill; all howl-song tests are open-ended.\n\nRoot: Will.\n\nRestrictions: Great Wolves (Spirit Hunters) only\n\nSource: Burning Wheel Codex, p. 501",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Great Wolves (Spirit Hunters) only"
+ },
+ "effects": [],
+ "folder": "d7e4524a526401f9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

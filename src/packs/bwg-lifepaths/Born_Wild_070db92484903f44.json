@@ -1,0 +1,41 @@
+{
+ "name": "Born Wild",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 2,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Pit",
+  "skillPoints": 0,
+  "generalPoints": 2,
+  "traitPoints": 1,
+  "skillList": "",
+  "traitList": "",
+  "note": "Also gains the Troll common traits.\n\nSource: Burning Wheel Codex, p. 462",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "070db92484903f44",
+ "_key": "!items!070db92484903f44",
+ "folder": "68c4fa6583a6cf44",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

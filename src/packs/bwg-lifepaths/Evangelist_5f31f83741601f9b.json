@@ -1,0 +1,41 @@
+{
+ "name": "Evangelist",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 6,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Outcast, Court, Religious",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Empyrealia, Demonology, Oratory, Cultist-wise",
+  "traitList": "Believer, Fiery",
+  "note": "Wizard Burner lifepath, supplementing the City Dweller Setting. Source: Burning Wheel Codex, p. 403",
+  "requirements": "Dilettante, or any summoner or religious lifepath",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "5f31f83741601f9b",
+ "_key": "!items!5f31f83741601f9b",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

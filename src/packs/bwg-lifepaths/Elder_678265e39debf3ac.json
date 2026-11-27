@@ -1,0 +1,41 @@
+{
+ "name": "Elder",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 15,
+  "resources": 5,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Villager, Outcast",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Observation, Persuasion, Ugly Truth, Peasant-wise, Local History",
+  "traitList": "Crotchety",
+  "note": "Source: Burning Wheel Gold Revised, p. 164",
+  "requirements": "The character must start the game over 50 years old",
+  "restrictions": "",
+  "order": 14
+ },
+ "sort": 1400,
+ "_id": "678265e39debf3ac",
+ "_key": "!items!678265e39debf3ac",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

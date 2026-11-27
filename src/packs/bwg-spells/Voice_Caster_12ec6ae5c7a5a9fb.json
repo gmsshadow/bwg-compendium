@@ -1,0 +1,52 @@
+{
+ "name": "Voice Caster",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 8,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": false,
+  "actions": 5,
+  "description": "The voice of the sorcerer has no source. He may produce sound wheresoever he desires in his presence. This spell takes the sound from the sorcerer’s throat and projects it elsewhere. The sorcerer is silent; his voice is heard from a different point.\n\nObstacle: 4. Actions: 5.\n\nOrigin: Presence | Area of Effect: Natural Effect | Element: Anima/Air | Impetus: Control | Duration: Sustained | Resource Points: 8\n\nSource: Burning Wheel Gold Revised, p. 221",
+  "origin": "Presence",
+  "areaOfEffect": "Natural Effect",
+  "element": "Anima/Air",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 8,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "12ec6ae5c7a5a9fb",
+ "_key": "!items!12ec6ae5c7a5a9fb",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

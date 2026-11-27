@@ -1,0 +1,41 @@
+{
+ "name": "Village Sergeant",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 9,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Soldier, Servitude, Outcast",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Command, Intimidation, Field Dressing, Appropriate Weapons, Shield Training, Armor Training, Bribe-wise, Wealthy-wise",
+  "traitList": "Overworked, Underpaid",
+  "note": "Source: Burning Wheel Gold Revised, p. 167",
+  "requirements": "Village Tough, Squire, Freebooter, Sergeant-at-Arms or Man-at-Arms",
+  "restrictions": "",
+  "order": 17
+ },
+ "sort": 1700,
+ "_id": "159f37f9d96102be",
+ "_key": "!items!159f37f9d96102be",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

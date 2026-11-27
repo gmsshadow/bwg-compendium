@@ -1,0 +1,49 @@
+{
+ "name": "Aura Reading",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": false,
+  "description": "This is the talent to read an aura and see within it the present, future and past. Aura readers can decipher gossamer veils of emotion, deception, clarity and purpose. This skill does not grant the character the ability to see auras. That ability must be acquired through a trait, prayer or spell.\n\nObstacles: Detecting if the subject is alive, dead, from this plane or another, Ob 1. Reading an aura trait (like Aura of Fear), Ob 1. Reading mood (angry, calm, etc.), Ob 2. Seeing a character trait, Ob 3. Seeing a die or call-on trait, Ob 4. Sensing a person’s intent (to deceive, for example), Ob 4. Seeing an Instinct, Ob 6. Seeing a Belief, Ob 7. Seeing a character’s past, Ob 8. Seeing a character’s future, Ob 9. Reading an object to see if it is magical or mundane, Ob 1. Reading a school of magic, Ob 2. Deciphering a facet of a spell or enchantment (impetus, trigger, effect, breadth, duration etc.), Ob 3. Naming a spell as it is being cast, Ob 6. Detecting the presence and nature of a spirit, Ob is 10 minus spirit’s Strength.\n\nSkill Type: Sorcerous. Tools: No.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 258",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "dc10ec81641c99df",
+ "_key": "!items!dc10ec81641c99df",
+ "folder": "0b0e31afe525b740",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

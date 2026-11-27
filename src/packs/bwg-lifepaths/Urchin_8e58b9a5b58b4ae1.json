@@ -1,0 +1,41 @@
+{
+ "name": "Urchin",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 3,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Peasant, Soldier, Servitude",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Inconspicuous, Streetwise, Sleight of Hand",
+  "traitList": "Addicted, The Story",
+  "note": "Source: Burning Wheel Gold Revised, p. 193",
+  "requirements": "",
+  "restrictions": "must be the second lifepath chosen and may only be taken once",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "8e58b9a5b58b4ae1",
+ "_key": "!items!8e58b9a5b58b4ae1",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

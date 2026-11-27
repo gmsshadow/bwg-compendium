@@ -1,0 +1,49 @@
+{
+ "name": "Axe",
+ "type": "skill",
+ "img": "icons/skills/melee/weapons-crossed-swords-purple.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "power",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "martial",
+  "training": false,
+  "magical": false,
+  "description": "This skill teaches the character how to use one- and two-handed axes to chop off arms, legs and heads in battle. The Axe skill can be used to make blade strikes with the weapon, as well as strikes with the haft.\n\nFoRKs: Brawling, Martial Arts or appropriate melee weapon skills\n\nSkill Type: Martial. Tools: An axe.\n\nRoot: Power/Agility\n\nSource: Burning Wheel Gold Revised, p. 258",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "2e002bf185479473",
+ "_key": "!items!2e002bf185479473",
+ "folder": "c4780c995c816e33",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

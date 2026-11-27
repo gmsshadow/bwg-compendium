@@ -1,0 +1,41 @@
+{
+ "name": "Artist",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 60,
+  "resources": 12,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Wilderlands",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Song of Form, Painting",
+  "traitList": "Appreciation for Beauty",
+  "note": "Source: Burning Wheel Gold Revised, p. 134",
+  "requirements": "",
+  "restrictions": "",
+  "order": 14
+ },
+ "sort": 1400,
+ "_id": "2cfb59cb63e1ebf3",
+ "_key": "!items!2cfb59cb63e1ebf3",
+ "folder": "53bf8e71f48c4a4c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

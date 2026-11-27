@@ -1,0 +1,41 @@
+{
+ "name": "Born Below",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 0,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Society",
+  "skillPoints": 0,
+  "generalPoints": 3,
+  "traitPoints": 2,
+  "skillList": "",
+  "traitList": "Tunnel Vision",
+  "note": "Resources: — as listed in the book. Also gains the Roden common traits.\n\nSource: Burning Wheel Codex, p. 439",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "edcb15e9d42de683",
+ "_key": "!items!edcb15e9d42de683",
+ "folder": "b459a367a7c6ee1e",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

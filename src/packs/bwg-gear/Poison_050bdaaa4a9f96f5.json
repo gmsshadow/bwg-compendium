@@ -1,0 +1,31 @@
+{
+ "name": "Poison",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Three doses of one of the types of poison listed under Vile Poisoner.\n\nSource: Burning Wheel Gold Revised, p. 243"
+ },
+ "_id": "050bdaaa4a9f96f5",
+ "_key": "!items!050bdaaa4a9f96f5",
+ "folder": "a2609e3cbb7ca442",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

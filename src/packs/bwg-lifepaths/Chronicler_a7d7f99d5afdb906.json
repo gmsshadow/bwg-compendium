@@ -1,0 +1,41 @@
+{
+ "name": "Chronicler",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Outcast, Villager",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Composition, History, Etiquette, Illuminations, Obscure History",
+  "traitList": "Prone to Exaggeration, Flatterer, Denouncer, Cynical, Righteous",
+  "note": "Source: Burning Wheel Gold Revised, p. 182",
+  "requirements": "Student, Custodian, Interpreter, Archivist or Young Lady",
+  "restrictions": "",
+  "order": 25
+ },
+ "sort": 2500,
+ "_id": "a7d7f99d5afdb906",
+ "_key": "!items!a7d7f99d5afdb906",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Sword Singer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 30,
+  "resources": 10,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 10,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sword, Armor Training, Shield Training, Knives, Brawling, Song of the Sword",
+  "traitList": "Sword of the White Towers",
+  "note": "Source: Burning Wheel Gold Revised, p. 136",
+  "requirements": "Second, Soldier Protector, Soother, Spouse or Spearbearer",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "88877f0ce21364e0",
+ "_key": "!items!88877f0ce21364e0",
+ "folder": "34ca3eb13c86f59f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

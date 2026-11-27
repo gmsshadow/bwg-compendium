@@ -1,0 +1,41 @@
+{
+ "name": "Knight",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 20,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Soldier, Noble, Outcast",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Conspicuous, Intimidation, Falconry, Appropriate Weapons",
+  "traitList": "Sworn Homage, Sense of Entitlement",
+  "note": "Source: Burning Wheel Gold Revised, p. 181",
+  "requirements": "Squire or Cavalryman",
+  "restrictions": "",
+  "order": 18
+ },
+ "sort": 1800,
+ "_id": "5033d200bd0b8a53",
+ "_key": "!items!5033d200bd0b8a53",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

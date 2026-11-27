@@ -1,0 +1,41 @@
+{
+ "name": "Village Peddler",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Peasant, Serv., City Dweller, Outcast",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Mending, Sing, Haggling, Chandler, Persuasion, Inconspicuous, Falsehood",
+  "traitList": "Odd",
+  "note": "Source: Burning Wheel Gold Revised, p. 166",
+  "requirements": "",
+  "restrictions": "",
+  "order": 7
+ },
+ "sort": 700,
+ "_id": "732ea043d85c4887",
+ "_key": "!items!732ea043d85c4887",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

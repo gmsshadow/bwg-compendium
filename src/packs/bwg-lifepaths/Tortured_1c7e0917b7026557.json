@@ -1,0 +1,41 @@
+{
+ "name": "Tortured",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 0,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 1,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "",
+  "traitList": "Tasting the Lash, Numb",
+  "note": "Skills: the skill point must be spent on other lifepath skills (no skills of its own). Resources: — as listed in the book.\n\nSource: Burning Wheel Codex, p. 464",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1001
+ },
+ "sort": 100100,
+ "_id": "1c7e0917b7026557",
+ "_key": "!items!1c7e0917b7026557",
+ "folder": "4d5e91b39c09c061",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

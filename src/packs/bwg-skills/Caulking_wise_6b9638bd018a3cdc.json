@@ -1,0 +1,49 @@
+{
+ "name": "Caulking-wise",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "A wise skill. See the Wises entry: wises are self-explanatory knowledge of \"who's who\" and \"what's what\" for their subject.\n\nObstacles: Common knowledge of the subject, Ob 1. An interesting fact, Ob 2. Details, Ob 3. Uncommon knowledge, Ob 4. Rare goods, Ob 5. Bizarre or obscure, Ob 7. Freaky details or specifics, Ob 8.\n\nSkill Type: Wise. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 263",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "6b9638bd018a3cdc",
+ "_key": "!items!6b9638bd018a3cdc",
+ "folder": "1070d662da139e5b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

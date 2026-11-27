@@ -1,0 +1,41 @@
+{
+ "name": "Etharch",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 250,
+  "resources": 200,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Citadel, Protector",
+  "skillPoints": 8,
+  "generalPoints": 4,
+  "traitPoints": 2,
+  "skillList": "Council Caller, Voice of Thunder, Doom Sayer, Discerner",
+  "traitList": "Lord of Ages",
+  "note": "Source: Burning Wheel Gold Revised, p. 136",
+  "requirements": "Aman trait and either Loremaster or Prince",
+  "restrictions": "",
+  "order": 7
+ },
+ "sort": 700,
+ "_id": "881ca68afb3de3d5",
+ "_key": "!items!881ca68afb3de3d5",
+ "folder": "09496e42bcfa03db",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

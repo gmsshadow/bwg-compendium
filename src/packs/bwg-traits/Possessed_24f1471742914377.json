@@ -1,0 +1,50 @@
+{
+ "name": "Possessed",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "die",
+  "text": "The Possessed trait merges the spirit of a demon or a dead character with the body and soul of a living character. The possessed character must change one Belief to that of the spirit. The GM writes the demonic Belief. The player then takes the Lawbreaker trait in addition to one other identifying trait from the demon or spirit (except Spirit Nature). See the Codex for the effects of the traits. The player retains control of his character: If he fulfills the spirit’s Belief, he earns a Deeds point. He may earn Fate from the Belief by playing into it as well. If the player changes the Belief, the character remains possessed, but loses access to the Deeds point. A Possessed person can be exorcised as per the Faith rules. Whether or not he wants to be exorcised is another matter. Also, the Possessed character’s aura (for Aura Reading) will show the additional traits and the spirit’s Belief. This special trait may only be chosen after consultation with the GM and/or other players.\n\nType: Dt (die trait). Cost: 5 pts.\n\nRestrictions: Humans only in character burning\n\nSource: Burning Wheel Gold Revised, p. 341",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Humans only in character burning"
+ },
+ "_id": "24f1471742914377",
+ "_key": "!items!24f1471742914377",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

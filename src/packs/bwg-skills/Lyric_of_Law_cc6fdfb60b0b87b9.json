@@ -1,0 +1,49 @@
+{
+ "name": "Lyric of Law",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": true,
+  "description": "Elven law is a tradition stretching back to the dawn of time. This skill song concerns itself with the nature and application of Elven law.\n\nObstacles: Citadel law, Ob 1. Protector’s law, Ob 2. Etharchal law, Ob 3. Wilder law, Ob 4.\n\nFoRKs: Any appropriate history or Wise skill or song\n\nSkill Type: Academic. Tools: No.\n\nRestrictions: Elves only\n\nRoot: Perception (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 282",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "cc6fdfb60b0b87b9",
+ "_key": "!items!cc6fdfb60b0b87b9",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

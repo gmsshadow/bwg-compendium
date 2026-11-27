@@ -1,0 +1,41 @@
+{
+ "name": "Young Lady",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 9,
+  "resources": 25,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Noble, Religious",
+  "skillPoints": 10,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Write, Read, Etiquette, Poetry, Astrology, Musical Instrument, Composition, Field Dressing, Apothecary, Court Gossip-wise",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 181",
+  "requirements": "",
+  "restrictions": "Young Lady may only be taken as the second or third lifepath, and it may only be taken once",
+  "order": 17
+ },
+ "sort": 1700,
+ "_id": "7f21d46b25724781",
+ "_key": "!items!7f21d46b25724781",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

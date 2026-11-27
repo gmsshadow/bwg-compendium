@@ -1,0 +1,52 @@
+{
+ "_id": "2e5d15c8decd2f42",
+ "_key": "!items!2e5d15c8decd2f42",
+ "name": "Trackless Path",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 12,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": true,
+  "actions": 4,
+  "description": "When ensorcelled with this spell, the traveler leaves no trace of his passage. Success adds a +1 Ob penalty to anyone attempting to track or stalk this wolf. Each success over the obstacle increases the penalty by one.\n\nObstacle: 3^. Actions: 4.\n\nOrigin: Presence | Area of Effect: Caster or Single Target | Element: Earth | Impetus: Influence | Duration: Sustained | Resource Points: 12\n\nDire Haunt spell, cast with Tongue of the Ancient One (the wolf equivalent of Sorcery).\n\nSource: Burning Wheel Codex, p. 503",
+  "origin": "Presence",
+  "areaOfEffect": "Caster or Single Target",
+  "element": "Earth",
+  "impetus": "Influence",
+  "duration": "Sustained",
+  "rpCost": 12,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "10 Paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "effects": [],
+ "folder": "b769bc103c2288e2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

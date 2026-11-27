@@ -1,0 +1,41 @@
+{
+ "name": "Hostage",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 0,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "City, Noble, Soldier, Religious",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Etiquette, Court-wise, Foreign Languages, Foreign History",
+  "traitList": "Homesick, Bored, Darling of the Court",
+  "note": "Hostage gives resource points equal to half of the character’s previous lifepath. Resources: * as listed in the book.\n\nSource: Burning Wheel Gold Revised, p. 183",
+  "requirements": "any lifepath from the Noble setting",
+  "restrictions": "",
+  "order": 32
+ },
+ "sort": 3200,
+ "_id": "ed8fd603d13c35d7",
+ "_key": "!items!ed8fd603d13c35d7",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

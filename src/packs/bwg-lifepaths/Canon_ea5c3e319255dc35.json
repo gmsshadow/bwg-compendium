@@ -1,0 +1,41 @@
+{
+ "name": "Canon",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 45,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "City Dweller, Outcast, Court",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Rule of Law, Church Law, Administration, Doctrine, Church-wise",
+  "traitList": "Authoritative",
+  "note": "Source: Burning Wheel Gold Revised, p. 186",
+  "requirements": "Archpriest, Theologian or Abbot",
+  "restrictions": "",
+  "order": 18
+ },
+ "sort": 1800,
+ "_id": "ea5c3e319255dc35",
+ "_key": "!items!ea5c3e319255dc35",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

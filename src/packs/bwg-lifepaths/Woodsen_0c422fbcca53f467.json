@@ -1,0 +1,41 @@
+{
+ "name": "Woodsen",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 6,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Exile",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Tree Cutting, Tree-wise, Mending, Orienteering",
+  "traitList": "Independent",
+  "note": "Source: Burning Wheel Codex, p. 437",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1002
+ },
+ "sort": 100200,
+ "_id": "0c422fbcca53f467",
+ "_key": "!items!0c422fbcca53f467",
+ "folder": "bf3758f4ad382083",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

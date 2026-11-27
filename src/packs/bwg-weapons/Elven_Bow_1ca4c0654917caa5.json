@@ -1,0 +1,45 @@
+{
+ "name": "Elven Bow",
+ "type": "ranged weapon",
+ "img": "icons/weapons/bows/longbow-recurve-brown.webp",
+ "system": {
+  "pointCost": 25,
+  "quality": "run of the mill",
+  "hasGunpowder": false,
+  "usePower": false,
+  "powerBonus": 0,
+  "incidental": 4,
+  "incidentalRoll": 2,
+  "mark": 8,
+  "markRoll": 4,
+  "superb": 11,
+  "vsArmor": 2,
+  "optimalRange": 3,
+  "extremeRange": 3,
+  "maxRange": "250 paces",
+  "handedness": "two",
+  "description": "Made with the Elven Bowcraft skill. Bigger than hunting bows but not as big as great bows of men. 3D range dice at optimal and extreme; maximum range 250 paces. In Fight, Nock and Draw time of five actions.\n\nArrows (choose when purchasing): Hunting Head I: B4, M: B8, S: B11, VA 2 (free); Leaf Head I: B5, M: B9, S: B12, VA 1 (+1 rp); Bodkin I: B4, M: B7, S: B10, VA 3 (+2 rps). Stats here are for the Hunting Head.\n\nElven characters with four or fewer lifepaths whose last lifepath is Elven Bowyer may take an Elven Bow for 5 rps.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 156",
+  "skillId": "",
+  "shade": "B"
+ },
+ "_id": "1ca4c0654917caa5",
+ "_key": "!items!1ca4c0654917caa5",
+ "folder": "548b0082adaa401b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

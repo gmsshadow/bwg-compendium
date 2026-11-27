@@ -1,0 +1,41 @@
+{
+ "name": "Black Destroyer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 2,
+  "resources": 2,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Rider Training, Combat Mount, Savage Attack",
+  "traitList": "Fearsome Beast, Intense Hatred, Fearless, Dominant, Submissive",
+  "note": "Source: Burning Wheel Codex, p. 481",
+  "requirements": "Howling Beast or Ebon Tyrant",
+  "restrictions": "",
+  "order": 1006
+ },
+ "sort": 100600,
+ "_id": "1564bb71651b5fbf",
+ "_key": "!items!1564bb71651b5fbf",
+ "folder": "6115dfb7c437130d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

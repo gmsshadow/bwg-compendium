@@ -1,0 +1,41 @@
+{
+ "name": "Burglar",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 10,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Observation, Climbing, Throwing, Locksmith, Loot-wise",
+  "traitList": "Quiet, Confident",
+  "note": "Source: Burning Wheel Codex, p. 440",
+  "requirements": "Fingers, Sneak Thief, Shadow, Corsair or Bushwhacker",
+  "restrictions": "",
+  "order": 1011
+ },
+ "sort": 101100,
+ "_id": "0d0bcccdb8c6033c",
+ "_key": "!items!0d0bcccdb8c6033c",
+ "folder": "b459a367a7c6ee1e",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

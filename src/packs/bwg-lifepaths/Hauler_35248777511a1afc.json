@@ -1,0 +1,41 @@
+{
+ "name": "Hauler",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 7,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Clansman, Host",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Hauling, Wagon-wise, Cargo-wise, Road-wise",
+  "traitList": "Lifting Heavy Things",
+  "note": "Source: Burning Wheel Gold Revised, p. 111",
+  "requirements": "",
+  "restrictions": "",
+  "order": 2
+ },
+ "sort": 200,
+ "_id": "35248777511a1afc",
+ "_key": "!items!35248777511a1afc",
+ "folder": "9dc85275b24effb4",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

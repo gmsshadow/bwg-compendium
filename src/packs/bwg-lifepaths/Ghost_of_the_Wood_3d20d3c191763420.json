@@ -1,0 +1,41 @@
+{
+ "name": "Ghost of the Wood",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 2,
+  "resources": 10,
+  "statBoost": "menttwo",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 6,
+  "generalPoints": 1,
+  "traitPoints": 3,
+  "skillList": "Wolf-wise, Spirit-Hunter-wise, Legion-wise, Path-wise, River-wise, Pack-wise",
+  "traitList": "Preternaturally Calm, Watchful, Piercing Gaze, Stink of the Ancient",
+  "note": "Source: Burning Wheel Codex, p. 483",
+  "requirements": "Dire Haunt and Fell Ancient",
+  "restrictions": "",
+  "order": 1004
+ },
+ "sort": 100400,
+ "_id": "3d20d3c191763420",
+ "_key": "!items!3d20d3c191763420",
+ "folder": "8dd69fb4a76586ea",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

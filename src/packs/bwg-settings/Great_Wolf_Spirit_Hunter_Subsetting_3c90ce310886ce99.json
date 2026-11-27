@@ -1,0 +1,157 @@
+{
+ "_id": "3c90ce310886ce99",
+ "name": "Great Wolf Spirit Hunter Subsetting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Spirit Hunter Subsetting lifepaths for Great Wolf characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Spirit Chaser",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 1,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Outcast, Captive",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Primal Bark, Pack Hunting, Way of the First Hunter",
+    "traitList": "",
+    "note": "Source: Burning Wheel Codex, p. 482",
+    "requirements": "Lone Wolf and the Spirit Marked trait",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "a429f2b4f198f1fc",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3c90ce310886ce99.a429f2b4f198f1fc"
+  },
+  {
+   "name": "Spirit Howler",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 2,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Ancestral Jaw",
+    "traitList": "Ancestral Taint, Spirit Ears",
+    "note": "Source: Burning Wheel Codex, p. 482",
+    "requirements": "Spirit Chaser",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "0545300f6bd13a68",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3c90ce310886ce99.0545300f6bd13a68"
+  },
+  {
+   "name": "Spirit Hunter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 2,
+    "resources": 3,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Ghost of the Deeping Wood",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Grandfather’s Song",
+    "traitList": "Spirit Nose",
+    "note": "Source: Burning Wheel Codex, p. 482",
+    "requirements": "Spirit Howler",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "bb5edc51ccce04fe",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!3c90ce310886ce99.bb5edc51ccce04fe"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Spirit Hunter Subsetting",
+  "actorLink": false
+ },
+ "_key": "!actors!3c90ce310886ce99",
+ "folder": "831b7f025738cb40",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

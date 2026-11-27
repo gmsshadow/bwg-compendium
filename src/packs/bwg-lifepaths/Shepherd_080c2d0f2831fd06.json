@@ -1,0 +1,41 @@
+{
+ "name": "Shepherd",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 45,
+  "resources": 6,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Citadel",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Song of Flocks and Herds, Climbing, Wolf-wise",
+  "traitList": "Never Cry Wolf",
+  "note": "Source: Burning Wheel Gold Revised, p. 131",
+  "requirements": "",
+  "restrictions": "",
+  "order": 5
+ },
+ "sort": 500,
+ "_id": "080c2d0f2831fd06",
+ "_key": "!items!080c2d0f2831fd06",
+ "folder": "c6f2016285d19f81",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

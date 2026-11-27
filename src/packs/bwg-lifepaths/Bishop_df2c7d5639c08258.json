@@ -1,0 +1,41 @@
+{
+ "name": "Bishop",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 12,
+  "resources": 60,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Court, Religious",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Etiquette, Bureaucracy, Ritual, Church-wise, City-wise",
+  "traitList": "Holier",
+  "note": "Source: Burning Wheel Gold Revised, p. 176",
+  "requirements": "Archpriest, Canon, Steward, Chamberlain or the Your Grace trait",
+  "restrictions": "",
+  "order": 67
+ },
+ "sort": 6700,
+ "_id": "df2c7d5639c08258",
+ "_key": "!items!df2c7d5639c08258",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

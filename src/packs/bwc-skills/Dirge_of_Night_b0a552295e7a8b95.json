@@ -1,0 +1,49 @@
+{
+ "_id": "b0a552295e7a8b95",
+ "_key": "!items!b0a552295e7a8b95",
+ "name": "Dirge of Night",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "Shadows lengthen and deepen to an impossible shade of darkness. This spell counteracts any sight-boosting trait or spell like Keen Sight or Eye of the Eagle. In addition, anyone searching the shadows or darkness suffers a +1 Ob penalty. Dirge of Night can only be sung at night or a place of shadows—an ancient forest, indoors, etc. area it affects.\n\nObstacle: 3\n\nDuration: The Dirge of Night fades come morning or if bright light floods the\n\nActions: 8\n\nDark Elf spell song: follows the rules for Elven spell songs (sorcerous for practice and learning, always open-ended, no tools or FoRKs).\n\nSong root: Will.\n\nRestrictions: Dark Elves only\n\nSource: Burning Wheel Codex, p. 422",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dark Elves only"
+ },
+ "effects": [],
+ "folder": "237aaf0e26bbe354",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

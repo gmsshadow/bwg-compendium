@@ -1,0 +1,23 @@
+{
+ "_id": "57fa0f6c5ded8a43",
+ "_key": "!folders!57fa0f6c5ded8a43",
+ "name": "Cavedweller Setting",
+ "type": "Item",
+ "folder": "7702ef84abd5c3de",
+ "sorting": "a",
+ "sort": 0,
+ "color": null,
+ "description": "",
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,813 @@
+{
+ "_id": "e44de43c2a493072",
+ "name": "Roden Below Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Below Setting lifepaths for Roden characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born Below",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 0,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Society",
+    "skillPoints": 0,
+    "generalPoints": 3,
+    "traitPoints": 2,
+    "skillList": "",
+    "traitList": "Tunnel Vision",
+    "note": "Resources: — as listed in the book. Also gains the Roden common traits.\n\nSource: Burning Wheel Codex, p. 439",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "e5e6db1e6fe568e4",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.e5e6db1e6fe568e4"
+  },
+  {
+   "name": "Pinky",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 2,
+    "resources": 2,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "1 M —",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Soothing Platitudes, Below-wise",
+    "traitList": "Confusing Rant, Distracted, Clumsy, Lucky",
+    "note": "Source: Burning Wheel Codex, p. 439",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "8f0eeebe91e5dbc7",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.8f0eeebe91e5dbc7"
+  },
+  {
+   "name": "Scavenger",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Exile, Society",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Inconspicuous, Scavenging, Survival, Appraisal, Junk-wise",
+    "traitList": "Acquisitive",
+    "note": "Source: Burning Wheel Codex, p. 439",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "fd84338decc526be",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.fd84338decc526be"
+  },
+  {
+   "name": "Scratcher",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 4,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Ditch Digging, Tunnel-wise, Mending",
+    "traitList": "Hacking Cough, Deep Sense",
+    "note": "Source: Burning Wheel Codex, p. 439",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "d2471e8da5b11c74",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.d2471e8da5b11c74"
+  },
+  {
+   "name": "Snitch",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Exile, Society",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Inconspicuous, Falsehood, Haggling, Secret-wise",
+    "traitList": "Cowardly",
+    "note": "Source: Burning Wheel Codex, p. 439",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "ceda0ea2a712c79f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.ceda0ea2a712c79f"
+  },
+  {
+   "name": "The Gauntlet",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 4,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Society",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Brawling, Soothing Platitudes, Hazing-wise, Pecking Order-wise",
+    "traitList": "Victim",
+    "note": "Source: Burning Wheel Codex, p. 439",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1005
+   },
+   "sort": 100500,
+   "_id": "3211b046212f2c53",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.3211b046212f2c53"
+  },
+  {
+   "name": "Apprentice",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Exile, Society",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Mending, Blacksmith, Bribe-wise",
+    "traitList": "Gopher",
+    "note": "Source: Burning Wheel Codex, p. 440",
+    "requirements": "The Gauntlet",
+    "restrictions": "",
+    "order": 1006
+   },
+   "sort": 100600,
+   "_id": "d6c5a85cceea1fcf",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.d6c5a85cceea1fcf"
+  },
+  {
+   "name": "Kidnapper",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Exile, Society",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Inconspicuous, Knots, Haggling, Cudgel, Intimidation, Child-wise",
+    "traitList": "Ruthless",
+    "note": "Source: Burning Wheel Codex, p. 440",
+    "requirements": "The Gauntlet",
+    "restrictions": "",
+    "order": 1007
+   },
+   "sort": 100700,
+   "_id": "6b3562ca9803bf29",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.6b3562ca9803bf29"
+  },
+  {
+   "name": "Fingers",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 5,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Exile, Society",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Sleight of Hand, Inconspicuous, Knives, Streetwise",
+    "traitList": "Light Touch, Cocky",
+    "note": "Source: Burning Wheel Codex, p. 440",
+    "requirements": "The Gauntlet",
+    "restrictions": "",
+    "order": 1008
+   },
+   "sort": 100800,
+   "_id": "54119b6364acf4ed",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.54119b6364acf4ed"
+  },
+  {
+   "name": "Sneak Thief",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 6,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Stealthy, Lock Pick, Knives, Roof-wise, Window-wise",
+    "traitList": "Cool Headed, Soft Step",
+    "note": "Source: Burning Wheel Codex, p. 440",
+    "requirements": "The Gauntlet",
+    "restrictions": "",
+    "order": 1009
+   },
+   "sort": 100900,
+   "_id": "e7bd0defbcd2b359",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.e7bd0defbcd2b359"
+  },
+  {
+   "name": "Bladesmith",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 20,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Society",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Haggling, Instruction, Weaponsmith, Knife-wise, Sword-wise",
+    "traitList": "Secretive",
+    "note": "Source: Burning Wheel Codex, p. 440",
+    "requirements": "Apprentice",
+    "restrictions": "",
+    "order": 1010
+   },
+   "sort": 101000,
+   "_id": "4fc180d2713ddb4b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.4fc180d2713ddb4b"
+  },
+  {
+   "name": "Burglar",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 10,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Observation, Climbing, Throwing, Locksmith, Loot-wise",
+    "traitList": "Quiet, Confident",
+    "note": "Source: Burning Wheel Codex, p. 440",
+    "requirements": "Fingers, Sneak Thief, Shadow, Corsair or Bushwhacker",
+    "restrictions": "",
+    "order": 1011
+   },
+   "sort": 101100,
+   "_id": "c0aa8c86d09d4388",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.c0aa8c86d09d4388"
+  },
+  {
+   "name": "Bruiser",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 8,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Exile, Society",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Appropriate Weapons, Intimidation, Extortion, Shield Training",
+    "traitList": "Mean, Dumb",
+    "note": "Source: Burning Wheel Codex, p. 440",
+    "requirements": "The Gauntlet",
+    "restrictions": "",
+    "order": 1012
+   },
+   "sort": 101200,
+   "_id": "d9b4cd7f7c9da793",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.d9b4cd7f7c9da793"
+  },
+  {
+   "name": "Fence",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 20,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Appraisal, Haggling, Falsehood, Antique-wise, Fake-wise",
+    "traitList": "Poker Face",
+    "note": "Source: Burning Wheel Codex, p. 440",
+    "requirements": "Scavenger, Snitch or Sneak-Thief",
+    "restrictions": "",
+    "order": 1013
+   },
+   "sort": 101300,
+   "_id": "39720b0c3fe884bd",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.39720b0c3fe884bd"
+  },
+  {
+   "name": "Sawbones",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 15,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Exile",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Field Dressing, Apothecary, Poisons, Haggling",
+    "traitList": "Practical, Impersonal",
+    "note": "Source: Burning Wheel Codex, p. 440",
+    "requirements": "Poisoner, Albino, Healer or Pinky",
+    "restrictions": "",
+    "order": 1014
+   },
+   "sort": 101400,
+   "_id": "4cdd7656c5b2f9a6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.4cdd7656c5b2f9a6"
+  },
+  {
+   "name": "Negotiator",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 15,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Society",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Persuasion, Deal-wise, Haggling, Intimidation, Ugly Truth",
+    "traitList": "Calm Demeanor, Good Listener",
+    "note": "Source: Burning Wheel Codex, p. 441",
+    "requirements": "Kidnapper, Deputy, Corsair, Missionary, Fence or Perverter",
+    "restrictions": "",
+    "order": 1015
+   },
+   "sort": 101500,
+   "_id": "30bac0d836dc052f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.30bac0d836dc052f"
+  },
+  {
+   "name": "The Brain",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 13,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Society",
+    "skillPoints": 13,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Soothing Platitudes, Read, Write, Research, Astrology, Strategy, Logistics, Falsehood, History, Obscure History, World Domination-wise",
+    "traitList": "Genius, Condescending, Frustrated",
+    "note": "Source: Burning Wheel Codex, p. 441",
+    "requirements": "Hermit, Mayor or Scratcher",
+    "restrictions": "The Brain cannot take the Pinky lifepath",
+    "order": 1016
+   },
+   "sort": 101600,
+   "_id": "68824a727e840b71",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.68824a727e840b71"
+  },
+  {
+   "name": "Mastermind",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 30,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 11,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Intimidation, Persuasion, Oratory, Falsehood, Command, Below-wise, Sword, Clique-wise, Nest-wise, Traitor-wise",
+    "traitList": "Ambitious, Ruthless",
+    "note": "Source: Burning Wheel Codex, p. 441",
+    "requirements": "Negotiator, The Brain, Bandit King or Abbot/Abbess",
+    "restrictions": "",
+    "order": 1017
+   },
+   "sort": 101700,
+   "_id": "d5b63b3ce33b2e1f",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.d5b63b3ce33b2e1f"
+  },
+  {
+   "name": "The Pope",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 11,
+    "resources": 75,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "—",
+    "skillPoints": 9,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Extortion, Intimidation, Read, Write, Composition, Church-wise, Papal Bull-wise, Pope Joke-wise",
+    "traitList": "Most Holy, Faithful",
+    "note": "Source: Burning Wheel Codex, p. 441",
+    "requirements": "Father/Mother or Visionary",
+    "restrictions": "",
+    "order": 1018
+   },
+   "sort": 101800,
+   "_id": "e640b668464025dc",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!e44de43c2a493072.e640b668464025dc"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Below Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!e44de43c2a493072",
+ "folder": "69d554b8c1b5c02d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

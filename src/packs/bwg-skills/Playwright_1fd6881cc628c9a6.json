@@ -1,0 +1,49 @@
+{
+ "name": "Playwright",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "A playwright composes dramatic dialogue into scripts to be read and performed by actors on stage. This skill allows a character to convey his own ideas into a written form so that others may transmit them via performance. Writing is required in order for this skill to be taken.\n\nObstacles: Religious or farce, Ob 1. Historical or dramatic, Ob 2. Tragedy, Ob 3. Comedy, Ob 4.\n\nFoRKs: Composition, Obscure History, Philosophy\n\nSkill Type: Academic. Tools: Yes. Expendable.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 288",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "1fd6881cc628c9a6",
+ "_key": "!items!1fd6881cc628c9a6",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

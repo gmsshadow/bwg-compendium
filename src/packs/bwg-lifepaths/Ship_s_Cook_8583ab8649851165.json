@@ -1,0 +1,41 @@
+{
+ "name": "Ship’s Cook",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Soldier, City, Villager, Outcast",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Cooking, Firebuilding, Sing, Falsehood, Mystery Meat-wise",
+  "traitList": "Crippled, Cookie, Maggot Connoisseur",
+  "note": "Source: Burning Wheel Gold Revised, p. 191",
+  "requirements": "Sailor or Pirate",
+  "restrictions": "",
+  "order": 15
+ },
+ "sort": 1500,
+ "_id": "8583ab8649851165",
+ "_key": "!items!8583ab8649851165",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

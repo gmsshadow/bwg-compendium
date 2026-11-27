@@ -1,0 +1,41 @@
+{
+ "name": "Mastermind",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 30,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 11,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Intimidation, Persuasion, Oratory, Falsehood, Command, Below-wise, Sword, Clique-wise, Nest-wise, Traitor-wise",
+  "traitList": "Ambitious, Ruthless",
+  "note": "Source: Burning Wheel Codex, p. 441",
+  "requirements": "Negotiator, The Brain, Bandit King or Abbot/Abbess",
+  "restrictions": "",
+  "order": 1017
+ },
+ "sort": 101700,
+ "_id": "e2a24ecc2dfcb5be",
+ "_key": "!items!e2a24ecc2dfcb5be",
+ "folder": "b459a367a7c6ee1e",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

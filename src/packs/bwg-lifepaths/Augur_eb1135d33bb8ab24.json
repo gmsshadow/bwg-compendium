@@ -1,0 +1,41 @@
+{
+ "name": "Augur",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Servitude, Outcast",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Astrology, Sorcery, Falsehood, Ugly Truth, Omen-wise",
+  "traitList": "Disturbed, Dreamer, Cassandra, Touch of Ages",
+  "note": "Source: Burning Wheel Gold Revised, p. 164",
+  "requirements": "Midwife, Country Wife or must be female and character has no more than three lifepaths total",
+  "restrictions": "",
+  "order": 15
+ },
+ "sort": 1500,
+ "_id": "eb1135d33bb8ab24",
+ "_key": "!items!eb1135d33bb8ab24",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

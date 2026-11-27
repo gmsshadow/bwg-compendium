@@ -1,0 +1,50 @@
+{
+ "name": "Born to Be King",
+ "type": "trait",
+ "img": "icons/sundries/gaming/rune-card.webp",
+ "system": {
+  "pointCost": 5,
+  "name": "",
+  "traittype": "character",
+  "text": "This character is a son in the royal line. If he is the eldest, he is the direct heir to the throne. If he is a younger son, he bears no immediate obligation and is free to pursue his own aims. However, the character is a Prince and the obligations of said rank should play heavily on his life. He may, at some point, be called upon to take the throne!\n\nType: Char (character trait). Cost: 5 pts.\n\nRestrictions: Humans only, special trait\n\nSource: Burning Wheel Gold Revised, p. 316",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Humans only, special trait"
+ },
+ "_id": "f78e5e0c2af160e4",
+ "_key": "!items!f78e5e0c2af160e4",
+ "folder": "3afb32a49bf458eb",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

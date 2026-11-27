@@ -1,0 +1,362 @@
+{
+ "_id": "65952dbbf750be21",
+ "name": "Human Death Cult Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Death Cult Setting lifepaths for Human characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Harem Slave",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 3,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Servitude",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Creepy Priest-wise, Disgusting Necromancer-wise, Death Cult-wise, Escape Artist",
+    "traitList": "Numb",
+    "note": "Source: Burning Wheel Codex, p. 406",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "3fd19685343888da",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!65952dbbf750be21.3fd19685343888da"
+  },
+  {
+   "name": "Death Cultist",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 2,
+    "resources": 5,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, Servitude",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Death-wise, Riot-wise, Secret Cult Worship-wise",
+    "traitList": "Zealot, Suicidal",
+    "note": "Source: Burning Wheel Codex, p. 406",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "e61036acdc060774",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!65952dbbf750be21.e61036acdc060774"
+  },
+  {
+   "name": "Grave Robber",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 7,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, Servitude",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Ditch Digging, Graveyard-wise, Night Watch-wise, Shovel-wise",
+    "traitList": "Lunatic",
+    "note": "Source: Burning Wheel Codex, p. 406",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "4911b7307d83bf63",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!65952dbbf750be21.4911b7307d83bf63"
+  },
+  {
+   "name": "Spy",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, City Dweller",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Inconspicuous, Stealthy, Falsehood, Forgery, Observation, Righteous Priest-wise",
+    "traitList": "Furtive, Manhunter",
+    "note": "Source: Burning Wheel Codex, p. 407",
+    "requirements": "Cultist or Insurrectionist",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "1d9e3ff5faa0de43",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!65952dbbf750be21.1d9e3ff5faa0de43"
+  },
+  {
+   "name": "Factotum",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 15,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, Servitude, City",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Haggling, Persuasion, Hauling, Appraisal, Taxidermy, Local Law-wise",
+    "traitList": "Polite, Efficient, Stoic",
+    "note": "Source: Burning Wheel Codex, p. 407",
+    "requirements": "Spy, Tomb Guard, Deranged, Evangelist or Insurrectionist",
+    "restrictions": "",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "c7d5d1c8bed6cc35",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!65952dbbf750be21.c7d5d1c8bed6cc35"
+  },
+  {
+   "name": "Tomb Guard",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 4,
+    "resources": 10,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, Servitude",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Spear, Knives, Brawling, Walking Corpse-wise",
+    "traitList": "Disfigured, Loyal",
+    "note": "Source: Burning Wheel Codex, p. 407",
+    "requirements": "Cultist, Grave Digger, Freebooter or any soldier lifepath",
+    "restrictions": "",
+    "order": 1005
+   },
+   "sort": 100500,
+   "_id": "6d5be8e27941d637",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!65952dbbf750be21.6d5be8e27941d637"
+  },
+  {
+   "name": "Death Priest",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 6,
+    "resources": 25,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, Religious",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Command, Ritual, God of Death-wise, Death Cult-wise",
+    "traitList": "Creepy, Invocations of the Damned, Iron Will, Cult Leader",
+    "note": "Source: Burning Wheel Codex, p. 407",
+    "requirements": "Venal Priest or Heretic Priest",
+    "restrictions": "",
+    "order": 1006
+   },
+   "sort": 100600,
+   "_id": "c30c10fe86afe044",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!65952dbbf750be21.c30c10fe86afe044"
+  },
+  {
+   "name": "Death Artist",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 10,
+    "resources": 20,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Outcast, Servitude",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 3,
+    "skillList": "Death Art, Tomb-wise, Orc Servant-wise, Evil Necromancer-wise, Death Cult-wise",
+    "traitList": "Cynical, Mind over Matter, Missing Limb, Paranoid Ear, Meticulous, Corrupted",
+    "note": "Source: Burning Wheel Codex, p. 407",
+    "requirements": "Evil Necromancer, Apt Pupil or Rogue Wizard",
+    "restrictions": "",
+    "order": 1007
+   },
+   "sort": 100700,
+   "_id": "ce221289cb2ec982",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!65952dbbf750be21.ce221289cb2ec982"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Death Cult Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!65952dbbf750be21",
+ "folder": "f28c4fd7c6c9b063",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Runner",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 5,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Villager, Peasant, Serv., Outcast",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Inconspicuous, Stealthy, Sing",
+  "traitList": "Skinny, Fleet of Foot, Sprinter",
+  "note": "Source: Burning Wheel Gold Revised, p. 187",
+  "requirements": "",
+  "restrictions": "",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "db4598f9ea9cfd48",
+ "_key": "!items!db4598f9ea9cfd48",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

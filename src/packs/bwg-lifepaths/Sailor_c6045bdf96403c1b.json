@@ -1,0 +1,41 @@
+{
+ "name": "Sailor",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 5,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Sea, Outcast, Villager, Servitude",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Seamanship, Rigging, Knots, Mending, Navigation, Knives, Sword",
+  "traitList": "Iron Stomach, Sea Legs, Affinity for Rope",
+  "note": "Source: Burning Wheel Gold Revised, p. 187",
+  "requirements": "",
+  "restrictions": "",
+  "order": 6
+ },
+ "sort": 600,
+ "_id": "c6045bdf96403c1b",
+ "_key": "!items!c6045bdf96403c1b",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

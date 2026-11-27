@@ -1,0 +1,41 @@
+{
+ "name": "Liar",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 25,
+  "resources": 8,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Falsehood, Soothing Platitudes, Persuasion, Twisted Tongue",
+  "traitList": "Compulsive Liar",
+  "note": "Source: Burning Wheel Codex, p. 419",
+  "requirements": "Griever",
+  "restrictions": "",
+  "order": 1006
+ },
+ "sort": 100600,
+ "_id": "347d125411c752ca",
+ "_key": "!items!347d125411c752ca",
+ "folder": "96e8dff24c1e65ee",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

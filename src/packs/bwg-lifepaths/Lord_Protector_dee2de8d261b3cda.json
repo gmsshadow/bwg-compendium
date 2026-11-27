@@ -1,0 +1,41 @@
+{
+ "name": "Lord Protector",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 125,
+  "resources": 60,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 10,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Strain of Far Sight, Anthem of Courage, Ballad of Rage, Command, Formation Fighting, Administration, Logistics, Strategy",
+  "traitList": "Sworn to Protect",
+  "note": "Source: Burning Wheel Gold Revised, p. 137",
+  "requirements": "Captain or Prince",
+  "restrictions": "",
+  "order": 13
+ },
+ "sort": 1300,
+ "_id": "dee2de8d261b3cda",
+ "_key": "!items!dee2de8d261b3cda",
+ "folder": "34ca3eb13c86f59f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Leathercraft",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": true,
+  "description": "This skill teaches Elven clothiers how to work leather into supple boots, soft gloves and sturdy belts. Combining this skill with Antiphon Union and the Song of Silence can produce fabled Elven boots (+1D to Stealthy), or with the Doom of Strength, can create a belt of terrible fortitude.\n\nObstacles: Belt, Ob 1. Leather cloak or boots, Ob 2. Satchel or gloves, Ob 3. Gambeson, Ob 4. Boiled (reinforced) leather armor, Ob 5.\n\nFoRKs: Weaving Way\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRestrictions: Elves only\n\nRoot: Will/Agility (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 280",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "1ae245a68fbacc4d",
+ "_key": "!items!1ae245a68fbacc4d",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

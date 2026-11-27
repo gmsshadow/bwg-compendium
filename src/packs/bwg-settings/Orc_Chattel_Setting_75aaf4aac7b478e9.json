@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "fb39426d27d40b25",
+   "_id": "ef2c2318fab7bb16",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.fb39426d27d40b25"
+   "_key": "!actors.items!75aaf4aac7b478e9.ef2c2318fab7bb16"
   },
   {
    "name": "Cattle Slave",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "ad7c0a93c5a4b80c",
+   "_id": "8479cee522866488",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.ad7c0a93c5a4b80c"
+   "_key": "!actors.items!75aaf4aac7b478e9.8479cee522866488"
   },
   {
    "name": "Scavenger",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "153af83bf243eb3f",
+   "_id": "80e9154441bdcfb9",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.153af83bf243eb3f"
+   "_key": "!actors.items!75aaf4aac7b478e9.80e9154441bdcfb9"
   },
   {
    "name": "Forge Slave",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "c9f479b3eacd6050",
+   "_id": "6af540a23b7df3b8",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.c9f479b3eacd6050"
+   "_key": "!actors.items!75aaf4aac7b478e9.6af540a23b7df3b8"
   },
   {
    "name": "Hauler",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "135b48965d9cfaeb",
+   "_id": "ea3a28137082b5db",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.135b48965d9cfaeb"
+   "_key": "!actors.items!75aaf4aac7b478e9.ea3a28137082b5db"
   },
   {
    "name": "Cutter Slave",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "211706f6a3f784f8",
+   "_id": "f02edf13a33cbdca",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.211706f6a3f784f8"
+   "_key": "!actors.items!75aaf4aac7b478e9.f02edf13a33cbdca"
   },
   {
    "name": "Tunneler",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "3ca3dc56475de12f",
+   "_id": "5820857f6f75cf58",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.3ca3dc56475de12f"
+   "_key": "!actors.items!75aaf4aac7b478e9.5820857f6f75cf58"
   },
   {
    "name": "Ravager",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "78751ee5ec7c6cf0",
+   "_id": "409070ffdc5afd0c",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.78751ee5ec7c6cf0"
+   "_key": "!actors.items!75aaf4aac7b478e9.409070ffdc5afd0c"
   },
   {
    "name": "Woodcutter",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "6652b2efa436a64a",
+   "_id": "32001d2580cf3b96",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.6652b2efa436a64a"
+   "_key": "!actors.items!75aaf4aac7b478e9.32001d2580cf3b96"
   },
   {
    "name": "Butcher",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "ec7e6bbf1d6a75f1",
+   "_id": "0f680c4f98700b6c",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.ec7e6bbf1d6a75f1"
+   "_key": "!actors.items!75aaf4aac7b478e9.0f680c4f98700b6c"
   },
   {
    "name": "Forger",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "c4b908406f571dd8",
+   "_id": "6c5968b6880ce3ae",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.c4b908406f571dd8"
+   "_key": "!actors.items!75aaf4aac7b478e9.6c5968b6880ce3ae"
   },
   {
    "name": "Pitwright",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "74c500349475c916",
+   "_id": "826b92015a5b2f8b",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.74c500349475c916"
+   "_key": "!actors.items!75aaf4aac7b478e9.826b92015a5b2f8b"
   },
   {
    "name": "Edge Grinder",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "40213e7033363b3e",
+   "_id": "1e68524d9309e376",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.40213e7033363b3e"
+   "_key": "!actors.items!75aaf4aac7b478e9.1e68524d9309e376"
   },
   {
    "name": "Whipmaster",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "08703e574a3a89f7",
+   "_id": "53c86aae8960412c",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!75aaf4aac7b478e9.08703e574a3a89f7"
+   "_key": "!actors.items!75aaf4aac7b478e9.53c86aae8960412c"
   }
  ],
  "effects": [],

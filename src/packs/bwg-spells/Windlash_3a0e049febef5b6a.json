@@ -1,0 +1,52 @@
+{
+ "name": "Windlash",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 8,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": false,
+  "actions": 10,
+  "description": "Rain and wind grow hostile and lash out at the enemies of the witch. Windlash increases obstacle penalties for those out in the weather: +2 Ob for light rain; heavy rain is +3 Ob; storms are +6 Ob. If a test is, for some reason, not normally penalized by being performed in the rain, Windlash adds a +2 Ob modifier. Weapon Length: as Missile; Range: as Heavy Crossbow +1D.\n\nObstacle: 4. Actions: 10.\n\nOrigin: Sight | Area of Effect: 10s of Paces | Element: Air | Impetus: Control/Tax | Duration: Sustained | Resource Points: 8\n\nSource: Burning Wheel Gold Revised, p. 223",
+  "origin": "Sight",
+  "areaOfEffect": "10s of Paces",
+  "element": "Air",
+  "impetus": "Control/Tax",
+  "duration": "Sustained",
+  "rpCost": 8,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "as missile",
+  "optimalRange": 1,
+  "extremeRange": 5,
+  "maxRange": "350 paces (as Heavy Crossbow +1D)",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "3a0e049febef5b6a",
+ "_key": "!items!3a0e049febef5b6a",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

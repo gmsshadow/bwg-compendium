@@ -1,0 +1,52 @@
+{
+ "_id": "d1925b53a644aefb",
+ "_key": "!items!d1925b53a644aefb",
+ "name": "Ancient Grip",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 10,
+  "variableObstacle": true,
+  "variableObstacleDescription": "2-5",
+  "obstacle": 0,
+  "upSpell": false,
+  "actions": 1,
+  "description": "The Ghost of the Woods calls upon the strength of roots, branches, blades and vines to reach forth and pull down the unwary and weak. Ensorcelling grass and brush, Ob 2; vines and hangers, Ob 3; small branches and saplings, Ob 4; large thick branches, Ob 5. If the spell is successfully cast, the flora will do the bidding of the wolf as best as they are able. They will carry or retrieve objects, close off paths or even subdue an opponent. Test the victim’s Power versus that of the spell. The Power of the spell is equal to the caster’s Will exponent modified like so: -1D for grass; no bonus/penalty for vines; +1D for branches; +2D for large or thick branches. The weapon length for each type of flora is as follows: Grass is shortest, vines are short, small branches are long, and large branches are longer. The spell can affect all those in the wolf’s presence, should he so desire. Roll separate Power tests for each victim.\n\nObstacle: 2-5. Actions: Ob x1.\n\nOrigin: Caster | Area of Effect: Presence | Element: Earth | Impetus: Control | Duration: Sustained | Resource Points: 10\n\nDire Haunt spell, cast with Tongue of the Ancient One (the wolf equivalent of Sorcery).\n\nSource: Burning Wheel Codex, p. 503",
+  "origin": "Caster",
+  "areaOfEffect": "Presence",
+  "element": "Earth",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 10,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "10 Paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "effects": [],
+ "folder": "b769bc103c2288e2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

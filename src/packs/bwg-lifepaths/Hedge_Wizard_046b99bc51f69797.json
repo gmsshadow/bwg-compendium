@@ -1,0 +1,41 @@
+{
+ "name": "Hedge Wizard",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 24,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Peasant, City Dweller, Outcast",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Sorcery, Enchanting, Alchemy, Obscure History, Pest-wise, Fool-wise",
+  "traitList": "Low Born, Impressive Hat, Never a Moment of Peace",
+  "note": "Wizard Burner lifepath, supplementing the Villager Setting. Source: Burning Wheel Codex, p. 403",
+  "requirements": "Wizard’s Apprentice, Neophyte Sorcerer, Apt Pupil or Junior Student. This character may not have the Mark of Privilege",
+  "restrictions": "",
+  "order": 1001
+ },
+ "sort": 100100,
+ "_id": "046b99bc51f69797",
+ "_key": "!items!046b99bc51f69797",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

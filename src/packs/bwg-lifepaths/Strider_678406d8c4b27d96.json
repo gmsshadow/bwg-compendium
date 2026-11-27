@@ -1,0 +1,41 @@
+{
+ "name": "Strider",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 6,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Soldier, Peasant, Servitude",
+  "skillPoints": 9,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Forest-wise, Orienteering, Foraging, Tracking, Firebuilding, Riding, Stealthy, Appropriate Weapons",
+  "traitList": "Loner",
+  "note": "Source: Burning Wheel Gold Revised, p. 196",
+  "requirements": "Born Noble, Hunter, Trapper, Huntsman or Scout",
+  "restrictions": "",
+  "order": 27
+ },
+ "sort": 2700,
+ "_id": "678406d8c4b27d96",
+ "_key": "!items!678406d8c4b27d96",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

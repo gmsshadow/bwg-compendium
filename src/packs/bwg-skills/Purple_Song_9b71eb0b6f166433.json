@@ -1,0 +1,49 @@
+{
+ "name": "Purple Song",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": true,
+  "description": "Elven vintners are possessed with a unique perspective—they are able to literally watch their wines age. A hundred-year vintage is a matter of course for them. This skill is similar to the Vintner skill except that wine made using the Purple Song may be treated with the Antiphon Union and imbued with either the Lyric of Healing or the Doom of Strength. It is by this method that Elven Mirrorwine is created.\n\nObstacles: Cheap wine, Ob 1. Passable wine, Ob 2. Good wine, Ob 3. Excellent wine, Ob 4 Special wine, Ob 5. Legendary wine, Ob 6.\n\nFoRKs: Grain Song, Rhyme of Rules\n\nSkill Type: Peasant. Tools: Workshop.\n\nRestrictions: Elves only\n\nRoot: Per/Agi (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 289",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "9b71eb0b6f166433",
+ "_key": "!items!9b71eb0b6f166433",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Lock Pick",
+ "type": "skill",
+ "img": "icons/skills/trades/academics-investigation-puzzles.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "special",
+  "training": false,
+  "magical": false,
+  "description": "The skill of disabling and disarming mechanical locks.\n\nObstacles: Simple lock, Ob 1. Decent lock, Ob 2. Rusted simple lock, Ob 3. Rusted decent lock, Ob 3. Complex lock, Ob 4. Rusted complex lock, Ob 5.\n\nFoRKs: Locksmith, Sleight of Hand\n\nSkill Type: Special. Tools: Yes.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 281",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "aa8ce3e674e8a84d",
+ "_key": "!items!aa8ce3e674e8a84d",
+ "folder": "a66f3db096979def",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

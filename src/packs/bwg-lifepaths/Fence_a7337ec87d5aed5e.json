@@ -1,0 +1,41 @@
+{
+ "name": "Fence",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Servitude, City Dweller, Soldier",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Appraisal, Haggling, Inconspicuous, Streetwise, Guard-wise",
+  "traitList": "Shrewd",
+  "note": "Source: Burning Wheel Gold Revised, p. 194",
+  "requirements": "Shopkeeper, Barkeep, Moneylender or an additional prior Outcast lifepath or criminal-type lifepath from City Dweller",
+  "restrictions": "",
+  "order": 10
+ },
+ "sort": 1000,
+ "_id": "a7337ec87d5aed5e",
+ "_key": "!items!a7337ec87d5aed5e",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

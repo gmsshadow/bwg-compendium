@@ -1,0 +1,52 @@
+{
+ "name": "Rainstorm",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 256,
+  "description": "Leaden clouds rush to the sorcerer’s call; thick, stinging rain sweeps the fields, causing his enemies to despair. This incantation causes a torrential downpour that turns the earth to soupy mud, drowns out the cries of men and washes out bridges and homes. 1 over: light rain; 2 over: rain; 3 over: heavy rain; 4 over: downpour with accompanying, minor flash floods; 5 over: storm squall with flooding and minor damage to buildings; 6 over: storm and serious flooding, cows float away; 7 over: heavy storm with damage to wooden buildings; 8 over: flooding and sudden downpour causes buildings to collapse. Weapon Length: as Missile; Range: as Heavy Crossbow +2D.\n\nObstacle: 4^. Actions: 256.\n\nOrigin: Sight | Area of Effect: 100s of Paces | Element: Water/Air | Impetus: Control | Duration: Instantaneous | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 218",
+  "origin": "Sight",
+  "areaOfEffect": "100s of Paces",
+  "element": "Water/Air",
+  "impetus": "Control",
+  "duration": "Instantaneous",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "as missile",
+  "optimalRange": 1,
+  "extremeRange": 5,
+  "maxRange": "350 paces (as Heavy Crossbow +2D)",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "02f979d07a5ea22c",
+ "_key": "!items!02f979d07a5ea22c",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

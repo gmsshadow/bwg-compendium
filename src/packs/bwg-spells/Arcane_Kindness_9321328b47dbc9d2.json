@@ -1,0 +1,52 @@
+{
+ "name": "Arcane Kindness",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 10,
+  "description": "Soothing rhythms emanate from the sorcerer and make agreeable his desires. This incantation grants bonus dice to Seduction, Haggling, Oratory, Persuasion and Circles tests. Meeting the obstacle adds +1D to the listed abilities. Up to two more successes can be spent to add two more dice to a maximum bonus of +3D.\n\nObstacle: 4^. Actions: 10.\n\nOrigin: Personal | Area of Effect: Caster | Element: Anima | Impetus: Enhance | Duration: Sustained | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 207",
+  "origin": "Personal",
+  "areaOfEffect": "Caster",
+  "element": "Anima",
+  "impetus": "Enhance",
+  "duration": "Sustained",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "9321328b47dbc9d2",
+ "_key": "!items!9321328b47dbc9d2",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

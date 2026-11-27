@@ -1,0 +1,41 @@
+{
+ "name": "Tomb Guard",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 4,
+  "resources": 10,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Outcast, Soldier, Servitude",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Spear, Knives, Brawling, Walking Corpse-wise",
+  "traitList": "Disfigured, Loyal",
+  "note": "Source: Burning Wheel Codex, p. 407",
+  "requirements": "Cultist, Grave Digger, Freebooter or any soldier lifepath",
+  "restrictions": "",
+  "order": 1005
+ },
+ "sort": 100500,
+ "_id": "f6db17a7faeae115",
+ "_key": "!items!f6db17a7faeae115",
+ "folder": "e656ebd3cdd6b06b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

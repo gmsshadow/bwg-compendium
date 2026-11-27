@@ -1,0 +1,49 @@
+{
+ "name": "Brutal Intimidation",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": true,
+  "description": "The most cunning and brutal of Orcs learn how to channel their own inner fires to cow their brethren. Brutal Intimidation is a special Intimidation skill, rooted from Hatred. All tests are open-ended.\n\nFoRKs: Torture (when applicable), Interrogation\n\nSkill Type: Social. Tools: No.\n\nRestrictions: Orcs only\n\nRoot: Hatred (§ magical skill: tests are open-ended)\n\nBook root includes Hatred, which the system cannot use as a root; Will is used instead.\n\nSource: Burning Wheel Gold Revised, p. 262",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Orcs only"
+ },
+ "_id": "152940a24de61766",
+ "_key": "!items!152940a24de61766",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

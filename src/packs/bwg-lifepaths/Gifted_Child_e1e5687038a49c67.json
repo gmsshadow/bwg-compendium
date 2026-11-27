@@ -1,0 +1,41 @@
+{
+ "name": "Gifted Child",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 9,
+  "resources": 4,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Court, Religious",
+  "skillPoints": 0,
+  "generalPoints": 2,
+  "traitPoints": 1,
+  "skillList": "",
+  "traitList": "Misunderstood, Gifted, Abused, Spirit Familiar",
+  "note": "Special Gifted lifepath (Wizard Burner), added to the Peasant Setting. Source: Burning Wheel Codex, p. 402",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1000
+ },
+ "sort": 100000,
+ "_id": "e1e5687038a49c67",
+ "_key": "!items!e1e5687038a49c67",
+ "folder": "017d2fb59fb3cf7b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

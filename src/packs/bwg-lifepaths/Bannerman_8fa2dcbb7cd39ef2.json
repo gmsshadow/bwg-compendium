@@ -1,0 +1,41 @@
+{
+ "name": "Bannerman",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 7,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Villager, Servitude, Noble Court",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Conspicuous, Riding, Appropriate Weapons, Armor Training",
+  "traitList": "Honored, Brutal, Aggressive",
+  "note": "Source: Burning Wheel Gold Revised, p. 187",
+  "requirements": "",
+  "restrictions": "",
+  "order": 8
+ },
+ "sort": 800,
+ "_id": "8fa2dcbb7cd39ef2",
+ "_key": "!items!8fa2dcbb7cd39ef2",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

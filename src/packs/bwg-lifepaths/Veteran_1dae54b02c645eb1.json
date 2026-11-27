@@ -1,0 +1,41 @@
+{
+ "name": "Veteran",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 20,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Court",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Soldier-wise, Soldiering, Campaign History, Tactics",
+  "traitList": "Stubborn, Maimed",
+  "note": "Source: Burning Wheel Gold Revised, p. 188",
+  "requirements": "Sergeant, Sergeant-at-Arms, Knight, Military Order or Freebooter",
+  "restrictions": "",
+  "order": 11
+ },
+ "sort": 1100,
+ "_id": "1dae54b02c645eb1",
+ "_key": "!items!1dae54b02c645eb1",
+ "folder": "14e0e44ac8adfb5c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

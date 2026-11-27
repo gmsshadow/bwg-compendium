@@ -1,0 +1,49 @@
+{
+ "name": "Architect",
+ "type": "skill",
+ "img": "icons/sundries/documents/document-official-capital.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "academic",
+  "training": false,
+  "magical": false,
+  "description": "Architects possess knowledge of the design and construction of complex structures, such as buildings, arches and bridges. This skill can be used in game to draw accurate plans of a proposed structure, attempt to draw structural plans for an extant building or use existing plans and designs to navigate buildings and structures.\n\nObstacles: Simple plans like a cottage, Ob 1. A longhouse, Ob 2. Two story structure, Ob 4. Tower, Ob 5. Complex or weird designs like temples, Ob 6. Non-Euclidean Geometric Designs of the Outer Gods, Ob 10.\n\nFoRKs: Engineer, Mason, Carpenter\n\nSkill Type: Academic. Tools: Workshop.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 256",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "fec726d6a26d9145",
+ "_key": "!items!fec726d6a26d9145",
+ "folder": "9ea5b0a87cd0a4b2",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

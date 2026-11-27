@@ -1,0 +1,41 @@
+{
+ "name": "Bishop",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 45,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "City, Outcast, Noble Court",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Religious History, Intimidation, Ritual, Symbology, History, Obscure History",
+  "traitList": "Domineering Presence",
+  "note": "Source: Burning Wheel Gold Revised, p. 186",
+  "requirements": "Archpriest, Baron, Viscount, Count, Duke or Prince and the Your Grace trait",
+  "restrictions": "",
+  "order": 20
+ },
+ "sort": 2000,
+ "_id": "62e79fec5c4926da",
+ "_key": "!items!62e79fec5c4926da",
+ "folder": "47f278b8ad32ef07",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

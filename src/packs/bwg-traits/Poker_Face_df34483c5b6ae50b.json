@@ -1,0 +1,50 @@
+{
+ "name": "Poker Face",
+ "type": "trait",
+ "img": "icons/sundries/gaming/playing-cards.webp",
+ "system": {
+  "pointCost": 2,
+  "name": "",
+  "traittype": "call-on",
+  "text": "More than just an inscrutable stone face, Poker Face is all about giving the face you need to mislead your opponent. This trait can be used as a call-on for Falsehood and Gambling/Games of Chance.\n\nType: C-O (call-on trait). Cost: 2 pts.\n\nSource: Burning Wheel Gold Revised, p. 341",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": ""
+ },
+ "_id": "df34483c5b6ae50b",
+ "_key": "!items!df34483c5b6ae50b",
+ "folder": "15c52fef37dbb065",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

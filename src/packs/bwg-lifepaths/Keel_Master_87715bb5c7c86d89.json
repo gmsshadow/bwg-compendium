@@ -1,0 +1,41 @@
+{
+ "name": "Keel Master",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 100,
+  "resources": 25,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Wilderlands, Protector",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Shipwright, Ship-wise, Carving",
+  "traitList": "Perfectionist",
+  "note": "Source: Burning Wheel Gold Revised, p. 134",
+  "requirements": "Shaper",
+  "restrictions": "",
+  "order": 13
+ },
+ "sort": 1300,
+ "_id": "87715bb5c7c86d89",
+ "_key": "!items!87715bb5c7c86d89",
+ "folder": "53bf8e71f48c4a4c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Elder",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 2,
+  "resources": 1,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Outcast",
+  "skillPoints": 7,
+  "generalPoints": 1,
+  "traitPoints": 1,
+  "skillList": "Begging, Man-wise, Orc-wise, Forest-wise",
+  "traitList": "Submissive",
+  "note": "Source: Burning Wheel Codex, p. 480",
+  "requirements": "",
+  "restrictions": "Must be 7 yrs or older to take this lifepath",
+  "order": 1006
+ },
+ "sort": 100600,
+ "_id": "28ff9f174798a24c",
+ "_key": "!items!28ff9f174798a24c",
+ "folder": "f132b029df4a5495",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Brute",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 15,
+  "resources": 2,
+  "statBoost": "phystwo",
+  "subtractStats": false,
+  "leads": "Pit",
+  "skillPoints": 2,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Intimidation, Brawling",
+  "traitList": "Brute",
+  "note": "Source: Burning Wheel Codex, p. 462",
+  "requirements": "Bridge Haunt, Mine Haunt, Manhunter, Dwarf Hunter, Battering Ram or Mattock",
+  "restrictions": "",
+  "order": 1005
+ },
+ "sort": 100500,
+ "_id": "5adfb4682b72ed59",
+ "_key": "!items!5adfb4682b72ed59",
+ "folder": "68c4fa6583a6cf44",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

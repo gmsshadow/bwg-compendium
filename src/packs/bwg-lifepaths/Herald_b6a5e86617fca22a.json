@@ -1,0 +1,41 @@
+{
+ "name": "Herald",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 35,
+  "resources": 10,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Wilderlands, Citadel",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Paean of Deeds, Mornsong, Evensong, Recitation of Ages, Silver Trumpet",
+  "traitList": "Stoic",
+  "note": "Source: Burning Wheel Gold Revised, p. 136",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1
+ },
+ "sort": 100,
+ "_id": "b6a5e86617fca22a",
+ "_key": "!items!b6a5e86617fca22a",
+ "folder": "34ca3eb13c86f59f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

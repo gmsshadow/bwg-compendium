@@ -4,7 +4,7 @@
  "type": "setting",
  "img": "icons/environment/settlement/house-two-stories-small.webp",
  "system": {
-  "description": "Seafaring Setting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+  "description": "Seafaring Setting lifepaths for Human characters, Burning Wheel Gold Revised and the Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
  },
  "items": [
   {
@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "ea59b2d44fd5387c",
+   "_id": "b1a9941b0c935966",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.ea59b2d44fd5387c"
+   "_key": "!actors.items!4d6a4088b8fbc126.b1a9941b0c935966"
   },
   {
    "name": "Boy",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "608744df337cf1ec",
+   "_id": "7a257b7b4ad805de",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.608744df337cf1ec"
+   "_key": "!actors.items!4d6a4088b8fbc126.7a257b7b4ad805de"
   },
   {
    "name": "Galley Slave",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "1a4a062aebc3ed65",
+   "_id": "8d0b7eed1311c9f0",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.1a4a062aebc3ed65"
+   "_key": "!actors.items!4d6a4088b8fbc126.8d0b7eed1311c9f0"
   },
   {
    "name": "Ratcatcher",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "8b7c793b766b4bc8",
+   "_id": "10d93131a3bf6a56",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.8b7c793b766b4bc8"
+   "_key": "!actors.items!4d6a4088b8fbc126.10d93131a3bf6a56"
   },
   {
    "name": "Landsman",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "3cf5102a2b180303",
+   "_id": "ea4dde8e346434ff",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.3cf5102a2b180303"
+   "_key": "!actors.items!4d6a4088b8fbc126.ea4dde8e346434ff"
   },
   {
    "name": "Drummer",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "a3d3814a05f06929",
+   "_id": "7f337329976135e7",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.a3d3814a05f06929"
+   "_key": "!actors.items!4d6a4088b8fbc126.7f337329976135e7"
   },
   {
    "name": "Sailor",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "fb760740470f7236",
+   "_id": "12cce5267c560af9",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.fb760740470f7236"
+   "_key": "!actors.items!4d6a4088b8fbc126.12cce5267c560af9"
   },
   {
    "name": "Crazy Old Sailor",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "7db02e6bc37ff535",
+   "_id": "dd943d5e7baf7113",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.7db02e6bc37ff535"
+   "_key": "!actors.items!4d6a4088b8fbc126.dd943d5e7baf7113"
   },
   {
    "name": "Purser",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "5c4e8b4a6ba6159d",
+   "_id": "cf977adde8ed43a3",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.5c4e8b4a6ba6159d"
+   "_key": "!actors.items!4d6a4088b8fbc126.cf977adde8ed43a3"
   },
   {
    "name": "Signalman",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "6356556457ad8f3c",
+   "_id": "fab39728f64a85ea",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.6356556457ad8f3c"
+   "_key": "!actors.items!4d6a4088b8fbc126.fab39728f64a85ea"
   },
   {
    "name": "Pilot",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "eebd6c90eba50a34",
+   "_id": "99c4ef293356962e",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.eebd6c90eba50a34"
+   "_key": "!actors.items!4d6a4088b8fbc126.99c4ef293356962e"
   },
   {
    "name": "Marine",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "012e96f0b594a639",
+   "_id": "d10023cbd4be64ed",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.012e96f0b594a639"
+   "_key": "!actors.items!4d6a4088b8fbc126.d10023cbd4be64ed"
   },
   {
    "name": "Bosun",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "f630b4e2fcbb0371",
+   "_id": "1ab1abdc5a0cf40f",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.f630b4e2fcbb0371"
+   "_key": "!actors.items!4d6a4088b8fbc126.1ab1abdc5a0cf40f"
   },
   {
    "name": "Sailmaker",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "19658c6527a125c6",
+   "_id": "7d17f255b30dbba2",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.19658c6527a125c6"
+   "_key": "!actors.items!4d6a4088b8fbc126.7d17f255b30dbba2"
   },
   {
    "name": "Ship’s Doctor",
@@ -602,7 +602,7 @@
     "order": 14
    },
    "sort": 1400,
-   "_id": "8cbc4dc92e226854",
+   "_id": "59c774c93429e85c",
    "ownership": {
     "default": 0
    },
@@ -620,7 +620,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.8cbc4dc92e226854"
+   "_key": "!actors.items!4d6a4088b8fbc126.59c774c93429e85c"
   },
   {
    "name": "Ship’s Cook",
@@ -643,7 +643,7 @@
     "order": 15
    },
    "sort": 1500,
-   "_id": "4247b751df9d1742",
+   "_id": "619872baa22636de",
    "ownership": {
     "default": 0
    },
@@ -661,7 +661,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.4247b751df9d1742"
+   "_key": "!actors.items!4d6a4088b8fbc126.619872baa22636de"
   },
   {
    "name": "Ship’s Chaplain",
@@ -684,7 +684,7 @@
     "order": 16
    },
    "sort": 1600,
-   "_id": "43d0eb0c7edea775",
+   "_id": "032b431f385740fb",
    "ownership": {
     "default": 0
    },
@@ -702,7 +702,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.43d0eb0c7edea775"
+   "_key": "!actors.items!4d6a4088b8fbc126.032b431f385740fb"
   },
   {
    "name": "Weather Witch",
@@ -725,7 +725,7 @@
     "order": 17
    },
    "sort": 1700,
-   "_id": "51ff7b97858f2064",
+   "_id": "8631ba0245e65261",
    "ownership": {
     "default": 0
    },
@@ -743,7 +743,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.51ff7b97858f2064"
+   "_key": "!actors.items!4d6a4088b8fbc126.8631ba0245e65261"
   },
   {
    "name": "Navigator",
@@ -766,7 +766,7 @@
     "order": 18
    },
    "sort": 1800,
-   "_id": "19e1ae09df168448",
+   "_id": "f9dc83ad7abb2c93",
    "ownership": {
     "default": 0
    },
@@ -784,7 +784,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.19e1ae09df168448"
+   "_key": "!actors.items!4d6a4088b8fbc126.f9dc83ad7abb2c93"
   },
   {
    "name": "Carpenter’s Mate",
@@ -807,7 +807,7 @@
     "order": 19
    },
    "sort": 1900,
-   "_id": "71669fdc7702adc2",
+   "_id": "ffb5f89e58d0f7cc",
    "ownership": {
     "default": 0
    },
@@ -825,7 +825,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.71669fdc7702adc2"
+   "_key": "!actors.items!4d6a4088b8fbc126.ffb5f89e58d0f7cc"
   },
   {
    "name": "Ship’s Carpenter",
@@ -848,7 +848,7 @@
     "order": 20
    },
    "sort": 2000,
-   "_id": "77b4a41990e2465b",
+   "_id": "1f93aefdfc915b57",
    "ownership": {
     "default": 0
    },
@@ -866,7 +866,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.77b4a41990e2465b"
+   "_key": "!actors.items!4d6a4088b8fbc126.1f93aefdfc915b57"
   },
   {
    "name": "Artillerist’s Mate",
@@ -889,7 +889,7 @@
     "order": 21
    },
    "sort": 2100,
-   "_id": "b56131f9aa3b7680",
+   "_id": "9f29e6cf7c4d2bad",
    "ownership": {
     "default": 0
    },
@@ -907,7 +907,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.b56131f9aa3b7680"
+   "_key": "!actors.items!4d6a4088b8fbc126.9f29e6cf7c4d2bad"
   },
   {
    "name": "Engineer",
@@ -930,7 +930,7 @@
     "order": 22
    },
    "sort": 2200,
-   "_id": "19fb2c102eef1ae6",
+   "_id": "7345147b1f53327d",
    "ownership": {
     "default": 0
    },
@@ -948,7 +948,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.19fb2c102eef1ae6"
+   "_key": "!actors.items!4d6a4088b8fbc126.7345147b1f53327d"
   },
   {
    "name": "Officer’s Mate",
@@ -971,7 +971,7 @@
     "order": 23
    },
    "sort": 2300,
-   "_id": "b447f25d95e1f7a9",
+   "_id": "1d455976af7674dd",
    "ownership": {
     "default": 0
    },
@@ -989,7 +989,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.b447f25d95e1f7a9"
+   "_key": "!actors.items!4d6a4088b8fbc126.1d455976af7674dd"
   },
   {
    "name": "Steward",
@@ -1012,7 +1012,7 @@
     "order": 24
    },
    "sort": 2400,
-   "_id": "5958af5a8e1c722d",
+   "_id": "52fb83dde28bb864",
    "ownership": {
     "default": 0
    },
@@ -1030,7 +1030,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.5958af5a8e1c722d"
+   "_key": "!actors.items!4d6a4088b8fbc126.52fb83dde28bb864"
   },
   {
    "name": "First Mate",
@@ -1053,7 +1053,7 @@
     "order": 25
    },
    "sort": 2500,
-   "_id": "3fffde20de1699f2",
+   "_id": "2334d4153af1748a",
    "ownership": {
     "default": 0
    },
@@ -1071,7 +1071,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.3fffde20de1699f2"
+   "_key": "!actors.items!4d6a4088b8fbc126.2334d4153af1748a"
   },
   {
    "name": "Ship’s Captain",
@@ -1094,7 +1094,7 @@
     "order": 26
    },
    "sort": 2600,
-   "_id": "5e43113887e18093",
+   "_id": "91bdb412df3a5351",
    "ownership": {
     "default": 0
    },
@@ -1112,7 +1112,48 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!4d6a4088b8fbc126.5e43113887e18093"
+   "_key": "!actors.items!4d6a4088b8fbc126.91bdb412df3a5351"
+  },
+  {
+   "name": "Gifted Child",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Court, Religious",
+    "skillPoints": 0,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Misunderstood, Gifted, Abused, Spirit Familiar",
+    "note": "Special Gifted lifepath (Wizard Burner), added to the Seafaring Setting. Source: Burning Wheel Codex, p. 402",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "27192da1fb8ba305",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4d6a4088b8fbc126.27192da1fb8ba305"
   }
  ],
  "effects": [],

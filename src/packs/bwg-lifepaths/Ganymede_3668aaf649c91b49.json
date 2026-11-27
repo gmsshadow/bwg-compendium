@@ -1,0 +1,41 @@
+{
+ "name": "Ganymede",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Outcast, Servitude, Court",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Fashion-wise, Inconspicuous, Conspicuous, Soothing Platitudes",
+  "traitList": "Flamboyant, Comely, Sharp Dresser, Catalyst",
+  "note": "Source: Burning Wheel Gold Revised, p. 171",
+  "requirements": "",
+  "restrictions": "",
+  "order": 17
+ },
+ "sort": 1700,
+ "_id": "3668aaf649c91b49",
+ "_key": "!items!3668aaf649c91b49",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

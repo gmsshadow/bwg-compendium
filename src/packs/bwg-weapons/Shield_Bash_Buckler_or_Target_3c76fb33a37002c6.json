@@ -1,0 +1,44 @@
+{
+ "name": "Shield Bash (Buckler or Target)",
+ "type": "melee weapon",
+ "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+ "system": {
+  "pointCost": 0,
+  "quality": "run of the mill",
+  "handedness": "one",
+  "description": "Bucklers and target shields are Power 1, VA –, WS 2, shortest weapons when used as a weapon in combat (Armor and Shields, p. 483). The Weapons Appendix lists a generic Shield as Power 1, Add 2, WS 1, short.\n\nRun of the Mill Arms cost 5 rps for the character's whole idiom of hand weapons (e.g. sword, lance and dagger for a knight).\n\nSource: Burning Wheel Gold Revised, p. 483",
+  "skillId": "",
+  "shade": "B",
+  "baseOb": 1,
+  "attacks": [
+   {
+    "attackName": "",
+    "power": 1,
+    "add": 2,
+    "vsArmor": 0,
+    "weaponSpeed": "2",
+    "weaponLength": "shortest"
+   }
+  ]
+ },
+ "_id": "3c76fb33a37002c6",
+ "_key": "!items!3c76fb33a37002c6",
+ "folder": "8aefd753f20f3397",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

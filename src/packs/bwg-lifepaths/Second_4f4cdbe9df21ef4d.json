@@ -1,0 +1,41 @@
+{
+ "name": "Second",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 35,
+  "resources": 15,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Song of Bonding, Sword, Knives, Bow, Mending, Riding, Mounted Combat Training",
+  "traitList": "Lesson of One, Patient",
+  "note": "Source: Burning Wheel Gold Revised, p. 135",
+  "requirements": "Attendant, Bowyer, Spearbearer, Seafarer or Soldier-Protector",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "4f4cdbe9df21ef4d",
+ "_key": "!items!4f4cdbe9df21ef4d",
+ "folder": "09496e42bcfa03db",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

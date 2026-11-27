@@ -1,0 +1,41 @@
+{
+ "name": "Apiarist",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 20,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Peasant. Noble Court",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Insect Husbandry, Carpentry, Firebuilding, Honey-wise",
+  "traitList": "Stung Once (Once), Beespeaker",
+  "note": "Source: Burning Wheel Gold Revised, p. 169",
+  "requirements": "",
+  "restrictions": "",
+  "order": 36
+ },
+ "sort": 3600,
+ "_id": "3262f46f44dac986",
+ "_key": "!items!3262f46f44dac986",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

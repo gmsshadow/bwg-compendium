@@ -1,0 +1,52 @@
+{
+ "name": "Impenetrable Gloom",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 20,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 5,
+  "upSpell": false,
+  "actions": 10,
+  "description": "The Servant summons gloom to conceal his den from the prying eyes of Elves and Men. Impenetrable Gloom conceals caves and warrens from normal sight. Spotting them requires an Ob 5 Observation test. Any attempts to track the Orcs to their den suffer an +5 Ob penalty. Impenetrable Gloom also conceals the Orcs from magical detection; even the spell itself is difficult to detect. Increase Magesense or Second Sight obstacles by +2 Ob. Air of Gates requires an Ob 5 test in order to detect Impenetrable Gloom and those it protects.\n\nObstacle: 5. Actions: 10.\n\nOrigin: Personal | Area of Effect: Natural Effect (the caves) | Element: Arcana, Heaven | Impetus: Control | Duration: Sustained | Resource Points: 20\n\nSource: Burning Wheel Gold Revised, p. 249",
+  "origin": "Personal",
+  "areaOfEffect": "Natural Effect (the caves)",
+  "element": "Arcana, Heaven",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 20,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "9ffffb8a99970491",
+ "_key": "!items!9ffffb8a99970491",
+ "folder": "479dd2144396431a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

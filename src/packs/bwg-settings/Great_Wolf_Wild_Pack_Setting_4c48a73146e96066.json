@@ -1,0 +1,362 @@
+{
+ "_id": "4c48a73146e96066",
+ "name": "Great Wolf Wild Pack Setting",
+ "type": "setting",
+ "img": "icons/environment/settlement/house-two-stories-small.webp",
+ "system": {
+  "description": "Wild Pack Setting lifepaths for Great Wolf characters, Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+ },
+ "items": [
+  {
+   "name": "Born to the Pack",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 0,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Captive",
+    "skillPoints": 2,
+    "generalPoints": 2,
+    "traitPoints": 2,
+    "skillList": "Howling",
+    "traitList": "",
+    "note": "Resources: — as listed in the book. Also gains the Great Wolf common traits.\n\nSource: Burning Wheel Codex, p. 480",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "1e077ccbe80da86b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4c48a73146e96066.1e077ccbe80da86b"
+  },
+  {
+   "name": "Yearling",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 1,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Captive, Outcast",
+    "skillPoints": 8,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Pack Etiquette, Stealthy, Pack Hunting, Scent Tracking, Foraging, Brawling",
+    "traitList": "",
+    "note": "Source: Burning Wheel Codex, p. 480",
+    "requirements": "",
+    "restrictions": "Must be second lifepath. May not be taken twice",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "cca13367b8ae6a15",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4c48a73146e96066.cca13367b8ae6a15"
+  },
+  {
+   "name": "Hunter",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 2,
+    "statBoost": "physical",
+    "subtractStats": false,
+    "leads": "Captive, Outcast",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Pack Hunting, Hoof-wise, Intimidation, Brawling, Begging, Scent-wise",
+    "traitList": "Submissive",
+    "note": "Source: Burning Wheel Codex, p. 480",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1002
+   },
+   "sort": 100200,
+   "_id": "ae506df327aeaa88",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4c48a73146e96066.ae506df327aeaa88"
+  },
+  {
+   "name": "Dominant",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 1,
+    "resources": 3,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Captive, Outcast",
+    "skillPoints": 5,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Intimidation, Command, Nursing, Brawling",
+    "traitList": "Dominant",
+    "note": "Dominants may be male or female. Female Dominants of three years or older may take the Nursing skill. Males may not take this skill at all.\n\nSource: Burning Wheel Codex, p. 480",
+    "requirements": "Yearling, Aunt, Uncle or Last Wolf. Dominant wolves are the pack leaders",
+    "restrictions": "",
+    "order": 1003
+   },
+   "sort": 100300,
+   "_id": "6e799c409c4fe2a2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4c48a73146e96066.6e799c409c4fe2a2"
+  },
+  {
+   "name": "Aunt",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 0.5,
+    "resources": 2,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Captive, Outcast",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Nursing, Pup-wise, Scavenging, Begging",
+    "traitList": "Submissive",
+    "note": "Time: ½ yr.\n\nSource: Burning Wheel Codex, p. 480",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1004
+   },
+   "sort": 100400,
+   "_id": "cc8d7d4bf99a8dd6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4c48a73146e96066.cc8d7d4bf99a8dd6"
+  },
+  {
+   "name": "Uncle",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 0.5,
+    "resources": 2,
+    "statBoost": "either",
+    "subtractStats": false,
+    "leads": "Captive, Outcast",
+    "skillPoints": 4,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Rearing, Pup-wise, Scavenging, Begging",
+    "traitList": "Submissive",
+    "note": "Time: ½ yr.\n\nSource: Burning Wheel Codex, p. 480",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1005
+   },
+   "sort": 100500,
+   "_id": "b7847934fab7155b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4c48a73146e96066.b7847934fab7155b"
+  },
+  {
+   "name": "Elder",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 2,
+    "resources": 1,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Outcast",
+    "skillPoints": 7,
+    "generalPoints": 1,
+    "traitPoints": 1,
+    "skillList": "Begging, Man-wise, Orc-wise, Forest-wise",
+    "traitList": "Submissive",
+    "note": "Source: Burning Wheel Codex, p. 480",
+    "requirements": "",
+    "restrictions": "Must be 7 yrs or older to take this lifepath",
+    "order": 1006
+   },
+   "sort": 100600,
+   "_id": "614b24c47845273e",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4c48a73146e96066.614b24c47845273e"
+  },
+  {
+   "name": "Last Wolf",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 0.5,
+    "resources": 1,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Captive, Outcast",
+    "skillPoints": 2,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Begging, Pack Etiquette",
+    "traitList": "Submissive, Stained",
+    "note": "Any wolf entering the Wild Pack setting from another setting must take Last Wolf as their first lifepath in the Wild Pack. Time: ½ yr.\n\nSource: Burning Wheel Codex, p. 480",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1007
+   },
+   "sort": 100700,
+   "_id": "4963df9a15605ae2",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!4c48a73146e96066.4963df9a15605ae2"
+  }
+ ],
+ "effects": [],
+ "prototypeToken": {
+  "name": "Wild Pack Setting",
+  "actorLink": false
+ },
+ "_key": "!actors!4c48a73146e96066",
+ "folder": "831b7f025738cb40",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

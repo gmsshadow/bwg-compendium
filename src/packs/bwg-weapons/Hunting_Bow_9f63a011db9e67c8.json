@@ -1,0 +1,45 @@
+{
+ "name": "Hunting Bow",
+ "type": "ranged weapon",
+ "img": "icons/weapons/bows/longbow-recurve-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "quality": "run of the mill",
+  "hasGunpowder": false,
+  "usePower": false,
+  "powerBonus": 0,
+  "incidental": 4,
+  "incidentalRoll": 2,
+  "mark": 7,
+  "markRoll": 4,
+  "superb": 10,
+  "vsArmor": 1,
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "100 paces",
+  "handedness": "two",
+  "description": "Fight action: Nock and Draw: 5. Missiles: costs include enough missiles to outfit the character. Special arrowheads/bolt heads cost 1 rp per head type. Poor quality missiles cost half (rounded up) and are +1 Ob to hit; superior quality missiles cost 3x and grant a +1D balance die.\n\nDoF modifiers: exceed obstacle +1, double obstacle +2, triple obstacle +3; extreme range -1 to the DoF.\n\nSource: Burning Wheel Gold Revised, p. 557",
+  "skillId": "",
+  "shade": "B"
+ },
+ "_id": "9f63a011db9e67c8",
+ "_key": "!items!9f63a011db9e67c8",
+ "folder": "548b0082adaa401b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

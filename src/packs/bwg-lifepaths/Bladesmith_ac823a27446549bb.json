@@ -1,0 +1,41 @@
+{
+ "name": "Bladesmith",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 20,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Society",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Haggling, Instruction, Weaponsmith, Knife-wise, Sword-wise",
+  "traitList": "Secretive",
+  "note": "Source: Burning Wheel Codex, p. 440",
+  "requirements": "Apprentice",
+  "restrictions": "",
+  "order": 1010
+ },
+ "sort": 101000,
+ "_id": "ac823a27446549bb",
+ "_key": "!items!ac823a27446549bb",
+ "folder": "b459a367a7c6ee1e",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

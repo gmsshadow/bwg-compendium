@@ -1,0 +1,41 @@
+{
+ "name": "Born Great",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 5,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Servant of the Dark",
+  "skillPoints": 0,
+  "generalPoints": 3,
+  "traitPoints": 2,
+  "skillList": "",
+  "traitList": "Born to Rule Them All, Enemy of the Sun",
+  "note": "Source: Burning Wheel Gold Revised, p. 229",
+  "requirements": "",
+  "restrictions": "",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "a680ce1acf5ceaf3",
+ "_key": "!items!a680ce1acf5ceaf3",
+ "folder": "727a9cf321bfd6f5",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

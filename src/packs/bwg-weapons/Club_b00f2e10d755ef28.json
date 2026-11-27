@@ -1,0 +1,44 @@
+{
+ "name": "Club",
+ "type": "melee weapon",
+ "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+ "system": {
+  "pointCost": 0,
+  "quality": "basic",
+  "handedness": "one",
+  "description": "Source: Burning Wheel Gold Revised, p. 554",
+  "skillId": "",
+  "shade": "B",
+  "baseOb": 1,
+  "attacks": [
+   {
+    "attackName": "",
+    "power": 2,
+    "add": 2,
+    "vsArmor": 0,
+    "weaponSpeed": "2",
+    "weaponLength": "short"
+   }
+  ]
+ },
+ "_id": "b00f2e10d755ef28",
+ "_key": "!items!b00f2e10d755ef28",
+ "folder": "c1ba03a681a7dfdc",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Falconry",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "A falconer trains hunting hawks. Falconry is a very popular and expensive sport among nobility of all stripes.\n\nObstacles: Falconry contests can be resolved with a versus test between two falconers. Otherwise use the following: Capturing small game, Ob 1. Spotting or signaling, Ob 2. Dispatching a message, Ob 3.\n\nSkill Type: Forester. Tools: Yes and a falcon.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 272",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "1e40ef2f3f94e71c",
+ "_key": "!items!1e40ef2f3f94e71c",
+ "folder": "1b5eb4a289f022d3",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

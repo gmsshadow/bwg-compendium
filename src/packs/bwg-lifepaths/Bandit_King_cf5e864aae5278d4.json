@@ -1,0 +1,41 @@
+{
+ "name": "Bandit King",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 15,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Field, Below, Society",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Intimidation, Command, Sword, Bandit-wise, Caravan-wise",
+  "traitList": "Scheming, Daring",
+  "note": "Source: Burning Wheel Codex, p. 442",
+  "requirements": "Bushwhacker, Sheriff or Bruiser",
+  "restrictions": "",
+  "order": 1005
+ },
+ "sort": 100500,
+ "_id": "cf5e864aae5278d4",
+ "_key": "!items!cf5e864aae5278d4",
+ "folder": "4610b603b85f63ce",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

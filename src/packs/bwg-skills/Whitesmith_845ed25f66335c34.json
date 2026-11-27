@@ -1,0 +1,49 @@
+{
+ "name": "Whitesmith",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": false,
+  "description": "Using similar techniques as the blacksmith, a whitesmith forges wares from the softer metals: silver and gold.\n\nObstacles: Hairpins, Ob 1. Spoons and cups, Ob 2. Silver bullets, Ob 3. Tea service, Ob 4. Silver swords, Ob 4.\n\nFoRKs: Blacksmith, Jeweler, Etching\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 308",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "845ed25f66335c34",
+ "_key": "!items!845ed25f66335c34",
+ "folder": "3bcde3f2b3069254",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

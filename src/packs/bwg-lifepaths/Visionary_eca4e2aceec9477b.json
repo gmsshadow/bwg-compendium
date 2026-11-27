@@ -1,0 +1,41 @@
+{
+ "name": "Visionary",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 30,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Exile, Below",
+  "skillPoints": 11,
+  "generalPoints": 0,
+  "traitPoints": 4,
+  "skillList": "Oratory, Command, Astrology, Research, Interrogation, Torture, Observation, Poetry, Cult-wise, Inner Workings-wise, Undermining-wise",
+  "traitList": "Megalomaniac, Imperious Demeanor, Visionary Faith, Dreamer",
+  "note": "Source: Burning Wheel Codex, p. 443",
+  "requirements": "Albino, Preacher, Abbot/Abbess or Mastermind",
+  "restrictions": "",
+  "order": 1010
+ },
+ "sort": 101000,
+ "_id": "eca4e2aceec9477b",
+ "_key": "!items!eca4e2aceec9477b",
+ "folder": "39586c96cf7911c7",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

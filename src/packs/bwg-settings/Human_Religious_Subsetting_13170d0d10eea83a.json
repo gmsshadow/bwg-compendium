@@ -4,7 +4,7 @@
  "type": "setting",
  "img": "icons/environment/settlement/house-two-stories-small.webp",
  "system": {
-  "description": "Religious Subsetting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+  "description": "Religious Subsetting lifepaths for Human characters, Burning Wheel Gold Revised and the Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
  },
  "items": [
   {
@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "6a4044e09075e4a6",
+   "_id": "28d3ddc75f5e21b4",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.6a4044e09075e4a6"
+   "_key": "!actors.items!13170d0d10eea83a.28d3ddc75f5e21b4"
   },
   {
    "name": "Pardoner",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "c5624f1beb5e4cdf",
+   "_id": "fe9a81e419a013eb",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.c5624f1beb5e4cdf"
+   "_key": "!actors.items!13170d0d10eea83a.fe9a81e419a013eb"
   },
   {
    "name": "Zealous Convert",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "799c2fbc79363a7e",
+   "_id": "211aa2f9f9ab1ff5",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.799c2fbc79363a7e"
+   "_key": "!actors.items!13170d0d10eea83a.211aa2f9f9ab1ff5"
   },
   {
    "name": "Military Order",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "75c18c73413bcdd9",
+   "_id": "38870d7cc96ac356",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.75c18c73413bcdd9"
+   "_key": "!actors.items!13170d0d10eea83a.38870d7cc96ac356"
   },
   {
    "name": "Grave Digger",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "5f908dfc2e8c0564",
+   "_id": "87f5d5dd6b701ffd",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.5f908dfc2e8c0564"
+   "_key": "!actors.items!13170d0d10eea83a.87f5d5dd6b701ffd"
   },
   {
    "name": "Porter",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "19f7598750b1e4f6",
+   "_id": "85eef2109eae1071",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.19f7598750b1e4f6"
+   "_key": "!actors.items!13170d0d10eea83a.85eef2109eae1071"
   },
   {
    "name": "Notary",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "4fcc873e309fde2e",
+   "_id": "bdcd9b9ff5b5af7b",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.4fcc873e309fde2e"
+   "_key": "!actors.items!13170d0d10eea83a.bdcd9b9ff5b5af7b"
   },
   {
    "name": "Custodian",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "ff8d679fd65c74c0",
+   "_id": "136cb2219258fe12",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.ff8d679fd65c74c0"
+   "_key": "!actors.items!13170d0d10eea83a.136cb2219258fe12"
   },
   {
    "name": "Interpreter",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "1007ce5111cab835",
+   "_id": "a37ca8b135621b45",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.1007ce5111cab835"
+   "_key": "!actors.items!13170d0d10eea83a.a37ca8b135621b45"
   },
   {
    "name": "Archivist",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "5045018810a73c84",
+   "_id": "8ed3000ce4724e35",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.5045018810a73c84"
+   "_key": "!actors.items!13170d0d10eea83a.8ed3000ce4724e35"
   },
   {
    "name": "Itinerant Monk",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "89ec22e7a3f7d902",
+   "_id": "53848d13317897db",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.89ec22e7a3f7d902"
+   "_key": "!actors.items!13170d0d10eea83a.53848d13317897db"
   },
   {
    "name": "Cloistered Nun",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "8108a8943287da3f",
+   "_id": "94b7e3da21530d79",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.8108a8943287da3f"
+   "_key": "!actors.items!13170d0d10eea83a.94b7e3da21530d79"
   },
   {
    "name": "Temple Acolyte",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "72303e54968c9fb8",
+   "_id": "e96445351966b9e1",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.72303e54968c9fb8"
+   "_key": "!actors.items!13170d0d10eea83a.e96445351966b9e1"
   },
   {
    "name": "Priest",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "3f3febc844b8e542",
+   "_id": "22a316ec9cffc401",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.3f3febc844b8e542"
+   "_key": "!actors.items!13170d0d10eea83a.22a316ec9cffc401"
   },
   {
    "name": "Exorcist",
@@ -602,7 +602,7 @@
     "order": 14
    },
    "sort": 1400,
-   "_id": "267b913159a9ccea",
+   "_id": "5b1252ca726db5e4",
    "ownership": {
     "default": 0
    },
@@ -620,7 +620,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.267b913159a9ccea"
+   "_key": "!actors.items!13170d0d10eea83a.5b1252ca726db5e4"
   },
   {
    "name": "Inquisitor",
@@ -643,7 +643,7 @@
     "order": 15
    },
    "sort": 1500,
-   "_id": "719237740b2ccf89",
+   "_id": "0c247831858dc74c",
    "ownership": {
     "default": 0
    },
@@ -661,7 +661,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.719237740b2ccf89"
+   "_key": "!actors.items!13170d0d10eea83a.0c247831858dc74c"
   },
   {
    "name": "Theologian",
@@ -684,7 +684,7 @@
     "order": 16
    },
    "sort": 1600,
-   "_id": "eb5afa80e9f1ae3f",
+   "_id": "338f7ec61cd6cc0f",
    "ownership": {
     "default": 0
    },
@@ -702,7 +702,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.eb5afa80e9f1ae3f"
+   "_key": "!actors.items!13170d0d10eea83a.338f7ec61cd6cc0f"
   },
   {
    "name": "Archpriest",
@@ -725,7 +725,7 @@
     "order": 17
    },
    "sort": 1700,
-   "_id": "80aa2ce62c45c94d",
+   "_id": "7b7aee0c087456ec",
    "ownership": {
     "default": 0
    },
@@ -743,7 +743,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.80aa2ce62c45c94d"
+   "_key": "!actors.items!13170d0d10eea83a.7b7aee0c087456ec"
   },
   {
    "name": "Canon",
@@ -766,7 +766,7 @@
     "order": 18
    },
    "sort": 1800,
-   "_id": "669c09836b9223d6",
+   "_id": "ee3f0578febd4717",
    "ownership": {
     "default": 0
    },
@@ -784,7 +784,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.669c09836b9223d6"
+   "_key": "!actors.items!13170d0d10eea83a.ee3f0578febd4717"
   },
   {
    "name": "Abbot/Abbess",
@@ -807,7 +807,7 @@
     "order": 19
    },
    "sort": 1900,
-   "_id": "b3dcea2e6b2ac729",
+   "_id": "0179f9c0fed1a3cc",
    "ownership": {
     "default": 0
    },
@@ -825,7 +825,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.b3dcea2e6b2ac729"
+   "_key": "!actors.items!13170d0d10eea83a.0179f9c0fed1a3cc"
   },
   {
    "name": "Bishop",
@@ -848,7 +848,7 @@
     "order": 20
    },
    "sort": 2000,
-   "_id": "30b474255b33b61f",
+   "_id": "d05fe53813f23deb",
    "ownership": {
     "default": 0
    },
@@ -866,7 +866,48 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!13170d0d10eea83a.30b474255b33b61f"
+   "_key": "!actors.items!13170d0d10eea83a.d05fe53813f23deb"
+  },
+  {
+   "name": "Apt Pupil",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 3,
+    "resources": 8,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Soldier, Servitude",
+    "skillPoints": 3,
+    "generalPoints": 0,
+    "traitPoints": 1,
+    "skillList": "Obscure History, Ugly Truth, Intimidation",
+    "traitList": "Believer, Gifted, Tainted Legacy",
+    "note": "Special Gifted lifepath (Wizard Burner), added to the Religious Subsetting. Source: Burning Wheel Codex, p. 402",
+    "requirements": "",
+    "restrictions": "Must be character’s second or third lifepath. It may not be taken twice",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "4976dd22e3c1f5c6",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!13170d0d10eea83a.4976dd22e3c1f5c6"
   }
  ],
  "effects": [],

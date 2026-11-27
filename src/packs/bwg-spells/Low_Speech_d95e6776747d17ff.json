@@ -1,0 +1,52 @@
+{
+ "name": "Low Speech",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 8,
+  "variableObstacle": true,
+  "variableObstacleDescription": "See Description",
+  "obstacle": 0,
+  "upSpell": false,
+  "actions": 3,
+  "description": "This spell allows you to speak with animals: apes and simians, Ob 1; dogs, pigs and dolphins, Ob 2; horses, oxen, Ob 3; wild beasts, Ob 4; birds, Ob 5; reptiles, Ob 6; fish, Ob 7; insects, Ob 8. Decide which type before casting.\n\nObstacle: See Description. Actions: x3.\n\nOrigin: Personal | Area of Effect: Presence | Element: Anima | Impetus: Enhance | Duration: Sustained | Resource Points: 8\n\nSource: Burning Wheel Gold Revised, p. 214",
+  "origin": "Personal",
+  "areaOfEffect": "Presence",
+  "element": "Anima",
+  "impetus": "Enhance",
+  "duration": "Sustained",
+  "rpCost": 8,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "d95e6776747d17ff",
+ "_key": "!items!d95e6776747d17ff",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

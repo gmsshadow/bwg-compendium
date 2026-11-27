@@ -1,0 +1,41 @@
+{
+ "name": "Master Enchanter",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 20,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Court, City Dweller, Outcast",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Enchanting, Instruction, Carving, Etching, Herbalism, Jeweler, Vessel-wise",
+  "traitList": "Nimble, Practiced Precision",
+  "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 405",
+  "requirements": "Adjunct or Court Enchanter",
+  "restrictions": "",
+  "order": 1005
+ },
+ "sort": 100500,
+ "_id": "ee4f3f719d4cbaa4",
+ "_key": "!items!ee4f3f719d4cbaa4",
+ "folder": "1c38bfd0e452d33f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

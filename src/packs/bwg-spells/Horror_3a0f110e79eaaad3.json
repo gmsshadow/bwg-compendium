@@ -1,0 +1,52 @@
+{
+ "name": "Horror",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 2,
+  "description": "Terrible emanations of fear and loathing pour forth from the wizard. This spell causes all in the mage’s presence who can see him to make a Steel test, +1 Ob for each success over the spell obstacle. If hesitating, victims must run screaming. Weapon Length: as Polearm; Range: as Pistol.\n\nObstacle: 4^. Actions: 2.\n\nOrigin: Personal | Area of Effect: Presence | Element: Anima | Impetus: Influence | Duration: Instantaneous | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 214",
+  "origin": "Personal",
+  "areaOfEffect": "Presence",
+  "element": "Anima",
+  "impetus": "Influence",
+  "duration": "Instantaneous",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "longer",
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "10 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "3a0f110e79eaaad3",
+ "_key": "!items!3a0f110e79eaaad3",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

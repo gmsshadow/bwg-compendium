@@ -1,0 +1,41 @@
+{
+ "name": "Born Etharch",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 25,
+  "resources": 10,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Wilderlands, Citadel",
+  "skillPoints": 2,
+  "generalPoints": 5,
+  "traitPoints": 2,
+  "skillList": "Elven Script, Etiquette, Sing",
+  "traitList": "Etharchal, Fêa, Aman",
+  "note": "Source: Burning Wheel Gold Revised, p. 135",
+  "requirements": "",
+  "restrictions": "",
+  "order": 0
+ },
+ "sort": 0,
+ "_id": "c0b18f80c8fc0381",
+ "_key": "!items!c0b18f80c8fc0381",
+ "folder": "09496e42bcfa03db",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Bondsman",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 7,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Peasant, Soldier, Outcast",
+  "skillPoints": 0,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "",
+  "traitList": "Lucky",
+  "note": "Skills as printed: The player may choose his Bondsman’s owner’s lifepath from the Noble, City Dweller, Soldier or Villager setting. The Bondsman may purchase from owner’s skills with one quarter of that path’s skill points (minimum of 1)\n\nSource: Burning Wheel Gold Revised, p. 193",
+  "requirements": "",
+  "restrictions": "",
+  "order": 7
+ },
+ "sort": 700,
+ "_id": "b3b975de41bb0b6e",
+ "_key": "!items!b3b975de41bb0b6e",
+ "folder": "bb345c51a81baaa6",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Ugly Truth",
+ "type": "skill",
+ "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "social",
+  "training": false,
+  "magical": false,
+  "description": "Ugly Truth is the singular ability to strip a situation or argument to its bare, naked core.\n\nObstacles: Stating the obvious worst possible outcome, Ob 1. Ugly truth about family, Ob 2. Ugly truth about your friends, Ob 3. Ugly truth about a complex political situation, Ob 4. Ugly truth about a nuanced or delicate situation, Ob 5. Ugly Truth can also be used in the Duel of Wits.\n\nFoRKs: Falsehood, Intimidation\n\nSkill Type: Social. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 306",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "97bae6cc9c2cc062",
+ "_key": "!items!97bae6cc9c2cc062",
+ "folder": "5a85450a27640cfe",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

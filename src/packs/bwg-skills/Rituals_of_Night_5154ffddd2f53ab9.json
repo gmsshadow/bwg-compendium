@@ -1,0 +1,49 @@
+{
+ "name": "Rituals of Night",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "The ancient Rituals of Night grant the Knower of Secrets power beyond the ken of his brethren. Through this skill, the Orc may cast spells listed under Rituals of Night.\n\nObstacles: See the Rituals of Night spell list. Spells must be purchased or learned separately.\n\nFoRKs: Doctrine of Night’s Blood\n\nSkill Type: Sorcerous. Tools: No.\n\nRestrictions: Orcs only\n\nRoot: Perception (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 292",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Orcs only"
+ },
+ "_id": "5154ffddd2f53ab9",
+ "_key": "!items!5154ffddd2f53ab9",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

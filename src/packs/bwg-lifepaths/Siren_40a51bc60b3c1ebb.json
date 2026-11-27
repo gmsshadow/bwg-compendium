@@ -1,0 +1,41 @@
+{
+ "name": "Siren",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 55,
+  "resources": 20,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 9,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Seduction, Etiquette, Persuasion, Soothing Platitudes, Gossip-wise, Fugue of Discord, Litany of Fools",
+  "traitList": "Charismatic, Femme Fatale/ Homme Fatal",
+  "note": "Source: Burning Wheel Codex, p. 419",
+  "requirements": "Assassin, Deceiver or Liar",
+  "restrictions": "",
+  "order": 1007
+ },
+ "sort": 100700,
+ "_id": "40a51bc60b3c1ebb",
+ "_key": "!items!40a51bc60b3c1ebb",
+ "folder": "96e8dff24c1e65ee",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

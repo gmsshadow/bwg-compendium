@@ -1,0 +1,31 @@
+{
+ "name": "Skill Toolkit",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 8,
+  "isToolkit": true,
+  "isExpended": false,
+  "description": "Tools for a skill listed with \"Tools: Yes.\" Tests without required tools are at a double obstacle penalty. Expendable kits: each use after the first roll a d6; on a 1 the kit is empty and must be replenished with an Ob 2-5 Resources test. Only one character can help you when using a toolkit.\n\nSource: Burning Wheel Gold Revised, p. 204"
+ },
+ "_id": "5d389f1fc85d303f",
+ "_key": "!items!5d389f1fc85d303f",
+ "folder": "e2d9989687336b5d",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

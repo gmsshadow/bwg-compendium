@@ -1,0 +1,49 @@
+{
+ "name": "Field Dressing",
+ "type": "skill",
+ "img": "icons/magic/life/cross-yellow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "medicinal",
+  "training": false,
+  "magical": false,
+  "description": "Field Dressing is the skill acquired by soldiers in the field who are forced to tend to their own wounded. It imputes a bare knowledge of anatomy and assumes a splash of common sense.\n\nObstacles: See the Anatomy of Injury chapter in the Burning Wheel for Field Dressing treatment obstacles.\n\nFoRKs: Herbalism, Surgery\n\nSkill Type: Medicinal. Tools: Traveling Gear. Expendable.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 272",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "935d4bf38772cfc5",
+ "_key": "!items!935d4bf38772cfc5",
+ "folder": "cd5e691070d2d04b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

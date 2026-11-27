@@ -1,0 +1,41 @@
+{
+ "name": "Master of Blood",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 8,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Rituals-wise, Animal Husbandry, Orc-wise, Elf-wise, Wolf-wise",
+  "traitList": "Where There’s a Whip‚ There’s a Way",
+  "note": "Source: Burning Wheel Gold Revised, p. 233",
+  "requirements": "Bloodletter",
+  "restrictions": "",
+  "order": 5
+ },
+ "sort": 500,
+ "_id": "a25844a399c64732",
+ "_key": "!items!a25844a399c64732",
+ "folder": "06a160df6011fa80",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Village Tough",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 7,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Soldier, City, Peasant, Servitude",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Appropriate Weapons, Intimidation, Brawling, Graft-wise, Village-wise, Guard-wise",
+  "traitList": "Thug",
+  "note": "Source: Burning Wheel Gold Revised, p. 167",
+  "requirements": "",
+  "restrictions": "",
+  "order": 16
+ },
+ "sort": 1600,
+ "_id": "f9a8e315e8d9297c",
+ "_key": "!items!f9a8e315e8d9297c",
+ "folder": "c6410e8a83c727ef",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

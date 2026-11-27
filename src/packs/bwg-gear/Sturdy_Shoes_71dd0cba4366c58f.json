@@ -1,0 +1,31 @@
+{
+ "name": "Sturdy Shoes",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Sturdy Dwarven shoes.\n\nSource: Burning Wheel Gold Revised, p. 124"
+ },
+ "_id": "71dd0cba4366c58f",
+ "_key": "!items!71dd0cba4366c58f",
+ "folder": "f5ef0d169108ef27",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

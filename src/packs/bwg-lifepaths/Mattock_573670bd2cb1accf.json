@@ -1,0 +1,41 @@
+{
+ "name": "Mattock",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 7,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Wild",
+  "skillPoints": 3,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Hammer, Formation Fighting",
+  "traitList": "Brutal",
+  "note": "Source: Burning Wheel Codex, p. 464",
+  "requirements": "Ox, Battering Ram, Dwarf Hunter, Manhunter or Brute",
+  "restrictions": "",
+  "order": 1004
+ },
+ "sort": 100400,
+ "_id": "573670bd2cb1accf",
+ "_key": "!items!573670bd2cb1accf",
+ "folder": "4d5e91b39c09c061",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

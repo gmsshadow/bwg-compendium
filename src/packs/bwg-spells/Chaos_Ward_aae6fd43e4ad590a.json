@@ -1,0 +1,52 @@
+{
+ "name": "Chaos Ward",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 20,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 5,
+  "upSpell": true,
+  "actions": 45,
+  "description": "A cacophony of lights and sounds swirls round, obscuring the very earth from thy feet and the sun from thy brow. This incantation causes confusion to all who fall under it. Meeting the obstacle imposes a +1 Ob penalty to all actions in the area of effect. Additional successes increase the penalty. Weapon Length: as Missile; Range: as Heavy Crossbow +1D.\n\nObstacle: 5^. Actions: 45.\n\nOrigin: Sight | Area of Effect: 10s of Paces | Element: Heaven | Impetus: Influence/Tax | Duration: Sustained | Resource Points: 20\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 209",
+  "origin": "Sight",
+  "areaOfEffect": "10s of Paces",
+  "element": "Heaven",
+  "impetus": "Influence/Tax",
+  "duration": "Sustained",
+  "rpCost": 20,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "as missile",
+  "optimalRange": 1,
+  "extremeRange": 5,
+  "maxRange": "350 paces (as Heavy Crossbow +1D)",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "aae6fd43e4ad590a",
+ "_key": "!items!aae6fd43e4ad590a",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

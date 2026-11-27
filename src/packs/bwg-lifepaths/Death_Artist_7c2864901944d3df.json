@@ -1,0 +1,41 @@
+{
+ "name": "Death Artist",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 10,
+  "resources": 20,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Outcast, Servitude",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 3,
+  "skillList": "Death Art, Tomb-wise, Orc Servant-wise, Evil Necromancer-wise, Death Cult-wise",
+  "traitList": "Cynical, Mind over Matter, Missing Limb, Paranoid Ear, Meticulous, Corrupted",
+  "note": "Source: Burning Wheel Codex, p. 407",
+  "requirements": "Evil Necromancer, Apt Pupil or Rogue Wizard",
+  "restrictions": "",
+  "order": 1007
+ },
+ "sort": 100700,
+ "_id": "7c2864901944d3df",
+ "_key": "!items!7c2864901944d3df",
+ "folder": "e656ebd3cdd6b06b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

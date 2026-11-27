@@ -1,0 +1,31 @@
+{
+ "name": "Traveling Gear (Orc)",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 3,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "The necessary bits and odds and ends for survival on the road.\n\nSource: Burning Wheel Gold Revised, p. 242"
+ },
+ "_id": "d68e14a73b5e7d9a",
+ "_key": "!items!d68e14a73b5e7d9a",
+ "folder": "a2609e3cbb7ca442",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

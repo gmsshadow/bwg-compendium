@@ -1,0 +1,41 @@
+{
+ "name": "Factotum",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 15,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Outcast, Soldier, Servitude, City",
+  "skillPoints": 7,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Haggling, Persuasion, Hauling, Appraisal, Taxidermy, Local Law-wise",
+  "traitList": "Polite, Efficient, Stoic",
+  "note": "Source: Burning Wheel Codex, p. 407",
+  "requirements": "Spy, Tomb Guard, Deranged, Evangelist or Insurrectionist",
+  "restrictions": "",
+  "order": 1004
+ },
+ "sort": 100400,
+ "_id": "8efbfa523f85d6a0",
+ "_key": "!items!8efbfa523f85d6a0",
+ "folder": "e656ebd3cdd6b06b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

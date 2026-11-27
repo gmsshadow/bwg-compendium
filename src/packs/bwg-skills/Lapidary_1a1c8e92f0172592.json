@@ -1,0 +1,49 @@
+{
+ "name": "Lapidary",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": false,
+  "description": "Lapidary is the careful art of refining gems to be sold on the market or placed into jewelry.\n\nObstacles: Polishing gems, Ob 1. Cutting and faceting zircon, Ob 2. Shaping opals, Ob 3. Working jade, Ob 3. Cutting and faceting sapphire, Ob 4. Cutting and faceting rubies and emeralds, Ob 5. Cutting and faceting diamonds, Ob 6.\n\nFoRKs: Jeweler\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 280",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "1a1c8e92f0172592",
+ "_key": "!items!1a1c8e92f0172592",
+ "folder": "3bcde3f2b3069254",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

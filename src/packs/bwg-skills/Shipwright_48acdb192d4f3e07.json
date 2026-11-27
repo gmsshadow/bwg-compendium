@@ -1,0 +1,49 @@
+{
+ "name": "Shipwright",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": false,
+  "description": "Shipbuilding is the art of designing and constructing seagoing vessels. A master shipwright usually directs a team of carpenters, blacksmiths and laborers in the construction process.\n\nObstacles: Rowboat or skiff, Ob 1. Barge, Ob 2. Longboat, Ob 3. A cog or junk, Ob 4. A felucca, longship or galley, Ob 5. Carrack, Ob 6. Caravel, Ob 8. Treasure ship, Ob 9.\n\nFoRKs: Engineer, Carpenter, Boatwright\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 295",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "48acdb192d4f3e07",
+ "_key": "!items!48acdb192d4f3e07",
+ "folder": "3bcde3f2b3069254",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

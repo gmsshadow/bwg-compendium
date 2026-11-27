@@ -1,0 +1,41 @@
+{
+ "name": "Astride the Beast",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 5,
+  "resources": 6,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Chattel, Great and Black",
+  "skillPoints": 9,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Mounted Combat Training, Riding, Great Wolf Husbandry, Intimidation, Spear, Armor Training",
+  "traitList": "Brash, Cry of Doom",
+  "note": "Source: Burning Wheel Gold Revised, p. 232",
+  "requirements": "He Who Sits Astride the Howling Black Beast requires Black Hunter or Follower",
+  "restrictions": "",
+  "order": 7
+ },
+ "sort": 700,
+ "_id": "cded4856d295a8bb",
+ "_key": "!items!cded4856d295a8bb",
+ "folder": "cbebdc53fd4cf69b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

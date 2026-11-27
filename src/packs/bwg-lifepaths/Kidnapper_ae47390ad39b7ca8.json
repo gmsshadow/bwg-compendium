@@ -1,0 +1,41 @@
+{
+ "name": "Kidnapper",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 10,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Soldier, Village, Sea",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Interrogation, Torture, Intimidation, Ransom-wise",
+  "traitList": "Hard Hearted",
+  "note": "Source: Burning Wheel Gold Revised, p. 193",
+  "requirements": "",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "ae47390ad39b7ca8",
+ "_key": "!items!ae47390ad39b7ca8",
+ "folder": "edf8ff4211696279",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

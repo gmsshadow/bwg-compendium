@@ -1,0 +1,41 @@
+{
+ "name": "Manhunter",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 7,
+  "resources": 2,
+  "statBoost": "either",
+  "subtractStats": false,
+  "leads": "Pit",
+  "skillPoints": 2,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Man-wise, Village-wise",
+  "traitList": "",
+  "note": "Source: Burning Wheel Codex, p. 462",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1003
+ },
+ "sort": 100300,
+ "_id": "b8f66a14d464aeb1",
+ "_key": "!items!b8f66a14d464aeb1",
+ "folder": "68c4fa6583a6cf44",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

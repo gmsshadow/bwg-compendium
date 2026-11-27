@@ -1,0 +1,50 @@
+{
+ "name": "Servant of the Citadel",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "The Althing is the most powerful Elven citizen barring the Lord Protector. He is the ruler of a vast and ancient Citadel—heir to a tradition stretching back nearly to the dawn of time. Such as it is, the Althing tends to take his job pretty seriously. If the player takes it seriously and adds both a Belief and an Instinct relating to the welfare of his city—and these are relevant to the game at hand—the character gets a 2D reputation and 2D major affiliation in and around the citadel. These may be improved with additional resource point allocations.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Elven lifepath trait\n\nSource: Burning Wheel Gold Revised, p. 345",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Elven lifepath trait"
+ },
+ "_id": "f5c48de43e1dc95b",
+ "_key": "!items!f5c48de43e1dc95b",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

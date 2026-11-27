@@ -1,0 +1,49 @@
+{
+ "name": "Forge Artifice",
+ "type": "skill",
+ "img": "icons/tools/hand/chisel-steel-brown.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "artisan",
+  "training": false,
+  "magical": true,
+  "description": "This special skill teaches the secrets of building the sacred fires of Dwarven forges, which burn hotter and cleaner than the forges of Men, Elves and Orcs. Such heat allows the Artificers to further refine their incredible metalworks. When building a forge, an Artificer may imbue it with runes of everlasting heat and unwavering temperature, which grant advantage dice to the user. To do so, the Artificer must increase his own obstacle by +2 Ob. Each +2 Ob builds +1D into the forge, so long as the final obstacle is met, of course.\n\nObstacles: Forge Bellows and pumps, Ob 1. Small Kiln, Ob 2. Large Kiln, Ob 3. Small forge (one smith), Ob 4. Mid-sized forge (two smiths), Ob 5. Large forge (five smiths), Ob 6.\n\nSkill Type: Artisan. Tools: Workshop.\n\nRestrictions: Dwarves only\n\nRoot: Will/Per (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 274",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only"
+ },
+ "_id": "e5d4dc2df5a60726",
+ "_key": "!items!e5d4dc2df5a60726",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

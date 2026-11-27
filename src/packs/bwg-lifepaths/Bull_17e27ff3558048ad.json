@@ -1,0 +1,41 @@
+{
+ "name": "Bull",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 45,
+  "resources": 5,
+  "statBoost": "both",
+  "subtractStats": false,
+  "leads": "Pit",
+  "skillPoints": 3,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Torture, Extortion",
+  "traitList": "Boor",
+  "note": "Source: Burning Wheel Codex, p. 462",
+  "requirements": "Brute or Ironshield",
+  "restrictions": "",
+  "order": 1007
+ },
+ "sort": 100700,
+ "_id": "17e27ff3558048ad",
+ "_key": "!items!17e27ff3558048ad",
+ "folder": "68c4fa6583a6cf44",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

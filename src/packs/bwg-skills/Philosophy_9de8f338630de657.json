@@ -1,0 +1,49 @@
+{
+ "name": "Philosophy",
+ "type": "skill",
+ "img": "icons/sundries/books/book-worn-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "schoolofthought",
+  "training": false,
+  "magical": false,
+  "description": "Philosophy is the pursuit and discussion of wisdom, discussing the nature of truth, logic, reason, good, evil and the divine. Often it is at odds with Law and Doctrine.\n\nObstacles: Ascertaining the metaphysical substance of the object to be venerated during a religious ritual, Ob 2. Divining the original meaning of symbols originating from a particular school of thought, Ob 3. Brooding over the futility of material gain in a truly just society, Ob 4. Recalling the allegorical and instructive purpose of the demon or angel you are about to summon, Ob 5. Estimating the mystery that is the divine, Ob 6. Figuring out the number of angels that fit on the head of a pin in a manner that is easily explained to a child, i.e. a rustic cleric without letters, Ob 10.\n\nFoRKs: Doctrine, Rule of Law, History\n\nSkill Type: School of Thought. Tools: No.\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 287",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "9de8f338630de657",
+ "_key": "!items!9de8f338630de657",
+ "folder": "56d9f04d80593b17",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

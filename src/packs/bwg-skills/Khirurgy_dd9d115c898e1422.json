@@ -1,0 +1,49 @@
+{
+ "name": "Khirurgy",
+ "type": "skill",
+ "img": "icons/magic/life/cross-yellow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "medicinal",
+  "training": false,
+  "magical": false,
+  "description": "Dwarves are a clean and thorough people in all their crafts, including their medicinal traditions.\n\nObstacles: Use the rules found in the Anatomy of Injury chapter in the Burning Wheel.\n\nFoRKs: Herbalism, Field Dressing, Bloodletting, Apothecary\n\nSkill Type: Medicinal. Tools: Yes.\n\nRestrictions: Dwarves only in character burning\n\nRoot: Per/Agi\n\nSource: Burning Wheel Gold Revised, p. 279",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Dwarves only in character burning"
+ },
+ "_id": "dd9d115c898e1422",
+ "_key": "!items!dd9d115c898e1422",
+ "folder": "cd5e691070d2d04b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

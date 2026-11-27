@@ -1,0 +1,41 @@
+{
+ "name": "Performer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 5,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Villager, Outcast, Soldier",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Acting, Persuasion, Sing, Falsehood, Conspicuous, Sleight of Hand, Musical Instrument",
+  "traitList": "Colorful",
+  "note": "Source: Burning Wheel Gold Revised, p. 172",
+  "requirements": "",
+  "restrictions": "",
+  "order": 25
+ },
+ "sort": 2500,
+ "_id": "2ed07334073fa297",
+ "_key": "!items!2ed07334073fa297",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

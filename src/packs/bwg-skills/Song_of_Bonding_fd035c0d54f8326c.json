@@ -1,0 +1,49 @@
+{
+ "name": "Song of Bonding",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "The Song of Bonding is usually only sung once in each Elf’s life—to bind himself into the master-student relationship with his sword-father. Once successfully sung, the Bonded Second now gains a new trait: Bonded. This counts as a call-on for Steel when his master is in danger.\n\nIf a player is starting a Second in a game with his Sword Singer, sing this song before the game starts. If the song fails, or the Second’s Sword Singer is not part of the game, then the player may choose to bond himself to another master as the game progresses.\n\nObstacle: 10 minus Will of the Singer\n\nActions: 555\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 149",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "fd035c0d54f8326c",
+ "_key": "!items!fd035c0d54f8326c",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

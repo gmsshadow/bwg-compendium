@@ -4,7 +4,7 @@
  "type": "setting",
  "img": "icons/environment/settlement/house-two-stories-small.webp",
  "system": {
-  "description": "Villager Setting lifepaths for Human characters, Burning Wheel Gold Revised. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
+  "description": "Villager Setting lifepaths for Human characters, Burning Wheel Gold Revised and the Burning Wheel Codex. Drag this setting into the Character Burner, or open it to drag individual lifepaths."
  },
  "items": [
   {
@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "0de5eae6eee09956",
+   "_id": "dcfb67569e85abd0",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.0de5eae6eee09956"
+   "_key": "!actors.items!f4d0f73747ef9021.dcfb67569e85abd0"
   },
   {
    "name": "Kid",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "4d3f970868ded67f",
+   "_id": "b9bbeda5c27c1bdc",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.4d3f970868ded67f"
+   "_key": "!actors.items!f4d0f73747ef9021.b9bbeda5c27c1bdc"
   },
   {
    "name": "Idiot",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "e7580f5ab3135d6d",
+   "_id": "85b09ca69523726a",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.e7580f5ab3135d6d"
+   "_key": "!actors.items!f4d0f73747ef9021.85b09ca69523726a"
   },
   {
    "name": "Pilgrim",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "2cfb4dc19a6e8bfa",
+   "_id": "2bdf5b2d9ac0efbc",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.2cfb4dc19a6e8bfa"
+   "_key": "!actors.items!f4d0f73747ef9021.2bdf5b2d9ac0efbc"
   },
   {
    "name": "Conscript",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "482fd6c121692217",
+   "_id": "e4fd65d91d40653c",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.482fd6c121692217"
+   "_key": "!actors.items!f4d0f73747ef9021.e4fd65d91d40653c"
   },
   {
    "name": "Groom",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "c1c76b134d751034",
+   "_id": "4344210669c977df",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.c1c76b134d751034"
+   "_key": "!actors.items!f4d0f73747ef9021.4344210669c977df"
   },
   {
    "name": "Runner",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "bb196a7e64df80c7",
+   "_id": "0b5aae7f95089487",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.bb196a7e64df80c7"
+   "_key": "!actors.items!f4d0f73747ef9021.0b5aae7f95089487"
   },
   {
    "name": "Village Peddler",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "91c2c174911fdd1f",
+   "_id": "90fb6d2f3dedfc76",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.91c2c174911fdd1f"
+   "_key": "!actors.items!f4d0f73747ef9021.90fb6d2f3dedfc76"
   },
   {
    "name": "Shopkeeper",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "38de3c753cc180a9",
+   "_id": "96111375f629f845",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.38de3c753cc180a9"
+   "_key": "!actors.items!f4d0f73747ef9021.96111375f629f845"
   },
   {
    "name": "Clerk",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "b5fa66e1c13a55f6",
+   "_id": "59a6b186ff414a10",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.b5fa66e1c13a55f6"
+   "_key": "!actors.items!f4d0f73747ef9021.59a6b186ff414a10"
   },
   {
    "name": "Sailor",
@@ -438,7 +438,7 @@
     "order": 10
    },
    "sort": 1000,
-   "_id": "5968395a1c615fe9",
+   "_id": "32a3f60182cb2e8e",
    "ownership": {
     "default": 0
    },
@@ -456,7 +456,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.5968395a1c615fe9"
+   "_key": "!actors.items!f4d0f73747ef9021.32a3f60182cb2e8e"
   },
   {
    "name": "Laborer",
@@ -479,7 +479,7 @@
     "order": 11
    },
    "sort": 1100,
-   "_id": "49b0b7b91b8ba319",
+   "_id": "070737d425e06336",
    "ownership": {
     "default": 0
    },
@@ -497,7 +497,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.49b0b7b91b8ba319"
+   "_key": "!actors.items!f4d0f73747ef9021.070737d425e06336"
   },
   {
    "name": "Miner",
@@ -520,7 +520,7 @@
     "order": 12
    },
    "sort": 1200,
-   "_id": "ffac7fe7b5ad08dd",
+   "_id": "c6e0608262915dbd",
    "ownership": {
     "default": 0
    },
@@ -538,7 +538,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.ffac7fe7b5ad08dd"
+   "_key": "!actors.items!f4d0f73747ef9021.c6e0608262915dbd"
   },
   {
    "name": "Taskmaster",
@@ -561,7 +561,7 @@
     "order": 13
    },
    "sort": 1300,
-   "_id": "20a8f05390f264f8",
+   "_id": "c2f2e24636266204",
    "ownership": {
     "default": 0
    },
@@ -579,7 +579,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.20a8f05390f264f8"
+   "_key": "!actors.items!f4d0f73747ef9021.c2f2e24636266204"
   },
   {
    "name": "Serving Girl",
@@ -602,7 +602,7 @@
     "order": 14
    },
    "sort": 1400,
-   "_id": "6d23d277c0b88137",
+   "_id": "a004bbe659924757",
    "ownership": {
     "default": 0
    },
@@ -620,7 +620,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.6d23d277c0b88137"
+   "_key": "!actors.items!f4d0f73747ef9021.a004bbe659924757"
   },
   {
    "name": "Hosteller",
@@ -643,7 +643,7 @@
     "order": 15
    },
    "sort": 1500,
-   "_id": "100679d6ae50761b",
+   "_id": "ce821c5e55cd6d90",
    "ownership": {
     "default": 0
    },
@@ -661,7 +661,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.100679d6ae50761b"
+   "_key": "!actors.items!f4d0f73747ef9021.ce821c5e55cd6d90"
   },
   {
    "name": "Village Tough",
@@ -684,7 +684,7 @@
     "order": 16
    },
    "sort": 1600,
-   "_id": "54e6dfdf49030e47",
+   "_id": "4b3dc9342946e24c",
    "ownership": {
     "default": 0
    },
@@ -702,7 +702,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.54e6dfdf49030e47"
+   "_key": "!actors.items!f4d0f73747ef9021.4b3dc9342946e24c"
   },
   {
    "name": "Village Sergeant",
@@ -725,7 +725,7 @@
     "order": 17
    },
    "sort": 1700,
-   "_id": "592af7209727d19f",
+   "_id": "67d3a5ecc8f9a971",
    "ownership": {
     "default": 0
    },
@@ -743,7 +743,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.592af7209727d19f"
+   "_key": "!actors.items!f4d0f73747ef9021.67d3a5ecc8f9a971"
   },
   {
    "name": "Corrupt Sergeant",
@@ -766,7 +766,7 @@
     "order": 18
    },
    "sort": 1800,
-   "_id": "524388666f7b28d7",
+   "_id": "422364ab49490c7a",
    "ownership": {
     "default": 0
    },
@@ -784,7 +784,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.524388666f7b28d7"
+   "_key": "!actors.items!f4d0f73747ef9021.422364ab49490c7a"
   },
   {
    "name": "Tailor",
@@ -807,7 +807,7 @@
     "order": 19
    },
    "sort": 1900,
-   "_id": "295f5e50c5c07962",
+   "_id": "804ccbb376238893",
    "ownership": {
     "default": 0
    },
@@ -825,7 +825,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.295f5e50c5c07962"
+   "_key": "!actors.items!f4d0f73747ef9021.804ccbb376238893"
   },
   {
    "name": "Tax Collector",
@@ -848,7 +848,7 @@
     "order": 20
    },
    "sort": 2000,
-   "_id": "c7a07d0fb299644a",
+   "_id": "8be11c9b21438454",
    "ownership": {
     "default": 0
    },
@@ -866,7 +866,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.c7a07d0fb299644a"
+   "_key": "!actors.items!f4d0f73747ef9021.8be11c9b21438454"
   },
   {
    "name": "Cobbler",
@@ -889,7 +889,7 @@
     "order": 21
    },
    "sort": 2100,
-   "_id": "4a4aaa072c45bc5d",
+   "_id": "5c749e5a37c5ab6c",
    "ownership": {
     "default": 0
    },
@@ -907,7 +907,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.4a4aaa072c45bc5d"
+   "_key": "!actors.items!f4d0f73747ef9021.5c749e5a37c5ab6c"
   },
   {
    "name": "Farrier",
@@ -930,7 +930,7 @@
     "order": 22
    },
    "sort": 2200,
-   "_id": "1c443f6274199491",
+   "_id": "e56eb2a33ada33dd",
    "ownership": {
     "default": 0
    },
@@ -948,7 +948,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.1c443f6274199491"
+   "_key": "!actors.items!f4d0f73747ef9021.e56eb2a33ada33dd"
   },
   {
    "name": "Butcher",
@@ -971,7 +971,7 @@
     "order": 23
    },
    "sort": 2300,
-   "_id": "3c4cd661fc519897",
+   "_id": "aeebe0c13b051451",
    "ownership": {
     "default": 0
    },
@@ -989,7 +989,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.3c4cd661fc519897"
+   "_key": "!actors.items!f4d0f73747ef9021.aeebe0c13b051451"
   },
   {
    "name": "Barber",
@@ -1012,7 +1012,7 @@
     "order": 24
    },
    "sort": 2400,
-   "_id": "ab2eddd0a4a9e6f7",
+   "_id": "04a2fc0a146ced89",
    "ownership": {
     "default": 0
    },
@@ -1030,7 +1030,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.ab2eddd0a4a9e6f7"
+   "_key": "!actors.items!f4d0f73747ef9021.04a2fc0a146ced89"
   },
   {
    "name": "Brewer",
@@ -1053,7 +1053,7 @@
     "order": 25
    },
    "sort": 2500,
-   "_id": "448d6bde66d242e8",
+   "_id": "0d822a0c4e6b7921",
    "ownership": {
     "default": 0
    },
@@ -1071,7 +1071,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.448d6bde66d242e8"
+   "_key": "!actors.items!f4d0f73747ef9021.0d822a0c4e6b7921"
   },
   {
    "name": "Acolyte",
@@ -1094,7 +1094,7 @@
     "order": 26
    },
    "sort": 2600,
-   "_id": "2befaea6d73edcca",
+   "_id": "e1a8e57a24436ffe",
    "ownership": {
     "default": 0
    },
@@ -1112,7 +1112,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.2befaea6d73edcca"
+   "_key": "!actors.items!f4d0f73747ef9021.e1a8e57a24436ffe"
   },
   {
    "name": "Failed Acolyte",
@@ -1135,7 +1135,7 @@
     "order": 27
    },
    "sort": 2700,
-   "_id": "a31ea4c7bfd7462d",
+   "_id": "c2450b6267bd9c6d",
    "ownership": {
     "default": 0
    },
@@ -1153,7 +1153,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.a31ea4c7bfd7462d"
+   "_key": "!actors.items!f4d0f73747ef9021.c2450b6267bd9c6d"
   },
   {
    "name": "Village Priest",
@@ -1176,7 +1176,7 @@
     "order": 28
    },
    "sort": 2800,
-   "_id": "ab6fd2f1980444f6",
+   "_id": "bdd76c48d2beaf15",
    "ownership": {
     "default": 0
    },
@@ -1194,7 +1194,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.ab6fd2f1980444f6"
+   "_key": "!actors.items!f4d0f73747ef9021.bdd76c48d2beaf15"
   },
   {
    "name": "Venal Priest",
@@ -1217,7 +1217,7 @@
     "order": 29
    },
    "sort": 2900,
-   "_id": "2a1cb189c11a65e1",
+   "_id": "b8a3055e52a2afed",
    "ownership": {
     "default": 0
    },
@@ -1235,7 +1235,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.2a1cb189c11a65e1"
+   "_key": "!actors.items!f4d0f73747ef9021.b8a3055e52a2afed"
   },
   {
    "name": "Apprentice",
@@ -1258,7 +1258,7 @@
     "order": 30
    },
    "sort": 3000,
-   "_id": "6380ea97ad203ca7",
+   "_id": "9d0d778c16724331",
    "ownership": {
     "default": 0
    },
@@ -1276,7 +1276,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.6380ea97ad203ca7"
+   "_key": "!actors.items!f4d0f73747ef9021.9d0d778c16724331"
   },
   {
    "name": "Journeyman",
@@ -1299,7 +1299,7 @@
     "order": 31
    },
    "sort": 3100,
-   "_id": "9c139669c78b2ea3",
+   "_id": "df3aada1109f5c13",
    "ownership": {
     "default": 0
    },
@@ -1317,7 +1317,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.9c139669c78b2ea3"
+   "_key": "!actors.items!f4d0f73747ef9021.df3aada1109f5c13"
   },
   {
    "name": "Cloth Dyer",
@@ -1340,7 +1340,7 @@
     "order": 32
    },
    "sort": 3200,
-   "_id": "07c91d6efa638cd8",
+   "_id": "c4893148bf55cd33",
    "ownership": {
     "default": 0
    },
@@ -1358,7 +1358,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.07c91d6efa638cd8"
+   "_key": "!actors.items!f4d0f73747ef9021.c4893148bf55cd33"
   },
   {
    "name": "Bowyer",
@@ -1381,7 +1381,7 @@
     "order": 33
    },
    "sort": 3300,
-   "_id": "9aa3afbf023b0c71",
+   "_id": "a130f6d559839235",
    "ownership": {
     "default": 0
    },
@@ -1399,7 +1399,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.9aa3afbf023b0c71"
+   "_key": "!actors.items!f4d0f73747ef9021.a130f6d559839235"
   },
   {
    "name": "Master Craftsman",
@@ -1422,7 +1422,7 @@
     "order": 34
    },
    "sort": 3400,
-   "_id": "1611b950f4923df8",
+   "_id": "e491f09ed75019e8",
    "ownership": {
     "default": 0
    },
@@ -1440,7 +1440,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.1611b950f4923df8"
+   "_key": "!actors.items!f4d0f73747ef9021.e491f09ed75019e8"
   },
   {
    "name": "Vintner",
@@ -1463,7 +1463,7 @@
     "order": 35
    },
    "sort": 3500,
-   "_id": "33023a5198b031dd",
+   "_id": "33eba48f02d85deb",
    "ownership": {
     "default": 0
    },
@@ -1481,7 +1481,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.33023a5198b031dd"
+   "_key": "!actors.items!f4d0f73747ef9021.33eba48f02d85deb"
   },
   {
    "name": "Apiarist",
@@ -1504,7 +1504,7 @@
     "order": 36
    },
    "sort": 3600,
-   "_id": "77159cdfe873ed72",
+   "_id": "64d88f258d03bef8",
    "ownership": {
     "default": 0
    },
@@ -1522,7 +1522,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.77159cdfe873ed72"
+   "_key": "!actors.items!f4d0f73747ef9021.64d88f258d03bef8"
   },
   {
    "name": "Mining Engineer",
@@ -1545,7 +1545,7 @@
     "order": 37
    },
    "sort": 3700,
-   "_id": "82dff6df42bd3e0c",
+   "_id": "1aadfa77a6cc598f",
    "ownership": {
     "default": 0
    },
@@ -1563,7 +1563,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.82dff6df42bd3e0c"
+   "_key": "!actors.items!f4d0f73747ef9021.1aadfa77a6cc598f"
   },
   {
    "name": "Town Official",
@@ -1586,7 +1586,7 @@
     "order": 38
    },
    "sort": 3800,
-   "_id": "116966a604574f26",
+   "_id": "c4bce4a1d3de96ea",
    "ownership": {
     "default": 0
    },
@@ -1604,7 +1604,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.116966a604574f26"
+   "_key": "!actors.items!f4d0f73747ef9021.c4bce4a1d3de96ea"
   },
   {
    "name": "Merchant",
@@ -1627,7 +1627,7 @@
     "order": 39
    },
    "sort": 3900,
-   "_id": "db393ec25b9eee88",
+   "_id": "b4807eda47154575",
    "ownership": {
     "default": 0
    },
@@ -1645,7 +1645,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.db393ec25b9eee88"
+   "_key": "!actors.items!f4d0f73747ef9021.b4807eda47154575"
   },
   {
    "name": "Village Wife",
@@ -1668,7 +1668,7 @@
     "order": 40
    },
    "sort": 4000,
-   "_id": "5ba64745dc2252bc",
+   "_id": "4322fd5efa78c89e",
    "ownership": {
     "default": 0
    },
@@ -1686,7 +1686,130 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!f4d0f73747ef9021.5ba64745dc2252bc"
+   "_key": "!actors.items!f4d0f73747ef9021.4322fd5efa78c89e"
+  },
+  {
+   "name": "Gifted Child",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 9,
+    "resources": 4,
+    "statBoost": "none",
+    "subtractStats": false,
+    "leads": "Outcast, Court, Religious",
+    "skillPoints": 0,
+    "generalPoints": 2,
+    "traitPoints": 1,
+    "skillList": "",
+    "traitList": "Misunderstood, Gifted, Abused, Spirit Familiar",
+    "note": "Special Gifted lifepath (Wizard Burner), added to the Villager Setting. Source: Burning Wheel Codex, p. 402",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "5a8eb6af7b6c444a",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!f4d0f73747ef9021.5a8eb6af7b6c444a"
+  },
+  {
+   "name": "Wizard’s Apprentice",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 7,
+    "resources": 10,
+    "statBoost": "mental",
+    "subtractStats": false,
+    "leads": "Peasant, City, Outcast, Servitude",
+    "skillPoints": 6,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Read, Foraging, Symbology, Circination, Pig-wise, Bone Headed-wise",
+    "traitList": "Always in the Way, Atravieso, Gifted, Assistant Pig-Keeper",
+    "note": "Wizard Burner lifepath, supplementing the Villager Setting. Source: Burning Wheel Codex, p. 403",
+    "requirements": "",
+    "restrictions": "",
+    "order": 1000
+   },
+   "sort": 100000,
+   "_id": "fe27c164f541c7cf",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!f4d0f73747ef9021.fe27c164f541c7cf"
+  },
+  {
+   "name": "Hedge Wizard",
+   "type": "lifepath",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "time": 8,
+    "resources": 24,
+    "statBoost": "both",
+    "subtractStats": false,
+    "leads": "Peasant, City Dweller, Outcast",
+    "skillPoints": 7,
+    "generalPoints": 0,
+    "traitPoints": 2,
+    "skillList": "Sorcery, Enchanting, Alchemy, Obscure History, Pest-wise, Fool-wise",
+    "traitList": "Low Born, Impressive Hat, Never a Moment of Peace",
+    "note": "Wizard Burner lifepath, supplementing the Villager Setting. Source: Burning Wheel Codex, p. 403",
+    "requirements": "Wizard’s Apprentice, Neophyte Sorcerer, Apt Pupil or Junior Student. This character may not have the Mark of Privilege",
+    "restrictions": "",
+    "order": 1001
+   },
+   "sort": 100100,
+   "_id": "302005ea73b8d21b",
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "burningwheel",
+    "systemVersion": "1.7.1",
+    "createdTime": 1764000000000,
+    "modifiedTime": 1764000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+   },
+   "effects": [],
+   "folder": null,
+   "_key": "!actors.items!f4d0f73747ef9021.302005ea73b8d21b"
   }
  ],
  "effects": [],

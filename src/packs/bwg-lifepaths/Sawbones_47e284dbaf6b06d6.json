@@ -1,0 +1,41 @@
+{
+ "name": "Sawbones",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 15,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Exile",
+  "skillPoints": 5,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Field Dressing, Apothecary, Poisons, Haggling",
+  "traitList": "Practical, Impersonal",
+  "note": "Source: Burning Wheel Codex, p. 440",
+  "requirements": "Poisoner, Albino, Healer or Pinky",
+  "restrictions": "",
+  "order": 1014
+ },
+ "sort": 101400,
+ "_id": "47e284dbaf6b06d6",
+ "_key": "!items!47e284dbaf6b06d6",
+ "folder": "b459a367a7c6ee1e",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

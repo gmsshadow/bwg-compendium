@@ -1,0 +1,49 @@
+{
+ "_id": "9dea16f3f9613ae6",
+ "_key": "!items!9dea16f3f9613ae6",
+ "name": "Grandfather’s Song",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "This powerful and dangerous song allows the wolf to take on the traits of the very spirits he hunts. The danger in this howl is that it brings the wolf closer to joining Great Grandfather in the spirit realms. Grandfather’s Song causes the Ancestral Taint to spread more quickly. This is the most difficult song, and within it there are four separate tones: Silent Voice, Spirit Unseen, Celestial Sight and Spirit Nature.\n\nHowl for Silent Voice: Obstacle: 2 Actions: 1; Duration: Hours equal to Will; Effect: While under the spell’s power, the wolf may speak directly to the minds of those within his presence.\n\nHowl for Spirit Unseen: Obstacle: 3 or 5 Actions: 3; Duration: Hours equal to Speed; Effect: The Spirit Hunter disappears from mortal sight. This Ob 3 ability grants +1D to Stealthy plus additional advantage dice for each success over the obstacle. The Ob 5 version of Spirit Unseen allows Stealthy to work on normal and magical sight and negates all forms of Observation, imposing unskilled penalties on observers.\n\nHowl for Celestial Sight: Obstacle: 4 Actions: 4; Duration: Hours equal to Perception; Effect: The Spirit Hunter sees as the spirits do. Combined with his Spirit Ears and Spirit Nose traits, this puts the Spirit Hunter’s senses entirely within the realm of the spirits. See the Celestial Sight trait in the Monstrous Trait list.\n\nHowl for Spirit Nature: Obstacle: 7 Actions: 5; Duration: Hours equal to Forte; Effect: The wolf may walk as the spirits do. Time does not affect him so greatly, nor does gravity or other earthly bonds. Shade shift the wolf’s Speed one step to the right. Also, the wolf cannot be burned by mortal fire or cold, and mortal weapons do not harm him.\n\nSpirit Hunter song: rated, rolled and advanced like a skill; all howl-song tests are open-ended.\n\nRoot: Ancestral Taint. The system cannot use Ancestral Taint as a root; Will is set instead.\n\nRestrictions: Great Wolves (Spirit Hunters) only\n\nSource: Burning Wheel Codex, p. 501",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Great Wolves (Spirit Hunters) only"
+ },
+ "effects": [],
+ "folder": "d7e4524a526401f9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "f0f7d7831ad9ce01",
+   "_id": "d43ea7e54d9a528e",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!21488a462a699c04.f0f7d7831ad9ce01"
+   "_key": "!actors.items!21488a462a699c04.d43ea7e54d9a528e"
   },
   {
    "name": "Ardent",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "7974a951192a6e88",
+   "_id": "97940646bd45c39c",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!21488a462a699c04.7974a951192a6e88"
+   "_key": "!actors.items!21488a462a699c04.97940646bd45c39c"
   },
   {
    "name": "Tyro Artificer",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "4dc5d3abd76584ec",
+   "_id": "902e0f64e8a15279",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!21488a462a699c04.4dc5d3abd76584ec"
+   "_key": "!actors.items!21488a462a699c04.902e0f64e8a15279"
   },
   {
    "name": "Artificer",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "7ac4c7bd8d638cdd",
+   "_id": "6dbea58d5ae9abdf",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!21488a462a699c04.7ac4c7bd8d638cdd"
+   "_key": "!actors.items!21488a462a699c04.6dbea58d5ae9abdf"
   },
   {
    "name": "Mask Bearer",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "060135cc0eab4e37",
+   "_id": "523d0895be69be5a",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!21488a462a699c04.060135cc0eab4e37"
+   "_key": "!actors.items!21488a462a699c04.523d0895be69be5a"
   },
   {
    "name": "Master of Arches",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "04e04e9f4b79aef9",
+   "_id": "4deb4421929bcafd",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!21488a462a699c04.04e04e9f4b79aef9"
+   "_key": "!actors.items!21488a462a699c04.4deb4421929bcafd"
   },
   {
    "name": "Master of Forges",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "06479a75d45f83ec",
+   "_id": "c9c155810dfe6474",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!21488a462a699c04.06479a75d45f83ec"
+   "_key": "!actors.items!21488a462a699c04.c9c155810dfe6474"
   },
   {
    "name": "Master Engraver",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "cd76ab8194df6311",
+   "_id": "c379ddbcc54402c9",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!21488a462a699c04.cd76ab8194df6311"
+   "_key": "!actors.items!21488a462a699c04.c379ddbcc54402c9"
   }
  ],
  "effects": [],

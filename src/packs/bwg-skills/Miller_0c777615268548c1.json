@@ -1,0 +1,49 @@
+{
+ "name": "Miller",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": false,
+  "description": "Milling is the knowledge of building, maintaining and operating the machinery used to grind grain for consumption.\n\nObstacles: Windmilling, Ob 1. Water milling, Ob 2. Manual milling, Ob 3. Building a manual mill with the help of your carpenter friends, Ob 4. A water mill, Ob 5. A windmill, Ob 6.\n\nFoRKs: Brewer\n\nSkill Type: Peasant. Tools: Workshop (a mill).\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 284",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": ""
+ },
+ "_id": "0c777615268548c1",
+ "_key": "!items!0c777615268548c1",
+ "folder": "26f1d2df964749c9",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

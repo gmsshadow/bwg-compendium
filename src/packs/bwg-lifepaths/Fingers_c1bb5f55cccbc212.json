@@ -1,0 +1,41 @@
+{
+ "name": "Fingers",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 5,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Exile, Society",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sleight of Hand, Inconspicuous, Knives, Streetwise",
+  "traitList": "Light Touch, Cocky",
+  "note": "Source: Burning Wheel Codex, p. 440",
+  "requirements": "The Gauntlet",
+  "restrictions": "",
+  "order": 1008
+ },
+ "sort": 100800,
+ "_id": "c1bb5f55cccbc212",
+ "_key": "!items!c1bb5f55cccbc212",
+ "folder": "b459a367a7c6ee1e",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

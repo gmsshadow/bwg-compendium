@@ -1,0 +1,41 @@
+{
+ "name": "Sword Singer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 40,
+  "resources": 10,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Any",
+  "skillPoints": 10,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Song of the Sword, Sword, Armor Training, Shield Training, Knives, Brawling",
+  "traitList": "Fealty to the Fêa, Cool Headed",
+  "note": "Source: Burning Wheel Gold Revised, p. 135",
+  "requirements": "Second, Lancer or Lieutenant",
+  "restrictions": "",
+  "order": 4
+ },
+ "sort": 400,
+ "_id": "725afb3411d8d5a5",
+ "_key": "!items!725afb3411d8d5a5",
+ "folder": "09496e42bcfa03db",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

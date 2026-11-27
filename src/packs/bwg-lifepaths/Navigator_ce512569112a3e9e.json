@@ -1,0 +1,41 @@
+{
+ "name": "Navigator",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 15,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Soldier, City, Servitude, Outcast",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Navigation, Sea-wise, Cartography, Astrology, Current-wise",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 191",
+  "requirements": "Pilot, Mercenary Captain, Sailor or Student",
+  "restrictions": "",
+  "order": 18
+ },
+ "sort": 1800,
+ "_id": "ce512569112a3e9e",
+ "_key": "!items!ce512569112a3e9e",
+ "folder": "c2c54f1a134b414b",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

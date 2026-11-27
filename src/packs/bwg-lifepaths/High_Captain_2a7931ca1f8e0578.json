@@ -1,0 +1,41 @@
+{
+ "name": "High Captain",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 75,
+  "resources": 75,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Host, Outcast",
+  "skillPoints": 5,
+  "generalPoints": 2,
+  "traitPoints": 2,
+  "skillList": "Command, Strategy, Conspicuous",
+  "traitList": "Muttering, Stentorious Voice",
+  "note": "Source: Burning Wheel Gold Revised, p. 113",
+  "requirements": "Noble Axe Bearer and either Captain or Warden",
+  "restrictions": "",
+  "order": 7
+ },
+ "sort": 700,
+ "_id": "2a7931ca1f8e0578",
+ "_key": "!items!2a7931ca1f8e0578",
+ "folder": "6e837e6031f2b2dd",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

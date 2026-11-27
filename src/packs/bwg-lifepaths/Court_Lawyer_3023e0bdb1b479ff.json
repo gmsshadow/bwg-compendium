@@ -1,0 +1,41 @@
+{
+ "name": "Court Lawyer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 25,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "City Dweller, Outcast, Religious",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Etiquette, Oratory, Persuasion, History, Amercement",
+  "traitList": "Rhetorical, Evasive",
+  "note": "Source: Burning Wheel Gold Revised, p. 182",
+  "requirements": "Student or Advocate",
+  "restrictions": "",
+  "order": 23
+ },
+ "sort": 2300,
+ "_id": "3023e0bdb1b479ff",
+ "_key": "!items!3023e0bdb1b479ff",
+ "folder": "4294be5ae3205f12",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

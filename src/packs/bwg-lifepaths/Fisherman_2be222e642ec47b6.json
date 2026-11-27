@@ -1,0 +1,41 @@
+{
+ "name": "Fisherman",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 50,
+  "resources": 8,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Citadel",
+  "skillPoints": 9,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Hymn of Scales and Fins, Pilot, Boatwright, Knots, Mending, Cooking, Seamanship, Rigging",
+  "traitList": "Wary",
+  "note": "Source: Burning Wheel Gold Revised, p. 131",
+  "requirements": "",
+  "restrictions": "",
+  "order": 4
+ },
+ "sort": 400,
+ "_id": "2be222e642ec47b6",
+ "_key": "!items!2be222e642ec47b6",
+ "folder": "c6f2016285d19f81",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

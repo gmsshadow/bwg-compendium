@@ -1,0 +1,52 @@
+{
+ "name": "Water Walker",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 10,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 5,
+  "upSpell": false,
+  "actions": 4,
+  "description": "Water becomes like ice to the ensorcelled feet of the witch. The recipient of this spell may tread upon water as if it were solid ground. White/rough water counts as unstable ground—at least +1 Ob to all actions. The character can climb rapids with Speed and/or Climbing tests.\n\nObstacle: 5. Actions: 4.\n\nOrigin: Personal | Area of Effect: Caster or Single Target | Element: Anima | Impetus: Control | Duration: Sustained | Resource Points: 10\n\nSource: Burning Wheel Gold Revised, p. 221",
+  "origin": "Personal",
+  "areaOfEffect": "Caster or Single Target",
+  "element": "Anima",
+  "impetus": "Control",
+  "duration": "Sustained",
+  "rpCost": 10,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "5828dde5b360d717",
+ "_key": "!items!5828dde5b360d717",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

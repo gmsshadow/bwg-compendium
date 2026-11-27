@@ -1,0 +1,41 @@
+{
+ "name": "Headmaster",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 12,
+  "resources": 50,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "Court, Religious",
+  "skillPoints": 7,
+  "generalPoints": 1,
+  "traitPoints": 3,
+  "skillList": "Oratory, Etiquette, Poetry, Strategy Games, Vintner, Dark Secret-wise",
+  "traitList": "Stoic, Master of Mages, Domineering Presence",
+  "note": "Wizard Burner lifepath, supplementing the College of Magic Setting. Source: Burning Wheel Codex, p. 406",
+  "requirements": "Councillor",
+  "restrictions": "",
+  "order": 1009
+ },
+ "sort": 100900,
+ "_id": "7c492d016d2e6dc9",
+ "_key": "!items!7c492d016d2e6dc9",
+ "folder": "1c38bfd0e452d33f",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

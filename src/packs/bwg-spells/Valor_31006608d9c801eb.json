@@ -1,0 +1,52 @@
+{
+ "name": "Valor",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 16,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 4,
+  "upSpell": true,
+  "actions": 6,
+  "description": "Waves of courage and zeal pour steadily forth from the wizard. This spell adds +1D to Steel plus +1D per margin of success to all allies in his presence.\n\nObstacle: 4^. Actions: 6.\n\nOrigin: Personal | Area of Effect: Presence | Element: Anima | Impetus: Enhance | Duration: Sustained | Resource Points: 16\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 221",
+  "origin": "Personal",
+  "areaOfEffect": "Presence",
+  "element": "Anima",
+  "impetus": "Enhance",
+  "duration": "Sustained",
+  "rpCost": 16,
+  "isWeapon": false,
+  "halfWill": false,
+  "willDamageBonus": 0,
+  "va": 0,
+  "weaponLength": "shortest",
+  "optimalRange": 0,
+  "extremeRange": 0,
+  "maxRange": "",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "31006608d9c801eb",
+ "_key": "!items!31006608d9c801eb",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

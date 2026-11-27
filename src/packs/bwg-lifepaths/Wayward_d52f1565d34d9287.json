@@ -1,0 +1,41 @@
+{
+ "name": "Wayward",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 0.5,
+  "resources": 2,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Outcast",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Pack Hunting, Foraging, Brawling, Stealthy, Howling, Escape Artist",
+  "traitList": "",
+  "note": "Time: ½ yr.\n\nSource: Burning Wheel Codex, p. 481",
+  "requirements": "Shadow Chaser or Caged and Beaten",
+  "restrictions": "",
+  "order": 1003
+ },
+ "sort": 100300,
+ "_id": "d52f1565d34d9287",
+ "_key": "!items!d52f1565d34d9287",
+ "folder": "6115dfb7c437130d",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Wastrel",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 25,
+  "resources": 3,
+  "statBoost": "none",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 6,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Scavenging, Brawling, Forest-wise, Wasteland-wise, Animal-wise",
+  "traitList": "Filthy, Feral",
+  "note": "Source: Burning Wheel Codex, p. 418",
+  "requirements": "Griever",
+  "restrictions": "",
+  "order": 1001
+ },
+ "sort": 100100,
+ "_id": "610b1e029e2166c7",
+ "_key": "!items!610b1e029e2166c7",
+ "folder": "96e8dff24c1e65ee",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

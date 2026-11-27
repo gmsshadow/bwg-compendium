@@ -28,7 +28,7 @@
     "order": 0
    },
    "sort": 0,
-   "_id": "5e1cebd3b6cbca9d",
+   "_id": "1df835ef5a03b77d",
    "ownership": {
     "default": 0
    },
@@ -46,7 +46,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c92456388e678887.5e1cebd3b6cbca9d"
+   "_key": "!actors.items!c92456388e678887.1df835ef5a03b77d"
   },
   {
    "name": "The Rites",
@@ -69,7 +69,7 @@
     "order": 1
    },
    "sort": 100,
-   "_id": "5d9a630a0315eb6c",
+   "_id": "325e3c6282aa66a0",
    "ownership": {
     "default": 0
    },
@@ -87,7 +87,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c92456388e678887.5d9a630a0315eb6c"
+   "_key": "!actors.items!c92456388e678887.325e3c6282aa66a0"
   },
   {
    "name": "Servant of the Gate",
@@ -110,7 +110,7 @@
     "order": 2
    },
    "sort": 200,
-   "_id": "9b323716417fb032",
+   "_id": "5dce44f07b664e2f",
    "ownership": {
     "default": 0
    },
@@ -128,7 +128,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c92456388e678887.9b323716417fb032"
+   "_key": "!actors.items!c92456388e678887.5dce44f07b664e2f"
   },
   {
    "name": "Follower",
@@ -151,7 +151,7 @@
     "order": 3
    },
    "sort": 300,
-   "_id": "7a978f554e85a533",
+   "_id": "3eadc99400c31eaa",
    "ownership": {
     "default": 0
    },
@@ -169,7 +169,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c92456388e678887.7a978f554e85a533"
+   "_key": "!actors.items!c92456388e678887.3eadc99400c31eaa"
   },
   {
    "name": "Black Destroyer",
@@ -192,7 +192,7 @@
     "order": 4
    },
    "sort": 400,
-   "_id": "d8d37a1955c4c11a",
+   "_id": "ba83e01ebcdb9d92",
    "ownership": {
     "default": 0
    },
@@ -210,7 +210,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c92456388e678887.d8d37a1955c4c11a"
+   "_key": "!actors.items!c92456388e678887.ba83e01ebcdb9d92"
   },
   {
    "name": "Named",
@@ -233,7 +233,7 @@
     "order": 5
    },
    "sort": 500,
-   "_id": "7cff0addd32555eb",
+   "_id": "50054ba01d687010",
    "ownership": {
     "default": 0
    },
@@ -251,7 +251,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c92456388e678887.7cff0addd32555eb"
+   "_key": "!actors.items!c92456388e678887.50054ba01d687010"
   },
   {
    "name": "Siege Master",
@@ -274,7 +274,7 @@
     "order": 6
    },
    "sort": 600,
-   "_id": "ba526e65859ed1e0",
+   "_id": "61ccb4bb626f684b",
    "ownership": {
     "default": 0
    },
@@ -292,7 +292,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c92456388e678887.ba526e65859ed1e0"
+   "_key": "!actors.items!c92456388e678887.61ccb4bb626f684b"
   },
   {
    "name": "Gate Forger",
@@ -315,7 +315,7 @@
     "order": 7
    },
    "sort": 700,
-   "_id": "e35a7edf3ec67350",
+   "_id": "d268b4b6b49bb401",
    "ownership": {
     "default": 0
    },
@@ -333,7 +333,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c92456388e678887.e35a7edf3ec67350"
+   "_key": "!actors.items!c92456388e678887.d268b4b6b49bb401"
   },
   {
    "name": "Whisperer",
@@ -356,7 +356,7 @@
     "order": 8
    },
    "sort": 800,
-   "_id": "355748689028e4e5",
+   "_id": "6d985fac093d7d30",
    "ownership": {
     "default": 0
    },
@@ -374,7 +374,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c92456388e678887.355748689028e4e5"
+   "_key": "!actors.items!c92456388e678887.6d985fac093d7d30"
   },
   {
    "name": "Great One",
@@ -397,7 +397,7 @@
     "order": 9
    },
    "sort": 900,
-   "_id": "57328ff4d17732ae",
+   "_id": "cd10a94476fe9ca7",
    "ownership": {
     "default": 0
    },
@@ -415,7 +415,7 @@
    },
    "effects": [],
    "folder": null,
-   "_key": "!actors.items!c92456388e678887.57328ff4d17732ae"
+   "_key": "!actors.items!c92456388e678887.cd10a94476fe9ca7"
   }
  ],
  "effects": [],

@@ -1,0 +1,41 @@
+{
+ "name": "Hand",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 3,
+  "resources": 3,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Exile",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Sing, Work-wise, Ditch Digging",
+  "traitList": "Back-Breaking Labor",
+  "note": "Source: Burning Wheel Codex, p. 437",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1001
+ },
+ "sort": 100100,
+ "_id": "d23de1f399e374c3",
+ "_key": "!items!d23de1f399e374c3",
+ "folder": "bf3758f4ad382083",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

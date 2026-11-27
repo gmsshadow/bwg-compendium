@@ -1,0 +1,31 @@
+{
+ "name": "Elven Steed",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 8,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Swift in travel and steadfast in war. Pe B3(4), Wi B2, Ag B3, Sp B8, Po B5, Fo B6. Hea B5, Ste B5, Ref B3, MW B12 (Tough). Hesitation 7 (Determined), Stride 13. Skills: Mounted Combat Training, Rider Training, Intimidation B3, Foraging B4. Traits: Good Bone, Fleet of Hoof, Obedient, Loyal, Tough, Brute and Determined, plus Long-Limbed, Keen Hearing, Hooved, Ungulate.\n\nSource: Burning Wheel Gold Revised, p. 158"
+ },
+ "_id": "ad86557067b4c7ab",
+ "_key": "!items!ad86557067b4c7ab",
+ "folder": "b5a4e8f60fe6d52f",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

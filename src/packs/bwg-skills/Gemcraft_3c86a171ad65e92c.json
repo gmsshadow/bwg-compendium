@@ -1,0 +1,49 @@
+{
+ "name": "Gemcraft",
+ "type": "skill",
+ "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "agility",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "craftsman",
+  "training": false,
+  "magical": true,
+  "description": "Many Elves delight in the simple and straight-forward art of cutting and polishing gems. Their experience, dedication and patience in the art shows in the quality of their work. Any gem stone cut by an Elf adds +1D of Resources value compared to what it would normally be. In addition, this skill shares the same flexibility with Antiphon Union as Smithcraft.\n\nObstacles: Jade, Ob 1. Emerald, Ob 2. Ruby and sapphire, Ob 3. Opal and pearls, Ob 4. Diamond, Ob 5.\n\nFoRKs: Jewelcraft, Smithcraft\n\nSkill Type: Craftsman. Tools: Workshop.\n\nRestrictions: Elves only\n\nRoot: Will/Agility (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 275",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": true,
+  "restrictions": "Elves only"
+ },
+ "_id": "3c86a171ad65e92c",
+ "_key": "!items!3c86a171ad65e92c",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

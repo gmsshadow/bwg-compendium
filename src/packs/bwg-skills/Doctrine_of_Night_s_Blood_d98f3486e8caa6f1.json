@@ -1,0 +1,49 @@
+{
+ "name": "Doctrine of Night’s Blood",
+ "type": "skill",
+ "img": "icons/sundries/books/book-worn-blue.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "perception",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "schoolofthought",
+  "training": false,
+  "magical": false,
+  "description": "The Doctrine of Night’s Blood contains the terrible laws of the Servant’s Cult—whom they serve and why.\n\nObstacles: Destruction, Ob 1. Madness, Ob 2. The Powers of the Master, Ob 3. The Void, Ob 4. Self-Abnegation, Ob 5.\n\nFoRKs: Servant-wise\n\nSkill Type: School of Thought. Tools: No.\n\nRestrictions: Orcs only in character burning\n\nRoot: Will/Per\n\nSource: Burning Wheel Gold Revised, p. 268",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Orcs only in character burning"
+ },
+ "_id": "d98f3486e8caa6f1",
+ "_key": "!items!d98f3486e8caa6f1",
+ "folder": "56d9f04d80593b17",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

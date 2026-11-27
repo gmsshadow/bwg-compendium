@@ -1,0 +1,49 @@
+{
+ "name": "Rhyme of the Gatherer",
+ "type": "skill",
+ "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "peasant",
+  "training": false,
+  "magical": true,
+  "description": "Elven foragers are wise and know the name and shape of many plants, flowers, herbs and roots. This skill song acts as Foraging.\n\nFoRKs: Round of Harvest, Rhyme of Rules\n\nSkill Type: Peasant. Tools: No.\n\nRestrictions: Elves only\n\nRoot: Perception (§ magical skill: tests are open-ended)\n\nSource: Burning Wheel Gold Revised, p. 291",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "cccde08dbb2a3d77",
+ "_key": "!items!cccde08dbb2a3d77",
+ "folder": "182af4942dfe8b74",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

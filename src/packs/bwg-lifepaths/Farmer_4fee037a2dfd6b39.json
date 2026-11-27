@@ -1,0 +1,41 @@
+{
+ "name": "Farmer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 8,
+  "resources": 10,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 3,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Farming, Mending, Seed-wise",
+  "traitList": "Hoarder",
+  "note": "Source: Burning Wheel Codex, p. 437",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1005
+ },
+ "sort": 100500,
+ "_id": "4fee037a2dfd6b39",
+ "_key": "!items!4fee037a2dfd6b39",
+ "folder": "bf3758f4ad382083",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

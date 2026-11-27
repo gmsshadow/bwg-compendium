@@ -1,0 +1,41 @@
+{
+ "name": "Loremaster",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 200,
+  "resources": 25,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Wilderlands, Etharch",
+  "skillPoints": 10,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Ancient History, Obscure History, Research, Ballad of History, Lyric of Law, Canticle of Years, Rhyme of Tongues",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 135",
+  "requirements": "Bard, Adjutant, Steward or Patriarch/Matriarch",
+  "restrictions": "",
+  "order": 17
+ },
+ "sort": 1700,
+ "_id": "2aac7bee3524a0d0",
+ "_key": "!items!2aac7bee3524a0d0",
+ "folder": "53bf8e71f48c4a4c",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

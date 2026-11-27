@@ -1,0 +1,49 @@
+{
+ "name": "Observation",
+ "type": "skill",
+ "img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "perception",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "forester",
+  "training": false,
+  "magical": false,
+  "description": "Observation is the skill used to spot the hidden—characters, traps, ghosts, etc. Test this skill in versus tests against Inconspicuous, Stealthy, Sleight of Hand or Trapper. Note: Do not use Observation for standard Perception tests—to spot a weakness in armor, to notice details of a flag or to look for an escape tunnel. Some spells and traits allow Perception to act as Observation.\n\nObstacles: Observation is almost always a versus test.\n\nSkill Type: Forester. Tools: No.\n\nRoot: Perception\n\nSource: Burning Wheel Gold Revised, p. 286",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": false,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": ""
+ },
+ "_id": "133abb2cdae5efdb",
+ "_key": "!items!133abb2cdae5efdb",
+ "folder": "1b5eb4a289f022d3",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

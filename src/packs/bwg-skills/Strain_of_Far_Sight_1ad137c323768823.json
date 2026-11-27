@@ -1,0 +1,49 @@
+{
+ "name": "Strain of Far Sight",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "This ancient and powerful song amplifies the Lord Protector’s vision. Once sung, the effects last for the duration of the scene or conflict.\n\nObstacle: See Description. Seeing impossibly long distances, Ob 1. +1D to field maneuvers, Ob 2. +1D to Bow skill, Ob 3. +1D to Perception, Ob 4. +2D to Perception, Ob 5. Free forfeit in the script for Fight, Ob 6. Free forfeit in the Duel of Wits, Ob 7. Free forfeit for Range and Cover, Ob 8. Seeing into the past, Ob 9. Seeing into the future, Ob 10.\n\nActions: 1 x obstacle\n\nElven spell song: counts as a sorcerous skill for practice and learning; tests are always open-ended (natural magic); no tools, no FoRKs; causes wonderment. Root is Will unless otherwise noted.\n\nRestrictions: Elves only\n\nSource: Burning Wheel Gold Revised, p. 151",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Elves only"
+ },
+ "_id": "1ad137c323768823",
+ "_key": "!items!1ad137c323768823",
+ "folder": "3b44fb2839bf596b",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Fire Fan",
+ "type": "spell",
+ "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+ "system": {
+  "pointCost": 12,
+  "variableObstacle": false,
+  "variableObstacleDescription": "",
+  "obstacle": 3,
+  "upSpell": true,
+  "actions": 1,
+  "description": "Flickering flames flare out from the caster’s fingertips and scorch his enemies. Damaging effect: Power = ½ Will +3, VA 2. Die of Fate to determine IMS. Weapon Length: as Spear; Range: as Pistol.\n\nObstacle: 3^. Actions: 1.\n\nOrigin: Personal | Area of Effect: Presence | Element: Fire | Impetus: Destroy | Duration: Instantaneous | Resource Points: 12\n\n^ When pricing this spell in resource points, it costs 4 rps per point of obstacle rather than 2.\n\nSource: Burning Wheel Gold Revised, p. 212",
+  "origin": "Personal",
+  "areaOfEffect": "Presence",
+  "element": "Fire",
+  "impetus": "Destroy",
+  "duration": "Instantaneous",
+  "rpCost": 12,
+  "isWeapon": true,
+  "halfWill": true,
+  "willDamageBonus": 3,
+  "va": 2,
+  "weaponLength": "longest",
+  "optimalRange": 2,
+  "extremeRange": 1,
+  "maxRange": "10 paces",
+  "collapsed": false,
+  "skillId": "",
+  "inPracticals": false,
+  "learningProgress": 0
+ },
+ "_id": "45c1bf18cddc60dd",
+ "_key": "!items!45c1bf18cddc60dd",
+ "folder": "37d8506a8fb58f50",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

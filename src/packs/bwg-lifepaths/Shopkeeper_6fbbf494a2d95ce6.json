@@ -1,0 +1,41 @@
+{
+ "name": "Shopkeeper",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 6,
+  "resources": 16,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "Villager, Peasant",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 0,
+  "skillList": "Merchant-wise, Haggling, Accounting, Observation",
+  "traitList": "",
+  "note": "Source: Burning Wheel Gold Revised, p. 172",
+  "requirements": "",
+  "restrictions": "",
+  "order": 30
+ },
+ "sort": 3000,
+ "_id": "6fbbf494a2d95ce6",
+ "_key": "!items!6fbbf494a2d95ce6",
+ "folder": "baa83b4420561faa",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

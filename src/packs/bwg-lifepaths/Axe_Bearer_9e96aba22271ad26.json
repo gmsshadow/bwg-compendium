@@ -1,0 +1,41 @@
+{
+ "name": "Axe Bearer",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 20,
+  "resources": 25,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Host, Outcast",
+  "skillPoints": 8,
+  "generalPoints": 0,
+  "traitPoints": 1,
+  "skillList": "Axe, Armor Training, Shield Training, Formation Fighting, Throwing",
+  "traitList": "Proud",
+  "note": "Source: Burning Wheel Gold Revised, p. 113",
+  "requirements": "Noble Ardent or Banner Bearer",
+  "restrictions": "",
+  "order": 3
+ },
+ "sort": 300,
+ "_id": "9e96aba22271ad26",
+ "_key": "!items!9e96aba22271ad26",
+ "folder": "6e837e6031f2b2dd",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

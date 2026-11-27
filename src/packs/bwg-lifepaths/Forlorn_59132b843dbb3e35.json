@@ -1,0 +1,41 @@
+{
+ "name": "Forlorn",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 13,
+  "resources": 1,
+  "statBoost": "mental",
+  "subtractStats": false,
+  "leads": "—",
+  "skillPoints": 0,
+  "generalPoints": 1,
+  "traitPoints": 2,
+  "skillList": "",
+  "traitList": "Solitary, Addled, Slow",
+  "note": "Source: Burning Wheel Codex, p. 462",
+  "requirements": "",
+  "restrictions": "",
+  "order": 1004
+ },
+ "sort": 100400,
+ "_id": "59132b843dbb3e35",
+ "_key": "!items!59132b843dbb3e35",
+ "folder": "68c4fa6583a6cf44",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

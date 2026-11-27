@@ -1,0 +1,49 @@
+{
+ "_id": "d021f214cbaaf2ee",
+ "_key": "!items!d021f214cbaaf2ee",
+ "name": "Sorrow of Truth",
+ "type": "skill",
+ "img": "icons/magic/fire/flame-burning-hand-white.webp",
+ "system": {
+  "name": "",
+  "shade": "B",
+  "exp": 1,
+  "routine": 0,
+  "difficult": 0,
+  "challenging": 0,
+  "root1": "will",
+  "root2": "",
+  "learning": false,
+  "learningProgress": 0,
+  "skilltype": "sorcerous",
+  "training": false,
+  "magical": true,
+  "description": "This mournful song speaks of leaving sorrow behind, putting it to sleep and waking a new fire within—a flame of spite. Elves who are confronted with this song (if it is successfully sung), may choose to change their Grief to Spite. Their eyes are open to this new truth.\n\nObstacle: 10 minus Target’s Grief\n\nActions: 3000 (about 30 minutes)\n\nDark Elf spell song: follows the rules for Elven spell songs (sorcerous for practice and learning, always open-ended, no tools or FoRKs).\n\nSong root: Spite. The system cannot use Spite as a root; Will is set instead.\n\nRestrictions: Dark Elves only\n\nSource: Burning Wheel Codex, p. 424",
+  "collapsed": false,
+  "persona": 0,
+  "fate": 0,
+  "deeds": 0,
+  "open": true,
+  "wildFork": false,
+  "tools": false,
+  "restrictions": "Dark Elves only"
+ },
+ "effects": [],
+ "folder": "237aaf0e26bbe354",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Estimation",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 2,
+  "name": "",
+  "traittype": "die",
+  "text": "Dwarven Engineers often share with each other their vast knowledge. “How far do y’ think that is?” “Hunnert paces?” “Nah, hunnert seven and an eighth, easy.” A Dwarf with this ability may add a +1D any skill that requires an estimation of distance, depth or height: building a bridge, carving out a hall or even leaping a chasm. Be warned though, estimating incorrectly can be calamitous. If the test is failed, the results are mismeasured to a castrophic or comical degree.\n\nType: Dt (die trait). Cost: 2 pts.\n\nRestrictions: Dwarves only\n\nSource: Burning Wheel Gold Revised, p. 324",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Dwarves only"
+ },
+ "_id": "2f4423ef91b00a50",
+ "_key": "!items!2f4423ef91b00a50",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

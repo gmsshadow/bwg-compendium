@@ -1,0 +1,50 @@
+{
+ "name": "Cold Black Blood",
+ "type": "trait",
+ "img": "icons/sundries/gaming/dice-runed-brown.webp",
+ "system": {
+  "pointCost": 1,
+  "name": "",
+  "traittype": "die",
+  "text": "The cold substance of night runs through their veins, rendering these tormented souls immortal. But it also makes them susceptible to the sun’s burning rays. Orcs suffer +2 Ob to all tests while abroad in the sunlight. If it is cloudy, dawn or twilight, the penalty is only +1 Ob. But the night deadens their nerves as well: Cold Black Blood reduces hesitation obstacles by two for pain, but not fear or wonderment.\n\nType: Dt (die trait). Unpriced: costs 1 pt as a lifepath trait.\n\nRestrictions: Orc common trait\n\nSource: Burning Wheel Gold Revised, p. 319",
+  "collapsed": true,
+  "hasAptitudeModifier": false,
+  "aptitudeModifier": 0,
+  "aptitudeTarget": "",
+  "hasDieModifier": false,
+  "dieModifier": 0,
+  "dieModifierTarget": "",
+  "hasObModifier": false,
+  "obModifierTarget": "",
+  "obModifier": 0,
+  "addsReputation": false,
+  "reputationName": "",
+  "reputationDice": 0,
+  "reputationInfamous": false,
+  "addsAffiliation": false,
+  "affiliationName": "",
+  "affiliationDice": 0,
+  "callonTarget": "",
+  "restrictions": "Orc common trait"
+ },
+ "_id": "8e39c45e44cc0d60",
+ "_key": "!items!8e39c45e44cc0d60",
+ "folder": "5b3180f4c6d6922a",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

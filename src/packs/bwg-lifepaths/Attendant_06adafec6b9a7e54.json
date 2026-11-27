@@ -1,0 +1,41 @@
+{
+ "name": "Attendant",
+ "type": "lifepath",
+ "img": "icons/environment/people/group.webp",
+ "system": {
+  "time": 25,
+  "resources": 15,
+  "statBoost": "physical",
+  "subtractStats": false,
+  "leads": "Wilderlands, Citadel, Protector",
+  "skillPoints": 4,
+  "generalPoints": 0,
+  "traitPoints": 2,
+  "skillList": "Etiquette, Riding, Brawling, Sword",
+  "traitList": "Calm Demeanor",
+  "note": "Source: Burning Wheel Gold Revised, p. 135",
+  "requirements": "",
+  "restrictions": "",
+  "order": 2
+ },
+ "sort": 200,
+ "_id": "06adafec6b9a7e54",
+ "_key": "!items!06adafec6b9a7e54",
+ "folder": "09496e42bcfa03db",
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}

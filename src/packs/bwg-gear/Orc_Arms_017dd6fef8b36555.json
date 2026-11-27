@@ -1,0 +1,31 @@
+{
+ "name": "Orc Arms",
+ "type": "possession",
+ "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
+ "system": {
+  "pointCost": 5,
+  "isToolkit": false,
+  "isExpended": false,
+  "description": "Run of the mill arms cost 5 rps; poor quality arms cost 3 rps. Beaks, spikes and weights cost +1 rp per modification, per weapon. Use the weapon items.\n\nSource: Burning Wheel Gold Revised, p. 242"
+ },
+ "_id": "017dd6fef8b36555",
+ "_key": "!items!017dd6fef8b36555",
+ "folder": "a2609e3cbb7ca442",
+ "sort": 0,
+ "ownership": {
+  "default": 0
+ },
+ "flags": {},
+ "_stats": {
+  "coreVersion": "14.365",
+  "systemId": "burningwheel",
+  "systemVersion": "1.7.1",
+  "createdTime": 1764000000000,
+  "modifiedTime": 1764000000000,
+  "lastModifiedBy": null,
+  "compendiumSource": null,
+  "duplicateSource": null,
+  "exportSource": null
+ },
+ "effects": []
+}
